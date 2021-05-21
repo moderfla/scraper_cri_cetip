@@ -1,4 +1,4 @@
-name: scraper-cri-cetip
+name: scraper-cetip
 
 on:
   schedule:
