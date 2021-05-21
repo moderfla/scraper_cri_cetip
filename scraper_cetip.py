@@ -13,7 +13,7 @@ validation = soup.find('input', {'id': '__EVENTVALIDATION'})['value']
 r2 = s.post(url, data={ 
             '__VIEWSTATE'      : viewstate,
             '__EVENTVALIDATION': validation,
-            'txtDtEmissao':"01/01/0001", 
+            'txtDtEmissao':"01/01/2021", 
             'btExportarCSV': "Exportar para CSV"
         })
 
