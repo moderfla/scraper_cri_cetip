@@ -2,7 +2,7 @@ name: scraper-cri-cetip
 
 on:
   schedule:
-    - cron: '0 * * * *' # runs every hour
+    - cron: '*/5 * * * *' # runs every hour
 
 jobs:
   build:
