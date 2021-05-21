@@ -1,8 +1,12 @@
-name: scraper-cetip
+name: Scraper
 
 on:
+  push:
+    paths:
+      - .github/workflows/scraper_cetip.yml # Only run a new workflow every time this file (flat.yaml) file changes
+  workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: '*/5 * * * *' # runs every hour
+    - cron: '*/5 * * * *' # Run this workflow every 5 minutes
 
 jobs:
   build:
