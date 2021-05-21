@@ -3,8 +3,5 @@
 # platform: linux-64
 pandas
 requests
-matplotlib
-seaborn
-pandas
 bs4
 csv-diff
