@@ -19,4 +19,4 @@ r2 = s.post(url, data={
 
 CRI = pd.read_csv(io.BytesIO(r2.content), delimiter=";", encoding='ISO-8859-1', parse_dates=[7, 8, 9], infer_datetime_format= 'True', dayfirst='True', thousands=".", decimal=',')
 
-CRI.to_csv('emissoes_cri.csv')
+CRI.to_csv('emissoes_cri.csv', index='False')
