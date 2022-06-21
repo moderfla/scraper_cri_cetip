@@ -1,104 +1,40 @@
-6 rows changed, 5 rows added, 1 row removed
+3 rows changed, 2 rows removed
 
-6 rows changed
+3 rows changed
 
-  Código: 20E0929816
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 18K1383001
+    Data de Vencimento: "20/11/2028" => "20/11/2030"
 
-  Código: 15E0186329
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 18K1383002
+    Data de Vencimento: "20/11/2028" => "20/11/2030"
 
-  Código: 15I0673051
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 18K1383003
+    Data de Vencimento: "20/11/2028" => "20/11/2030"
 
-  Código: 17C0996899
-    Remuneração: "" => "IGP-M+15,00000%"
-    Data de Vencimento: "10/05/2022" => "10/12/2025"
+2 rows removed
 
-  Código: 19G0802622
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 21H0950730
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-5 rows added
-
-  Código: 22E1284935
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 24
-  N° da série: 1
-  Qtd Emitida: 240329
-  Volume Emissão: 240329442.61
-  Remuneração: IPCA+6,75000%
-  Data de Emissão: 2022-06-09
-  Data de Vencimento: 11/04/2034
-  Data Final de Distribuição: 2022-12-06
-  ISIN: 
-
-  Código: 22F0658594
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 25
-  N° da série: 1
+  Código: 20H0747466
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 309
   Qtd Emitida: 50000
   Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+2,70000%
-  Data de Emissão: 2022-06-10
-  Data de Vencimento: 30/06/2025
-  Data Final de Distribuição: 2022-12-03
-  ISIN: BRIMWLCRICJ0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2020-08-27
+  Data de Vencimento: 29/08/2023
+  Data Final de Distribuição: 2021-02-23
+  ISIN: BRAPCSCRI853
 
-  Código: 22F0658610
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 25
-  N° da série: 2
-  Qtd Emitida: 105000
-  Volume Emissão: 105000000.0
-  Remuneração: 100,00%  DI+2,70000%
-  Data de Emissão: 2022-06-10
-  Data de Vencimento: 30/06/2037
-  Data Final de Distribuição: 2022-12-03
-  ISIN: BRIMWLCRICK8
-
-  Código: 22F0667465
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 25
-  N° da série: 3
-  Qtd Emitida: 185000
-  Volume Emissão: 185000000.0
-  Remuneração: IPCA+7,60000%
-  Data de Emissão: 2022-06-10
-  Data de Vencimento: 30/06/2037
-  Data Final de Distribuição: 2022-12-03
-  ISIN: BRIMWLCRICL6
-
-  Código: 22F0685593
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 16
-  N° da série: 1
-  Qtd Emitida: 52875
-  Volume Emissão: 52875000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2022-06-13
-  Data de Vencimento: 28/05/2032
-  Data Final de Distribuição: 2022-12-09
-  ISIN: BRIMWLCRICM4
-
-1 row removed
-
-  Código: 18E0907339
-  Emissor: BRAZIL REALTY CIA SECURITIZADORA DE CREDITOS IMOBILIARIOS
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 8
-  N° da série: 1
-  Qtd Emitida: 405000
-  Volume Emissão: 405000000.0
-  Remuneração: 102,00% DI
-  Data de Emissão: 2018-05-09
-  Data de Vencimento: 09/06/2022
-  Data Final de Distribuição: 2018-12-19
-  ISIN: BRBZRSCRI098
+  Código: 20L0520844
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 343
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: 100,00%  DI+4,20000%
+  Data de Emissão: 2020-12-10
+  Data de Vencimento: 11/12/2024
+  Data Final de Distribuição: 2021-06-08
+  ISIN: BRAPCSCRI8L3
