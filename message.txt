@@ -1,129 +1,40 @@
-7 rows changed, 5 rows added, 2 rows removed
+3 rows added
 
-7 rows changed
-
-  Código: 22D1289009
-    Qtd Emitida: "134000" => "121300"
-    Volume Emissão: "134000000.0" => "121300000.0"
-    Remuneração: "100,00%  DI+0,90000%" => "100,00%  DI+0,40000%"
-    Data Final de Distribuição: "2022-09-14" => "2022-12-23"
-
-  Código: 22D1289010
-    Qtd Emitida: "133000" => "259200"
-    Volume Emissão: "133000000.0" => "259200000.0"
-    Remuneração: "IPCA+5,65000%" => "IPCA+5,90680%"
-    Data Final de Distribuição: "2022-09-14" => "2022-12-23"
-
-  Código: 22D1289011
-    Qtd Emitida: "133000" => "99500"
-    Volume Emissão: "133000000.0" => "99500000.0"
-    Remuneração: "IPCA+5,90000%" => "IPCA+6,12800%"
-    Data Final de Distribuição: "2022-09-14" => "2022-12-23"
-
-  Código: 21K0912321
-    Data de Vencimento: "23/12/2024" => "05/12/2024"
-
-  Código: 21F0097802
-    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "PAVARINI DTVM LTDA"
-    Data Final de Distribuição: "2021-12-03" => "2022-12-21"
-
-  Código: 21F0137485
-    Data Final de Distribuição: "2022-06-21" => "2022-12-21"
-
-  Código: 21F0186712
-    Data Final de Distribuição: "2022-06-21" => "2022-12-21"
-
-5 rows added
-
-  Código: 22F0790261
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 2.0
-  N° da série: 1.0
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-06-17
-  Data de Vencimento: 20/06/2037
-  Data Final de Distribuição: 2022-12-17
-  ISIN: 
-
-  Código: 22F0790692
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 2.0
-  N° da série: 2.0
-  Qtd Emitida: 2000
-  Volume Emissão: 2000000.0
-  Remuneração: IPCA+15,88000%
-  Data de Emissão: 2022-06-17
-  Data de Vencimento: 20/06/2037
-  Data Final de Distribuição: 2022-12-17
-  ISIN: 
-
-  Código: 22F0636859
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 27.0
-  N° da série: 1.0
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2022-06-17
-  Data de Vencimento: 24/05/2028
-  Data Final de Distribuição: 2022-12-10
-  ISIN: 
-
-  Código: 22F0636861
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 27.0
-  N° da série: 2.0
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-06-17
-  Data de Vencimento: 24/05/2028
-  Data Final de Distribuição: 2022-12-10
-  ISIN: 
-
-  Código: 22F0636862
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 27.0
-  N° da série: 3.0
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-06-17
-  Data de Vencimento: 24/05/2028
-  Data Final de Distribuição: 2022-12-10
-  ISIN: 
-
-2 rows removed
-
-  Código: 19I0737907
-  Emissor: INFRASEC SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1.0
-  N° da série: 3.0
-  Qtd Emitida: 20463
-  Volume Emissão: 20463000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2019-09-30
-  Data de Vencimento: 05/03/2024
-  Data Final de Distribuição: 2020-03-27
-  ISIN: 
-
-  Código: 21K0908237
-  Emissor: PLANETA SECURITIZADORA S/A
+  Código: 21D0864263
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4.0
-  N° da série: 209.0
-  Qtd Emitida: 49753
-  Volume Emissão: 49753000.0
-  Remuneração: INCC-M+0,00010%
-  Data de Emissão: 2021-11-11
-  Data de Vencimento: 15/11/2024
-  Data Final de Distribuição: 2022-05-11
-  ISIN: BRGAIACRI6B3
+  N° da Emissão: 1.0
+  N° da série: 254.0
+  Qtd Emitida: 7400
+  Volume Emissão: 7400000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2021-04-22
+  Data de Vencimento: 22/01/2030
+  Data Final de Distribuição: 2022-11-05
+  ISIN: BRHBSCCRI6E1
+
+  Código: 22E1285202
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 20.0
+  N° da série: 1.0
+  Qtd Emitida: 26000
+  Volume Emissão: 26000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2022-06-10
+  Data de Vencimento: 10/06/2032
+  Data Final de Distribuição: 2022-12-13
+  ISIN: BRAPCSCRICX8
+
+  Código: 22F0930128
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 67.0
+  N° da série: 1.0
+  Qtd Emitida: 190000
+  Volume Emissão: 190000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-06-17
+  Data de Vencimento: 21/06/2028
+  Data Final de Distribuição: 2022-12-17
+  ISIN: BRVERTCRI3B5
