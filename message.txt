@@ -1,157 +1,115 @@
-12 rows added
+2 rows changed, 8 rows added
 
-  Código: 22F1135958
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 3
+2 rows changed
+
+  Código: 21J0764930
+    Data Final de Distribuição: "2022-04-22" => "2022-10-22"
+
+  Código: 21J0764931
+    Data Final de Distribuição: "2022-04-22" => "2022-10-22"
+
+8 rows added
+
+  Código: 22F1013710
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 10
   N° da série: 1
-  Qtd Emitida: 16800
-  Volume Emissão: 16800000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2022-06-23
-  Data de Vencimento: 25/06/2032
-  Data Final de Distribuição: 2022-12-23
-  ISIN: 
-
-  Código: 22F1162246
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 3
-  N° da série: 2
-  Qtd Emitida: 4200
-  Volume Emissão: 4200000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2022-06-23
-  Data de Vencimento: 25/06/2032
-  Data Final de Distribuição: 2022-12-23
-  ISIN: 
-
-  Código: 22F1035289
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 29
-  N° da série: 1
-  Qtd Emitida: 276000
-  Volume Emissão: 276000000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2022-06-22
-  Data de Vencimento: 17/06/2027
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195714
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 1
-  Qtd Emitida: 125000
-  Volume Emissão: 125000000.0
-  Remuneração: 100,00%  DI+2,92000%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 27/10/2031
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195716
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 2
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: 100,00%  DI+2,92000%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 27/06/2034
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195721
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 3
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 27/09/2029
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195735
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 4
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+7,72000%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 27/10/2032
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195743
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 5
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: IPCA+7,72000%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 27/06/2034
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 22F1195760
-  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 6
-  Qtd Emitida: 132000
-  Volume Emissão: 132000000.0
-  Remuneração: IPCA+7,07890%
-  Data de Emissão: 2022-06-24
-  Data de Vencimento: 28/07/2031
-  Data Final de Distribuição: 2022-12-20
-  ISIN: 
-
-  Código: 21C0830878
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 195
-  Qtd Emitida: 6500
-  Volume Emissão: 6500000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2021-03-03
-  Data de Vencimento: 20/01/2032
-  Data Final de Distribuição: 2022-12-28
-  ISIN: BRIMWLCRI5M5
-
-  Código: 21C0830879
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 196
-  Qtd Emitida: 1500
-  Volume Emissão: 1500000.0
-  Remuneração: IPCA+13,90000%
-  Data de Emissão: 2021-03-03
-  Data de Vencimento: 20/01/2032
-  Data Final de Distribuição: 2022-12-28
-  ISIN: BRIMWLCRI5N3
-
-  Código: 22F1020478
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 11
-  N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+9,70000%
+  Qtd Emitida: 80000
+  Volume Emissão: 80000000.0
+  Remuneração: IPCA+8,50000%
   Data de Emissão: 2022-06-27
-  Data de Vencimento: 15/06/2032
-  Data Final de Distribuição: 2022-12-21
-  ISIN: BRIMWLCRICO0
+  Data de Vencimento: 08/07/2027
+  Data Final de Distribuição: 2022-12-27
+  ISIN: 
+
+  Código: 22F1187231
+  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 46
+  Qtd Emitida: 100000000
+  Volume Emissão: 100000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2022-06-27
+  Data de Vencimento: 25/11/2033
+  Data Final de Distribuição: 2022-12-27
+  ISIN: 
+
+  Código: 22F1025672
+  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 9
+  N° da série: 1
+  Qtd Emitida: 35000000
+  Volume Emissão: 35000000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2022-06-24
+  Data de Vencimento: 27/07/2034
+  Data Final de Distribuição: 2022-12-23
+  ISIN: 
+
+  Código: 22F1025673
+  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 9
+  N° da série: 2
+  Qtd Emitida: 10000000
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+4,60950%
+  Data de Emissão: 2022-06-24
+  Data de Vencimento: 27/07/2034
+  Data Final de Distribuição: 2022-12-23
+  ISIN: 
+
+  Código: 22F1025725
+  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 10
+  N° da série: 1
+  Qtd Emitida: 35000000
+  Volume Emissão: 35000000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2022-06-24
+  Data de Vencimento: 27/07/2033
+  Data Final de Distribuição: 2022-12-23
+  ISIN: 
+
+  Código: 22F1025727
+  Emissor: RB SEC COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 10
+  N° da série: 2
+  Qtd Emitida: 10000000
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+4,16900%
+  Data de Emissão: 2022-06-24
+  Data de Vencimento: 27/07/2033
+  Data Final de Distribuição: 2022-12-23
+  ISIN: 
+
+  Código: 22E1313668
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 34
+  N° da série: 1
+  Qtd Emitida: 27333
+  Volume Emissão: 27333000.0
+  Remuneração: 100,00%  DI+1,05000%
+  Data de Emissão: 2022-06-15
+  Data de Vencimento: 15/06/2027
+  Data Final de Distribuição: 2022-12-14
+  ISIN: BRAPCSCRID58
+
+  Código: 22E1313669
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 34
+  N° da série: 2
+  Qtd Emitida: 122667
+  Volume Emissão: 122667000.0
+  Remuneração: IPCA+6,99590%
+  Data de Emissão: 2022-06-15
+  Data de Vencimento: 15/06/2029
+  Data Final de Distribuição: 2022-12-14
+  ISIN: BRAPCSCRID66
