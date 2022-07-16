@@ -1,133 +1,14 @@
-3 rows changed, 7 rows added, 2 rows removed
+1 row added
 
-3 rows changed
-
-  Código: 21B0591503
-    Data Final de Distribuição: "2021-08-08" => "2022-08-09"
-
-  Código: 18H0104549
-    Data de Vencimento: "20/08/2025" => "24/04/2028"
-
-  Código: 15I0187816
-    Remuneração: "IPCA+11,35000%" => "15,00000%"
-
-7 rows added
-
-  Código: 22G0283463
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 22C1362141
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 37
-  N° da série: 1
-  Qtd Emitida: 7580
-  Volume Emissão: 7580000.0
-  Remuneração: IPCA+10,25000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 20/10/2031
-  Data Final de Distribuição: 2023-01-08
-  ISIN: 
-
-  Código: 22G0283464
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 37
-  N° da série: 2
-  Qtd Emitida: 3650
-  Volume Emissão: 3650000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 20/03/2032
-  Data Final de Distribuição: 2023-01-08
-  ISIN: 
-
-  Código: 22F1359784
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 3
   N° da série: 1
-  Qtd Emitida: 20100
-  Volume Emissão: 20100000.0
-  Remuneração: IPCA+14,00000%
-  Data de Emissão: 2022-06-30
-  Data de Vencimento: 22/07/2025
-  Data Final de Distribuição: 2023-01-07
-  ISIN: 
-
-  Código: 22G0641775
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 1
-  Qtd Emitida: 67450000
-  Volume Emissão: 67450000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 30/06/2034
-  Data Final de Distribuição: 2023-01-11
-  ISIN: 
-
-  Código: 22G0652968
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 2
-  Qtd Emitida: 26000000
-  Volume Emissão: 26000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 30/06/2034
-  Data Final de Distribuição: 2023-01-11
-  ISIN: 
-
-  Código: 22G0652970
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 3
-  Qtd Emitida: 22671963
-  Volume Emissão: 22671963.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 30/06/2034
-  Data Final de Distribuição: 2023-01-11
-  ISIN: 
-
-  Código: 22G0652976
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 4
-  Qtd Emitida: 29030490
-  Volume Emissão: 29030490.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-07-08
-  Data de Vencimento: 30/06/2042
-  Data Final de Distribuição: 2023-01-11
-  ISIN: 
-
-2 rows removed
-
-  Código: 20G0587600
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 22
-  N° da série: 1
-  Qtd Emitida: 33000
-  Volume Emissão: 33000000.0
-  Remuneração: 100,00%  DI+3,06200%
-  Data de Emissão: 2020-07-09
-  Data de Vencimento: 19/04/2032
-  Data Final de Distribuição: 2021-01-07
-  ISIN: 
-
-  Código: 20I0717692
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 25
-  N° da série: 1
-  Qtd Emitida: 22000
-  Volume Emissão: 22000000.0
-  Remuneração: 100,00%  DI+4,39500%
-  Data de Emissão: 2020-09-18
-  Data de Vencimento: 15/06/2026
-  Data Final de Distribuição: 2021-03-19
-  ISIN:
+  Qtd Emitida: 800000
+  Volume Emissão: 800000000.0
+  Remuneração: IPCA+6,34230%
+  Data de Emissão: 2022-07-15
+  Data de Vencimento: 17/07/2034
+  Data Final de Distribuição: 2022-12-15
+  ISIN: BRAPCSCRICE8
