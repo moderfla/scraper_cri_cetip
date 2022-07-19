@@ -1,14 +1,330 @@
-1 row added
+24 rows added, 1 row removed
 
-  Código: 22C1362141
+24 rows added
+
+  Código: 22G0282170
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 39
+  N° da série: 1
+  Qtd Emitida: 382200
+  Volume Emissão: 382200000.0
+  Remuneração: 100,00%  DI+1,15000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDE6
+
+  Código: 22G0282276
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 39
+  N° da série: 2
+  Qtd Emitida: 87500
+  Volume Emissão: 87500000.0
+  Remuneração: 100,00%  DI+1,70000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDF3
+
+  Código: 22G0282284
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 39
+  N° da série: 3
+  Qtd Emitida: 228200
+  Volume Emissão: 228200000.0
+  Remuneração: 100,00%  DI+2,15000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDG1
+
+  Código: 22G0282285
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 39
+  N° da série: 4
+  Qtd Emitida: 66325
+  Volume Emissão: 66325000.0
+  Remuneração: IPCA+8,85170%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDH9
+
+  Código: 22G0282290
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 1
+  Qtd Emitida: 436800
+  Volume Emissão: 436800000.0
+  Remuneração: 100,00%  DI+1,15000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDA4
+
+  Código: 22G0282296
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 2
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+1,70000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDB2
+
+  Código: 22G0282297
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 3
+  Qtd Emitida: 260800
+  Volume Emissão: 260800000.0
+  Remuneração: 100,00%  DI+2,15000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDC0
+
+  Código: 22G0282305
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 4
+  Qtd Emitida: 75800
+  Volume Emissão: 75800000.0
+  Remuneração: IPCA+8,85170%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 19/07/2027
+  Data Final de Distribuição: 2023-01-12
+  ISIN: BRRBRACRIDD8
+
+  Código: 22G0079318
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 3
-  N° da série: 1
-  Qtd Emitida: 800000
-  Volume Emissão: 800000000.0
-  Remuneração: IPCA+6,34230%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 17/07/2034
-  Data Final de Distribuição: 2022-12-15
-  ISIN: BRAPCSCRICE8
+  N° da Emissão: 53
+  N° da série: 2
+  Qtd Emitida: 17433902
+  Volume Emissão: 17433902.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0079354
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 3
+  Qtd Emitida: 17433902
+  Volume Emissão: 17433902.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0079365
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 4
+  Qtd Emitida: 17433902
+  Volume Emissão: 17433902.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0080226
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 5
+  Qtd Emitida: 34867805
+  Volume Emissão: 34867805.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0081374
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 7
+  Qtd Emitida: 8551703
+  Volume Emissão: 8551703.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0081402
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 8
+  Qtd Emitida: 8551703
+  Volume Emissão: 8551703.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0081407
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 9
+  Qtd Emitida: 8551703
+  Volume Emissão: 8551703.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0081414
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 10
+  Qtd Emitida: 17103406
+  Volume Emissão: 17103406.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082657
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 12
+  Qtd Emitida: 8108014
+  Volume Emissão: 8108014.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082877
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 13
+  Qtd Emitida: 8108014
+  Volume Emissão: 8108014.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082910
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 14
+  Qtd Emitida: 8108014
+  Volume Emissão: 8108014.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082919
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 15
+  Qtd Emitida: 16216029
+  Volume Emissão: 16216029.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082971
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 17
+  Qtd Emitida: 7007061
+  Volume Emissão: 7007061.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082980
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 18
+  Qtd Emitida: 7007061
+  Volume Emissão: 7007061.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082982
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 19
+  Qtd Emitida: 7007061
+  Volume Emissão: 7007061.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+  Código: 22G0082985
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 53
+  N° da série: 20
+  Qtd Emitida: 14014124
+  Volume Emissão: 14014124.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-01
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2023-01-04
+  ISIN: 
+
+1 row removed
+
+  Código: 21F0901842
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 269
+  Qtd Emitida: 9500
+  Volume Emissão: 9500000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2021-06-18
+  Data de Vencimento: 24/06/2026
+  Data Final de Distribuição: 2021-12-15
+  ISIN:
