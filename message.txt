@@ -1,280 +1,49 @@
-31 rows changed, 14 rows added
+1 row changed, 2 rows added, 1 row removed
 
-31 rows changed
+1 row changed
 
-  Código: 19A1317801
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
+  Código: 15I0187816
+    Data de Vencimento: "28/01/2031" => "07/02/2031"
 
-  Código: 19B0802604
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
+2 rows added
 
-  Código: 19D1329253
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 19E0966783
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 19E0966784
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 19E0966785
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 19K1124486
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 20F0165468
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 20F0692684
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 20G0754279
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 20H0734994
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 20I0905816
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21A0742342
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21B0031227
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21C0792115
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21E0378914
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21E0379859
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21E0750441
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21F0568989
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21F0569207
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21F0569252
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21H0891311
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21H0891390
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21H1031711
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21I0912120
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 22B0555782
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 22B0555800
-    Emissor: "OURINVEST SECURITIZADORA S.A." => "ORE SECURITIZADORA S.A."
-
-  Código: 21G0704229
-    Data Final de Distribuição: "2022-01-20" => "2023-01-20"
-
-  Código: 21C0071934
-    Data Final de Distribuição: "2021-09-02" => "2022-09-02"
-
-  Código: 21J1001700
-    Data Final de Distribuição: "2022-04-29" => "2022-10-29"
-
-  Código: 21J1001701
-    Data Final de Distribuição: "2022-04-29" => "2022-10-29"
-
-14 rows added
-
-  Código: 22F0675402
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 15
+  Código: 22G0707570
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
   N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+0,90000%
-  Data de Emissão: 2022-07-13
-  Data de Vencimento: 15/07/2027
-  Data Final de Distribuição: 2022-12-24
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: IPCA+8,01060%
+  Data de Emissão: 2022-07-15
+  Data de Vencimento: 15/07/2030
+  Data Final de Distribuição: 2022-12-22
   ISIN: 
 
-  Código: 22G0279834
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 40
-  N° da série: 1
-  Qtd Emitida: 327600
-  Volume Emissão: 327600000.0
-  Remuneração: 100,00%  DI+1,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRIDI7
-
-  Código: 22G0282124
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 40
-  N° da série: 2
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: 100,00%  DI+1,70000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRIDJ5
-
-  Código: 22G0282145
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 40
-  N° da série: 3
-  Qtd Emitida: 195600
-  Volume Emissão: 195600000.0
-  Remuneração: 100,00%  DI+2,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRIDK3
-
-  Código: 22G0282158
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 40
-  N° da série: 1
-  Qtd Emitida: 327600
-  Volume Emissão: 327600000.0
-  Remuneração: IPCA+8,85170%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRIDI7
-
-  Código: 22G0282328
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 13
-  N° da série: 1
-  Qtd Emitida: 491400
-  Volume Emissão: 491400000.0
-  Remuneração: 100,00%  DI+1,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID66
-
-  Código: 22G0282329
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 13
-  N° da série: 2
-  Qtd Emitida: 112500
-  Volume Emissão: 112500000.0
-  Remuneração: 100,00%  DI+1,70000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID74
-
-  Código: 22G0282332
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 13
-  N° da série: 3
-  Qtd Emitida: 293400
-  Volume Emissão: 293400000.0
-  Remuneração: 100,00%  DI+2,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID82
-
-  Código: 22G0282333
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 13
-  N° da série: 4
-  Qtd Emitida: 85275
-  Volume Emissão: 85275000.0
-  Remuneração: IPCA+8,85170%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID90
-
-  Código: 22G0282361
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 1
-  Qtd Emitida: 546000
-  Volume Emissão: 546000000.0
-  Remuneração: 100,00%  DI+1,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID25
-
-  Código: 22G0282362
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 2
-  Qtd Emitida: 125000
-  Volume Emissão: 125000000.0
-  Remuneração: 100,00%  DI+1,70000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID33
-
-  Código: 22G0282370
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 3
-  Qtd Emitida: 326000
-  Volume Emissão: 326000000.0
-  Remuneração: 100,00%  DI+2,15000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID41
-
-  Código: 22G0282372
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 4
-  Qtd Emitida: 94750
-  Volume Emissão: 94750000.0
-  Remuneração: IPCA+8,85170%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 19/07/2027
-  Data Final de Distribuição: 2023-01-12
-  ISIN: BRRBRACRID58
-
-  Código: 22G0747620
+  Código: 22G0707613
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 7
-  N° da série: 1
-  Qtd Emitida: 59000
-  Volume Emissão: 59000000.0
-  Remuneração: IPCA+7,40000%
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
+  N° da série: 2
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: IPCA+11,46050%
   Data de Emissão: 2022-07-15
-  Data de Vencimento: 10/07/2034
-  Data Final de Distribuição: 2022-11-12
-  ISIN: BRIMWLCRICT9
+  Data de Vencimento: 17/04/2034
+  Data Final de Distribuição: 2022-12-22
+  ISIN: 
+
+1 row removed
+
+  Código: 20G0566660
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
+  N° da série: 1
+  Qtd Emitida: 101400000
+  Volume Emissão: 101400000.0
+  Remuneração: 100,00%  DI+2,72000%
+  Data de Emissão: 2020-07-20
+  Data de Vencimento: 13/07/2022
+  Data Final de Distribuição: 2020-12-31
+  ISIN: BRVERTCRI0V9
