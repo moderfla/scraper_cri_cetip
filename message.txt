@@ -1,49 +1,40 @@
-1 row changed, 2 rows added, 1 row removed
+3 rows changed, 2 rows added
 
-1 row changed
+3 rows changed
 
-  Código: 15I0187816
-    Data de Vencimento: "28/01/2031" => "07/02/2031"
+  Código: 21G0775099
+    Data Final de Distribuição: "2022-01-28" => "2023-01-28"
+
+  Código: 21H1080849
+    Data Final de Distribuição: "2022-03-01" => "2022-09-01"
+
+  Código: 22G0282158
+    N° da série: "1" => "4"
 
 2 rows added
 
-  Código: 22G0707570
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 18
+  Código: 22D1286981
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 337
+  Qtd Emitida: 4200
+  Volume Emissão: 4200000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2022-04-28
+  Data de Vencimento: 13/11/2026
+  Data Final de Distribuição: 2022-10-28
+  ISIN: BRHBSCCRI8T5
+
+  Código: 22G0663573
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 23
   N° da série: 1
   Qtd Emitida: 70000
   Volume Emissão: 70000000.0
-  Remuneração: IPCA+8,01060%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 15/07/2030
-  Data Final de Distribuição: 2022-12-22
-  ISIN: 
-
-  Código: 22G0707613
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 18
-  N° da série: 2
-  Qtd Emitida: 70000
-  Volume Emissão: 70000000.0
-  Remuneração: IPCA+11,46050%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 17/04/2034
-  Data Final de Distribuição: 2022-12-22
-  ISIN: 
-
-1 row removed
-
-  Código: 20G0566660
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 18
-  N° da série: 1
-  Qtd Emitida: 101400000
-  Volume Emissão: 101400000.0
-  Remuneração: 100,00%  DI+2,72000%
-  Data de Emissão: 2020-07-20
-  Data de Vencimento: 13/07/2022
-  Data Final de Distribuição: 2020-12-31
-  ISIN: BRVERTCRI0V9
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-07-12
+  Data de Vencimento: 28/07/2025
+  Data Final de Distribuição: 2023-01-12
+  ISIN:
