@@ -1,40 +1,110 @@
-3 rows changed, 2 rows added
+8 rows changed, 5 rows added, 1 row removed
 
-3 rows changed
+8 rows changed
 
-  Código: 21G0775099
-    Data Final de Distribuição: "2022-01-28" => "2023-01-28"
-
-  Código: 21H1080849
-    Data Final de Distribuição: "2022-03-01" => "2022-09-01"
+  Código: 21H0770067
+    Data Final de Distribuição: "2022-08-11" => "2023-02-11"
 
   Código: 22G0282158
-    N° da série: "1" => "4"
+    Qtd Emitida: "327600" => "56850"
+    Volume Emissão: "327600000.0" => "56850000.0"
 
-2 rows added
+  Código: 20I0623260
+    Data de Vencimento: "19/12/2023" => "18/10/2023"
 
-  Código: 22D1286981
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 1
-  N° da série: 337
-  Qtd Emitida: 4200
-  Volume Emissão: 4200000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-04-28
-  Data de Vencimento: 13/11/2026
-  Data Final de Distribuição: 2022-10-28
-  ISIN: BRHBSCCRI8T5
+  Código: 21A0655087
+    Data de Vencimento: "24/11/2026" => "24/11/2027"
 
-  Código: 22G0663573
+  Código: 21A0655088
+    Data de Vencimento: "24/11/2026" => "24/11/2027"
+
+  Código: 21A0655089
+    Data de Vencimento: "24/11/2026" => "24/11/2027"
+
+  Código: 21A0655094
+    Data de Vencimento: "24/09/2027" => "24/11/2027"
+
+  Código: 21A0655105
+    Data de Vencimento: "24/05/2029" => "24/11/2027"
+
+5 rows added
+
+  Código: 22G0668621
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 23
+  N° da Emissão: 30
   N° da série: 1
   Qtd Emitida: 70000
   Volume Emissão: 70000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2022-07-12
-  Data de Vencimento: 28/07/2025
+  Remuneração: IPCA+7,70000%
+  Data de Emissão: 2022-07-13
+  Data de Vencimento: 24/08/2037
   Data Final de Distribuição: 2023-01-12
-  ISIN:
+  ISIN: 
+
+  Código: 22G0668622
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 30
+  N° da série: 2
+  Qtd Emitida: 7000
+  Volume Emissão: 7000000.0
+  Remuneração: IPCA+7,70000%
+  Data de Emissão: 2022-07-13
+  Data de Vencimento: 24/08/2037
+  Data Final de Distribuição: 2023-01-12
+  ISIN: 
+
+  Código: 22G0859034
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 17
+  N° da série: 1
+  Qtd Emitida: 71846
+  Volume Emissão: 71846000.0
+  Remuneração: IPCA+8,27740%
+  Data de Emissão: 2022-07-22
+  Data de Vencimento: 16/07/2029
+  Data Final de Distribuição: 2022-12-28
+  ISIN: 
+
+  Código: 22G0184445
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 26
+  N° da série: 1
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+2,60000%
+  Data de Emissão: 2022-07-18
+  Data de Vencimento: 18/07/2029
+  Data Final de Distribuição: 2023-01-18
+  ISIN: BRIMWLCRICQ5
+
+  Código: 22G0230322
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 26
+  N° da série: 2
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+2,60000%
+  Data de Emissão: 2022-07-18
+  Data de Vencimento: 18/07/2029
+  Data Final de Distribuição: 2023-01-18
+  ISIN: BRIMWLCRICR3
+
+1 row removed
+
+  Código: 20B0973212
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 245
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2020-02-20
+  Data de Vencimento: 22/02/2024
+  Data Final de Distribuição: 2020-08-21
+  ISIN: BRAPCSCRI7B6
