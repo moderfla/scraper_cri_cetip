@@ -1,19 +1,41 @@
-6 rows changed
+2 rows changed, 1 row added, 1 row removed
 
-  Código: 21G0613884
-    Data Final de Distribuição: "2022-07-23" => "2023-01-23"
+2 rows changed
 
-  Código: 21G0613961
-    Data Final de Distribuição: "2022-07-23" => "2023-01-23"
-
-  Código: 21D0524815
-    Data Final de Distribuição: "2022-04-29" => "2022-10-29"
-
-  Código: 21A0859460
-    Data Final de Distribuição: "2022-07-26" => "2023-01-26"
-
-  Código: 22A0731741
-    Data Final de Distribuição: "2022-07-17" => "2023-01-17"
-
-  Código: 22F1022835
+  Código: 22A0933881
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-07-27" => "2023-01-27"
+
+  Código: 22A0933884
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-07-27" => "2023-01-27"
+
+1 row added
+
+  Código: 22G0897549
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 36
+  N° da série: 1
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2022-07-19
+  Data de Vencimento: 20/07/2029
+  Data Final de Distribuição: 2023-01-19
+  ISIN: 
+
+1 row removed
+
+  Código: 21H0862845
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 82
+  Qtd Emitida: 31048
+  Volume Emissão: 31048000.0
+  Remuneração: IPCA+6,50000%
+  Data de Emissão: 2021-08-20
+  Data de Vencimento: 22/08/2035
+  Data Final de Distribuição: 2022-02-17
+  ISIN: BRTSSACRI1H4
