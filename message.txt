@@ -1,41 +1,37 @@
-2 rows changed, 1 row added, 1 row removed
+2 rows changed, 2 rows removed
 
 2 rows changed
 
-  Código: 22A0933881
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-07-27" => "2023-01-27"
+  Código: 22F1135958
+    ISIN: "" => "BRHBSCCRI8Z2"
 
-  Código: 22A0933884
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-07-27" => "2023-01-27"
+  Código: 22F1162246
+    ISIN: "" => "BRHBSCCRI908"
 
-1 row added
+2 rows removed
 
-  Código: 22G0897549
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 36
-  N° da série: 1
-  Qtd Emitida: 9000
-  Volume Emissão: 9000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2022-07-19
-  Data de Vencimento: 20/07/2029
-  Data Final de Distribuição: 2023-01-19
+  Código: 19F0923265
+  Emissor: LEADS CIA. SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 2
+  N° da série: 2
+  Qtd Emitida: 1150
+  Volume Emissão: 11500000.0
+  Remuneração: IPCA+16,00000%
+  Data de Emissão: 2019-06-05
+  Data de Vencimento: 20/05/2023
+  Data Final de Distribuição: 2021-07-11
   ISIN: 
 
-1 row removed
-
-  Código: 21H0862845
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 19J0713628
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 82
-  Qtd Emitida: 31048
-  Volume Emissão: 31048000.0
-  Remuneração: IPCA+6,50000%
-  Data de Emissão: 2021-08-20
-  Data de Vencimento: 22/08/2035
-  Data Final de Distribuição: 2022-02-17
-  ISIN: BRTSSACRI1H4
+  N° da série: 191
+  Qtd Emitida: 230000
+  Volume Emissão: 230000000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2019-10-23
+  Data de Vencimento: 23/10/2024
+  Data Final de Distribuição: 2021-05-07
+  ISIN: BRAPCSCRI6D4
