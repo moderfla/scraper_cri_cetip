@@ -1,101 +1,21 @@
-1 row changed, 5 rows added, 2 rows removed
+1 row changed, 1 row added
 
 1 row changed
 
-  Código: 21F1076305
-    Data Final de Distribuição: "2021-12-23" => "2022-12-23"
+  Código: 21L0939455
+    ISIN: "" => "BRVERTCRI4P3"
 
-5 rows added
+1 row added
 
-  Código: 22G0159793
+  Código: 22G1225383
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 20
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
   N° da série: 1
-  Qtd Emitida: 67435
-  Volume Emissão: 67435000.0
-  Remuneração: 100,00%  DI+1,85000%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 15/07/2027
-  Data Final de Distribuição: 2023-02-03
-  ISIN: BRRBRACRICI9
-
-  Código: 22G0159794
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 20
-  N° da série: 2
-  Qtd Emitida: 291029
-  Volume Emissão: 291029000.0
-  Remuneração: IPCA+8,22430%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 15/07/2027
-  Data Final de Distribuição: 2023-02-03
-  ISIN: BRRBRACRICJ7
-
-  Código: 22G0159846
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 20
-  N° da série: 3
-  Qtd Emitida: 41536
-  Volume Emissão: 41536000.0
-  Remuneração: IPCA+8,33480%
-  Data de Emissão: 2022-07-15
-  Data de Vencimento: 16/07/2029
-  Data Final de Distribuição: 2023-02-03
-  ISIN: BRRBRACRICK5
-
-  Código: 22G1046910
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 5
-  N° da série: 1
-  Qtd Emitida: 11199
-  Volume Emissão: 11199000.0
-  Remuneração: IPCA+12,50000%
-  Data de Emissão: 2022-07-20
-  Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-01-25
-  ISIN: 
-
-  Código: 22G1225382
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 5
-  N° da série: 2
-  Qtd Emitida: 18306
-  Volume Emissão: 18306000.0
-  Remuneração: IPCA+12,50000%
-  Data de Emissão: 2022-07-20
-  Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-01-25
-  ISIN: 
-
-2 rows removed
-
-  Código: 21H0865631
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 83
-  Qtd Emitida: 22052
-  Volume Emissão: 22052000.0
-  Remuneração: IPCA+6,50000%
-  Data de Emissão: 2021-10-20
-  Data de Vencimento: 22/08/2035
-  Data Final de Distribuição: 2022-02-17
-  ISIN: BRTSSACRI1I2
-
-  Código: 21C0122941
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 37
-  N° da série: 1
-  Qtd Emitida: 12755
-  Volume Emissão: 12755000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-03-10
-  Data de Vencimento: 27/05/2024
-  Data Final de Distribuição: 2021-09-03
-  ISIN: BRVERTCRI131
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2022-07-22
+  Data de Vencimento: 26/08/2026
+  Data Final de Distribuição: 2023-02-01
+  ISIN:
