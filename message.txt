@@ -1,105 +1,66 @@
-3 rows changed, 7 rows added
+5 rows added
 
-3 rows changed
+  Código: 22G1233040
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 2
+  N° da série: 1
+  Qtd Emitida: 34000
+  Volume Emissão: 34000000.0
+  Remuneração: INCC-DI+12,68000%
+  Data de Emissão: 2022-07-29
+  Data de Vencimento: 21/08/2025
+  Data Final de Distribuição: 2023-02-04
+  ISIN: BRASPRCRI0M1
 
-  Código: 20I0890152
-    Remuneração: "IPCA+15,00000%" => ""
+  Código: 22G1233041
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 2
+  N° da série: 2
+  Qtd Emitida: 34000
+  Volume Emissão: 34000000.0
+  Remuneração: INCC-DI+11,00000%
+  Data de Emissão: 2022-07-29
+  Data de Vencimento: 21/08/2025
+  Data Final de Distribuição: 2023-02-04
+  ISIN: BRASPRCRI0N9
 
-  Código: 22A1171641
-    Data Final de Distribuição: "2022-08-23" => "2023-02-23"
-
-  Código: 16J1007543
-    Remuneração: "TR+7,71510%" => ""
-
-7 rows added
-
-  Código: 22G1232724
+  Código: 22H0087510
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 19
+  N° da Emissão: 28
   N° da série: 1
-  Qtd Emitida: 88322
-  Volume Emissão: 88322000.0
-  Remuneração: IPCA+8,18660%
-  Data de Emissão: 2022-08-03
-  Data de Vencimento: 15/01/2036
-  Data Final de Distribuição: 2023-02-05
-  ISIN: BRRBRACRICZ3
+  Qtd Emitida: 73000
+  Volume Emissão: 73000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-08-04
+  Data de Vencimento: 21/08/2037
+  Data Final de Distribuição: 2023-02-11
+  ISIN: BRRBRACRIDR8
 
-  Código: 22E1325261
+  Código: 22H0156413
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 59
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 69
   N° da série: 1
-  Qtd Emitida: 200000
-  Volume Emissão: 200000000.0
-  Remuneração: 100,00%  DI+0,75000%
-  Data de Emissão: 2022-08-10
-  Data de Vencimento: 16/08/2027
-  Data Final de Distribuição: 2023-01-15
-  ISIN: BRAPCSCRIE57
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2022-08-05
+  Data de Vencimento: 21/07/2025
+  Data Final de Distribuição: 2023-01-01
+  ISIN: BRAPCSCRIEE4
 
-  Código: 22E1325262
+  Código: 22H0197977
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 59
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 69
   N° da série: 2
-  Qtd Emitida: 397640
-  Volume Emissão: 397640000.0
-  Remuneração: IPCA+6,27900%
-  Data de Emissão: 2022-08-10
-  Data de Vencimento: 15/08/2029
-  Data Final de Distribuição: 2023-01-15
-  ISIN: BRAPCSCRIE65
-
-  Código: 22E1325264
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 59
-  N° da série: 3
-  Qtd Emitida: 152360
-  Volume Emissão: 152360000.0
-  Remuneração: IPCA+6,44510%
-  Data de Emissão: 2022-08-10
-  Data de Vencimento: 16/08/2032
-  Data Final de Distribuição: 2023-01-15
-  ISIN: BRAPCSCRIE73
-
-  Código: 22B0653493
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 395
-  Qtd Emitida: 49489
-  Volume Emissão: 4948900.0
-  Remuneração: IPCA+9,80000%
-  Data de Emissão: 2022-02-25
-  Data de Vencimento: 24/08/2026
-  Data Final de Distribuição: 2023-02-25
-  ISIN: BRIMWLCRIB41
-
-  Código: 22B0653556
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 449
-  Qtd Emitida: 40491
-  Volume Emissão: 4049100.0
-  Remuneração: IPCA+11,35000%
-  Data de Emissão: 2022-02-25
-  Data de Vencimento: 24/08/2026
-  Data Final de Distribuição: 2023-02-25
-  ISIN: BRIMWLCRIB58
-
-  Código: 22H0028631
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 24
-  N° da série: 1
-  Qtd Emitida: 35000
-  Volume Emissão: 35000000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2022-08-01
-  Data de Vencimento: 12/02/2026
-  Data Final de Distribuição: 2023-01-29
-  ISIN:
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+4,10000%
+  Data de Emissão: 2022-08-05
+  Data de Vencimento: 21/07/2025
+  Data Final de Distribuição: 2023-02-05
+  ISIN: BRAPCSCRIED6
