@@ -1,34 +1,21 @@
-1 row changed, 2 rows added
+1 row changed, 1 row added
 
 1 row changed
 
-  Código: 18L1128777
-    ISIN: "BRHBSCCRI304" => "BRHBSCCRI2W2"
+  Código: 21H0953104
+    Data Final de Distribuição: "2022-08-26" => "2023-02-27"
 
-2 rows added
+1 row added
 
-  Código: 22H1140550
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 4
-  N° da série: 1
-  Qtd Emitida: 26100
-  Volume Emissão: 26100000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2022-08-16
-  Data de Vencimento: 30/08/2027
-  Data Final de Distribuição: 2023-02-16
-  ISIN: 
-
-  Código: 22H0718730
+  Código: 22H1116780
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 45
+  N° da Emissão: 41
   N° da série: 1
-  Qtd Emitida: 104440
-  Volume Emissão: 104440000.0
-  Remuneração: IPCA+7,04080%
-  Data de Emissão: 2022-08-12
-  Data de Vencimento: 15/08/2034
-  Data Final de Distribuição: 2023-02-12
-  ISIN: BRIMWLCRID23
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: IPCA+8,80000%
+  Data de Emissão: 2022-08-19
+  Data de Vencimento: 18/08/2027
+  Data Final de Distribuição: 2023-02-16
+  ISIN: BRIMWLCRID31
