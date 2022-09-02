@@ -1,91 +1,14 @@
-2 rows changed, 6 rows added
+1 row added
 
-2 rows changed
-
-  Código: 21H1029305
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-08-30" => "2023-03-02"
-
-  Código: 21H1029306
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-08-30" => "2023-03-02"
-
-6 rows added
-
-  Código: 22H1104501
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 8
-  N° da série: 1
-  Qtd Emitida: 142605
-  Volume Emissão: 142605321.0
-  Remuneração: 100,00%  DI+2,30000%
-  Data de Emissão: 2022-08-17
-  Data de Vencimento: 26/08/2027
-  Data Final de Distribuição: 2023-01-27
-  ISIN: BRASTECRI1I8
-
-  Código: 22D1376213
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  Código: 21I0940473
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 513
-  Qtd Emitida: 2560
-  Volume Emissão: 2560000.0
-  Remuneração: IPCA+7,30000%
-  Data de Emissão: 2022-08-16
-  Data de Vencimento: 16/02/2052
-  Data Final de Distribuição: 2022-10-19
-  ISIN: 
-
-  Código: 22H1579450
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 47
-  N° da série: 1
-  Qtd Emitida: 33000
-  Volume Emissão: 33000000.0
-  Remuneração: IPCA+7,70000%
-  Data de Emissão: 2022-08-24
-  Data de Vencimento: 25/08/2034
-  Data Final de Distribuição: 2023-02-24
-  ISIN: 
-
-  Código: 22G1234007
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 68
-  N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: IPCA+7,15000%
-  Data de Emissão: 2022-08-19
-  Data de Vencimento: 19/08/2027
-  Data Final de Distribuição: 2023-02-28
-  ISIN: BRAPCSCRIEG9
-
-  Código: 22G1234008
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 68
-  N° da série: 2
-  Qtd Emitida: 120000
-  Volume Emissão: 120000000.0
-  Remuneração: IPCA+7,25000%
-  Data de Emissão: 2022-08-19
-  Data de Vencimento: 19/03/2036
-  Data Final de Distribuição: 2023-02-28
-  ISIN: BRAPCSCRIEH7
-
-  Código: 22H1517101
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 50
-  N° da série: 1
-  Qtd Emitida: 10752
-  Volume Emissão: 10752000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2022-08-24
-  Data de Vencimento: 29/07/2043
-  Data Final de Distribuição: 2023-02-23
-  ISIN: BRIMWLCRIDE9
+  N° da série: 277
+  Qtd Emitida: 2500
+  Volume Emissão: 2500000.0
+  Remuneração: IPCA+12,68250%
+  Data de Emissão: 2021-09-01
+  Data de Vencimento: 24/09/2025
+  Data Final de Distribuição: 2022-09-21
+  ISIN: BRHBSCCRI7D1
