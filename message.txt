@@ -1,53 +1,27 @@
-3 rows changed, 3 rows added
+3 rows changed, 1 row added
 
 3 rows changed
 
-  Código: 12H0024162
-    Remuneração: "IPCA+4,54300%" => ""
+  Código: 21B0132138
+    Remuneração: "6,00%  DI+100,00000%" => "100,00%  DI+6,00000%"
 
-  Código: 21A0608487
-    Data Final de Distribuição: "2022-07-13" => "2023-01-13"
+  Código: 21G0761891
+    Remuneração: "IPCA+7,00000%" => "IPCA+8,50000%"
 
-  Código: 21G0785091
-    ISIN: "" => "BRIMWLCRI7U4"
+  Código: 10E0013644
+    Data de Vencimento: "08/09/2022" => "08/03/2023"
 
-3 rows added
+1 row added
 
-  Código: 22E1338401
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 54
+  Código: 22H1737532
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 14
   N° da série: 1
-  Qtd Emitida: 241211
-  Volume Emissão: 241211000.0
-  Remuneração: 100,00%  DI+1,25000%
-  Data de Emissão: 2022-08-15
-  Data de Vencimento: 16/08/2027
-  Data Final de Distribuição: 2023-02-08
-  ISIN: BRAPCSCRIEA2
-
-  Código: 22E1338402
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 54
-  N° da série: 2
-  Qtd Emitida: 194626
-  Volume Emissão: 194626000.0
-  Remuneração: IPCA+6,70400%
-  Data de Emissão: 2022-08-15
-  Data de Vencimento: 15/08/2029
-  Data Final de Distribuição: 2023-02-08
-  ISIN: BRAPCSCRIEB0
-
-  Código: 22E1338403
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 54
-  N° da série: 3
-  Qtd Emitida: 64163
-  Volume Emissão: 64163000.0
-  Remuneração: IPCA+6,82690%
-  Data de Emissão: 2022-08-15
-  Data de Vencimento: 16/08/2032
-  Data Final de Distribuição: 2023-02-08
-  ISIN: BRAPCSCRIEC8
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+9,20000%
+  Data de Emissão: 2022-08-19
+  Data de Vencimento: 15/08/2034
+  Data Final de Distribuição: 2023-02-19
+  ISIN: BRHBSCCRI9D7
