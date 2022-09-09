@@ -1,27 +1,57 @@
-3 rows changed, 1 row added
+3 rows added, 1 row removed
 
-3 rows changed
+3 rows added
 
-  Código: 21B0132138
-    Remuneração: "6,00%  DI+100,00000%" => "100,00%  DI+6,00000%"
+  Código: 22H1704044
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 9
+  N° da série: 1
+  Qtd Emitida: 18000
+  Volume Emissão: 18000000.0
+  Remuneração: IPCA+12,68250%
+  Data de Emissão: 2022-08-26
+  Data de Vencimento: 26/04/2027
+  Data Final de Distribuição: 2023-02-26
+  ISIN: BRASTECRI1J6
 
-  Código: 21G0761891
-    Remuneração: "IPCA+7,00000%" => "IPCA+8,50000%"
-
-  Código: 10E0013644
-    Data de Vencimento: "08/09/2022" => "08/03/2023"
-
-1 row added
-
-  Código: 22H1737532
+  Código: 22H1737558
   Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 14
+  N° da Emissão: 15
   N° da série: 1
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: IPCA+9,20000%
+  Qtd Emitida: 11300
+  Volume Emissão: 11300000.0
+  Remuneração: 100,00%  DI+4,00000%
   Data de Emissão: 2022-08-19
   Data de Vencimento: 15/08/2034
   Data Final de Distribuição: 2023-02-19
-  ISIN: BRHBSCCRI9D7
+  ISIN: BRHBSCCRI9E5
+
+  Código: 22H1631360
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 38
+  N° da série: 1
+  Qtd Emitida: 65712
+  Volume Emissão: 65712000.0
+  Remuneração: IPCA+8,32920%
+  Data de Emissão: 2022-08-25
+  Data de Vencimento: 15/08/2039
+  Data Final de Distribuição: 2023-02-25
+  ISIN: BRRBRACRIE32
+
+1 row removed
+
+  Código: 20H0164476
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 17
+  Qtd Emitida: 8400
+  Volume Emissão: 8400000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2020-09-04
+  Data de Vencimento: 28/08/2025
+  Data Final de Distribuição: 2021-09-09
+  ISIN:
