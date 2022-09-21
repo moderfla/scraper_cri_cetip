@@ -1,34 +1,138 @@
-1 row changed, 2 rows added
+1 row changed, 10 rows added
 
 1 row changed
 
-  Código: 21C0775913
-    Data Final de Distribuição: "2022-09-11" => "2023-03-11"
+  Código: 21H0953114
+    Data Final de Distribuição: "2022-08-26" => "2023-02-27"
 
-2 rows added
+10 rows added
 
-  Código: 22E1314836
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 50
-  N° da série: 1
-  Qtd Emitida: 300000
-  Volume Emissão: 300000000.0
-  Remuneração: IPCA+7,38260%
-  Data de Emissão: 2022-08-15
-  Data de Vencimento: 17/09/2029
-  Data Final de Distribuição: 2023-03-16
-  ISIN: BRAPCSCRID90
-
-  Código: 22I0246580
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 21J0856229
+  Emissor: FORTE SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 47
+  N° da Emissão: 1
+  N° da série: 651
+  Qtd Emitida: 8800
+  Volume Emissão: 8800000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856247
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 652
+  Qtd Emitida: 2200
+  Volume Emissão: 2200000.0
+  Remuneração: IPCA+17,50000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856248
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 653
+  Qtd Emitida: 5600
+  Volume Emissão: 5600000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856249
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 654
+  Qtd Emitida: 1400
+  Volume Emissão: 1400000.0
+  Remuneração: IPCA+17,50000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856250
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 655
+  Qtd Emitida: 8000
+  Volume Emissão: 8000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856251
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 656
+  Qtd Emitida: 2000
+  Volume Emissão: 2000000.0
+  Remuneração: IPCA+17,50000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/04/2029
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856258
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 661
+  Qtd Emitida: 12800
+  Volume Emissão: 12800000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/08/2032
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 21J0856259
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 662
+  Qtd Emitida: 3200
+  Volume Emissão: 3200000.0
+  Remuneração: IPCA+17,50000%
+  Data de Emissão: 2021-10-26
+  Data de Vencimento: 20/08/2032
+  Data Final de Distribuição: 2022-10-26
+  ISIN: 
+
+  Código: 22I0868989
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 57
   N° da série: 1
-  Qtd Emitida: 240000
-  Volume Emissão: 240000000.0
-  Remuneração: 100,00%  DI+5,25000%
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: IPCA+9,75000%
   Data de Emissão: 2022-09-09
-  Data de Vencimento: 24/09/2029
-  Data Final de Distribuição: 2023-02-24
-  ISIN: BRIMWLCRIDY7
+  Data de Vencimento: 15/09/2030
+  Data Final de Distribuição: 2023-03-19
+  ISIN: 
+
+  Código: 22I0144759
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 39
+  N° da série: 1
+  Qtd Emitida: 20344675
+  Volume Emissão: 20344675.0
+  Remuneração: 100,00%  DI+6,50000%
+  Data de Emissão: 2022-09-08
+  Data de Vencimento: 11/09/2023
+  Data Final de Distribuição: 2023-03-09
+  ISIN: BRAPCSCRIF23
