@@ -1,79 +1,21 @@
-6 rows added
+1 row changed, 1 row added
 
-  Código: 22I1431171
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 59
+1 row changed
+
+  Código: 21I0663727
+    Data Final de Distribuição: "2022-09-17" => "2023-03-17"
+
+1 row added
+
+  Código: 22I1560033
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 16
   N° da série: 1
-  Qtd Emitida: 7500
-  Volume Emissão: 7500000.0
-  Remuneração: IPCA+10,00000%
+  Qtd Emitida: 58420
+  Volume Emissão: 58420000.0
+  Remuneração: IPCA+9,25000%
   Data de Emissão: 2022-09-23
-  Data de Vencimento: 24/09/2029
-  Data Final de Distribuição: 2023-03-26
-  ISIN: 
-
-  Código: 22I0351637
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 61
-  N° da série: 1
-  Qtd Emitida: 4500
-  Volume Emissão: 4500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-09-09
-  Data de Vencimento: 21/01/2026
-  Data Final de Distribuição: 2023-03-12
-  ISIN: BRIMWLCRIDZ4
-
-  Código: 22I0351653
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 61
-  N° da série: 2
-  Qtd Emitida: 3500
-  Volume Emissão: 3500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-09-09
-  Data de Vencimento: 21/01/2026
-  Data Final de Distribuição: 2023-03-12
-  ISIN: BRIMWLCRIE06
-
-  Código: 22I0351747
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 61
-  N° da série: 3
-  Qtd Emitida: 3200
-  Volume Emissão: 3200000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-09-09
-  Data de Vencimento: 21/01/2026
-  Data Final de Distribuição: 2023-03-12
-  ISIN: BRIMWLCRIE14
-
-  Código: 22I0351829
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 61
-  N° da série: 4
-  Qtd Emitida: 4000
-  Volume Emissão: 4000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-09-09
-  Data de Vencimento: 21/01/2026
-  Data Final de Distribuição: 2023-03-12
-  ISIN: BRIMWLCRIE22
-
-  Código: 22I0351915
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 61
-  N° da série: 5
-  Qtd Emitida: 4000
-  Volume Emissão: 4000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-09-09
-  Data de Vencimento: 21/01/2026
-  Data Final de Distribuição: 2023-03-12
-  ISIN: BRIMWLCRIE30
+  Data de Vencimento: 22/09/2032
+  Data Final de Distribuição: 2023-03-23
+  ISIN:
