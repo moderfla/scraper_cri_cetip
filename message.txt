@@ -1,21 +1,47 @@
-1 row changed, 1 row added
+1 row changed, 3 rows added
 
 1 row changed
 
-  Código: 21I0663727
-    Data Final de Distribuição: "2022-09-17" => "2023-03-17"
+  Código: 22D0371522
+    Data Final de Distribuição: "2022-10-04" => "2023-04-04"
 
-1 row added
+3 rows added
 
-  Código: 22I1560033
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 16
+  Código: 22I1187576
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 35
   N° da série: 1
-  Qtd Emitida: 58420
-  Volume Emissão: 58420000.0
-  Remuneração: IPCA+9,25000%
-  Data de Emissão: 2022-09-23
-  Data de Vencimento: 22/09/2032
-  Data Final de Distribuição: 2023-03-23
-  ISIN:
+  Qtd Emitida: 9100
+  Volume Emissão: 9100000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-09-21
+  Data de Vencimento: 21/02/2028
+  Data Final de Distribuição: 2023-03-22
+  ISIN: BRIMWLCRIE71
+
+  Código: 22I1187612
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 35
+  N° da série: 2
+  Qtd Emitida: 9400
+  Volume Emissão: 9400000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-09-21
+  Data de Vencimento: 21/02/2028
+  Data Final de Distribuição: 2023-03-22
+  ISIN: BRIMWLCRIE89
+
+  Código: 22I1187621
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 35
+  N° da série: 3
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-09-21
+  Data de Vencimento: 21/02/2028
+  Data Final de Distribuição: 2023-03-22
+  ISIN: BRIMWLCRIE97
