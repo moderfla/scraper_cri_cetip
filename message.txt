@@ -1,47 +1,13 @@
-1 row changed, 3 rows added
+4 rows changed
 
-1 row changed
+  Código: 14J0105984
+    Data de Vencimento: "10/10/2022" => "11/08/2025"
 
-  Código: 22D0371522
-    Data Final de Distribuição: "2022-10-04" => "2023-04-04"
+  Código: 22B0939875
+    Data Final de Distribuição: "2022-08-23" => "2023-02-23"
 
-3 rows added
+  Código: 22B0939878
+    Data Final de Distribuição: "2022-08-23" => "2023-02-23"
 
-  Código: 22I1187576
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 35
-  N° da série: 1
-  Qtd Emitida: 9100
-  Volume Emissão: 9100000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-09-21
-  Data de Vencimento: 21/02/2028
-  Data Final de Distribuição: 2023-03-22
-  ISIN: BRIMWLCRIE71
-
-  Código: 22I1187612
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 35
-  N° da série: 2
-  Qtd Emitida: 9400
-  Volume Emissão: 9400000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-09-21
-  Data de Vencimento: 21/02/2028
-  Data Final de Distribuição: 2023-03-22
-  ISIN: BRIMWLCRIE89
-
-  Código: 22I1187621
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 35
-  N° da série: 3
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-09-21
-  Data de Vencimento: 21/02/2028
-  Data Final de Distribuição: 2023-03-22
-  ISIN: BRIMWLCRIE97
+  Código: 22B0945201
+    Data Final de Distribuição: "2022-08-23" => "2023-02-23"
