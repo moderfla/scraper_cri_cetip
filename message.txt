@@ -1,177 +1,60 @@
-8 rows changed, 1 row added, 10 rows removed
+1 row changed, 4 rows added
 
-8 rows changed
+1 row changed
 
-  Código: 20J0720654
-    Remuneração: "IGP-M+11,00000%" => "IPCA+13,50000%"
+  Código: 21J1001701
+    Data Final de Distribuição: "2022-10-29" => "2022-10-07"
 
-  Código: 21F0950048
-    Remuneração: "IPCA+9,50000%" => "IPCA+10,50000%"
-    Data de Vencimento: "20/06/2028" => "20/12/2029"
+4 rows added
 
-  Código: 21F0950049
-    Remuneração: "IPCA+9,50000%" => "IPCA+10,50000%"
-    Data de Vencimento: "20/06/2028" => "20/12/2029"
+  Código: 22J0268287
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 6
+  N° da série: 1
+  Qtd Emitida: 76125
+  Volume Emissão: 76125000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2022-10-05
+  Data de Vencimento: 24/10/2034
+  Data Final de Distribuição: 2023-03-19
+  ISIN: BRHBSCCRI9L0
 
-  Código: 21F0950051
-    Remuneração: "IPCA+9,50000%" => "IPCA+10,50000%"
-    Data de Vencimento: "20/06/2028" => "20/12/2029"
+  Código: 22J0268409
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 6
+  N° da série: 2
+  Qtd Emitida: 55875
+  Volume Emissão: 55875000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2022-10-05
+  Data de Vencimento: 24/10/2034
+  Data Final de Distribuição: 2023-03-19
+  ISIN: BRHBSCCRI9M8
 
-  Código: 22D0845146
-    Data Final de Distribuição: "2022-10-08" => "2023-04-08"
-
-  Código: 22I1560033
-    ISIN: "" => "BRHBSCCRI9K2"
-
-  Código: 21I0566602
-    Remuneração: "IPCA+7,00000%" => "IPCA+9,00000%"
-
-  Código: 21I0566648
-    Remuneração: "IPCA+7,00000%" => "IPCA+10,00000%"
-
-1 row added
-
-  Código: 22I1658293
+  Código: 22J0215470
   Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 60
+  N° da série: 1
+  Qtd Emitida: 43790
+  Volume Emissão: 43790000.0
+  Remuneração: IPCA+8,90660%
+  Data de Emissão: 2022-10-07
+  Data de Vencimento: 29/09/2034
+  Data Final de Distribuição: 2023-03-12
+  ISIN: BRRBRACRIEO3
+
+  Código: 22G1541288
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 71
   N° da série: 1
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2022-09-28
-  Data de Vencimento: 19/09/2029
-  Data Final de Distribuição: 2023-04-03
-  ISIN: BRRBRACRIEN5
-
-10 rows removed
-
-  Código: 19L0882681
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 353
-  Qtd Emitida: 8100
-  Volume Emissão: 8100000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2020-06-17
-  ISIN: BRFSECCRI9D6
-
-  Código: 19L0882694
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 355
-  Qtd Emitida: 15300
-  Volume Emissão: 15300000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2020-06-17
-  ISIN: BRFSECCRI9F1
-
-  Código: 19L0882700
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 357
-  Qtd Emitida: 5400
-  Volume Emissão: 5400000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2021-06-21
-  ISIN: BRFSECCRI9H7
-
-  Código: 19L0882701
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 359
-  Qtd Emitida: 3150
-  Volume Emissão: 3150000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2021-06-21
-  ISIN: BRFSECCRI9J3
-
-  Código: 19L0882762
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 360
-  Qtd Emitida: 350
-  Volume Emissão: 350000.0
-  Remuneração: IPCA+15,12000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2021-06-17
-  ISIN: BRFSECCRI9K1
-
-  Código: 19L0882763
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 358
-  Qtd Emitida: 600
-  Volume Emissão: 600000.0
-  Remuneração: IPCA+15,12000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2021-06-17
-  ISIN: BRFSECCRI9I5
-
-  Código: 19L0882764
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 356
-  Qtd Emitida: 1700
-  Volume Emissão: 1700000.0
-  Remuneração: IPCA+15,12000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2020-06-17
-  ISIN: BRFSECCRI9G9
-
-  Código: 19L0882766
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 354
-  Qtd Emitida: 900
-  Volume Emissão: 900000.0
-  Remuneração: IPCA+15,12000%
-  Data de Emissão: 2019-12-18
-  Data de Vencimento: 20/06/2032
-  Data Final de Distribuição: 2020-06-17
-  ISIN: BRFSECCRI9E4
-
-  Código: 20L0483144
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 485
-  Qtd Emitida: 57400
-  Volume Emissão: 57400000.0
-  Remuneração: IPCA+8,25000%
-  Data de Emissão: 2020-12-08
-  Data de Vencimento: 20/11/2033
-  Data Final de Distribuição: 2021-06-02
-  ISIN: BRFSECCRID49
-
-  Código: 20L0483145
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 486
-  Qtd Emitida: 24600
-  Volume Emissão: 24600000.0
-  Remuneração: IPCA+12,42000%
-  Data de Emissão: 2020-12-08
-  Data de Vencimento: 20/11/2033
-  Data Final de Distribuição: 2021-06-02
-  ISIN: BRFSECCRID56
+  Qtd Emitida: 1500000
+  Volume Emissão: 9765611.79
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2022-09-30
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2023-04-05
+  ISIN: BRAPCSCRIFO0
