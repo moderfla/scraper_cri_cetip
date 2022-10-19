@@ -1,37 +1,40 @@
-2 rows changed, 2 rows removed
+3 rows changed, 2 rows added
 
-2 rows changed
+3 rows changed
 
-  Código: 13C0036668
-    Remuneração: "IGP-M+8,00000%" => ""
+  Código: 18K1252555
+    Remuneração: "IPCA+8,15000%" => "IPCA+9,75000%"
 
-  Código: 21F0968888
-    ISIN: "" => "BRIMWLCRI7J7"
+  Código: 22D1068786
+    Data Final de Distribuição: "2022-10-22" => "2023-04-22"
 
-2 rows removed
+  Código: 22D1068881
+    Data Final de Distribuição: "2022-10-22" => "2023-04-22"
 
-  Código: 17G1674856
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
+2 rows added
+
+  Código: 22J0311263
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: PAVARINI DTVM LTDA
   N° da Emissão: 4
-  N° da série: 7
-  Qtd Emitida: 369
-  Volume Emissão: 18483737.09
-  Remuneração: IGP-M+11,00000%
-  Data de Emissão: 2017-07-17
-  Data de Vencimento: 07/10/2022
-  Data Final de Distribuição: 2018-01-05
-  ISIN: BRIMWLCRI146
+  N° da série: 1
+  Qtd Emitida: 161585
+  Volume Emissão: 161585000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2022-10-07
+  Data de Vencimento: 21/01/2027
+  Data Final de Distribuição: 2023-04-21
+  ISIN: BRASPRCRI0O7
 
-  Código: 17G1674859
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 22J0020768
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 8
-  Qtd Emitida: 1
-  Volume Emissão: 10000.0
-  Remuneração: IGP-M+11,00000%
-  Data de Emissão: 2017-07-17
-  Data de Vencimento: 07/10/2022
-  Data Final de Distribuição: 2018-01-05
-  ISIN: BRIMWLCRI153
+  N° da Emissão: 86
+  N° da série: 1
+  Qtd Emitida: 40500
+  Volume Emissão: 40500000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2022-10-07
+  Data de Vencimento: 22/09/2037
+  Data Final de Distribuição: 2023-03-19
+  ISIN: BRAPCSCRIFM4
