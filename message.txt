@@ -1,100 +1,70 @@
-5 rows changed, 5 rows added, 1 row removed
+10 rows changed, 1 row added, 1 row removed
 
-5 rows changed
+10 rows changed
 
-  Código: 20C0921786
-    Agente Fiduciário: "VORTX DTVM S.A." => "OLIVEIRA TRUST DTVM"
+  Código: 17G0902448
+    Remuneração: "IPCA+8,50000%" => ""
 
-  Código: 20C0921841
-    Agente Fiduciário: "VORTX DTVM S.A." => "OLIVEIRA TRUST DTVM"
+  Código: 21F0950050
+    Remuneração: "IPCA+14,50000%" => "IPCA+15,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-  Código: 19C0281298
-    Data de Vencimento: "25/07/2029" => "25/08/2029"
+  Código: 21F0950052
+    Remuneração: "IPCA+14,50000%" => "IPCA+15,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-  Código: 22G0282158
-    ISIN: "BRRBRACRIDI7" => "BRRBRACRIDL1"
+  Código: 21F0950067
+    Remuneração: "IPCA+9,50000%" => "IPCA+10,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-  Código: 21B0544455
-    ISIN: "" => "BRIMWLCRI5D4"
+  Código: 21F0950068
+    Remuneração: "IPCA+14,50000%" => "IPCA+15,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-5 rows added
+  Código: 21F0950069
+    Remuneração: "IPCA+9,50000%" => "IPCA+10,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-  Código: 22J0070697
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 11
-  N° da série: 1
-  Qtd Emitida: 38973
-  Volume Emissão: 39282263.92
-  Remuneração: IPCA+8,30360%
-  Data de Emissão: 2022-10-05
-  Data de Vencimento: 17/07/2036
-  Data Final de Distribuição: 2023-06-27
-  ISIN: BRASTECRI1N8
+  Código: 21F0950070
+    Remuneração: "IPCA+14,50000%" => "IPCA+15,50000%"
+    Data de Vencimento: "20/06/2028" => "20/12/2029"
 
-  Código: 21H0769219
-  Emissor: FORTE SECURITIZADORA S.A.
+  Código: 18F0924515
+    Remuneração: "100,00%  DI+1,20000%" => ""
+
+  Código: 19E0311712
+    Remuneração: "IPCA+6,00000%" => "IPCA+6,90000%"
+
+  Código: 22D0059915
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-10-04" => "2023-04-04"
+
+1 row added
+
+  Código: 22D1286982
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
   N° da Emissão: 1
-  N° da série: 602
-  Qtd Emitida: 37200
-  Volume Emissão: 37200000.0
-  Remuneração: IPCA+9,25000%
-  Data de Emissão: 2021-08-17
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2023-02-16
-  ISIN: 
-
-  Código: 21H0769220
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 1
-  N° da série: 603
-  Qtd Emitida: 55800
-  Volume Emissão: 55800000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2021-08-17
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2023-02-16
-  ISIN: 
-
-  Código: 22J0346032
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 68
-  N° da série: 1
-  Qtd Emitida: 17164
-  Volume Emissão: 17164000.0
+  N° da série: 338
+  Qtd Emitida: 4336
+  Volume Emissão: 4336000.0
   Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-10-07
-  Data de Vencimento: 22/10/2026
-  Data Final de Distribuição: 2023-04-11
-  ISIN: BRRBRACRIEP0
-
-  Código: 22G1165919
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 29
-  N° da série: 1
-  Qtd Emitida: 33800
-  Volume Emissão: 33800000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-06-28
-  Data de Vencimento: 22/10/2027
-  Data Final de Distribuição: 2023-01-29
-  ISIN: BRAPCSCRIE99
+  Data de Emissão: 2022-04-28
+  Data de Vencimento: 13/11/2026
+  Data Final de Distribuição: 2023-04-28
+  ISIN: BRHBSCCRI8U3
 
 1 row removed
 
-  Código: 18B0748120
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 105
-  Qtd Emitida: 37028
-  Volume Emissão: 37028000.0
-  Remuneração: 100,00%  DI+4,75000%
-  Data de Emissão: 2018-02-09
-  Data de Vencimento: 10/04/2023
-  Data Final de Distribuição: 2019-02-08
-  ISIN: BRASPRCRI026
+  Código: 21B0137349
+  Emissor: PLANETA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 174
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: IPCA+5,50000%
+  Data de Emissão: 2021-02-09
+  Data de Vencimento: 15/08/2029
+  Data Final de Distribuição: 2021-08-09
+  ISIN:
