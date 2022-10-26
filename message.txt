@@ -1,94 +1,122 @@
-3 rows changed, 2 rows added, 4 rows removed
+11 rows changed, 5 rows added, 1 row removed
 
-3 rows changed
+11 rows changed
 
-  Código: 21D0503170
-    Data Final de Distribuição: "2022-04-14" => "2023-04-14"
+  Código: 19I0331635
+    Remuneração: "IPCA+8,50000%" => ""
 
-  Código: 21D0503171
-    Data Final de Distribuição: "2022-04-14" => "2023-04-14"
+  Código: 21D0779661
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-05-03" => "2023-05-03"
 
-  Código: 21D0736598
-    Data Final de Distribuição: "2022-04-22" => "2023-04-23"
+  Código: 21K0019326
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-11-04" => "2023-05-04"
 
-2 rows added
+  Código: 21J0856258
+    Data Final de Distribuição: "2022-10-26" => "2023-04-26"
 
-  Código: 22J0978144
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 21J0856259
+    Data Final de Distribuição: "2022-10-26" => "2023-04-26"
+
+  Código: 22D0891481
+    Data Final de Distribuição: "2022-10-27" => "2023-04-27"
+
+  Código: 21C0818353
+    Data Final de Distribuição: "2022-04-13" => "2023-04-13"
+
+  Código: 21J0989122
+    Data Final de Distribuição: "2022-04-27" => "2023-04-29"
+
+  Código: 21K0002028
+    Data Final de Distribuição: "2022-04-29" => "2023-04-29"
+
+  Código: 22D1116323
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-10-25" => "2023-04-25"
+
+  Código: 22E1315701
+    Qtd Emitida: "300000" => "360000"
+    Volume Emissão: "300000000.0" => "360000000.0"
+
+5 rows added
+
+  Código: 22J1019802
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 23
+  N° da Emissão: 12
   N° da série: 1
-  Qtd Emitida: 41590
-  Volume Emissão: 41590000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-10-10
-  Data de Vencimento: 20/10/2032
-  Data Final de Distribuição: 2022-04-13
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 20/10/2027
+  Data Final de Distribuição: 2023-04-05
   ISIN: 
 
-  Código: 22J0978864
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 22J1020128
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 23
+  N° da Emissão: 12
   N° da série: 2
-  Qtd Emitida: 10397
-  Volume Emissão: 10397000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-10-10
-  Data de Vencimento: 20/10/2032
-  Data Final de Distribuição: 2023-04-13
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 20/10/2027
+  Data Final de Distribuição: 2023-04-05
   ISIN: 
 
-4 rows removed
-
-  Código: 21J0764386
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 663
-  Qtd Emitida: 5600
-  Volume Emissão: 5600000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/10/2025
-  Data Final de Distribuição: 2022-04-22
+  Código: 22J0346058
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 76
+  N° da série: 1
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 23/08/2032
+  Data Final de Distribuição: 2023-04-19
   ISIN: 
 
-  Código: 21J0764804
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 664
-  Qtd Emitida: 2400
-  Volume Emissão: 2400000.0
-  Remuneração: IPCA+10,17000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/10/2025
-  Data Final de Distribuição: 2022-04-22
-  ISIN: 
+  Código: 22J0020689
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 97
+  N° da série: 1
+  Qtd Emitida: 102000
+  Volume Emissão: 102000000.0
+  Remuneração: IPCA+9,75000%
+  Data de Emissão: 2022-10-11
+  Data de Vencimento: 15/10/2032
+  Data Final de Distribuição: 2023-03-26
+  ISIN: BRAPCSCRIFN2
 
-  Código: 21J0764852
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 665
-  Qtd Emitida: 2800
-  Volume Emissão: 2800000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/10/2025
-  Data Final de Distribuição: 2022-04-22
-  ISIN: 
+  Código: 22J1099385
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 63
+  N° da série: 1
+  Qtd Emitida: 18500
+  Volume Emissão: 18500000.0
+  Remuneração: IPCA+9,25000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 13/10/2037
+  Data Final de Distribuição: 2023-04-20
+  ISIN: BRIMWLCRIEO6
 
-  Código: 21J0764881
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+1 row removed
+
+  Código: 13C0036662
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
   N° da Emissão: 1
-  N° da série: 666
-  Qtd Emitida: 1200
-  Volume Emissão: 1200000.0
-  Remuneração: IPCA+10,17000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/10/2025
-  Data Final de Distribuição: 2022-04-22
+  N° da série: 25
+  Qtd Emitida: 47
+  Volume Emissão: 14111033.64
+  Remuneração: IGP-M+8,00000%
+  Data de Emissão: 2013-03-18
+  Data de Vencimento: 15/10/2022
+  Data Final de Distribuição: 2013-09-18
   ISIN:
