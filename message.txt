@@ -1,127 +1,72 @@
-1 row changed, 7 rows added, 2 rows removed
+4 rows changed, 3 rows added, 1 row removed
 
-1 row changed
+4 rows changed
 
-  Código: 20L0789248
-    ISIN: "" => "BRHBSCCRI5O2"
+  Código: 21J0989453
+    Data Final de Distribuição: "2022-11-01" => "2023-05-01"
 
-7 rows added
-
-  Código: 22J1203611
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 13
-  N° da série: 1
-  Qtd Emitida: 11500
-  Volume Emissão: 11500000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-10-24
-  Data de Vencimento: 27/10/2025
-  Data Final de Distribuição: 2023-04-24
-  ISIN: 
-
-  Código: 22I0053302
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 11
-  N° da série: 1
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-09-08
-  Data de Vencimento: 30/08/2027
-  Data Final de Distribuição: 2023-03-08
-  ISIN: 
-
-  Código: 22I0053638
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 11
-  N° da série: 2
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00% DI
-  Data de Emissão: 2022-09-08
-  Data de Vencimento: 30/08/2027
-  Data Final de Distribuição: 2023-03-08
-  ISIN: 
-
-  Código: 22J0070436
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 22
-  N° da série: 1
-  Qtd Emitida: 12200
-  Volume Emissão: 12200000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2022-10-20
-  Data de Vencimento: 28/10/2027
-  Data Final de Distribuição: 2023-04-21
-  ISIN: 
-
-  Código: 22J0123615
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 22
-  N° da série: 2
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2022-10-20
-  Data de Vencimento: 28/10/2027
-  Data Final de Distribuição: 2023-04-21
-  ISIN: 
+  Código: 21J0989842
+    Data Final de Distribuição: "2022-11-01" => "2023-05-01"
 
   Código: 22J1107076
-  Emissor: OPEA SECURITIZADORA S/A
+    Remuneração: "100,00%  DI+3,00000%" => "100,00%  DI+4,00000%"
+
+  Código: 22B0338247
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-08-21" => "2023-02-21"
+
+3 rows added
+
+  Código: 22J0264219
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 79
+  N° da Emissão: 23
   N° da série: 1
-  Qtd Emitida: 80000
-  Volume Emissão: 80000000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2022-10-24
-  Data de Vencimento: 30/10/2030
+  Qtd Emitida: 32310
+  Volume Emissão: 32310000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 05/05/2028
   Data Final de Distribuição: 2023-04-21
   ISIN: 
 
-  Código: 19F0210886
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 7
+  Código: 22J1021044
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 28
   N° da série: 1
-  Qtd Emitida: 5000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2019-06-17
-  Data de Vencimento: 27/10/2022
-  Data Final de Distribuição: 2019-12-17
+  Qtd Emitida: 13400
+  Volume Emissão: 13400000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2022-10-24
+  Data de Vencimento: 28/10/2027
+  Data Final de Distribuição: 2023-04-25
   ISIN: 
 
-2 rows removed
+  Código: 22J1132284
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 98
+  N° da série: 1
+  Qtd Emitida: 120000
+  Volume Emissão: 120000000.0
+  Remuneração: IPCA+8,85000%
+  Data de Emissão: 2022-10-21
+  Data de Vencimento: 27/03/2027
+  Data Final de Distribuição: 2023-04-21
+  ISIN: BRVERTCRI529
 
-  Código: 13F0062455
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+1 row removed
+
+  Código: 21L1280777
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 89
-  Qtd Emitida: 27
-  Volume Emissão: 9082311.03
-  Remuneração: IPCA+6,17000%
-  Data de Emissão: 2013-06-17
-  Data de Vencimento: 17/01/2029
-  Data Final de Distribuição: 2013-12-14
-  ISIN: BRRBRACRI2B7
-
-  Código: 18F0924515
-  Emissor: PLANETA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 4
-  N° da série: 109
-  Qtd Emitida: 802
-  Volume Emissão: 101234495.1
-  Remuneração: 
-  Data de Emissão: 2018-06-20
-  Data de Vencimento: 20/04/2025
-  Data Final de Distribuição: 2018-12-21
-  ISIN:
+  N° da série: 311
+  Qtd Emitida: 53000
+  Volume Emissão: 53000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2021-12-30
+  Data de Vencimento: 07/12/2033
+  Data Final de Distribuição: 2022-06-10
+  ISIN: BRHBSCCRI817
