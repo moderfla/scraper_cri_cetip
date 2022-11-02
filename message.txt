@@ -1,72 +1,39 @@
-4 rows changed, 3 rows added, 1 row removed
+2 rows changed, 1 row added, 1 row removed
 
-4 rows changed
+2 rows changed
 
-  Código: 21J0989453
-    Data Final de Distribuição: "2022-11-01" => "2023-05-01"
+  Código: 22A0759361
+    Data Final de Distribuição: "2022-07-07" => "2023-01-07"
 
-  Código: 21J0989842
-    Data Final de Distribuição: "2022-11-01" => "2023-05-01"
+  Código: 18L1210133
+    Remuneração: "100,00%  DI+3,00000%" => "IPCA+7,65000%"
 
-  Código: 22J1107076
-    Remuneração: "100,00%  DI+3,00000%" => "100,00%  DI+4,00000%"
+1 row added
 
-  Código: 22B0338247
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-08-21" => "2023-02-21"
-
-3 rows added
-
-  Código: 22J0264219
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 23
-  N° da série: 1
-  Qtd Emitida: 32310
-  Volume Emissão: 32310000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2022-10-21
-  Data de Vencimento: 05/05/2028
-  Data Final de Distribuição: 2023-04-21
-  ISIN: 
-
-  Código: 22J1021044
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 28
-  N° da série: 1
-  Qtd Emitida: 13400
-  Volume Emissão: 13400000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-10-24
-  Data de Vencimento: 28/10/2027
-  Data Final de Distribuição: 2023-04-25
-  ISIN: 
-
-  Código: 22J1132284
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 22I1423499
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 98
+  N° da Emissão: 80
   N° da série: 1
-  Qtd Emitida: 120000
-  Volume Emissão: 120000000.0
-  Remuneração: IPCA+8,85000%
-  Data de Emissão: 2022-10-21
-  Data de Vencimento: 27/03/2027
-  Data Final de Distribuição: 2023-04-21
-  ISIN: BRVERTCRI529
+  Qtd Emitida: 80000
+  Volume Emissão: 80000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-10-26
+  Data de Vencimento: 22/10/2037
+  Data Final de Distribuição: 2023-04-10
+  ISIN: BRAPCSCRIFP7
 
 1 row removed
 
-  Código: 21L1280777
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 22I0149811
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 311
-  Qtd Emitida: 53000
-  Volume Emissão: 53000000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2021-12-30
-  Data de Vencimento: 07/12/2033
-  Data Final de Distribuição: 2022-06-10
-  ISIN: BRHBSCCRI817
+  N° da Emissão: 56
+  N° da série: 2
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2022-09-01
+  Data de Vencimento: 24/08/2027
+  Data Final de Distribuição: 2023-03-06
+  ISIN:
