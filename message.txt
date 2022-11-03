@@ -1,29 +1,29 @@
-2 rows changed, 1 row added, 1 row removed
+7 rows changed, 2 rows added
 
-2 rows changed
+7 rows changed
 
-  Código: 22A0759361
-    Data Final de Distribuição: "2022-07-07" => "2023-01-07"
+  Código: 22I1049939
+    ISIN: "" => "BRCASCCRI083"
 
-  Código: 18L1210133
-    Remuneração: "100,00%  DI+3,00000%" => "IPCA+7,65000%"
+  Código: 22I1050562
+    ISIN: "" => "BRCASCCRI091"
 
-1 row added
+  Código: 22J1019802
+    ISIN: "" => "BRCASCCRI059"
 
-  Código: 22I1423499
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 80
-  N° da série: 1
-  Qtd Emitida: 80000
-  Volume Emissão: 80000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-10-26
-  Data de Vencimento: 22/10/2037
-  Data Final de Distribuição: 2023-04-10
-  ISIN: BRAPCSCRIFP7
+  Código: 22J1020128
+    ISIN: "" => "BRCASCCRI067"
 
-1 row removed
+  Código: 22J1203611
+    ISIN: "" => "BRCASCCRI075"
+
+  Código: 19J0265419
+    Agente Fiduciário: "PENTAGONO DTVM SA" => "VORTX DTVM S.A."
+
+  Código: 22D0002406
+    Data Final de Distribuição: "2022-09-14" => "2023-03-14"
+
+2 rows added
 
   Código: 22I0149811
   Emissor: OPEA SECURITIZADORA S/A
@@ -36,4 +36,17 @@
   Data de Emissão: 2022-09-01
   Data de Vencimento: 24/08/2027
   Data Final de Distribuição: 2023-03-06
+  ISIN: 
+
+  Código: 21H0849974
+  Emissor: PLANETA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 198
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2021-08-13
+  Data de Vencimento: 20/12/2035
+  Data Final de Distribuição: 2023-04-30
   ISIN:
