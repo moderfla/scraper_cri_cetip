@@ -1,52 +1,57 @@
-7 rows changed, 2 rows added
+3 rows added, 1 row removed
 
-7 rows changed
+3 rows added
 
-  Código: 22I1049939
-    ISIN: "" => "BRCASCCRI083"
-
-  Código: 22I1050562
-    ISIN: "" => "BRCASCCRI091"
-
-  Código: 22J1019802
-    ISIN: "" => "BRCASCCRI059"
-
-  Código: 22J1020128
-    ISIN: "" => "BRCASCCRI067"
-
-  Código: 22J1203611
-    ISIN: "" => "BRCASCCRI075"
-
-  Código: 19J0265419
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "VORTX DTVM S.A."
-
-  Código: 22D0002406
-    Data Final de Distribuição: "2022-09-14" => "2023-03-14"
-
-2 rows added
-
-  Código: 22I0149811
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 22H1237507
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 56
+  N° da Emissão: 20
   N° da série: 2
   Qtd Emitida: 5000
   Volume Emissão: 5000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2022-09-01
-  Data de Vencimento: 24/08/2027
-  Data Final de Distribuição: 2023-03-06
-  ISIN: 
-
-  Código: 21H0849974
-  Emissor: PLANETA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 198
-  Qtd Emitida: 9000
-  Volume Emissão: 9000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 20/12/2035
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-08-18
+  Data de Vencimento: 21/07/2027
   Data Final de Distribuição: 2023-04-30
-  ISIN:
+  ISIN: BRIMWLCRID64
+
+  Código: 22K0016381
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 29
+  N° da série: 1
+  Qtd Emitida: 13500
+  Volume Emissão: 13500000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2022-11-04
+  Data de Vencimento: 04/11/2032
+  Data Final de Distribuição: 2023-05-04
+  ISIN: BRIMWLCRIEP3
+
+  Código: 22K0016415
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 29
+  N° da série: 2
+  Qtd Emitida: 16500
+  Volume Emissão: 16500000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2022-11-04
+  Data de Vencimento: 06/12/2032
+  Data Final de Distribuição: 2023-05-04
+  ISIN: BRIMWLCRIEQ1
+
+1 row removed
+
+  Código: 18J0812914
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 160
+  Qtd Emitida: 62210
+  Volume Emissão: 62210000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2018-10-22
+  Data de Vencimento: 26/10/2022
+  Data Final de Distribuição: 2019-03-01
+  ISIN: BRAPCSCRI4L2
