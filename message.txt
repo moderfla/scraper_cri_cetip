@@ -1,55 +1,35 @@
-3 rows changed, 2 rows added, 1 row removed
+1 row changed, 2 rows added
 
-3 rows changed
+1 row changed
 
-  Código: 20G0720718
-    Remuneração: "" => "IPCA+12,00000%"
-
-  Código: 22I1515298
-    Remuneração: "IPCA+9,00000%" => "IPCA+9,17000%"
-
-  Código: 21J1022783
-    Remuneração: "IPCA+7,00000%" => "IPCA+7,90000%"
+  Código: 21L0823062
+    Remuneração: "100,00%  DI+4,75000%" => "100,00%  DI+5,00000%"
+    Data de Vencimento: "22/12/2026" => "24/09/2029"
 
 2 rows added
 
-  Código: 22J1206765
-  Emissor: BARI SECURITIZADORA S.A.
+  Código: 22J0344557
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 6
+  N° da Emissão: 56
   N° da série: 1
-  Qtd Emitida: 15040
-  Volume Emissão: 15040792.88
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2022-10-25
-  Data de Vencimento: 20/10/2031
-  Data Final de Distribuição: 2023-04-26
-  ISIN: BRASTECRI1O6
+  Qtd Emitida: 362300
+  Volume Emissão: 362300000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2022-10-15
+  Data de Vencimento: 15/10/2029
+  Data Final de Distribuição: 2023-04-14
+  ISIN: BRIMWLCRIEL2
 
-  Código: 22K0700672
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 15
-  N° da série: 1
-  Qtd Emitida: 20500
-  Volume Emissão: 20500000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2022-11-04
-  Data de Vencimento: 26/10/2026
-  Data Final de Distribuição: 2023-05-04
-  ISIN: 
-
-1 row removed
-
-  Código: 20I0000001
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 22J0344571
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 209
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+6,50000%
-  Data de Emissão: 2020-09-01
-  Data de Vencimento: 30/09/2025
-  Data Final de Distribuição: 2021-02-26
-  ISIN:
+  N° da Emissão: 56
+  N° da série: 2
+  Qtd Emitida: 37700
+  Volume Emissão: 37700000.0
+  Remuneração: IPCA+7,36790%
+  Data de Emissão: 2022-10-15
+  Data de Vencimento: 15/10/2029
+  Data Final de Distribuição: 2023-04-14
+  ISIN: BRIMWLCRIEM0
