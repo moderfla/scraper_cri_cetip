@@ -1,35 +1,70 @@
-1 row changed, 2 rows added
+4 rows added, 1 row removed
 
-1 row changed
+4 rows added
 
-  Código: 21L0823062
-    Remuneração: "100,00%  DI+4,75000%" => "100,00%  DI+5,00000%"
-    Data de Vencimento: "22/12/2026" => "24/09/2029"
-
-2 rows added
-
-  Código: 22J0344557
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 56
+  Código: 22J1411295
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
   N° da série: 1
-  Qtd Emitida: 362300
-  Volume Emissão: 362300000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2022-10-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2023-04-14
-  ISIN: BRIMWLCRIEL2
+  Qtd Emitida: 16689
+  Volume Emissão: 16689000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2022-10-31
+  Data de Vencimento: 23/10/2026
+  Data Final de Distribuição: 2023-04-30
+  ISIN: BRHBSCCRI9P1
 
-  Código: 22J0344571
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 56
+  Código: 22J1411297
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
   N° da série: 2
-  Qtd Emitida: 37700
-  Volume Emissão: 37700000.0
-  Remuneração: IPCA+7,36790%
-  Data de Emissão: 2022-10-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2023-04-14
-  ISIN: BRIMWLCRIEM0
+  Qtd Emitida: 15322
+  Volume Emissão: 15322000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2022-10-31
+  Data de Vencimento: 23/10/2026
+  Data Final de Distribuição: 2023-04-30
+  ISIN: BRHBSCCRI9Q9
+
+  Código: 22J1411298
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
+  N° da série: 3
+  Qtd Emitida: 16191
+  Volume Emissão: 16191000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2022-10-31
+  Data de Vencimento: 23/10/2026
+  Data Final de Distribuição: 2023-04-30
+  ISIN: BRHBSCCRI9R7
+
+  Código: 22J1411299
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 18
+  N° da série: 4
+  Qtd Emitida: 22798
+  Volume Emissão: 22798000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2022-10-31
+  Data de Vencimento: 23/10/2026
+  Data Final de Distribuição: 2023-04-30
+  ISIN: BRHBSCCRI9S5
+
+1 row removed
+
+  Código: 16H0210048
+  Emissor: POLO CAPITAL SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 44
+  Qtd Emitida: 38
+  Volume Emissão: 11400000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2016-08-19
+  Data de Vencimento: 10/11/2022
+  Data Final de Distribuição: 2017-02-15
+  ISIN:
