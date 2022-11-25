@@ -1,96 +1,83 @@
-4 rows changed, 6 rows added
+5 rows added, 1 row removed
 
-4 rows changed
+5 rows added
 
-  Código: 19J0265419
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "VORTX DTVM S.A."
-
-  Código: 21K0870291
-    Agente Fiduciário: "PLANNER CORRETORA DE VALORES S.A." => "PLANNER C V S/A"
-    Data Final de Distribuição: "2022-11-29" => "2023-05-29"
-
-  Código: 21E0823289
-    Data Final de Distribuição: "2022-12-04" => "2023-06-04"
-
-  Código: 21H0151494
-    ISIN: "BRIMWLCRA1U5" => "BRIMWLCRI8A4"
-
-6 rows added
-
-  Código: 22K1045233
+  Código: 22K1045039
   Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 112
+  N° da Emissão: 113
   N° da série: 1
-  Qtd Emitida: 18290
-  Volume Emissão: 18290473.39
-  Remuneração: IGP-M+8,20000%
+  Qtd Emitida: 16762
+  Volume Emissão: 16762173.17
+  Remuneração: IPCA+8,40000%
   Data de Emissão: 2022-11-25
-  Data de Vencimento: 10/05/2038
+  Data de Vencimento: 25/03/2038
   Data Final de Distribuição: 2023-05-17
-  ISIN: BRASTECRI0T7
+  ISIN: BRASTECRI1U3
 
-  Código: 22K0976239
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Código: 22J1411300
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 16
+  N° da Emissão: 1
+  N° da série: 332
+  Qtd Emitida: 13500
+  Volume Emissão: 13500000.0
+  Remuneração: 100,00%  DI+7,50000%
+  Data de Emissão: 2022-10-28
+  Data de Vencimento: 18/07/2023
+  Data Final de Distribuição: 2023-04-28
+  ISIN: BRHBSCCRI9O4
+
+  Código: 22K1159009
+  Emissor: OCTANTE SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 5
   N° da série: 1
+  Qtd Emitida: 18000
+  Volume Emissão: 18000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2022-11-22
+  Data de Vencimento: 29/10/2027
+  Data Final de Distribuição: 2023-04-03
+  ISIN: BROCTSCRI0A3
+
+  Código: 22K1159081
+  Emissor: OCTANTE SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 5
+  N° da série: 2
   Qtd Emitida: 12000
   Volume Emissão: 12000000.0
-  Remuneração: IPCA+9,75000%
-  Data de Emissão: 2022-11-08
-  Data de Vencimento: 22/10/2026
-  Data Final de Distribuição: 2023-05-09
-  ISIN: 
+  Remuneração: 100,00%  DI+7,50000%
+  Data de Emissão: 2022-11-22
+  Data de Vencimento: 29/10/2027
+  Data Final de Distribuição: 2023-04-03
+  ISIN: BROCTSCRI0B1
 
-  Código: 22K0065025
+  Código: 22K1158435
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 102
-  N° da série: 1
-  Qtd Emitida: 28000
-  Volume Emissão: 28000000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2022-11-21
-  Data de Vencimento: 22/11/2027
-  Data Final de Distribuição: 2023-05-17
-  ISIN: BRAPCSCRIFW3
+  N° da Emissão: 1
+  N° da série: 514
+  Qtd Emitida: 115
+  Volume Emissão: 11500000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2022-11-17
+  Data de Vencimento: 22/10/2037
+  Data Final de Distribuição: 2023-05-18
+  ISIN: BRAPCSCRIFV5
 
-  Código: 22K1108730
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 102
-  N° da série: 2
-  Qtd Emitida: 28000
-  Volume Emissão: 28000000.0
-  Remuneração: 1,00%  DI+4,50000%
-  Data de Emissão: 2022-11-21
-  Data de Vencimento: 23/11/2027
-  Data Final de Distribuição: 2023-05-17
-  ISIN: BRAPCSCRIFX1
+1 row removed
 
-  Código: 17G1674856
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 18C0765059
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 7
-  Qtd Emitida: 369
-  Volume Emissão: 18483737.09
-  Remuneração: IGP-M+11,00000%
-  Data de Emissão: 2017-07-17
-  Data de Vencimento: 07/10/2999
-  Data Final de Distribuição: 2018-01-05
-  ISIN: BRIMWLCRI146
-
-  Código: 17G1674859
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 8
-  Qtd Emitida: 1
-  Volume Emissão: 10000.0
-  Remuneração: IGP-M+11,00000%
-  Data de Emissão: 2017-07-17
-  Data de Vencimento: 07/10/2999
-  Data Final de Distribuição: 2018-01-05
-  ISIN: BRIMWLCRI153
+  N° da Emissão: 1
+  N° da série: 106
+  Qtd Emitida: 200000
+  Volume Emissão: 200000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2018-03-01
+  Data de Vencimento: 17/11/2022
+  Data Final de Distribuição: 2020-03-01
+  ISIN: BRHBSCCRI2H3
