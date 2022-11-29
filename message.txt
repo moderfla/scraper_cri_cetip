@@ -1,29 +1,57 @@
-3 rows changed, 1 row added
+2 rows added, 2 rows removed
 
-3 rows changed
+2 rows added
 
-  Código: 22K1045039
-    N° da Emissão: "113" => "1"
-    N° da série: "1" => "113"
-
-  Código: 22K1045233
-    N° da Emissão: "112" => "1"
-    N° da série: "1" => "112"
-
-  Código: 19E0966785
-    Remuneração: "IGP-M+15,00000%" => "IGP-M"
-
-1 row added
-
-  Código: 22K1319699
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 17
+  Código: 22K1319996
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
   N° da série: 1
-  Qtd Emitida: 16200
-  Volume Emissão: 16200000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2022-11-17
-  Data de Vencimento: 20/11/2025
-  Data Final de Distribuição: 2023-05-16
-  ISIN:
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+2,69000%
+  Data de Emissão: 2022-11-11
+  Data de Vencimento: 30/11/2027
+  Data Final de Distribuição: 2023-05-21
+  ISIN: BRAPCSCR0004
+
+  Código: 22K1320039
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 2
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: 100,00%  DI+2,69000%
+  Data de Emissão: 2022-11-11
+  Data de Vencimento: 30/11/2032
+  Data Final de Distribuição: 2023-05-21
+  ISIN: BRAPCSCR0012
+
+2 rows removed
+
+  Código: 19I0301816
+  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 1
+  N° da série: 29
+  Qtd Emitida: 34000000
+  Volume Emissão: 34000000.0
+  Remuneração: IPCA+7,00000%
+  Data de Emissão: 2019-09-20
+  Data de Vencimento: 20/11/2022
+  Data Final de Distribuição: 2021-09-20
+  ISIN: BRLGOSCRI0K6
+
+  Código: 19I0301867
+  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 1
+  N° da série: 30
+  Qtd Emitida: 6000000
+  Volume Emissão: 6000000.0
+  Remuneração: IPCA+40,30000%
+  Data de Emissão: 2019-09-20
+  Data de Vencimento: 20/11/2022
+  Data Final de Distribuição: 2021-10-20
+  ISIN: BRLGOSCRI0L4
