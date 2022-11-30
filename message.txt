@@ -1,57 +1,60 @@
-2 rows added, 2 rows removed
+1 row changed, 4 rows added
 
-2 rows added
+1 row changed
 
-  Código: 22K1319996
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PAVARINI DTVM LTDA
+  Código: 22E0854678
+    Data Final de Distribuição: "2022-11-16" => "2023-05-16"
+
+4 rows added
+
+  Código: 22K1363626
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
+  N° da série: 515
+  Qtd Emitida: 2864
+  Volume Emissão: 2864000.0
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2022-11-25
+  Data de Vencimento: 16/02/2052
+  Data Final de Distribuição: 2023-05-25
+  ISIN: BRRBRACRIFC5
+
+  Código: 22K1377349
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 81
   N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+2,69000%
-  Data de Emissão: 2022-11-11
-  Data de Vencimento: 30/11/2027
-  Data Final de Distribuição: 2023-05-21
-  ISIN: BRAPCSCR0004
+  Qtd Emitida: 32143
+  Volume Emissão: 32143000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2022-11-21
+  Data de Vencimento: 29/11/2030
+  Data Final de Distribuição: 2023-05-28
+  ISIN: 
 
-  Código: 22K1320039
+  Código: 22K1397969
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 78
+  N° da série: 1
+  Qtd Emitida: 103000
+  Volume Emissão: 103000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2022-11-22
+  Data de Vencimento: 17/11/2036
+  Data Final de Distribuição: 2023-03-27
+  ISIN: 
+
+  Código: 22K1360944
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 2
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: 100,00%  DI+2,69000%
-  Data de Emissão: 2022-11-11
-  Data de Vencimento: 30/11/2032
-  Data Final de Distribuição: 2023-05-21
-  ISIN: BRAPCSCR0012
-
-2 rows removed
-
-  Código: 19I0301816
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 1
-  N° da série: 29
-  Qtd Emitida: 34000000
-  Volume Emissão: 34000000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2019-09-20
-  Data de Vencimento: 20/11/2022
-  Data Final de Distribuição: 2021-09-20
-  ISIN: BRLGOSCRI0K6
-
-  Código: 19I0301867
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 1
-  N° da série: 30
-  Qtd Emitida: 6000000
-  Volume Emissão: 6000000.0
-  Remuneração: IPCA+40,30000%
-  Data de Emissão: 2019-09-20
-  Data de Vencimento: 20/11/2022
-  Data Final de Distribuição: 2021-10-20
-  ISIN: BRLGOSCRI0L4
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 84
+  N° da série: 1
+  Qtd Emitida: 94000
+  Volume Emissão: 94000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-11-25
+  Data de Vencimento: 16/11/2027
+  Data Final de Distribuição: 2023-04-04
+  ISIN: BRAPCSCRIFY9
