@@ -1,24 +1,63 @@
-2 rows changed, 1 row added
+5 rows changed, 2 rows added, 1 row removed
 
-2 rows changed
+5 rows changed
 
-  Código: 18H0250037
-    Data de Vencimento: "08/12/2022" => "05/03/2023"
+  Código: 22K1397969
+    ISIN: "" => "BRRBRACRIFA9"
 
-  Código: 17G0885490
-    Data de Vencimento: "10/12/2022" => "10/12/2023"
+  Código: 13L0019369
+    Remuneração: "DI+2,00000%" => ""
 
-1 row added
+  Código: 19K0008251
+    Qtd Emitida: "118000" => "200000"
+    Volume Emissão: "118000000.0" => "200000000.0"
+    Remuneração: "IPCA+5,05080%" => "IPCA+5,85000%"
 
-  Código: 22K1685406
+  Código: 20E0946112
+    Remuneração: "IGP-M+10,00000%" => ""
+
+  Código: 21E0517062
+    Remuneração: "IPCA+10,20000%" => ""
+
+2 rows added
+
+  Código: 22K1685394
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 21
+  N° da série: 1
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+10,25000%
+  Data de Emissão: 2022-11-28
+  Data de Vencimento: 27/05/2026
+  Data Final de Distribuição: 2023-05-28
+  ISIN: 
+
+  Código: 22K1689687
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 70
+  N° da Emissão: 67
   N° da série: 1
-  Qtd Emitida: 47000
-  Volume Emissão: 47000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2022-11-25
-  Data de Vencimento: 24/11/2032
-  Data Final de Distribuição: 2023-06-02
-  ISIN:
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: IPCA+1,00000%
+  Data de Emissão: 2022-11-30
+  Data de Vencimento: 16/11/2029
+  Data Final de Distribuição: 2023-05-17
+  ISIN: 
+
+1 row removed
+
+  Código: 19K0008273
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 241
+  Qtd Emitida: 82000
+  Volume Emissão: 82000000.0
+  Remuneração: IPCA+7,00000%
+  Data de Emissão: 2019-11-01
+  Data de Vencimento: 05/11/2026
+  Data Final de Distribuição: 2020-04-29
+  ISIN: BRAPCSCRI6F9
