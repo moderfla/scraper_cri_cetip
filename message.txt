@@ -1,25 +1,47 @@
-5 rows changed, 2 rows added, 1 row removed
+1 row added, 3 rows removed
 
-5 rows changed
+1 row added
 
-  Código: 22K1397969
-    ISIN: "" => "BRRBRACRIFA9"
+  Código: 22K1019759
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 93
+  N° da série: 1
+  Qtd Emitida: 13128
+  Volume Emissão: 13128000.0
+  Remuneração: IPCA+9,40000%
+  Data de Emissão: 2022-11-16
+  Data de Vencimento: 16/11/2027
+  Data Final de Distribuição: 2023-05-14
+  ISIN: BRAPCSCRIFU7
 
-  Código: 13L0019369
-    Remuneração: "DI+2,00000%" => ""
+3 rows removed
 
-  Código: 19K0008251
-    Qtd Emitida: "118000" => "200000"
-    Volume Emissão: "118000000.0" => "200000000.0"
-    Remuneração: "IPCA+5,05080%" => "IPCA+5,85000%"
+  Código: 22F0781905
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 5
+  N° da série: 1
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: 100,00%  DI+8,50000%
+  Data de Emissão: 2022-10-14
+  Data de Vencimento: 21/10/2025
+  Data Final de Distribuição: 2022-12-20
+  ISIN: BRASTECRI1B3
 
-  Código: 20E0946112
-    Remuneração: "IGP-M+10,00000%" => ""
-
-  Código: 21E0517062
-    Remuneração: "IPCA+10,20000%" => ""
-
-2 rows added
+  Código: 22F0782025
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 5
+  N° da série: 2
+  Qtd Emitida: 3500
+  Volume Emissão: 3500000.0
+  Remuneração: 100,00%  DI+8,50000%
+  Data de Emissão: 2022-10-14
+  Data de Vencimento: 21/10/2025
+  Data Final de Distribuição: 2022-12-20
+  ISIN: BRASTECRI1C1
 
   Código: 22K1685394
   Emissor: HABITASEC SECURITIZADORA S/A
@@ -32,32 +54,4 @@
   Data de Emissão: 2022-11-28
   Data de Vencimento: 27/05/2026
   Data Final de Distribuição: 2023-05-28
-  ISIN: 
-
-  Código: 22K1689687
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 67
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+1,00000%
-  Data de Emissão: 2022-11-30
-  Data de Vencimento: 16/11/2029
-  Data Final de Distribuição: 2023-05-17
-  ISIN: 
-
-1 row removed
-
-  Código: 19K0008273
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 241
-  Qtd Emitida: 82000
-  Volume Emissão: 82000000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2019-11-01
-  Data de Vencimento: 05/11/2026
-  Data Final de Distribuição: 2020-04-29
-  ISIN: BRAPCSCRI6F9
+  ISIN:
