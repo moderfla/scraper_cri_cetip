@@ -1,82 +1,167 @@
-3 rows changed, 4 rows added, 1 row removed
+1 row changed, 4 rows added, 8 rows removed
 
-3 rows changed
-
-  Código: 22F1106105
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2022-12-29" => "2023-06-29"
-
-  Código: 15L0542301
-    Remuneração: "IGP-M+15,00000%" => ""
+1 row changed
 
   Código: 19J0279390
-    Remuneração: "IPCA+11,00000%" => ""
+    Remuneração: "" => "100,00% DI"
+    Data de Vencimento: "12/12/2022" => "13/03/2023"
 
 4 rows added
 
-  Código: 22K1415873
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 89
+  Código: 22F0781905
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 5
   N° da série: 1
-  Qtd Emitida: 166727
-  Volume Emissão: 166727000.0
-  Remuneração: IPCA+10,32940%
-  Data de Emissão: 2022-11-23
-  Data de Vencimento: 15/12/2039
-  Data Final de Distribuição: 2023-05-23
-  ISIN: BRAPCSCRIG14
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: 100,00%  DI+8,50000%
+  Data de Emissão: 2022-10-14
+  Data de Vencimento: 21/10/2025
+  Data Final de Distribuição: 2022-12-20
+  ISIN: BRASTECRI1B3
 
-  Código: 22K1418733
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 81
-  N° da série: 1
-  Qtd Emitida: 153526
-  Volume Emissão: 153526000.0
-  Remuneração: IPCA+8,20770%
-  Data de Emissão: 2022-11-23
-  Data de Vencimento: 15/12/2038
-  Data Final de Distribuição: 2023-05-23
-  ISIN: BRAPCSCRIFZ6
-
-  Código: 22L0297413
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 70
-  N° da série: 1
-  Qtd Emitida: 166500
-  Volume Emissão: 166500000.0
-  Remuneração: 100,00%  DI+1,55000%
-  Data de Emissão: 2022-12-09
-  Data de Vencimento: 15/12/2027
-  Data Final de Distribuição: 2023-04-17
-  ISIN: BRAPCSCRIG22
-
-  Código: 22L0297660
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 70
+  Código: 22F0782025
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 5
   N° da série: 2
-  Qtd Emitida: 33500
-  Volume Emissão: 33500000.0
-  Remuneração: IPCA+7,65410%
-  Data de Emissão: 2022-12-09
-  Data de Vencimento: 17/12/2029
-  Data Final de Distribuição: 2023-04-17
-  ISIN: BRAPCSCRIG30
+  Qtd Emitida: 3500
+  Volume Emissão: 3500000.0
+  Remuneração: 100,00%  DI+8,50000%
+  Data de Emissão: 2022-10-14
+  Data de Vencimento: 21/10/2025
+  Data Final de Distribuição: 2022-12-20
+  ISIN: BRASTECRI1C1
 
-1 row removed
-
-  Código: 17I0904388
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
+  Código: 21F1150245
+  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
   N° da Emissão: 1
-  N° da série: 105
-  Qtd Emitida: 400000
-  Volume Emissão: 400000000.0
-  Remuneração: 97,50% DI
-  Data de Emissão: 2017-09-29
-  Data de Vencimento: 03/10/2023
-  Data Final de Distribuição: 2018-03-18
-  ISIN: BRAPCSCRI2U7
+  N° da série: 6
+  Qtd Emitida: 10500
+  Volume Emissão: 10500000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2021-06-18
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2023-01-12
+  ISIN: 
+
+  Código: 21F1150249
+  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 7
+  Qtd Emitida: 4500
+  Volume Emissão: 4500000.0
+  Remuneração: IPCA+13,50000%
+  Data de Emissão: 2021-06-18
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2023-01-12
+  ISIN: 
+
+8 rows removed
+
+  Código: 20I0596246
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 463
+  Qtd Emitida: 2610
+  Volume Emissão: 2610000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-03-10
+  ISIN: BRFSECCRICI2
+
+  Código: 20I0596266
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 465
+  Qtd Emitida: 1650
+  Volume Emissão: 1650000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-03-10
+  ISIN: BRFSECCRICK8
+
+  Código: 20I0596267
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 467
+  Qtd Emitida: 1560
+  Volume Emissão: 1560000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRFSECCRICM4
+
+  Código: 20I0596268
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 469
+  Qtd Emitida: 1500
+  Volume Emissão: 1500000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRFSECCRICO0
+
+  Código: 20I0596269
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 464
+  Qtd Emitida: 1740
+  Volume Emissão: 1740000.0
+  Remuneração: IGP-M+16,70000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-03-10
+  ISIN: BRFSECCRICJ0
+
+  Código: 20I0596270
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 466
+  Qtd Emitida: 1100
+  Volume Emissão: 1100000.0
+  Remuneração: IGP-M+16,70000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-03-10
+  ISIN: BRFSECCRICL6
+
+  Código: 20I0596271
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 468
+  Qtd Emitida: 1040
+  Volume Emissão: 1040000.0
+  Remuneração: IGP-M+16,70000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRFSECCRICN2
+
+  Código: 20I0596272
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 470
+  Qtd Emitida: 1000
+  Volume Emissão: 1000000.0
+  Remuneração: IGP-M+16,70000%
+  Data de Emissão: 2020-09-09
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRFSECCRICP7
