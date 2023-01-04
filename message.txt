@@ -1,13 +1,43 @@
+4 rows changed, 2 rows added
+
 4 rows changed
 
-  Código: 21L0848411
-    Data Final de Distribuição: "2022-06-15" => "2023-06-16"
+  Código: 21F0190224
+    ISIN: "" => "BRFSECCRIH03"
 
-  Código: 22F0756676
-    Data Final de Distribuição: "2022-12-13" => "2023-06-13"
+  Código: 22A0340098
+    Data Final de Distribuição: "2023-01-10" => "2023-07-10"
 
-  Código: 21L0866334
-    Data Final de Distribuição: "2022-06-17" => "2023-06-17"
+  Código: 22A0340101
+    Data Final de Distribuição: "2023-01-10" => "2023-07-10"
 
-  Código: 22L1469805
-    Remuneração: "IPCA+8,04910%" => "IPCA+8,04810%"
+  Código: 21G0708865
+    Data Final de Distribuição: "2022-07-22" => "2023-01-23"
+
+2 rows added
+
+  Código: 22L1562308
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 11
+  N° da série: 8
+  Qtd Emitida: 441
+  Volume Emissão: 441000.0
+  Remuneração: IPCA+15,00000%
+  Data de Emissão: 2022-12-29
+  Data de Vencimento: 22/05/2042
+  Data Final de Distribuição: 2023-06-03
+  ISIN: 
+
+  Código: 22L1562309
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 11
+  N° da série: 7
+  Qtd Emitida: 3970
+  Volume Emissão: 3970000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2022-12-29
+  Data de Vencimento: 22/05/2042
+  Data Final de Distribuição: 2023-06-03
+  ISIN:
