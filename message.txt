@@ -1,43 +1,50 @@
-4 rows changed, 2 rows added
+1 row changed, 1 row added, 2 rows removed
 
-4 rows changed
+1 row changed
 
-  Código: 21F0190224
-    ISIN: "" => "BRFSECCRIH03"
+  Código: 19K0008080
+    Qtd Emitida: "118000" => "200000"
+    Volume Emissão: "118000000.0" => "200000000.0"
 
-  Código: 22A0340098
-    Data Final de Distribuição: "2023-01-10" => "2023-07-10"
+1 row added
 
-  Código: 22A0340101
-    Data Final de Distribuição: "2023-01-10" => "2023-07-10"
-
-  Código: 21G0708865
-    Data Final de Distribuição: "2022-07-22" => "2023-01-23"
-
-2 rows added
-
-  Código: 22L1562308
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 22L1379490
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 11
-  N° da série: 8
-  Qtd Emitida: 441
-  Volume Emissão: 441000.0
-  Remuneração: IPCA+15,00000%
-  Data de Emissão: 2022-12-29
-  Data de Vencimento: 22/05/2042
-  Data Final de Distribuição: 2023-06-03
-  ISIN: 
+  N° da Emissão: 21
+  N° da série: 1
+  Qtd Emitida: 30438
+  Volume Emissão: 30438000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2022-12-22
+  Data de Vencimento: 02/01/2035
+  Data Final de Distribuição: 2023-06-20
+  ISIN: BRCASCCRI0C4
 
-  Código: 22L1562309
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 11
-  N° da série: 7
-  Qtd Emitida: 3970
-  Volume Emissão: 3970000.0
+2 rows removed
+
+  Código: 20D0824365
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 299
+  Qtd Emitida: 300000
+  Volume Emissão: 300000000.0
+  Remuneração: 100,00%  DI+1,55000%
+  Data de Emissão: 2020-04-15
+  Data de Vencimento: 17/04/2026
+  Data Final de Distribuição: 2020-10-15
+  ISIN: BRAPCSCRI7J9
+
+  Código: 21H0151494
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 303
+  Qtd Emitida: 31328
+  Volume Emissão: 31328000.0
   Remuneração: IPCA+8,00000%
-  Data de Emissão: 2022-12-29
-  Data de Vencimento: 22/05/2042
-  Data Final de Distribuição: 2023-06-03
-  ISIN:
+  Data de Emissão: 2021-08-13
+  Data de Vencimento: 17/09/2025
+  Data Final de Distribuição: 2022-02-16
+  ISIN: BRIMWLCRI8A4
