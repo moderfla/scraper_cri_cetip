@@ -1,65 +1,75 @@
-2 rows changed, 1 row added, 3 rows removed
+8 rows changed, 3 rows removed
 
-2 rows changed
+8 rows changed
 
-  Código: 21H0889518
-    Data Final de Distribuição: "2022-03-02" => "2023-03-02"
+  Código: 20F0736267
+    Remuneração: "IGP-M+9,25000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
 
-  Código: 19K0008080
-    Remuneração: "IPCA+5,05080%" => "IPCA+5,85000%"
+  Código: 20F0736275
+    Remuneração: "IGP-M+9,25000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
 
-1 row added
+  Código: 20F0736276
+    Remuneração: "IGP-M+9,25000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
 
-  Código: 22L1566114
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 71
-  N° da série: 2
-  Qtd Emitida: 10000
-  Volume Emissão: 7866875.98
-  Remuneração: IPCA+7,30000%
-  Data de Emissão: 2022-12-28
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-06-29
-  ISIN: BRAPCSCRIGC3
+  Código: 20F0736289
+    Remuneração: "IGP-M+13,00000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
+
+  Código: 20F0736290
+    Remuneração: "IGP-M+13,00000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
+
+  Código: 20F0736291
+    Remuneração: "IGP-M+13,00000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
+
+  Código: 20F0736292
+    Remuneração: "IGP-M+19,50000%" => "10,00000%"
+    Data de Vencimento: "20/12/2032" => "20/06/2037"
+
+  Código: 20B0849635
+    Remuneração: "IPCA+7,50000%" => ""
 
 3 rows removed
 
-  Código: 22K0660294
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 26
-  N° da série: 1
-  Qtd Emitida: 34050
-  Volume Emissão: 34050000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2022-11-07
-  Data de Vencimento: 27/10/2026
-  Data Final de Distribuição: 2023-05-07
-  ISIN: 
+  Código: 20A0813344
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 365
+  Qtd Emitida: 21000
+  Volume Emissão: 21000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2020-01-10
+  Data de Vencimento: 20/02/2026
+  Data Final de Distribuição: 2020-07-10
+  ISIN: BRFSECCRI9X4
 
-  Código: 19I0341801
+  Código: 20A0813348
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 364
+  Qtd Emitida: 49000
+  Volume Emissão: 49000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2020-01-10
+  Data de Vencimento: 20/02/2026
+  Data Final de Distribuição: 2020-07-10
+  ISIN: BRFSECCRI9W6
+
+  Código: 19J0714175
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 192
-  Qtd Emitida: 18600
-  Volume Emissão: 18600000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2019-09-23
-  Data de Vencimento: 12/03/2032
-  Data Final de Distribuição: 2020-03-27
-  ISIN: BRAPCSCRI606
-
-  Código: 19K0008228
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 239
-  Qtd Emitida: 82000
-  Volume Emissão: 82000000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2019-11-01
-  Data de Vencimento: 05/11/2026
-  Data Final de Distribuição: 2020-04-29
-  ISIN: BRAPCSCRI6C6
+  N° da série: 235
+  Qtd Emitida: 160000
+  Volume Emissão: 160000000.0
+  Remuneração: 100,00%  DI+2,50000%
+  Data de Emissão: 2019-11-29
+  Data de Vencimento: 15/12/2023
+  Data Final de Distribuição: 2020-04-24
+  ISIN: BRAPCSCRI5Z9
