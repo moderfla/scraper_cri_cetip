@@ -1,71 +1,21 @@
-4 rows changed, 4 rows added
+1 row changed, 1 row added
 
-4 rows changed
+1 row changed
 
-  Código: 19K0175216
-    Remuneração: "" => "IPCA+11,32000%"
-    Data de Vencimento: "20/11/2022" => "20/11/2023"
+  Código: 22L1357824
+    Data de Vencimento: "18/12/2029" => "19/12/2029"
 
-  Código: 19K0175217
-    Remuneração: "" => "IPCA+18,00000%"
-    Data de Vencimento: "20/11/2022" => "20/11/2023"
+1 row added
 
-  Código: 20A1026890
-    Data de Vencimento: "25/01/2023" => "25/04/2023"
-
-  Código: 22K1108730
-    Remuneração: "1,00%  DI+4,50000%" => "100,00%  DI+4,50000%"
-
-4 rows added
-
-  Código: 23A0297064
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 27
+  Código: 22L1467751
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 109
   N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+8,14000%
-  Data de Emissão: 2023-01-06
-  Data de Vencimento: 18/12/2035
-  Data Final de Distribuição: 2023-06-23
-  ISIN: 
-
-  Código: 22K1692411
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 104
-  N° da série: 1
-  Qtd Emitida: 90000
-  Volume Emissão: 90000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2022-11-16
-  Data de Vencimento: 16/11/2028
-  Data Final de Distribuição: 2023-05-23
-  ISIN: BRAPCSCRIGF6
-
-  Código: 22L1668408
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 91
-  N° da série: 1
-  Qtd Emitida: 200000
-  Volume Emissão: 200000000.0
-  Remuneração: IPCA+8,22480%
-  Data de Emissão: 2022-12-21
-  Data de Vencimento: 21/12/2034
-  Data Final de Distribuição: 2023-04-18
-  ISIN: BRAPCSCRIGG4
-
-  Código: 22L1418320
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 103
-  N° da série: 1
-  Qtd Emitida: 58838667
-  Volume Emissão: 58838667.0
-  Remuneração: IPCA+0,50000%
-  Data de Emissão: 2022-12-22
-  Data de Vencimento: 20/12/2029
-  Data Final de Distribuição: 2023-06-23
-  ISIN: BRVERTCRI5I5
+  Qtd Emitida: 30687
+  Volume Emissão: 30687000.0
+  Remuneração: 100,00%  DI+2,00000%
+  Data de Emissão: 2023-01-13
+  Data de Vencimento: 28/01/2026
+  Data Final de Distribuição: 2023-06-06
+  ISIN:
