@@ -1,21 +1,14 @@
-1 row changed, 1 row added
-
-1 row changed
-
-  Código: 22L1357824
-    Data de Vencimento: "18/12/2029" => "19/12/2029"
-
 1 row added
 
-  Código: 22L1467751
+  Código: 23A0370414
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 109
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 115
   N° da série: 1
-  Qtd Emitida: 30687
-  Volume Emissão: 30687000.0
-  Remuneração: 100,00%  DI+2,00000%
-  Data de Emissão: 2023-01-13
-  Data de Vencimento: 28/01/2026
-  Data Final de Distribuição: 2023-06-06
+  Qtd Emitida: 465000
+  Volume Emissão: 465000000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2023-01-06
+  Data de Vencimento: 24/01/2028
+  Data Final de Distribuição: 2023-06-29
   ISIN:
