@@ -1,34 +1,19 @@
-1 row changed, 2 rows added
+6 rows changed
 
-1 row changed
+  Código: 21F1150245
+    Data Final de Distribuição: "2023-01-12" => "2023-07-12"
 
-  Código: 21L0143115
-    Remuneração: "IPCA+7,50000%" => "IPCA+6,50000%"
+  Código: 21F1150249
+    Data Final de Distribuição: "2023-01-12" => "2023-07-12"
 
-2 rows added
+  Código: 21G0613884
+    Data Final de Distribuição: "2023-01-23" => "2023-07-23"
 
-  Código: 23A0006401
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 25
-  N° da série: 1
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: IGP-M+10,00000%
-  Data de Emissão: 2023-01-03
-  Data de Vencimento: 27/12/2034
-  Data Final de Distribuição: 2023-06-30
-  ISIN: 
+  Código: 21G0613961
+    Data Final de Distribuição: "2023-01-23" => "2023-07-23"
 
-  Código: 23A0006402
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 25
-  N° da série: 2
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: IGP-M+10,00000%
-  Data de Emissão: 2023-01-03
-  Data de Vencimento: 27/12/2034
-  Data Final de Distribuição: 2023-06-30
-  ISIN:
+  Código: 22A0731741
+    Data Final de Distribuição: "2023-01-17" => "2023-07-17"
+
+  Código: 22F1359784
+    Data Final de Distribuição: "2023-01-07" => "2023-07-07"
