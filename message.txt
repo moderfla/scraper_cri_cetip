@@ -1,34 +1,27 @@
-5 rows changed, 1 row added
+3 rows changed, 1 row added
 
-5 rows changed
+3 rows changed
 
-  Código: 22A0933881
+  Código: 22G1038316
     Data Final de Distribuição: "2023-01-27" => "2023-07-27"
 
-  Código: 22A0933884
-    Data Final de Distribuição: "2023-01-27" => "2023-07-27"
+  Código: 21H0891311
+    Remuneração: "IPCA+10,75000%" => "IPCA+12,00000%"
 
-  Código: 22G1046910
-    Data Final de Distribuição: "2023-01-25" => "2023-07-25"
-
-  Código: 22G1225382
-    Data Final de Distribuição: "2023-01-25" => "2023-07-25"
-
-  Código: 22E0108274
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-11-03" => "2023-05-03"
+  Código: 21H0891390
+    Remuneração: "IPCA+10,75000%" => "IPCA+12,00000%"
 
 1 row added
 
-  Código: 22E0108325
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 23A1225575
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 9
-  N° da série: 2
-  Qtd Emitida: 7200
-  Volume Emissão: 7200000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2022-05-03
-  Data de Vencimento: 21/05/2025
-  Data Final de Distribuição: 2023-05-03
-  ISIN: BRIMWLCRIC73
+  N° da Emissão: 43
+  N° da série: 1
+  Qtd Emitida: 53300
+  Volume Emissão: 53300000.0
+  Remuneração: IPCA+10,75000%
+  Data de Emissão: 2023-01-16
+  Data de Vencimento: 31/12/2037
+  Data Final de Distribuição: 2023-06-29
+  ISIN: BRRBRACRIGL4
