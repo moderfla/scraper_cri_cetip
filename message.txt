@@ -1,27 +1,27 @@
-3 rows changed, 1 row added
+2 rows removed
 
-3 rows changed
+  Código: 19A0625067
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 131
+  Qtd Emitida: 38000
+  Volume Emissão: 38000000.0
+  Remuneração: 100,00%  DI+2,50000%
+  Data de Emissão: 2019-01-10
+  Data de Vencimento: 17/01/2023
+  Data Final de Distribuição: 2019-07-12
+  ISIN: BRHBSCCRI312
 
-  Código: 22G1038316
-    Data Final de Distribuição: "2023-01-27" => "2023-07-27"
-
-  Código: 21H0891311
-    Remuneração: "IPCA+10,75000%" => "IPCA+12,00000%"
-
-  Código: 21H0891390
-    Remuneração: "IPCA+10,75000%" => "IPCA+12,00000%"
-
-1 row added
-
-  Código: 23A1225575
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 43
-  N° da série: 1
-  Qtd Emitida: 53300
-  Volume Emissão: 53300000.0
-  Remuneração: IPCA+10,75000%
-  Data de Emissão: 2023-01-16
-  Data de Vencimento: 31/12/2037
-  Data Final de Distribuição: 2023-06-29
-  ISIN: BRRBRACRIGL4
+  Código: 16G0500404
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 74
+  Qtd Emitida: 8500
+  Volume Emissão: 85000000.0
+  Remuneração: IPCA+9,32000%
+  Data de Emissão: 2016-07-07
+  Data de Vencimento: 19/07/2024
+  Data Final de Distribuição: 2017-03-16
+  ISIN: BRAPCSCRI226
