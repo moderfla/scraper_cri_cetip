@@ -1,27 +1,56 @@
-2 rows removed
+11 rows changed, 1 row removed
 
-  Código: 19A0625067
+11 rows changed
+
+  Código: 22A1099770
+    Data Final de Distribuição: "2023-01-31" => "2023-07-31"
+
+  Código: 22A1099922
+    Data Final de Distribuição: "2023-01-31" => "2023-07-31"
+
+  Código: 21H0976116
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-08-25" => "2023-09-01"
+
+  Código: 22G1110098
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-02-01" => "2023-08-01"
+
+  Código: 22G1110109
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-02-01" => "2023-08-01"
+
+  Código: 21G0856704
+    Remuneração: "IPCA+8,00000%" => "IPCA+7,50000%"
+
+  Código: 22C0509668
+    Remuneração: "IPCA+9,00000%" => "IPCA+10,50000%"
+
+  Código: 22G0961446
+    Data Final de Distribuição: "2023-01-20" => "2023-07-20"
+
+  Código: 22G0961469
+    Data Final de Distribuição: "2023-01-20" => "2023-07-20"
+
+  Código: 21F0879592
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-06-15" => "2023-06-15"
+
+  Código: 21F0880793
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2022-06-15" => "2023-06-15"
+
+1 row removed
+
+  Código: 21E0823280
   Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 131
-  Qtd Emitida: 38000
-  Volume Emissão: 38000000.0
-  Remuneração: 100,00%  DI+2,50000%
-  Data de Emissão: 2019-01-10
-  Data de Vencimento: 17/01/2023
-  Data Final de Distribuição: 2019-07-12
-  ISIN: BRHBSCCRI312
-
-  Código: 16G0500404
-  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 74
-  Qtd Emitida: 8500
-  Volume Emissão: 85000000.0
-  Remuneração: IPCA+9,32000%
-  Data de Emissão: 2016-07-07
-  Data de Vencimento: 19/07/2024
-  Data Final de Distribuição: 2017-03-16
-  ISIN: BRAPCSCRI226
+  N° da série: 229
+  Qtd Emitida: 29000
+  Volume Emissão: 29000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2021-05-28
+  Data de Vencimento: 18/06/2023
+  Data Final de Distribuição: 2021-12-09
+  ISIN: BRHBSCCRI6K8
