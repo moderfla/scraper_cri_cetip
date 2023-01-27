@@ -1,56 +1,36 @@
-11 rows changed, 1 row removed
+6 rows changed, 1 row added
 
-11 rows changed
+6 rows changed
 
-  Código: 22A1099770
-    Data Final de Distribuição: "2023-01-31" => "2023-07-31"
+  Código: 21E0630613
+    Data de Vencimento: "27/01/2023" => "07/03/2023"
 
-  Código: 22A1099922
-    Data Final de Distribuição: "2023-01-31" => "2023-07-31"
+  Código: 21E0631138
+    Data de Vencimento: "27/01/2023" => "07/03/2023"
 
-  Código: 21H0976116
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-08-25" => "2023-09-01"
+  Código: 21L0967725
+    Data Final de Distribuição: "2022-06-20" => "2023-06-20"
 
-  Código: 22G1110098
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-02-01" => "2023-08-01"
+  Código: 11F0013690
+    Emissor: "BRAZIL REALTY CIA SECURITIZADORA DE CREDITOS IMOBILIARIOS" => "SECME ? COMPANHIA SECURITIZADORA DE CREDITOS IMOBILIARIOS"
 
-  Código: 22G1110109
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-02-01" => "2023-08-01"
+  Código: 19I0331635
+    Emissor: "BRAZIL REALTY CIA SECURITIZADORA DE CREDITOS IMOBILIARIOS" => "SECME ? COMPANHIA SECURITIZADORA DE CREDITOS IMOBILIARIOS"
 
-  Código: 21G0856704
-    Remuneração: "IPCA+8,00000%" => "IPCA+7,50000%"
+  Código: 22G1165919
+    Data Final de Distribuição: "2023-01-29" => "2023-07-29"
 
-  Código: 22C0509668
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,50000%"
+1 row added
 
-  Código: 22G0961446
-    Data Final de Distribuição: "2023-01-20" => "2023-07-20"
-
-  Código: 22G0961469
-    Data Final de Distribuição: "2023-01-20" => "2023-07-20"
-
-  Código: 21F0879592
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-06-15" => "2023-06-15"
-
-  Código: 21F0880793
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2022-06-15" => "2023-06-15"
-
-1 row removed
-
-  Código: 21E0823280
+  Código: 21L0967448
   Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 229
-  Qtd Emitida: 29000
-  Volume Emissão: 29000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2021-05-28
-  Data de Vencimento: 18/06/2023
-  Data Final de Distribuição: 2021-12-09
-  ISIN: BRHBSCCRI6K8
+  N° da série: 297
+  Qtd Emitida: 6500
+  Volume Emissão: 6500000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2021-12-20
+  Data de Vencimento: 24/12/2024
+  Data Final de Distribuição: 2023-06-29
+  ISIN: BRHBSCCRI7P5
