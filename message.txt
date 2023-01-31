@@ -1,39 +1,7 @@
-2 rows changed, 1 row added, 1 row removed
-
 2 rows changed
 
-  Código: 22C1012859
-    Remuneração: "IPCA+10,43000%" => "IPCA+10,71440%"
+  Código: 22G1233040
+    Data Final de Distribuição: "2023-02-04" => "2023-08-04"
 
-  Código: 21B0695399
-    Remuneração: "0,00010%" => "IPCA+0,00010%"
-
-1 row added
-
-  Código: 23A1407158
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 116
-  N° da série: 1
-  Qtd Emitida: 22000
-  Volume Emissão: 22000000.0
-  Remuneração: IPCA+7,60000%
-  Data de Emissão: 2023-01-19
-  Data de Vencimento: 13/01/2030
-  Data Final de Distribuição: 2023-06-24
-  ISIN: 
-
-1 row removed
-
-  Código: 19J0030639
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 3
-  Qtd Emitida: 16000
-  Volume Emissão: 16000000.0
-  Remuneração: IGP-M+13,50000%
-  Data de Emissão: 2019-10-01
-  Data de Vencimento: 20/01/2023
-  Data Final de Distribuição: 2020-04-02
-  ISIN: BRASPRCRI042
+  Código: 22G1233041
+    Data Final de Distribuição: "2023-02-04" => "2023-08-04"
