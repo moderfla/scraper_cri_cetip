@@ -1,25 +1,47 @@
-2 rows changed, 1 row added
+1 row changed, 3 rows removed
 
-2 rows changed
+1 row changed
 
-  Código: 22E1284824
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2022-12-06" => "2023-06-06"
+  Código: 21G0864353
+    Data Final de Distribuição: "2023-02-12" => "2023-08-12"
 
-  Código: 22F0636862
-    ISIN: "" => "BRRBRACRICH1"
+3 rows removed
 
-1 row added
+  Código: 21K0633203
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: GDC PARTNERS DTVM LTDA
+  N° da Emissão: 2
+  N° da série: 24
+  Qtd Emitida: 61000
+  Volume Emissão: 61000000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2021-11-10
+  Data de Vencimento: 19/11/2031
+  Data Final de Distribuição: 2022-05-24
+  ISIN: BRREICCRI0G6
 
-  Código: 23A1668708
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 31
+  Código: 21K0633546
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: GDC PARTNERS DTVM LTDA
+  N° da Emissão: 2
+  N° da série: 25
+  Qtd Emitida: 11000
+  Volume Emissão: 11000000.0
+  Remuneração: IPCA+15,00000%
+  Data de Emissão: 2021-11-10
+  Data de Vencimento: 19/11/2031
+  Data Final de Distribuição: 2022-05-24
+  ISIN: BRREICCRI0H4
+
+  Código: 19I0331635
+  Emissor: SECME ? COMPANHIA SECURITIZADORA DE CREDITOS IMOBILIARIOS
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 10
   N° da série: 1
-  Qtd Emitida: 53124
-  Volume Emissão: 53124000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-01-27
-  Data de Vencimento: 30/01/2029
-  Data Final de Distribuição: 2023-07-26
-  ISIN:
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: 
+  Data de Emissão: 2019-09-25
+  Data de Vencimento: 28/12/2022
+  Data Final de Distribuição: 2021-03-24
+  ISIN: BRBZRSCRI0C9
