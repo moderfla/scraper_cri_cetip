@@ -1,47 +1,70 @@
-1 row changed, 3 rows removed
+2 rows added, 3 rows removed
 
-1 row changed
+2 rows added
 
-  Código: 21G0864353
-    Data Final de Distribuição: "2023-02-12" => "2023-08-12"
+  Código: 23A1615602
+  Emissor: OCTANTE SECURITIZADORA S/A
+  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 1
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2023-01-27
+  Data de Vencimento: 05/02/2027
+  Data Final de Distribuição: 2023-05-07
+  ISIN: BROCTSCR0004
+
+  Código: 23A1610639
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 1
+  Qtd Emitida: 171042
+  Volume Emissão: 171042000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-01-26
+  Data de Vencimento: 16/12/2032
+  Data Final de Distribuição: 2023-07-31
+  ISIN: BRREICCRI0J0
 
 3 rows removed
 
-  Código: 21K0633203
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: GDC PARTNERS DTVM LTDA
-  N° da Emissão: 2
-  N° da série: 24
-  Qtd Emitida: 61000
-  Volume Emissão: 61000000.0
-  Remuneração: IPCA+8,75000%
-  Data de Emissão: 2021-11-10
-  Data de Vencimento: 19/11/2031
-  Data Final de Distribuição: 2022-05-24
-  ISIN: BRREICCRI0G6
+  Código: 19D0515876
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 138
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2019-04-09
+  Data de Vencimento: 10/04/2023
+  Data Final de Distribuição: 2019-10-10
+  ISIN: BRHBSCCRI338
 
-  Código: 21K0633546
+  Código: 19E0309762
   Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: GDC PARTNERS DTVM LTDA
+  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
   N° da Emissão: 2
-  N° da série: 25
-  Qtd Emitida: 11000
-  Volume Emissão: 11000000.0
-  Remuneração: IPCA+15,00000%
-  Data de Emissão: 2021-11-10
-  Data de Vencimento: 19/11/2031
-  Data Final de Distribuição: 2022-05-24
-  ISIN: BRREICCRI0H4
+  N° da série: 19
+  Qtd Emitida: 29
+  Volume Emissão: 10177232.19
+  Remuneração: IGP-M+9,00000%
+  Data de Emissão: 2019-05-15
+  Data de Vencimento: 15/12/2026
+  Data Final de Distribuição: 2019-11-20
+  ISIN: 
 
-  Código: 19I0331635
-  Emissor: SECME ? COMPANHIA SECURITIZADORA DE CREDITOS IMOBILIARIOS
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 10
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 
-  Data de Emissão: 2019-09-25
-  Data de Vencimento: 28/12/2022
-  Data Final de Distribuição: 2021-03-24
-  ISIN: BRBZRSCRI0C9
+  Código: 19E0959096
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
+  N° da Emissão: 2
+  N° da série: 18
+  Qtd Emitida: 57670
+  Volume Emissão: 57670982.45
+  Remuneração: IGP-M+9,00000%
+  Data de Emissão: 2019-05-15
+  Data de Vencimento: 15/12/2026
+  Data Final de Distribuição: 2019-11-20
+  ISIN: BRREICCRI0A9
