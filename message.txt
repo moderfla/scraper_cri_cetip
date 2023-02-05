@@ -1,70 +1,13 @@
-2 rows added, 3 rows removed
+4 rows changed
 
-2 rows added
+  Código: 22A0883824
+    Data Final de Distribuição: "2022-07-25" => "2023-07-25"
 
-  Código: 23A1615602
-  Emissor: OCTANTE SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 1
-  Qtd Emitida: 35000
-  Volume Emissão: 35000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-01-27
-  Data de Vencimento: 05/02/2027
-  Data Final de Distribuição: 2023-05-07
-  ISIN: BROCTSCR0004
+  Código: 22A0884066
+    Data Final de Distribuição: "2023-01-25" => "2023-07-25"
 
-  Código: 23A1610639
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 1
-  Qtd Emitida: 171042
-  Volume Emissão: 171042000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2023-01-26
-  Data de Vencimento: 16/12/2032
-  Data Final de Distribuição: 2023-07-31
-  ISIN: BRREICCRI0J0
+  Código: 21F0880938
+    Remuneração: "IPCA+8,00000%" => "IPCA+9,00000%"
 
-3 rows removed
-
-  Código: 19D0515876
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 138
-  Qtd Emitida: 15000
-  Volume Emissão: 15000000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2019-04-09
-  Data de Vencimento: 10/04/2023
-  Data Final de Distribuição: 2019-10-10
-  ISIN: BRHBSCCRI338
-
-  Código: 19E0309762
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
-  N° da Emissão: 2
-  N° da série: 19
-  Qtd Emitida: 29
-  Volume Emissão: 10177232.19
-  Remuneração: IGP-M+9,00000%
-  Data de Emissão: 2019-05-15
-  Data de Vencimento: 15/12/2026
-  Data Final de Distribuição: 2019-11-20
-  ISIN: 
-
-  Código: 19E0959096
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
-  N° da Emissão: 2
-  N° da série: 18
-  Qtd Emitida: 57670
-  Volume Emissão: 57670982.45
-  Remuneração: IGP-M+9,00000%
-  Data de Emissão: 2019-05-15
-  Data de Vencimento: 15/12/2026
-  Data Final de Distribuição: 2019-11-20
-  ISIN: BRREICCRI0A9
+  Código: 21G0708865
+    Data Final de Distribuição: "2023-01-23" => "2023-07-23"
