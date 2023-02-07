@@ -1,13 +1,34 @@
-4 rows changed
+1 row changed, 2 rows added
 
-  Código: 22A0883824
-    Data Final de Distribuição: "2022-07-25" => "2023-07-25"
+1 row changed
 
-  Código: 22A0884066
-    Data Final de Distribuição: "2023-01-25" => "2023-07-25"
+  Código: 22E1313665
+    Data de Vencimento: "15/06/2027" => "24/06/2027"
 
-  Código: 21F0880938
-    Remuneração: "IPCA+8,00000%" => "IPCA+9,00000%"
+2 rows added
 
-  Código: 21G0708865
-    Data Final de Distribuição: "2023-01-23" => "2023-07-23"
+  Código: 23A1564492
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 5
+  N° da série: 2
+  Qtd Emitida: 31250
+  Volume Emissão: 31250000.0
+  Remuneração: INCC-DI+9,00000%
+  Data de Emissão: 2023-01-24
+  Data de Vencimento: 22/12/2026
+  Data Final de Distribuição: 2023-08-05
+  ISIN: BRASPRCRI0Q2
+
+  Código: 23A1687794
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 127
+  N° da série: 1
+  Qtd Emitida: 23986
+  Volume Emissão: 23986000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2023-01-23
+  Data de Vencimento: 11/02/2041
+  Data Final de Distribuição: 2023-06-29
+  ISIN: BRAPCSCRIGO8
