@@ -1,34 +1,48 @@
-1 row changed, 2 rows added
+5 rows changed, 2 rows added
 
-1 row changed
+5 rows changed
 
-  Código: 22E1313665
-    Data de Vencimento: "15/06/2027" => "24/06/2027"
+  Código: 22B0512752
+    Data Final de Distribuição: "2023-02-24" => "2023-08-24"
+
+  Código: 22H1140550
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-02-16" => "2023-08-16"
+
+  Código: 22H1319855
+    Data Final de Distribuição: "2023-02-18" => "2023-08-18"
+
+  Código: 22H1320252
+    Data Final de Distribuição: "2023-02-18" => "2023-08-18"
+
+  Código: 22H1389755
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-02-22" => "2023-08-22"
 
 2 rows added
 
-  Código: 23A1564492
+  Código: 23A1772203
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 29
+  N° da série: 1
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2023-01-24
+  Data de Vencimento: 25/01/2032
+  Data Final de Distribuição: 2023-06-29
+  ISIN: 
+
+  Código: 23A1562875
   Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 5
-  N° da série: 2
+  N° da série: 1
   Qtd Emitida: 31250
   Volume Emissão: 31250000.0
-  Remuneração: INCC-DI+9,00000%
+  Remuneração: INCC-DI+11,25000%
   Data de Emissão: 2023-01-24
   Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-08-05
-  ISIN: BRASPRCRI0Q2
-
-  Código: 23A1687794
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 127
-  N° da série: 1
-  Qtd Emitida: 23986
-  Volume Emissão: 23986000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2023-01-23
-  Data de Vencimento: 11/02/2041
-  Data Final de Distribuição: 2023-06-29
-  ISIN: BRAPCSCRIGO8
+  Data Final de Distribuição: 2023-08-06
+  ISIN: BRASPRCRI0P4
