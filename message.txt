@@ -1,48 +1,45 @@
-5 rows changed, 2 rows added
+4 rows changed, 2 rows added
 
-5 rows changed
+4 rows changed
 
-  Código: 22B0512752
-    Data Final de Distribuição: "2023-02-24" => "2023-08-24"
-
-  Código: 22H1140550
+  Código: 21H0769219
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
     Data Final de Distribuição: "2023-02-16" => "2023-08-16"
 
-  Código: 22H1319855
-    Data Final de Distribuição: "2023-02-18" => "2023-08-18"
-
-  Código: 22H1320252
-    Data Final de Distribuição: "2023-02-18" => "2023-08-18"
-
-  Código: 22H1389755
+  Código: 21H0769220
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2023-02-22" => "2023-08-22"
+    Data Final de Distribuição: "2023-02-16" => "2023-08-16"
+
+  Código: 22B0448635
+    Data Final de Distribuição: "2023-02-11" => "2023-08-11"
+
+  Código: 20D0809562
+    Remuneração: "IPCA+12,68000%" => "100,00%  DI+7,00000%"
 
 2 rows added
 
-  Código: 23A1772203
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Código: 23B0244041
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 29
+  N° da Emissão: 113
   N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2023-01-24
-  Data de Vencimento: 25/01/2032
-  Data Final de Distribuição: 2023-06-29
-  ISIN: 
+  Qtd Emitida: 53402
+  Volume Emissão: 53402000.0
+  Remuneração: IPCA+7,63000%
+  Data de Emissão: 2023-02-09
+  Data de Vencimento: 12/08/2037
+  Data Final de Distribuição: 2023-06-27
+  ISIN: BRRBRACRIGQ3
 
-  Código: 23A1562875
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Código: 22H1237510
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 5
-  N° da série: 1
-  Qtd Emitida: 31250
-  Volume Emissão: 31250000.0
-  Remuneração: INCC-DI+11,25000%
-  Data de Emissão: 2023-01-24
-  Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-08-06
-  ISIN: BRASPRCRI0P4
+  N° da Emissão: 20
+  N° da série: 3
+  Qtd Emitida: 5300
+  Volume Emissão: 5300000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-08-18
+  Data de Vencimento: 21/07/2027
+  Data Final de Distribuição: 2023-02-14
+  ISIN:
