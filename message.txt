@@ -1,4 +1,27 @@
-1 row changed
+2 rows removed
 
-  Código: 21H0976116
-    Remuneração: "IPCA+11,00000%" => ""
+  Código: 18C0722263
+  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 17
+  Qtd Emitida: 1110
+  Volume Emissão: 11100000.0
+  Remuneração: 100,00%  DI+12,26000%
+  Data de Emissão: 2018-03-12
+  Data de Vencimento: 07/02/2031
+  Data Final de Distribuição: 2020-09-11
+  ISIN: BRLGOSCRI0E9
+
+  Código: 18C0722274
+  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 16
+  Qtd Emitida: 2590
+  Volume Emissão: 25900000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2018-03-12
+  Data de Vencimento: 07/02/2031
+  Data Final de Distribuição: 2020-09-11
+  ISIN: BRLGOSCRI0D1
