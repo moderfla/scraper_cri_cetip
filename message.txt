@@ -1,27 +1,27 @@
-2 rows removed
+2 rows added
 
-  Código: 18C0722263
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
+  Código: 21D0864265
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 17
-  Qtd Emitida: 1110
-  Volume Emissão: 11100000.0
-  Remuneração: 100,00%  DI+12,26000%
-  Data de Emissão: 2018-03-12
-  Data de Vencimento: 07/02/2031
-  Data Final de Distribuição: 2020-09-11
-  ISIN: BRLGOSCRI0E9
+  N° da série: 256
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2021-04-22
+  Data de Vencimento: 23/07/2029
+  Data Final de Distribuição: 2023-05-05
+  ISIN: BRHBSCCRI6G6
 
-  Código: 18C0722274
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 16
-  Qtd Emitida: 2590
-  Volume Emissão: 25900000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2018-03-12
-  Data de Vencimento: 07/02/2031
-  Data Final de Distribuição: 2020-09-11
-  ISIN: BRLGOSCRI0D1
+  Código: 23B0430541
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 123
+  N° da série: 1
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2023-02-07
+  Data de Vencimento: 26/06/2026
+  Data Final de Distribuição: 2023-08-10
+  ISIN: BRRBRACRIGR1
