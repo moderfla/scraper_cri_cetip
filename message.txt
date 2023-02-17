@@ -1,27 +1,91 @@
-2 rows added
+2 rows changed, 3 rows added, 3 rows removed
 
-  Código: 21D0864265
+2 rows changed
+
+  Código: 22A0759361
+    Data Final de Distribuição: "2023-01-07" => "2023-07-07"
+
+  Código: 20G0754279
+    ISIN: "" => "BROSECCRI0O1"
+
+3 rows added
+
+  Código: 22L1668403
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 25
+  N° da série: 1
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-12-23
+  Data de Vencimento: 22/12/2027
+  Data Final de Distribuição: 2023-06-23
+  ISIN: 
+
+  Código: 23B0493519
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 33
+  N° da série: 1
+  Qtd Emitida: 42000
+  Volume Emissão: 42000000.0
+  Remuneração: IPCA+10,86000%
+  Data de Emissão: 2023-02-10
+  Data de Vencimento: 27/01/2033
+  Data Final de Distribuição: 2023-08-16
+  ISIN: 
+
+  Código: 23B0432351
   Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 256
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2021-04-22
-  Data de Vencimento: 23/07/2029
-  Data Final de Distribuição: 2023-05-05
-  ISIN: BRHBSCCRI6G6
+  N° da série: 334
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+7,00000%
+  Data de Emissão: 2023-02-14
+  Data de Vencimento: 21/02/2025
+  Data Final de Distribuição: 2023-08-13
+  ISIN: 
 
-  Código: 23B0430541
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 123
+3 rows removed
+
+  Código: 22L1564926
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 16
   N° da série: 1
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: IPCA+9,80000%
-  Data de Emissão: 2023-02-07
-  Data de Vencimento: 26/06/2026
-  Data Final de Distribuição: 2023-08-10
-  ISIN: BRRBRACRIGR1
+  Qtd Emitida: 16755
+  Volume Emissão: 16755483.07
+  Remuneração: IPCA+9,25000%
+  Data de Emissão: 2022-12-30
+  Data de Vencimento: 25/03/2033
+  Data Final de Distribuição: 2023-06-23
+  ISIN: BRASTECRI1W9
+
+  Código: 22L1565004
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 16
+  N° da série: 2
+  Qtd Emitida: 10053
+  Volume Emissão: 10053289.84
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2022-12-30
+  Data de Vencimento: 25/03/2033
+  Data Final de Distribuição: 2023-06-23
+  ISIN: BRASTECRI1X7
+
+  Código: 22L1565064
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 16
+  N° da série: 3
+  Qtd Emitida: 6702
+  Volume Emissão: 6702193.23
+  Remuneração: IPCA+0,50000%
+  Data de Emissão: 2022-12-30
+  Data de Vencimento: 25/03/2033
+  Data Final de Distribuição: 2023-06-23
+  ISIN: BRASTECRI1Y5
