@@ -1,21 +1,24 @@
-1 row changed, 1 row added
+2 rows changed, 1 row removed
 
-1 row changed
+2 rows changed
 
-  Código: 18C0860204
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+  Código: 20B0797175
+    Data de Vencimento: "03/08/2023" => "03/02/2027"
 
-1 row added
+  Código: 22K1691627
+    ISIN: "" => "BRRBRACRIGF6"
 
-  Código: 23B0588579
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 517
-  Qtd Emitida: 2765
-  Volume Emissão: 2765000.0
-  Remuneração: IPCA+7,30000%
-  Data de Emissão: 2023-02-15
-  Data de Vencimento: 16/02/2052
-  Data Final de Distribuição: 2023-08-17
-  ISIN: BRRBRACRIGZ4
+1 row removed
+
+  Código: 20J0647410
+  Emissor: PLANETA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 4
+  N° da série: 145
+  Qtd Emitida: 33674
+  Volume Emissão: 33674000.0
+  Remuneração: 100,00%  DI+3,75000%
+  Data de Emissão: 2020-10-16
+  Data de Vencimento: 17/04/2028
+  Data Final de Distribuição: 2021-04-15
+  ISIN: BRGAIACRI4R4
