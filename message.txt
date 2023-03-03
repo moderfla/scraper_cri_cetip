@@ -1,113 +1,13 @@
-1 row changed, 8 rows added
+4 rows changed
 
-1 row changed
+  Código: 21H1003998
+    Data Final de Distribuição: "2023-02-26" => "2023-08-26"
 
-  Código: 22I0053302
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2023-03-08" => "2023-09-08"
+  Código: 21H1004301
+    Data Final de Distribuição: "2023-02-26" => "2023-08-26"
 
-8 rows added
+  Código: 21H1088438
+    Data Final de Distribuição: "2023-02-27" => "2023-08-27"
 
-  Código: 23B0790147
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 28
-  N° da série: 1
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: IPCA+11,20000%
-  Data de Emissão: 2023-02-13
-  Data de Vencimento: 20/02/2033
-  Data Final de Distribuição: 2023-06-23
-  ISIN: 
-
-  Código: 23B0808926
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 1
-  Qtd Emitida: 9098455
-  Volume Emissão: 9098455.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-09-01
-  ISIN: BRVERTCRI5J3
-
-  Código: 23B0808928
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 2
-  Qtd Emitida: 11185000
-  Volume Emissão: 11185000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-09-01
-  ISIN: BRVERTCRI5K1
-
-  Código: 23B0808930
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 3
-  Qtd Emitida: 10200000
-  Volume Emissão: 10200000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-09-01
-  ISIN: BRVERTCRI5L9
-
-  Código: 23B0808931
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 4
-  Qtd Emitida: 15457971
-  Volume Emissão: 15457971.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-09-01
-  ISIN: BRVERTCRI5M7
-
-  Código: 23B0808932
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 5
-  Qtd Emitida: 22000000
-  Volume Emissão: 22000000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-09-01
-  ISIN: BRVERTCRI5N5
-
-  Código: 23B0808933
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 104
-  N° da série: 6
-  Qtd Emitida: 12618000
-  Volume Emissão: 12618000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 17/02/2029
-  Data Final de Distribuição: 2023-03-01
-  ISIN: BRVERTCRI5O3
-
-  Código: 23B0810318
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 82
-  N° da série: 1
-  Qtd Emitida: 23000
-  Volume Emissão: 23000000.0
-  Remuneração: 100,00%  DI+7,00000%
-  Data de Emissão: 2023-02-17
-  Data de Vencimento: 12/02/2027
-  Data Final de Distribuição: 2023-08-28
-  ISIN: BRIMWLCRIFF1
+  Código: 21H1089110
+    Data Final de Distribuição: "2023-02-27" => "2023-08-27"
