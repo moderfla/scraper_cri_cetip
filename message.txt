@@ -1,112 +1,50 @@
-1 row changed, 8 rows removed
+2 rows changed, 3 rows added
 
-1 row changed
+2 rows changed
 
-  Código: 16J0858699
-    Remuneração: "IGP-M+10,50000%" => ""
+  Código: 08C0014529
+    Remuneração: "IGP-M+10,86890%" => ""
 
-8 rows removed
+  Código: 19J0279390
+    Remuneração: "100,00% DI" => ""
 
-  Código: 20E0031112
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 76
-  Qtd Emitida: 21830
-  Volume Emissão: 21830665.19
-  Remuneração: IPCA+5,25000%
-  Data de Emissão: 2020-05-13
-  Data de Vencimento: 13/05/2038
-  Data Final de Distribuição: 2020-11-05
+3 rows added
+
+  Código: 23B1741401
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 110
+  N° da série: 1
+  Qtd Emitida: 46000
+  Volume Emissão: 46000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2023-02-15
+  Data de Vencimento: 15/02/2028
+  Data Final de Distribuição: 2023-02-26
   ISIN: 
 
-  Código: 20E0031114
-  Emissor: BARI SECURITIZADORA S.A.
+  Código: 23C0247388
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 77
-  Qtd Emitida: 2425
-  Volume Emissão: 2425629.47
-  Remuneração: IPCA+35,80910%
-  Data de Emissão: 2020-05-13
-  Data de Vencimento: 13/05/2038
-  Data Final de Distribuição: 2020-11-05
-  ISIN: 
+  N° da Emissão: 89
+  N° da série: 1
+  Qtd Emitida: 210000
+  Volume Emissão: 210000000.0
+  Remuneração: 100,00%  DI+1,25000%
+  Data de Emissão: 2023-03-10
+  Data de Vencimento: 10/03/2028
+  Data Final de Distribuição: 2023-09-10
+  ISIN: BRIMWLCRIFJ3
 
-  Código: 21J0764256
+  Código: 23C0247702
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 231
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-04-22
-  ISIN: BRIMWLCRI9L9
-
-  Código: 21J0764385
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 232
-  Qtd Emitida: 3508
-  Volume Emissão: 3508000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-04-22
-  ISIN: BRIMWLCRI9M7
-
-  Código: 21J0764470
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 233
-  Qtd Emitida: 2632
-  Volume Emissão: 2632000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-10-22
-  ISIN: BRIMWLCRI9N5
-
-  Código: 21J0764484
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 234
-  Qtd Emitida: 2632
-  Volume Emissão: 2632000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-04-22
-  ISIN: BRIMWLCRI9O3
-
-  Código: 21J0764535
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 235
-  Qtd Emitida: 3071
-  Volume Emissão: 3071000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-04-22
-  ISIN: BRIMWLCRI9P0
-
-  Código: 21J0764770
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 236
-  Qtd Emitida: 3712
-  Volume Emissão: 3712000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-10-25
-  Data de Vencimento: 20/11/2024
-  Data Final de Distribuição: 2022-10-22
-  ISIN: BRIMWLCRI9Q8
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 89
+  N° da série: 2
+  Qtd Emitida: 490000
+  Volume Emissão: 490000000.0
+  Remuneração: 100,00%  DI+1,40000%
+  Data de Emissão: 2023-03-10
+  Data de Vencimento: 11/03/2030
+  Data Final de Distribuição: 2023-09-10
+  ISIN: BRIMWLCRIFK1
