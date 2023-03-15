@@ -1,50 +1,21 @@
-2 rows changed, 3 rows added
+1 row changed, 1 row added
 
-2 rows changed
+1 row changed
 
-  Código: 08C0014529
-    Remuneração: "IGP-M+10,86890%" => ""
+  Código: 22B0939300
+    Data de Vencimento: "14/03/2028" => "15/03/2028"
 
-  Código: 19J0279390
-    Remuneração: "100,00% DI" => ""
+1 row added
 
-3 rows added
-
-  Código: 23B1741401
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 110
-  N° da série: 1
-  Qtd Emitida: 46000
-  Volume Emissão: 46000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2023-02-15
-  Data de Vencimento: 15/02/2028
-  Data Final de Distribuição: 2023-02-26
-  ISIN: 
-
-  Código: 23C0247388
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 89
-  N° da série: 1
-  Qtd Emitida: 210000
-  Volume Emissão: 210000000.0
-  Remuneração: 100,00%  DI+1,25000%
-  Data de Emissão: 2023-03-10
-  Data de Vencimento: 10/03/2028
-  Data Final de Distribuição: 2023-09-10
-  ISIN: BRIMWLCRIFJ3
-
-  Código: 23C0247702
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 89
-  N° da série: 2
-  Qtd Emitida: 490000
-  Volume Emissão: 490000000.0
-  Remuneração: 100,00%  DI+1,40000%
-  Data de Emissão: 2023-03-10
-  Data de Vencimento: 11/03/2030
-  Data Final de Distribuição: 2023-09-10
-  ISIN: BRIMWLCRIFK1
+  Código: 20G0031149
+  Emissor: POLO CAPITAL SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 66
+  Qtd Emitida: 3240
+  Volume Emissão: 30952238.4
+  Remuneração: DI+2,55000%
+  Data de Emissão: 2020-07-01
+  Data de Vencimento: 14/03/2023
+  Data Final de Distribuição: 2020-12-28
+  ISIN:
