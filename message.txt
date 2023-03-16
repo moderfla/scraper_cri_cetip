@@ -1,21 +1,26 @@
-1 row changed, 1 row added
+2 rows changed, 1 row added
 
-1 row changed
+2 rows changed
 
-  Código: 22B0939300
-    Data de Vencimento: "14/03/2028" => "15/03/2028"
+  Código: 20I0623260
+    Remuneração: "IPCA+7,00000%" => "IPCA+9,75000%"
+    Data de Vencimento: "18/10/2023" => "19/03/2024"
+
+  Código: 22I0822669
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-03-14" => "2023-09-14"
 
 1 row added
 
-  Código: 20G0031149
-  Emissor: POLO CAPITAL SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 66
-  Qtd Emitida: 3240
-  Volume Emissão: 30952238.4
-  Remuneração: DI+2,55000%
-  Data de Emissão: 2020-07-01
-  Data de Vencimento: 14/03/2023
-  Data Final de Distribuição: 2020-12-28
-  ISIN:
+  Código: 23B0005202
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 128
+  N° da série: 1
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+2,00000%
+  Data de Emissão: 2023-02-14
+  Data de Vencimento: 20/02/2026
+  Data Final de Distribuição: 2023-09-15
+  ISIN: BRAPCSCRIGN0
