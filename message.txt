@@ -1,26 +1,62 @@
-2 rows changed, 1 row added
+1 row changed, 3 rows added, 1 row removed
 
-2 rows changed
+1 row changed
 
-  Código: 20I0623260
-    Remuneração: "IPCA+7,00000%" => "IPCA+9,75000%"
-    Data de Vencimento: "18/10/2023" => "19/03/2024"
+  Código: 22H1333201
+    Data Final de Distribuição: "2023-02-18" => "2023-08-18"
 
-  Código: 22I0822669
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2023-03-14" => "2023-09-14"
+3 rows added
 
-1 row added
-
-  Código: 23B0005202
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 128
+  Código: 22L1723201
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 131
   N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+2,00000%
-  Data de Emissão: 2023-02-14
-  Data de Vencimento: 20/02/2026
-  Data Final de Distribuição: 2023-09-15
-  ISIN: BRAPCSCRIGN0
+  Qtd Emitida: 193000
+  Volume Emissão: 193000000.0
+  Remuneração: 100,00%  DI+2,20000%
+  Data de Emissão: 2023-03-15
+  Data de Vencimento: 19/03/2029
+  Data Final de Distribuição: 2023-09-11
+  ISIN: BRRBRACRIGW1
+
+  Código: 22L1723202
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 131
+  N° da série: 2
+  Qtd Emitida: 107000
+  Volume Emissão: 107000000.0
+  Remuneração: IPCA+8,58750%
+  Data de Emissão: 2023-03-15
+  Data de Vencimento: 19/03/2030
+  Data Final de Distribuição: 2023-09-11
+  ISIN: BRRBRACRIGX9
+
+  Código: 23C0248434
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 71
+  N° da série: 3
+  Qtd Emitida: 3000
+  Volume Emissão: 3655244.43
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2023-03-01
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2023-06-10
+  ISIN: BRAPCSCRIH05
+
+1 row removed
+
+  Código: 18C0682649
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 157
+  Qtd Emitida: 662837
+  Volume Emissão: 662837000.0
+  Remuneração: 99,00% DI
+  Data de Emissão: 2018-03-09
+  Data de Vencimento: 09/03/2023
+  Data Final de Distribuição: 2018-09-15
+  ISIN: BRRBRACRI4T5
