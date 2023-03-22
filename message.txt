@@ -1,7 +1,123 @@
-2 rows changed
+4 rows changed, 6 rows added, 2 rows removed
 
-  Código: 22C0927973
-    Data Final de Distribuição: "2023-03-29" => "2023-09-29"
+4 rows changed
 
-  Código: 22L1357824
-    Remuneração: "100,00%  DI+3,50000%" => "100,00%  DI+3,25000%"
+  Código: 22G1162067
+    Data de Vencimento: "20/11/2031" => "20/12/2031"
+
+  Código: 20C1008009
+    Remuneração: "100,00%  DI+2,45000%" => "100,00%  DI+2,95000%"
+
+  Código: 20C1008074
+    Remuneração: "100,00%  DI+2,45000%" => "100,00%  DI+2,95000%"
+
+  Código: 21K0522795
+    Data Final de Distribuição: "2022-11-11" => "2023-05-11"
+
+6 rows added
+
+  Código: 23B0540453
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 134
+  N° da série: 1
+  Qtd Emitida: 314869
+  Volume Emissão: 314869000.0
+  Remuneração: 100,00%  DI+1,00000%
+  Data de Emissão: 2023-02-13
+  Data de Vencimento: 17/03/2028
+  Data Final de Distribuição: 2023-09-13
+  ISIN: BRRBRACRIGS9
+
+  Código: 23B0587522
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 134
+  N° da série: 2
+  Qtd Emitida: 297233
+  Volume Emissão: 297233000.0
+  Remuneração: 100,00%  DI+1,20000%
+  Data de Emissão: 2023-02-13
+  Data de Vencimento: 18/03/2030
+  Data Final de Distribuição: 2023-09-13
+  ISIN: BRRBRACRIGT7
+
+  Código: 23C0118758
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 91
+  N° da série: 1
+  Qtd Emitida: 140000
+  Volume Emissão: 140000000.0
+  Remuneração: 100,00%  DI+5,25000%
+  Data de Emissão: 2023-03-02
+  Data de Vencimento: 22/03/2027
+  Data Final de Distribuição: 2023-09-20
+  ISIN: BRIMWLCRIFG9
+
+  Código: 23C0118934
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 91
+  N° da série: 2
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: 100,00%  DI+5,75000%
+  Data de Emissão: 2023-03-02
+  Data de Vencimento: 22/03/2028
+  Data Final de Distribuição: 2023-09-20
+  ISIN: BRIMWLCRIFH7
+
+  Código: 23C1221667
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 88
+  N° da série: 1
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: 100,00%  DI+5,30000%
+  Data de Emissão: 2023-03-10
+  Data de Vencimento: 29/03/2027
+  Data Final de Distribuição: 2023-09-17
+  ISIN: BRIMWLCRIFL9
+
+  Código: 23C1277619
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 69
+  N° da série: 1
+  Qtd Emitida: 57203
+  Volume Emissão: 57203000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-03-17
+  Data de Vencimento: 21/03/2033
+  Data Final de Distribuição: 2023-09-17
+  ISIN: BRIMWLCRIFO3
+
+2 rows removed
+
+  Código: 20K0778773
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 208
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+7,00000%
+  Data de Emissão: 2020-11-26
+  Data de Vencimento: 28/11/2024
+  Data Final de Distribuição: 2021-05-26
+  ISIN: 
+
+  Código: 20G0031149
+  Emissor: POLO CAPITAL SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 66
+  Qtd Emitida: 3240
+  Volume Emissão: 30952238.4
+  Remuneração: DI+2,55000%
+  Data de Emissão: 2020-07-01
+  Data de Vencimento: 14/03/2023
+  Data Final de Distribuição: 2020-12-28
+  ISIN:
