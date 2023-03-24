@@ -1,38 +1,4 @@
-2 rows changed, 2 rows removed
+1 row changed
 
-2 rows changed
-
-  Código: 20B0797175
-    Data de Vencimento: "03/02/2027" => "10/02/2027"
-
-  Código: 19J0279390
-    Remuneração: "" => "IPCA+11,00000%"
-    Data de Vencimento: "13/03/2023" => "13/09/2023"
-
-2 rows removed
-
-  Código: 21J0843528
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 51
-  Qtd Emitida: 28640
-  Volume Emissão: 28640000.0
-  Remuneração: IPCA+6,50000%
-  Data de Emissão: 2021-10-15
-  Data de Vencimento: 15/03/2023
-  Data Final de Distribuição: 2022-04-15
-  ISIN: 
-
-  Código: 21C0574028
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 365
-  Qtd Emitida: 50000
-  Volume Emissão: 50056560.0
-  Remuneração: 100,00%  DI+6,50000%
-  Data de Emissão: 2021-03-15
-  Data de Vencimento: 15/03/2023
-  Data Final de Distribuição: 2021-09-16
-  ISIN: BRAPCSCRI9A4
+  Código: 22J0019767
+    Data Final de Distribuição: "2023-04-02" => "2023-12-13"
