@@ -1,37 +1,34 @@
-1 row changed, 1 row added, 1 row removed
+1 row changed, 2 rows added
 
 1 row changed
 
-  Código: 22K0001010
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2023-04-27" => "2023-09-27"
+  Código: 21G0613884
+    Remuneração: "IPCA+10,50000%" => "IPCA+11,15000%"
 
-1 row added
+2 rows added
 
-  Código: 23C1735023
+  Código: 23C1221583
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 19
+  N° da série: 1
+  Qtd Emitida: 86175
+  Volume Emissão: 86175000.0
+  Remuneração: 100,00%  DI+1,80000%
+  Data de Emissão: 2023-03-16
+  Data de Vencimento: 27/03/2028
+  Data Final de Distribuição: 2023-09-24
+  ISIN: BRASTECRI208
+
+  Código: 23C1664455
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 143
+  N° da Emissão: 145
   N° da série: 1
-  Qtd Emitida: 20497142
-  Volume Emissão: 20497142.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2023-03-14
-  Data de Vencimento: 27/02/2026
-  Data Final de Distribuição: 2023-09-19
-  ISIN: 
-
-1 row removed
-
-  Código: 19H0293120
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 166
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2019-08-26
-  Data de Vencimento: 30/08/2023
-  Data Final de Distribuição: 2020-02-26
-  ISIN:
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+10,75000%
+  Data de Emissão: 2023-03-17
+  Data de Vencimento: 25/03/2033
+  Data Final de Distribuição: 2023-09-23
+  ISIN: BRAPCSCRIH39
