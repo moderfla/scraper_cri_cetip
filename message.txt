@@ -1,96 +1,83 @@
-5 rows added, 2 rows removed
+4 rows added, 2 rows removed
 
-5 rows added
+4 rows added
 
-  Código: 23C1625918
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 23B0508037
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 24
+  N° da Emissão: 10
   N° da série: 1
-  Qtd Emitida: 12000
-  Volume Emissão: 12000000.0
-  Remuneração: IPCA+17,00000%
-  Data de Emissão: 2023-03-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2023-09-10
-  ISIN: 
+  Qtd Emitida: 30117
+  Volume Emissão: 30117176.51
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-03-20
+  Data de Vencimento: 10/05/2043
+  Data Final de Distribuição: 2023-09-13
+  ISIN: BRASTECRI216
 
-  Código: 23C1626118
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 23B0509671
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 24
+  N° da Emissão: 10
   N° da série: 2
-  Qtd Emitida: 8750
-  Volume Emissão: 8750000.0
-  Remuneração: IPCA+17,00000%
-  Data de Emissão: 2023-03-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2023-09-10
-  ISIN: 
+  Qtd Emitida: 1673
+  Volume Emissão: 1673176.47
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2023-03-20
+  Data de Vencimento: 10/05/2043
+  Data Final de Distribuição: 2023-09-13
+  ISIN: BRASTECRI224
 
-  Código: 23C1626751
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 23B0509673
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 24
+  N° da Emissão: 10
   N° da série: 3
-  Qtd Emitida: 4681
-  Volume Emissão: 4681000.0
-  Remuneração: IPCA+17,00000%
-  Data de Emissão: 2023-03-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2023-09-10
-  ISIN: 
+  Qtd Emitida: 1673
+  Volume Emissão: 1673176.47
+  Remuneração: IPCA+14,00000%
+  Data de Emissão: 2023-03-20
+  Data de Vencimento: 10/05/2043
+  Data Final de Distribuição: 2023-09-13
+  ISIN: BRASTECRI232
 
-  Código: 23C1288904
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 133
-  N° da série: 1
-  Qtd Emitida: 12000
-  Volume Emissão: 12000000.0
-  Remuneração: 100,00%  DI+6,75000%
-  Data de Emissão: 2023-03-14
-  Data de Vencimento: 23/05/2025
-  Data Final de Distribuição: 2023-09-24
-  ISIN: 
-
-  Código: 23C1668294
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 136
-  N° da série: 1
-  Qtd Emitida: 38500
-  Volume Emissão: 38500000.0
-  Remuneração: INCC-DI+11,50000%
-  Data de Emissão: 2023-03-15
-  Data de Vencimento: 31/10/2028
-  Data Final de Distribuição: 2023-09-29
-  ISIN: BRAPCSCRIH47
+  Código: 22D0845162
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 343
+  Qtd Emitida: 7500
+  Volume Emissão: 7500000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2022-04-08
+  Data de Vencimento: 24/04/2029
+  Data Final de Distribuição: 2023-04-08
+  ISIN: BRHBSCCRI8N8
 
 2 rows removed
 
-  Código: 21K1073038
+  Código: 19C0337001
   Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
+  Agente Fiduciário: PENTAGONO DTVM SA
   N° da Emissão: 1
-  N° da série: 289
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2021-11-25
-  Data de Vencimento: 26/04/2029
-  Data Final de Distribuição: 2022-06-02
-  ISIN: BRHBSCCRI3Z3
+  N° da série: 133
+  Qtd Emitida: 44000
+  Volume Emissão: 44000000.0
+  Remuneração: 100,00%  DI+1,35000%
+  Data de Emissão: 2019-03-22
+  Data de Vencimento: 22/03/2023
+  Data Final de Distribuição: 2019-09-20
+  ISIN: BRHBSCCRI346
 
-  Código: 21K1073040
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 21K0872840
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 290
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2021-11-25
-  Data de Vencimento: 26/04/2029
-  Data Final de Distribuição: 2022-06-02
-  ISIN: BRHBSCCRI403
+  N° da série: 471
+  Qtd Emitida: 40000
+  Volume Emissão: 44667125.4
+  Remuneração: IPCA+7,69000%
+  Data de Emissão: 2021-11-22
+  Data de Vencimento: 22/11/2024
+  Data Final de Distribuição: 2022-05-20
+  ISIN: BRAPCSCRIBH3
