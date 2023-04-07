@@ -1,82 +1,70 @@
-3 rows changed, 4 rows added, 1 row removed
+3 rows changed, 3 rows added, 1 row removed
 
 3 rows changed
 
-  Código: 19J0327167
-    Data de Vencimento: "23/06/2026" => "23/12/2026"
-
-  Código: 22B0338247
-    Data Final de Distribuição: "2023-02-21" => "2023-08-21"
-
-  Código: 22I0248791
+  Código: 21C0813120
     Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
-    Data Final de Distribuição: "2023-03-02" => "2023-09-02"
+    Data Final de Distribuição: "2023-03-19" => "2023-09-19"
 
-4 rows added
+  Código: 16J0858699
+    Remuneração: "" => "IGP-M+10,50000%"
+    Data de Vencimento: "10/03/2023" => "10/02/2025"
 
-  Código: 22I0248815
+  Código: 22D0002409
+    Data Final de Distribuição: "2023-03-14" => "2023-09-14"
+
+3 rows added
+
+  Código: 23C2706233
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 25
+  N° da série: 1
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2023-03-27
+  Data de Vencimento: 20/03/2028
+  Data Final de Distribuição: 2023-09-19
+  ISIN: BRRBRACRIHA5
+
+  Código: 23C2552432
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 138
+  N° da série: 1
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2023-03-30
+  Data de Vencimento: 31/03/2028
+  Data Final de Distribuição: 2023-10-10
+  ISIN: 
+
+  Código: 22B0653645
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 15
-  N° da série: 3
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-01
-  Data de Vencimento: 20/07/2032
-  Data Final de Distribuição: 2023-09-02
-  ISIN: BRIMWLCRIDI0
-
-  Código: 22I0248837
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 15
-  N° da série: 4
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-01
-  Data de Vencimento: 20/07/2032
-  Data Final de Distribuição: 2023-09-02
-  ISIN: BRIMWLCRIDJ8
-
-  Código: 22I0248848
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 15
-  N° da série: 5
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-01
-  Data de Vencimento: 20/07/2032
-  Data Final de Distribuição: 2023-09-02
-  ISIN: BRIMWLCRIDK6
-
-  Código: 22I0248854
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 15
-  N° da série: 6
-  Qtd Emitida: 9000
-  Volume Emissão: 9000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-01
-  Data de Vencimento: 20/07/2032
-  Data Final de Distribuição: 2023-09-02
-  ISIN: BRIMWLCRIDL4
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 4
+  N° da série: 450
+  Qtd Emitida: 51761
+  Volume Emissão: 5176100.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2022-02-25
+  Data de Vencimento: 24/08/2026
+  Data Final de Distribuição: 2023-08-23
+  ISIN: BRIMWLCRIB66
 
 1 row removed
 
-  Código: 22C1240846
+  Código: 19E0207046
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 498
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2022-03-25
-  Data de Vencimento: 27/03/2026
-  Data Final de Distribuição: 2022-10-01
-  ISIN: BRRBRACRIBQ4
+  N° da série: 214
+  Qtd Emitida: 23000
+  Volume Emissão: 23000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2019-05-10
+  Data de Vencimento: 24/04/2028
+  Data Final de Distribuição: 2019-11-08
+  ISIN: BRRBRACRI5O3
