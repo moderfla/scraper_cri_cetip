@@ -1,84 +1,30 @@
-4 rows changed, 4 rows added, 1 row removed
+4 rows changed, 1 row added
 
 4 rows changed
 
-  Código: 22B0939300
-    Data de Vencimento: "15/03/2028" => "17/04/2028"
+  Código: 11L0005713
+    Remuneração: "IPCA+15,00000%" => ""
 
-  Código: 22J1379218
-    Data Final de Distribuição: "2024-07-31" => "2023-10-14"
+  Código: 21G0685671
+    Data de Vencimento: "20/07/2029" => "30/10/2026"
 
-  Código: 22J1381567
-    Data Final de Distribuição: "2023-04-14" => "2023-10-14"
+  Código: 19L0867734
+    Data de Vencimento: "30/11/2034" => "28/11/2034"
 
-  Código: 22J1381764
-    Data Final de Distribuição: "2023-04-14" => "2023-10-14"
+  Código: 19L0882479
+    Data de Vencimento: "30/11/2034" => "28/11/2034"
 
-4 rows added
+1 row added
 
-  Código: 22L2288683
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 126
-  N° da série: 2
-  Qtd Emitida: 42478
-  Volume Emissão: 42478000.0
-  Remuneração: 100,00%  DI+2,30000%
-  Data de Emissão: 2023-04-15
-  Data de Vencimento: 15/04/2030
-  Data Final de Distribuição: 2023-10-09
-  ISIN: BRRBRACRIH39
-
-  Código: 22L2288690
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 126
-  N° da série: 3
-  Qtd Emitida: 145022
-  Volume Emissão: 145022000.0
-  Remuneração: IPCA+8,15000%
-  Data de Emissão: 2023-04-15
-  Data de Vencimento: 15/04/2030
-  Data Final de Distribuição: 2023-10-09
-  ISIN: BRRBRACRIH47
-
-  Código: 23D0005401
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 126
-  N° da série: 1
-  Qtd Emitida: 187500
-  Volume Emissão: 187500000.0
-  Remuneração: 100,00%  DI+2,05000%
-  Data de Emissão: 2023-04-15
-  Data de Vencimento: 15/04/2028
-  Data Final de Distribuição: 2023-10-09
-  ISIN: BRRBRACRIH21
-
-  Código: 23D0888625
+  Código: 23D0888626
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 155
-  N° da série: 1
-  Qtd Emitida: 40721
-  Volume Emissão: 40721000.0
-  Remuneração: 100,00%  DI+1,95000%
+  N° da série: 2
+  Qtd Emitida: 132343
+  Volume Emissão: 132343000.0
+  Remuneração: IPCA+7,85290%
   Data de Emissão: 2023-04-03
-  Data de Vencimento: 16/10/2028
+  Data de Vencimento: 15/09/2027
   Data Final de Distribuição: 2023-10-08
-  ISIN: BRAPCSCRIHD9
-
-1 row removed
-
-  Código: 21H1031213
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 248
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 100,00%  DI+5,75000%
-  Data de Emissão: 2021-08-23
-  Data de Vencimento: 06/08/2025
-  Data Final de Distribuição: 2022-02-25
-  ISIN: BRHBSCCRI775
+  ISIN: BRAPCSCRIHE7
