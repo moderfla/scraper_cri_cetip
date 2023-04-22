@@ -1,58 +1,31 @@
-4 rows changed, 2 rows added, 1 row removed
+10 rows changed
 
-4 rows changed
+  Código: 21A0655087
+    ISIN: "" => "BRVERTCRI628"
 
-  Código: 22L0001401
-    Data Final de Distribuição: "2023-01-21" => "2023-07-21"
+  Código: 21A0655088
+    ISIN: "" => "BRVERTCRI636"
 
-  Código: 22L1668403
-    ISIN: "" => "BRCASCCRI0J9"
+  Código: 21A0655089
+    ISIN: "" => "BRVERTCRI5X4"
 
-  Código: 13I0117184
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+  Código: 21A0655094
+    ISIN: "" => "BRVERTCRI5Y2"
 
-  Código: 13I0117197
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+  Código: 21A0655105
+    ISIN: "" => "BRVERTCRI5Z9"
 
-2 rows added
+  Código: 21G0688200
+    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
 
-  Código: 23C1835481
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 5
-  Qtd Emitida: 27304
-  Volume Emissão: 27304000.0
-  Remuneração: 100,00%  DI+3,50000%
-  Data de Emissão: 2023-03-24
-  Data de Vencimento: 20/03/2026
-  Data Final de Distribuição: 2023-09-29
-  ISIN: BRFSECCRIJR8
+  Código: 21G0704228
+    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
 
-  Código: 23C1835482
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 6
-  Qtd Emitida: 22697
-  Volume Emissão: 22697000.0
-  Remuneração: 100,00%  DI+3,50000%
-  Data de Emissão: 2023-03-24
-  Data de Vencimento: 20/03/2036
-  Data Final de Distribuição: 2023-09-24
-  ISIN: 
+  Código: 21G0704230
+    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
 
-1 row removed
+  Código: 22G0930589
+    ISIN: "" => "BRVERTCRI602"
 
-  Código: 16E0162884
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 60
-  Qtd Emitida: 359
-  Volume Emissão: 17951185.45
-  Remuneração: IGP-M+7,70000%
-  Data de Emissão: 2016-05-19
-  Data de Vencimento: 10/06/2025
-  Data Final de Distribuição: 2016-11-19
-  ISIN:
+  Código: 22G0930642
+    ISIN: "" => "BRVERTCRI610"
