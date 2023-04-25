@@ -1,31 +1,67 @@
-10 rows changed
+12 rows changed, 2 rows added
 
-  Código: 21A0655087
-    ISIN: "" => "BRVERTCRI628"
+12 rows changed
 
-  Código: 21A0655088
-    ISIN: "" => "BRVERTCRI636"
+  Código: 21K0019326
+    Data Final de Distribuição: "2023-05-04" => "2023-11-04"
 
-  Código: 21A0655089
-    ISIN: "" => "BRVERTCRI5X4"
+  Código: 20A1026890
+    Data de Vencimento: "25/04/2023" => "25/10/2023"
 
-  Código: 21A0655094
-    ISIN: "" => "BRVERTCRI5Y2"
+  Código: 21H0953104
+    Data de Vencimento: "15/02/2038" => "15/10/2038"
 
-  Código: 21A0655105
-    ISIN: "" => "BRVERTCRI5Z9"
+  Código: 21G0785808
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
 
-  Código: 21G0688200
-    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
+  Código: 21G0813763
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
 
-  Código: 21G0704228
-    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
+  Código: 21G0813766
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
 
-  Código: 21G0704230
-    Data Final de Distribuição: "2022-01-20" => "2023-07-20"
+  Código: 21G0813773
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
 
-  Código: 22G0930589
-    ISIN: "" => "BRVERTCRI602"
+  Código: 21G0813774
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
 
-  Código: 22G0930642
-    ISIN: "" => "BRVERTCRI610"
+  Código: 21G0813775
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
+
+  Código: 21G0813776
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
+
+  Código: 21G0813777
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
+
+  Código: 21G0813778
+    Data de Vencimento: "22/07/2028" => "22/07/2027"
+
+2 rows added
+
+  Código: 23D1173345
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 152
+  N° da série: 1
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: IPCA+10,06000%
+  Data de Emissão: 2023-04-04
+  Data de Vencimento: 04/04/2035
+  Data Final de Distribuição: 2023-10-19
+  ISIN: BRAPCSCRIHG2
+
+  Código: 23D1173427
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 152
+  N° da série: 2
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+4,78200%
+  Data de Emissão: 2023-04-04
+  Data de Vencimento: 05/04/2028
+  Data Final de Distribuição: 2023-10-19
+  ISIN: BRAPCSCRIHH0
