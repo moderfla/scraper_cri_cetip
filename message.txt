@@ -1,46 +1,36 @@
-5 rows changed, 2 rows removed
+1 row changed, 1 row added, 1 row removed
 
-5 rows changed
+1 row changed
 
-  Código: 21L0143115
-    Data Final de Distribuição: "2022-06-07" => "2023-06-07"
+  Código: 22G1136492
+    ISIN: "" => "BRRBRACRIDW8"
 
-  Código: 22G1225383
-    Data Final de Distribuição: "2023-02-01" => "2023-08-01"
+1 row added
 
-  Código: 21E0585082
-    Data de Vencimento: "10/05/2023" => "11/09/2023"
+  Código: 23C1835485
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
+  N° da série: 8
+  Qtd Emitida: 22697
+  Volume Emissão: 22697000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2023-03-24
+  Data de Vencimento: 20/03/2036
+  Data Final de Distribuição: 2023-09-24
+  ISIN: BRFSECCRIJU2
 
-  Código: 22C0794372
-    Data Final de Distribuição: "2022-09-18" => "2023-09-18"
+1 row removed
 
-  Código: 22J1132284
-    Data Final de Distribuição: "2023-04-21" => "2023-10-21"
-
-2 rows removed
-
-  Código: 09C0009708
-  Emissor: ALTERE SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  Código: 20G0926201
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: PAVARINI DTVM LTDA
   N° da Emissão: 1
-  N° da série: 14
-  Qtd Emitida: 15
-  Volume Emissão: 15849130.8
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2009-03-25
-  Data de Vencimento: 17/04/2023
-  Data Final de Distribuição: 2009-09-21
-  ISIN: 
-
-  Código: 22D1010120
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 75
-  N° da série: 2
-  Qtd Emitida: 38586415
-  Volume Emissão: 38586415.0
-  Remuneração: IPCA+8,75000%
-  Data de Emissão: 2022-04-22
-  Data de Vencimento: 22/04/2028
-  Data Final de Distribuição: 2022-10-20
-  ISIN:
+  N° da série: 6
+  Qtd Emitida: 1
+  Volume Emissão: 12955000.0
+  Remuneração: 
+  Data de Emissão: 2020-07-31
+  Data de Vencimento: 05/09/2025
+  Data Final de Distribuição: 2021-02-14
+  ISIN: BRASPRCRI083
