@@ -1,36 +1,94 @@
-1 row changed, 1 row added, 1 row removed
+7 rows changed, 5 rows added
 
-1 row changed
+7 rows changed
 
-  Código: 22G1136492
-    ISIN: "" => "BRRBRACRIDW8"
+  Código: 22J1329281
+    Remuneração: "IPCA+11,00000%" => "IPCA+12,68000%"
 
-1 row added
+  Código: 23C1835477
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-09-29" => "2023-09-25"
+
+  Código: 23C1835481
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-09-29" => "2023-09-25"
+
+  Código: 23C1835482
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-09-24" => "2023-09-25"
 
   Código: 23C1835485
+    Data Final de Distribuição: "2023-09-24" => "2023-09-25"
+
+  Código: 22D0630029
+    Data Final de Distribuição: "2022-10-12" => "2023-10-12"
+
+  Código: 22H1116780
+    Data Final de Distribuição: "2023-02-16" => "2023-08-16"
+
+5 rows added
+
+  Código: 23D1293668
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 44
+  N° da série: 1
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-04-17
+  Data de Vencimento: 26/10/2028
+  Data Final de Distribuição: 2023-10-10
+  ISIN: 
+
+  Código: 23C1835484
   Emissor: FORTE SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
   N° da Emissão: 3
-  N° da série: 8
-  Qtd Emitida: 22697
-  Volume Emissão: 22697000.0
+  N° da série: 7
+  Qtd Emitida: 27304
+  Volume Emissão: 27304000.0
   Remuneração: 100,00%  DI+3,50000%
   Data de Emissão: 2023-03-24
-  Data de Vencimento: 20/03/2036
-  Data Final de Distribuição: 2023-09-24
-  ISIN: BRFSECCRIJU2
+  Data de Vencimento: 20/03/2026
+  Data Final de Distribuição: 2023-09-25
+  ISIN: BRFSECCRIJT4
 
-1 row removed
+  Código: 23C1232565
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 138
+  N° da série: 1
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2023-04-18
+  Data de Vencimento: 17/04/2026
+  Data Final de Distribuição: 2023-10-23
+  ISIN: 
 
-  Código: 20G0926201
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 6
-  Qtd Emitida: 1
-  Volume Emissão: 12955000.0
-  Remuneração: 
-  Data de Emissão: 2020-07-31
-  Data de Vencimento: 05/09/2025
-  Data Final de Distribuição: 2021-02-14
-  ISIN: BRASPRCRI083
+  Código: 23D1515316
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 136
+  N° da série: 1
+  Qtd Emitida: 160749
+  Volume Emissão: 160749000.0
+  Remuneração: IPCA+7,84440%
+  Data de Emissão: 2023-04-28
+  Data de Vencimento: 06/04/2042
+  Data Final de Distribuição: 2023-10-23
+  ISIN: BRRBRACRIHF4
+
+  Código: 23B2365601
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 105
+  N° da série: 1
+  Qtd Emitida: 18000
+  Volume Emissão: 18000000.0
+  Remuneração: IPCA+12,68260%
+  Data de Emissão: 2023-04-17
+  Data de Vencimento: 17/04/2028
+  Data Final de Distribuição: 2023-10-19
+  ISIN: BRAPCSCRIH62
