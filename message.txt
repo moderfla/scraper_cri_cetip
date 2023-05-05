@@ -1,22 +1,14 @@
-7 rows changed
+1 row removed
 
-  Código: 22J1332631
-    Data Final de Distribuição: "2023-05-11" => "2023-11-11"
-
-  Código: 22J1370286
-    Data Final de Distribuição: "2023-05-10" => "2023-11-10"
-
-  Código: 21C0813125
-    Remuneração: "IPCA+12,00000%" => "IPCA+9,00000%"
-
-  Código: 23B2365601
-    Remuneração: "IPCA+12,68260%" => "IPCA+12,68250%"
-
-  Código: 22D0002410
-    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
-
-  Código: 22D0002411
-    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
-
-  Código: 22H1237510
-    Data Final de Distribuição: "2023-02-14" => "2023-08-18"
+  Código: 21H0889576
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 272
+  Qtd Emitida: 4000
+  Volume Emissão: 4000000.0
+  Remuneração: INCC-M+11,50000%
+  Data de Emissão: 2021-08-13
+  Data de Vencimento: 26/08/2026
+  Data Final de Distribuição: 2022-03-02
+  ISIN: BRHBSCCRI742
