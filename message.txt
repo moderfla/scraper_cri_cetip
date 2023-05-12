@@ -1,7 +1,14 @@
-2 rows changed
+1 row removed
 
-  Código: 22L1379490
-    Data de Vencimento: "02/01/2035" => "11/01/2035"
-
-  Código: 22F1036083
-    Data Final de Distribuição: "2022-12-23" => "2023-06-23"
+  Código: 21A0620733
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 31
+  N° da série: 1
+  Qtd Emitida: 21700
+  Volume Emissão: 21700000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2021-01-07
+  Data de Vencimento: 15/05/2024
+  Data Final de Distribuição: 2021-07-08
+  ISIN: BRVERTCRI2V5
