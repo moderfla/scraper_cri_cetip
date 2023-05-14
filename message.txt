@@ -1,14 +1,36 @@
+1 row changed, 1 row added, 1 row removed
+
+1 row changed
+
+  Código: 21L0848239
+    ISIN: "BRAPCSCRIBQ4" => "BRAPCSCRIBR2"
+
+1 row added
+
+  Código: 23D1611321
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 14
+  N° da série: 1
+  Qtd Emitida: 26500
+  Volume Emissão: 26500000.0
+  Remuneração: 100,00%  DI+4,90000%
+  Data de Emissão: 2023-05-11
+  Data de Vencimento: 27/04/2028
+  Data Final de Distribuição: 2023-10-17
+  ISIN: 
+
 1 row removed
 
-  Código: 21A0620733
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 31
-  N° da série: 1
-  Qtd Emitida: 21700
-  Volume Emissão: 21700000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2021-01-07
-  Data de Vencimento: 15/05/2024
-  Data Final de Distribuição: 2021-07-08
-  ISIN: BRVERTCRI2V5
+  Código: 20B0831160
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 256
+  Qtd Emitida: 16000
+  Volume Emissão: 16000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2020-02-07
+  Data de Vencimento: 22/01/2026
+  Data Final de Distribuição: 2020-08-05
+  ISIN: BRRBRACRI6T0
