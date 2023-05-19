@@ -1,30 +1,61 @@
-4 rows changed, 1 row added
+1 row changed, 4 rows added
 
-4 rows changed
+1 row changed
 
-  Código: 22K0700672
-    Data Final de Distribuição: "2023-05-04" => "2023-11-04"
+  Código: 22I1466133
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-03-26" => "2023-09-26"
 
-  Código: 17D0192368
-    Data de Vencimento: "27/04/2024" => "27/04/2026"
+4 rows added
 
-  Código: 17D0192369
-    Data de Vencimento: "27/04/2024" => "27/04/2026"
-
-  Código: 21E0750441
-    Data Final de Distribuição: "2022-11-19" => "2023-05-19"
-
-1 row added
-
-  Código: 23D0003603
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 23D1860605
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 130
+  N° da Emissão: 26
   N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+2,75000%
-  Data de Emissão: 2023-04-17
-  Data de Vencimento: 17/04/2028
-  Data Final de Distribuição: 2023-10-16
-  ISIN: BRAPCSCRIH13
+  Qtd Emitida: 84573
+  Volume Emissão: 84573000.0
+  Remuneração: 100,00%  DI+2,25000%
+  Data de Emissão: 2023-04-28
+  Data de Vencimento: 27/04/2027
+  Data Final de Distribuição: 2023-11-13
+  ISIN: BRHBSCCRIA43
+
+  Código: 22I2046002
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
+  N° da série: 4
+  Qtd Emitida: 19114
+  Volume Emissão: 19114000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-05-12
+  Data de Vencimento: 26/10/2037
+  Data Final de Distribuição: 2023-06-21
+  ISIN: BRIMWLCRIDP5
+
+  Código: 22I2046003
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
+  N° da série: 5
+  Qtd Emitida: 2389
+  Volume Emissão: 2389000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2023-05-12
+  Data de Vencimento: 25/09/2037
+  Data Final de Distribuição: 2023-06-21
+  ISIN: BRIMWLCRIDQ3
+
+  Código: 22I2046004
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
+  N° da série: 6
+  Qtd Emitida: 2390
+  Volume Emissão: 2390000.0
+  Remuneração: 0,00010%
+  Data de Emissão: 2023-05-12
+  Data de Vencimento: 25/01/2038
+  Data Final de Distribuição: 2023-06-21
+  ISIN: BRIMWLCRIDR1
