@@ -1,115 +1,63 @@
-1 row changed, 4 rows added, 4 rows removed
+2 rows changed, 4 rows removed
 
-1 row changed
+2 rows changed
 
-  Código: 22I1187612
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-03-22" => "2023-09-22"
+  Código: 13A0035641
+    Remuneração: "IPCA+6,00000%" => ""
 
-4 rows added
-
-  Código: 23E1202404
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 25
-  N° da série: 1
-  Qtd Emitida: 4000
-  Volume Emissão: 4000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-05-08
-  Data de Vencimento: 24/04/2028
-  Data Final de Distribuição: 2023-11-19
-  ISIN: 
-
-  Código: 23E1206892
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 25
-  N° da série: 2
-  Qtd Emitida: 13150
-  Volume Emissão: 13150000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-05-08
-  Data de Vencimento: 24/04/2028
-  Data Final de Distribuição: 2023-11-19
-  ISIN: 
-
-  Código: 23E1576858
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 109
-  N° da série: 1
-  Qtd Emitida: 62466
-  Volume Emissão: 62466000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2023-05-29
-  Data de Vencimento: 21/09/2043
-  Data Final de Distribuição: 2023-11-25
-  ISIN: BRVERTCRI677
-
-  Código: 23E1576860
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 109
-  N° da série: 2
-  Qtd Emitida: 11023
-  Volume Emissão: 11023000.0
-  Remuneração: IPCA+14,80000%
-  Data de Emissão: 2023-05-29
-  Data de Vencimento: 21/09/2043
-  Data Final de Distribuição: 2023-11-25
-  ISIN: BRVERTCRI685
+  Código: 22H0028631
+    Data Final de Distribuição: "2023-01-29" => "2023-07-29"
 
 4 rows removed
 
-  Código: 20I0890152
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 3
-  N° da série: 13
-  Qtd Emitida: 35000
-  Volume Emissão: 35000000.0
-  Remuneração: 
-  Data de Emissão: 2020-10-13
-  Data de Vencimento: 18/10/2023
-  Data Final de Distribuição: 2021-04-13
-  ISIN: 
-
-  Código: 21H0889553
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 19F0271926
+  Emissor: FORTE SECURITIZADORA S.A.
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 270
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: INCC-M+11,50000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 26/08/2026
-  Data Final de Distribuição: 2022-03-02
-  ISIN: BRHBSCCRI726
+  N° da série: 245
+  Qtd Emitida: 2250
+  Volume Emissão: 2250000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2019-06-01
+  Data de Vencimento: 20/04/2027
+  Data Final de Distribuição: 2019-12-01
+  ISIN: BRFSECCRI6G5
 
-  Código: 21H0889569
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 19F0271927
+  Emissor: FORTE SECURITIZADORA S.A.
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 271
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: INCC-M+11,50000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 26/08/2026
-  Data Final de Distribuição: 2022-03-02
-  ISIN: BRHBSCCRI734
+  N° da série: 246
+  Qtd Emitida: 1125
+  Volume Emissão: 1125000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2019-06-01
+  Data de Vencimento: 20/06/2029
+  Data Final de Distribuição: 2019-12-01
+  ISIN: BRFSECCRI6H3
 
-  Código: 21F0968384
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 19F0271929
+  Emissor: FORTE SECURITIZADORA S.A.
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 358
-  Qtd Emitida: 8250
-  Volume Emissão: 8250000.0
-  Remuneração: 100,00%  DI+2,55000%
-  Data de Emissão: 2021-06-17
-  Data de Vencimento: 19/06/2026
-  Data Final de Distribuição: 2021-12-17
-  ISIN:
+  N° da série: 248
+  Qtd Emitida: 2750
+  Volume Emissão: 2750000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2019-06-01
+  Data de Vencimento: 20/06/2029
+  Data Final de Distribuição: 2020-06-25
+  ISIN: BRFSECCRI6J9
+
+  Código: 19F0271930
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 249
+  Qtd Emitida: 1375
+  Volume Emissão: 1375000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2019-06-01
+  Data de Vencimento: 20/06/2029
+  Data Final de Distribuição: 2019-12-01
+  ISIN: BRFSECCRI6K7
