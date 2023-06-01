@@ -1,63 +1,17 @@
-2 rows changed, 4 rows removed
+5 rows changed
 
-2 rows changed
+  Código: 21H0953104
+    Remuneração: "IPCA+7,50000%" => "IPCA+8,50000%"
 
-  Código: 13A0035641
-    Remuneração: "IPCA+6,00000%" => ""
+  Código: 21H0953114
+    Remuneração: "IPCA+7,50000%" => "IPCA+8,50000%"
 
-  Código: 22H0028631
-    Data Final de Distribuição: "2023-01-29" => "2023-07-29"
+  Código: 22D0844981
+    Data de Vencimento: "24/04/2029" => "24/03/2032"
 
-4 rows removed
+  Código: 22D0845146
+    Data de Vencimento: "24/04/2029" => "24/03/2032"
 
-  Código: 19F0271926
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 245
-  Qtd Emitida: 2250
-  Volume Emissão: 2250000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2019-06-01
-  Data de Vencimento: 20/04/2027
-  Data Final de Distribuição: 2019-12-01
-  ISIN: BRFSECCRI6G5
-
-  Código: 19F0271927
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 246
-  Qtd Emitida: 1125
-  Volume Emissão: 1125000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2019-06-01
-  Data de Vencimento: 20/06/2029
-  Data Final de Distribuição: 2019-12-01
-  ISIN: BRFSECCRI6H3
-
-  Código: 19F0271929
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 248
-  Qtd Emitida: 2750
-  Volume Emissão: 2750000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2019-06-01
-  Data de Vencimento: 20/06/2029
-  Data Final de Distribuição: 2020-06-25
-  ISIN: BRFSECCRI6J9
-
-  Código: 19F0271930
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 249
-  Qtd Emitida: 1375
-  Volume Emissão: 1375000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2019-06-01
-  Data de Vencimento: 20/06/2029
-  Data Final de Distribuição: 2019-12-01
-  ISIN: BRFSECCRI6K7
+  Código: 22D0845162
+    Data de Vencimento: "24/04/2029" => "24/03/2032"
+    Data Final de Distribuição: "2023-04-08" => "2023-10-08"
