@@ -1,17 +1,97 @@
-5 rows changed
+17 rows changed, 2 rows added, 1 row removed
 
-  Código: 21H0953104
-    Remuneração: "IPCA+7,50000%" => "IPCA+8,50000%"
+17 rows changed
 
-  Código: 21H0953114
-    Remuneração: "IPCA+7,50000%" => "IPCA+8,50000%"
+  Código: 16J0858699
+    ISIN: "" => "BRPLSCCRI0U8"
 
-  Código: 22D0844981
-    Data de Vencimento: "24/04/2029" => "24/03/2032"
+  Código: 17C0996899
+    ISIN: "" => "BRPLSCCRI124"
 
-  Código: 22D0845146
-    Data de Vencimento: "24/04/2029" => "24/03/2032"
+  Código: 17H0182069
+    ISIN: "" => "BRPLSCCRI157"
 
-  Código: 22D0845162
-    Data de Vencimento: "24/04/2029" => "24/03/2032"
-    Data Final de Distribuição: "2023-04-08" => "2023-10-08"
+  Código: 21A0772858
+    ISIN: "" => "BRVERTCRI6G7"
+
+  Código: 21A0772861
+    ISIN: "" => "BRVERTCRI6H5"
+
+  Código: 21A0772862
+    ISIN: "" => "BRVERTCRI6I3"
+
+  Código: 21G0688160
+    ISIN: "" => "BRVERTCRI1W5"
+
+  Código: 21G0688200
+    ISIN: "" => "BRVERTCRI1X3"
+
+  Código: 21G0704228
+    ISIN: "" => "BRVERTCRI1Y1"
+
+  Código: 21G0704229
+    ISIN: "" => "BRVERTCRI1Z8"
+
+  Código: 21G0704230
+    ISIN: "" => "BRVERTCRI206"
+
+  Código: 21J0844280
+    ISIN: "" => "BRVERTCRI2I2"
+
+  Código: 21J0844863
+    ISIN: "" => "BRVERTCRI2J0"
+
+  Código: 21J0844864
+    ISIN: "" => "BRVERTCRI2K8"
+
+  Código: 22C0794302
+    ISIN: "" => "BRVERTCRI3F6"
+
+  Código: 22C0794372
+    ISIN: "" => "BRVERTCRI3G4"
+
+  Código: 22D0002414
+    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
+
+2 rows added
+
+  Código: 23E1687402
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 519
+  Qtd Emitida: 2979
+  Volume Emissão: 2979000.0
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2023-05-24
+  Data de Vencimento: 16/02/2052
+  Data Final de Distribuição: 2023-11-26
+  ISIN: 
+
+  Código: 23E1820194
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 157
+  N° da série: 1
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+9,88940%
+  Data de Emissão: 2023-05-24
+  Data de Vencimento: 15/05/2037
+  Data Final de Distribuição: 2023-11-28
+  ISIN: 
+
+1 row removed
+
+  Código: 14J0045610
+  Emissor: BRAZILIAN SECURITIES CIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 1
+  N° da série: 353
+  Qtd Emitida: 370
+  Volume Emissão: 22375360.02
+  Remuneração: IGP-M+6,70000%
+  Data de Emissão: 2014-10-10
+  Data de Vencimento: 25/05/2043
+  Data Final de Distribuição: 2015-04-08
+  ISIN:
