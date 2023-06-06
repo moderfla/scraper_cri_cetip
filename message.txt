@@ -1,60 +1,72 @@
-1 row changed, 4 rows removed
+9 rows changed, 3 rows added
 
-1 row changed
+9 rows changed
 
-  Código: 22K1685394
-    Data Final de Distribuição: "2023-05-28" => "2023-11-28"
+  Código: 20G0926826
+    Data de Vencimento: "09/10/2035" => "29/10/2035"
 
-4 rows removed
+  Código: 20G0926827
+    Data de Vencimento: "09/10/2035" => "25/10/2035"
 
-  Código: 21H0889352
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 20L0522095
+    Data de Vencimento: "07/03/2041" => "27/03/2041"
+
+  Código: 20L0522230
+    Data de Vencimento: "07/05/2041" => "29/05/2041"
+
+  Código: 20L0522964
+    Data de Vencimento: "07/02/2042" => "27/02/2042"
+
+  Código: 20L0523180
+    Data de Vencimento: "07/02/2042" => "27/02/2042"
+
+  Código: 21K0939348
+    Data de Vencimento: "11/02/2043" => "25/02/2043"
+
+  Código: 21K1027203
+    Data de Vencimento: "07/02/2042" => "27/02/2042"
+
+  Código: 22E0860401
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-05-19" => "2023-11-19"
+
+3 rows added
+
+  Código: 23E1295288
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 43
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2023-05-04
+  Data de Vencimento: 22/05/2028
+  Data Final de Distribuição: 2023-11-19
+  ISIN: 
+
+  Código: 23E1930252
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 267
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: INCC-M+11,50000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 26/05/2023
-  Data Final de Distribuição: 2022-03-02
-  ISIN: BRHBSCCRI6Z6
+  N° da série: 542
+  Qtd Emitida: 10894
+  Volume Emissão: 10894000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2023-05-26
+  Data de Vencimento: 15/03/2038
+  Data Final de Distribuição: 2023-11-29
+  ISIN: BRRBRACRIHW9
 
-  Código: 21H0889464
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 268
-  Qtd Emitida: 8500
-  Volume Emissão: 8500000.0
-  Remuneração: INCC-M+11,50000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 26/08/2026
-  Data Final de Distribuição: 2022-03-02
-  ISIN: BRHBSCCRI700
-
-  Código: 21H0889518
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 269
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: INCC-M+11,50000%
-  Data de Emissão: 2021-08-13
-  Data de Vencimento: 26/08/2026
-  Data Final de Distribuição: 2023-03-02
-  ISIN: BRHBSCCRI718
-
-  Código: 21D0544065
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 39
-  N° da série: 5
-  Qtd Emitida: 9308877
-  Volume Emissão: 9308877.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2021-04-16
-  Data de Vencimento: 20/02/2027
-  Data Final de Distribuição: 2021-10-15
-  ISIN: BRVERTCRI180
+  Código: 23E1987879
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 114
+  N° da série: 2
+  Qtd Emitida: 19250
+  Volume Emissão: 19250000.0
+  Remuneração: 100,00%  DI+1,80000%
+  Data de Emissão: 2023-05-30
+  Data de Vencimento: 18/12/2023
+  Data Final de Distribuição: 2023-12-02
+  ISIN:
