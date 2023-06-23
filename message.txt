@@ -1,83 +1,97 @@
-5 rows added, 1 row removed
+4 rows changed, 3 rows added, 3 rows removed
 
-5 rows added
+4 rows changed
 
-  Código: 23F1206508
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 6
+  Código: 22D1068786
+    Data Final de Distribuição: "2023-04-22" => "2023-10-22"
+
+  Código: 22D1068881
+    Data Final de Distribuição: "2023-04-22" => "2023-10-22"
+
+  Código: 22E1313668
+    Remuneração: "100,00%  DI+1,05000%" => "100,00%  DI+1,80000%"
+
+  Código: 22E1313669
+    Remuneração: "IPCA+6,99590%" => "IPCA+7,74590%"
+
+3 rows added
+
+  Código: 23E1685665
+  Emissor: GAIA IMPACTO SECURITIZADORA S/A
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 37
   N° da série: 1
-  Qtd Emitida: 64000
-  Volume Emissão: 64000000.0
-  Remuneração: INCC-DI+10,00000%
-  Data de Emissão: 2023-06-07
-  Data de Vencimento: 21/10/2026
-  Data Final de Distribuição: 2023-12-09
-  ISIN: BRASPRCRI0T6
-
-  Código: 23C1835491
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 12
-  Qtd Emitida: 22697
-  Volume Emissão: 22697000.0
-  Remuneração: 100,00%  DI+3,50000%
-  Data de Emissão: 2023-03-24
-  Data de Vencimento: 20/03/2036
-  Data Final de Distribuição: 2023-09-29
-  ISIN: BRFSECCRIJY4
-
-  Código: 23F1413046
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 160
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
+  Qtd Emitida: 90000
+  Volume Emissão: 9000000.0
   Remuneração: 100,00%  DI+2,00000%
-  Data de Emissão: 2023-06-14
-  Data de Vencimento: 15/06/2027
-  Data Final de Distribuição: 2023-12-18
-  ISIN: BRRBRACRIHZ2
+  Data de Emissão: 2023-05-29
+  Data de Vencimento: 29/05/2030
+  Data Final de Distribuição: 2023-11-28
+  ISIN: BRGAFLCR0009
 
-  Código: 23F1413077
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 160
-  N° da série: 2
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: 100,00%  DI+2,50000%
-  Data de Emissão: 2023-06-14
-  Data de Vencimento: 15/06/2027
-  Data Final de Distribuição: 2023-12-18
-  ISIN: BRRBRACRII04
-
-  Código: 23F1568486
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 156
+  Código: 23F1032483
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
   N° da série: 1
-  Qtd Emitida: 59290
-  Volume Emissão: 59290000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2023-06-12
-  Data de Vencimento: 24/06/2026
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2023-06-02
+  Data de Vencimento: 31/05/2028
+  Data Final de Distribuição: 2023-12-09
+  ISIN: BRHBSCCR0003
+
+  Código: 23F1447606
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 65
+  N° da série: 3
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: IPCA+7,95000%
+  Data de Emissão: 2023-06-07
+  Data de Vencimento: 06/09/2032
   Data Final de Distribuição: 2023-12-17
   ISIN: 
 
-1 row removed
+3 rows removed
 
-  Código: 17F0023368
-  Emissor: VIRGO II COMPANHIA DE SECURITIZACAO
+  Código: 22I0247854
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 65
+  N° da série: 2
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+7,95000%
+  Data de Emissão: 2022-09-19
+  Data de Vencimento: 06/09/2032
+  Data Final de Distribuição: 2023-03-08
+  ISIN: 
+
+  Código: 18B0802721
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 119
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2018-02-15
+  Data de Vencimento: 19/02/2025
+  Data Final de Distribuição: 2018-08-20
+  ISIN: BRAPCSCRI341
+
+  Código: 18F0744615
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 2
-  N° da série: 288
-  Qtd Emitida: 300000
-  Volume Emissão: 300000000.0
-  Remuneração: 95,00% DI
-  Data de Emissão: 2017-06-14
-  Data de Vencimento: 14/06/2023
-  Data Final de Distribuição: 2017-11-03
-  ISIN: BRCBSCCRI487
+  N° da Emissão: 1
+  N° da série: 138
+  Qtd Emitida: 254000
+  Volume Emissão: 254000000.0
+  Remuneração: 97,50% DI
+  Data de Emissão: 2018-06-15
+  Data de Vencimento: 15/06/2023
+  Data Final de Distribuição: 2018-12-11
+  ISIN: BRAPCSCRI3B5
