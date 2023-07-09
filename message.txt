@@ -1,134 +1,37 @@
-3 rows changed, 7 rows added, 2 rows removed
+2 rows changed, 2 rows added
 
-3 rows changed
+2 rows changed
 
-  Código: 21L0967727
-    Data Final de Distribuição: "2022-06-20" => "2023-12-23"
+  Código: 23C1869458
+    ISIN: "" => "BRAPCSCRIHB3"
 
-  Código: 22F1223555
-    Data Final de Distribuição: "2023-06-28" => "2023-12-28"
+  Código: 22D0002415
+    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
 
-  Código: 16E0124967
-    Remuneração: "" => "IGP-M+15,00000%"
-    Data de Vencimento: "10/06/2023" => "11/02/2027"
+2 rows added
 
-7 rows added
-
-  Código: 23F1829746
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 29
-  N° da série: 1
-  Qtd Emitida: 9849
-  Volume Emissão: 9849000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2023-06-30
-  Data de Vencimento: 20/01/2043
-  Data Final de Distribuição: 2024-01-02
-  ISIN: BRPVSCCRI2E6
-
-  Código: 23F1834604
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 29
-  N° da série: 2
-  Qtd Emitida: 1094
-  Volume Emissão: 1094000.0
-  Remuneração: IPCA+20,00000%
-  Data de Emissão: 2023-06-30
-  Data de Vencimento: 20/01/2043
-  Data Final de Distribuição: 2024-01-02
-  ISIN: BRPVSCCRI2F3
-
-  Código: 23F1513923
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 23F1525319
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 159
+  N° da Emissão: 51
   N° da série: 1
-  Qtd Emitida: 163116
-  Volume Emissão: 163116000.0
-  Remuneração: 100,00%  DI+1,30000%
-  Data de Emissão: 2023-06-15
-  Data de Vencimento: 15/06/2026
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2023-06-14
+  Data de Vencimento: 21/06/2038
   Data Final de Distribuição: 2024-01-05
-  ISIN: BRRBRACRIHR9
+  ISIN: BRCASCCRI0O9
 
-  Código: 23F1514014
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 23F1577420
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 159
-  N° da série: 2
-  Qtd Emitida: 53795
-  Volume Emissão: 53795000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2023-06-15
-  Data de Vencimento: 16/06/2028
+  N° da Emissão: 51
+  N° da série: 0
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: IPCA+11,35000%
+  Data de Emissão: 2023-06-14
+  Data de Vencimento: 21/06/2038
   Data Final de Distribuição: 2024-01-05
-  ISIN: BRRBRACRIHS7
-
-  Código: 23F1519397
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 159
-  N° da série: 3
-  Qtd Emitida: 362100
-  Volume Emissão: 362100000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2023-06-15
-  Data de Vencimento: 16/06/2028
-  Data Final de Distribuição: 2024-01-05
-  ISIN: BRRBRACRIHT5
-
-  Código: 23F2423591
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 167
-  N° da série: 1
-  Qtd Emitida: 84913
-  Volume Emissão: 84913525.98
-  Remuneração: IPCA+6,80000%
-  Data de Emissão: 2023-06-21
-  Data de Vencimento: 25/06/2041
-  Data Final de Distribuição: 2024-01-05
-  ISIN: BRRBRACRIIB1
-
-  Código: 23F2427179
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 167
-  N° da série: 2
-  Qtd Emitida: 21558
-  Volume Emissão: 21558052.0
-  Remuneração: IPCA+8,71210%
-  Data de Emissão: 2023-06-21
-  Data de Vencimento: 25/06/2043
-  Data Final de Distribuição: 2024-01-05
-  ISIN: BRRBRACRIIC9
-
-2 rows removed
-
-  Código: 19F0022619
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 5
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: 100,00%  DI+2,80000%
-  Data de Emissão: 2019-06-04
-  Data de Vencimento: 29/06/2023
-  Data Final de Distribuição: 2019-12-05
-  ISIN: 
-
-  Código: 20J0794382
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 76
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 100,00%  DI+4,30000%
-  Data de Emissão: 2020-10-21
-  Data de Vencimento: 25/10/2023
-  Data Final de Distribuição: 2021-04-22
-  ISIN: BRIMWLCRI3S7
+  ISIN: BRCASCCRI0P6
