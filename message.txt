@@ -1,37 +1,7 @@
-2 rows changed, 2 rows added
-
 2 rows changed
 
-  Código: 23C1869458
-    ISIN: "" => "BRAPCSCRIHB3"
+  Código: 21L0967496
+    Data Final de Distribuição: "2023-06-20" => "2023-12-29"
 
-  Código: 22D0002415
-    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
-
-2 rows added
-
-  Código: 23F1525319
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 51
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2023-06-14
-  Data de Vencimento: 21/06/2038
-  Data Final de Distribuição: 2024-01-05
-  ISIN: BRCASCCRI0O9
-
-  Código: 23F1577420
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 51
-  N° da série: 0
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: IPCA+11,35000%
-  Data de Emissão: 2023-06-14
-  Data de Vencimento: 21/06/2038
-  Data Final de Distribuição: 2024-01-05
-  ISIN: BRCASCCRI0P6
+  Código: 17D0097824
+    Remuneração: "IGP-M+8,00000%" => ""
