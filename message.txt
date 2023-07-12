@@ -1,7 +1,67 @@
-2 rows changed
+3 rows changed, 4 rows added
 
-  Código: 21L0967496
-    Data Final de Distribuição: "2023-06-20" => "2023-12-29"
+3 rows changed
 
-  Código: 17D0097824
-    Remuneração: "IGP-M+8,00000%" => ""
+  Código: 23C1835491
+    Qtd Emitida: "22697" => "33819"
+    Volume Emissão: "22697000.0" => "33819000.0"
+
+  Código: 21L0329279
+    Data Final de Distribuição: "2022-10-27" => "2023-10-27"
+
+  Código: 22L0344525
+    Data Final de Distribuição: "2023-06-12" => "2023-12-12"
+
+4 rows added
+
+  Código: 23F2408637
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 31
+  N° da série: 1
+  Qtd Emitida: 148772
+  Volume Emissão: 148772000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-06-30
+  Data de Vencimento: 21/06/2030
+  Data Final de Distribuição: 2024-01-07
+  ISIN: BRPVSCCRI2H9
+
+  Código: 23F2409130
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 31
+  N° da série: 2
+  Qtd Emitida: 8751
+  Volume Emissão: 8751000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-06-30
+  Data de Vencimento: 20/09/2030
+  Data Final de Distribuição: 2024-01-07
+  ISIN: BRPVSCCRI2I7
+
+  Código: 23G1149789
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 161
+  N° da série: 1
+  Qtd Emitida: 119000
+  Volume Emissão: 119000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2023-07-04
+  Data de Vencimento: 26/06/2029
+  Data Final de Distribuição: 2024-01-10
+  ISIN: 
+
+  Código: 23G1149794
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 161
+  N° da série: 2
+  Qtd Emitida: 51000
+  Volume Emissão: 51000000.0
+  Remuneração: IPCA+15,30000%
+  Data de Emissão: 2023-07-04
+  Data de Vencimento: 26/06/2029
+  Data Final de Distribuição: 2024-01-10
+  ISIN:
