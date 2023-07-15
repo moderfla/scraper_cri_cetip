@@ -1,92 +1,31 @@
-16 rows changed, 3 rows added
+4 rows changed, 1 row removed
 
-16 rows changed
+4 rows changed
 
-  Código: 11D0026797
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 21L1012231
+    Data Final de Distribuição: "2022-12-27" => "2023-12-27"
 
-  Código: 12D0031201
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 18L1367003
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 23A1615602
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 11D0025456
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 11G0023510
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 11I0012970
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 11L0056864
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12B0038688
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12B0038689
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12D0013233
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12F0036335
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12L0018386
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 12L0019695
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 17G0877219
+  Código: 16A0630092
     Data de Vencimento: "17/07/2023" => "20/10/2023"
 
-  Código: 20H0794682
-    Agente Fiduciário: "PLANNER TRUSTEE DTVM LTDA" => "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 23A1610639
+    Data Final de Distribuição: "2023-07-31" => "2023-12-21"
 
-3 rows added
+  Código: 22K1019759
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-05-14" => "2023-11-14"
 
-  Código: 23E1314342
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 7
-  N° da série: 1
-  Qtd Emitida: 53900
-  Volume Emissão: 53900000.0
-  Remuneração: INCC-DI+11,25000%
-  Data de Emissão: 2023-05-11
-  Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-11-12
-  ISIN: BRASPRCRI0R0
+1 row removed
 
-  Código: 23E1315901
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 7
-  N° da série: 2
-  Qtd Emitida: 23100
-  Volume Emissão: 23100000.0
-  Remuneração: INCC-DI+9,00000%
-  Data de Emissão: 2023-05-11
-  Data de Vencimento: 22/12/2026
-  Data Final de Distribuição: 2023-11-12
-  ISIN: BRASPRCRI0S8
-
-  Código: 23G1278734
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 149
-  N° da série: 1
-  Qtd Emitida: 19000
-  Volume Emissão: 19000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2023-07-07
-  Data de Vencimento: 22/06/2034
-  Data Final de Distribuição: 2024-01-10
-  ISIN:
+  Código: 20G0705043
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 69
+  Qtd Emitida: 20305
+  Volume Emissão: 20305000.0
+  Remuneração: IGP-M+10,00000%
+  Data de Emissão: 2020-07-10
+  Data de Vencimento: 25/07/2030
+  Data Final de Distribuição: 2021-01-20
+  ISIN: BRIMWLCRI2R1
