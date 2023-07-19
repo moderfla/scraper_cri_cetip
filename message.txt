@@ -1,31 +1,14 @@
-4 rows changed, 1 row removed
+1 row added
 
-4 rows changed
-
-  Código: 21L1012231
-    Data Final de Distribuição: "2022-12-27" => "2023-12-27"
-
-  Código: 16A0630092
-    Data de Vencimento: "17/07/2023" => "20/10/2023"
-
-  Código: 23A1610639
-    Data Final de Distribuição: "2023-07-31" => "2023-12-21"
-
-  Código: 22K1019759
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2023-05-14" => "2023-11-14"
-
-1 row removed
-
-  Código: 20G0705043
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 69
-  Qtd Emitida: 20305
-  Volume Emissão: 20305000.0
-  Remuneração: IGP-M+10,00000%
-  Data de Emissão: 2020-07-10
-  Data de Vencimento: 25/07/2030
-  Data Final de Distribuição: 2021-01-20
-  ISIN: BRIMWLCRI2R1
+  Código: 23F1523286
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 52
+  N° da série: 1
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-06-14
+  Data de Vencimento: 06/07/2033
+  Data Final de Distribuição: 2023-12-14
+  ISIN:
