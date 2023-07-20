@@ -1,14 +1,68 @@
+11 rows changed, 1 row added, 1 row removed
+
+11 rows changed
+
+  Código: 22A0933881
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-07-27" => "2024-01-27"
+
+  Código: 22A0933884
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-07-27" => "2024-01-27"
+
+  Código: 21G0733026
+    Data Final de Distribuição: "2022-08-06" => "2023-08-06"
+
+  Código: 21H0953114
+    Data Final de Distribuição: "2023-02-27" => "2023-08-27"
+
+  Código: 22I1560033
+    Data Final de Distribuição: "2023-03-23" => "2023-09-23"
+
+  Código: 22K1685394
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22A0731741
+    Data Final de Distribuição: "2023-07-17" => "2024-01-17"
+
+  Código: 22G1046910
+    Data Final de Distribuição: "2023-07-25" => "2024-01-25"
+
+  Código: 22G1225382
+    Data Final de Distribuição: "2023-07-25" => "2024-01-25"
+
+  Código: 21L0285556
+    Data Final de Distribuição: "2022-06-15" => "2023-12-16"
+
+  Código: 21G0185485
+    Data de Vencimento: "20/07/2023" => "20/07/2027"
+
 1 row added
 
-  Código: 23F1523286
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 52
+  Código: 23G1511349
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 147
   N° da série: 1
-  Qtd Emitida: 12000
-  Volume Emissão: 12000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-06-14
-  Data de Vencimento: 06/07/2033
-  Data Final de Distribuição: 2023-12-14
-  ISIN:
+  Qtd Emitida: 38400
+  Volume Emissão: 38400000.0
+  Remuneração: IPCA+7,50000%
+  Data de Emissão: 2023-07-12
+  Data de Vencimento: 13/03/2029
+  Data Final de Distribuição: 2024-01-19
+  ISIN: BRRBRACRIIU1
+
+1 row removed
+
+  Código: 16G0000001
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 135
+  Qtd Emitida: 275000
+  Volume Emissão: 275000000.0
+  Remuneração: 100,00% DI
+  Data de Emissão: 2016-07-12
+  Data de Vencimento: 12/07/2023
+  Data Final de Distribuição: 2017-01-11
+  ISIN: BRRBRACRI3O8
