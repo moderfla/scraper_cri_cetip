@@ -1,37 +1,68 @@
-2 rows changed, 2 rows added
+3 rows changed, 1 row added, 3 rows removed
 
-2 rows changed
+3 rows changed
 
-  Código: 23F1032483
-    Data de Vencimento: "31/05/2028" => "04/07/2028"
+  Código: 21G0185485
+    Remuneração: "100,00%  DI+2,70000%" => "100,00%  DI+2,95000%"
 
-  Código: 14L0193106
-    Data de Vencimento: "22/03/2024" => "22/01/2026"
+  Código: 13C0038450
+    Data de Vencimento: "22/07/2023" => "22/01/2024"
 
-2 rows added
+  Código: 13C0038451
+    Data de Vencimento: "22/07/2023" => "22/01/2024"
 
-  Código: 23G1265217
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+1 row added
+
+  Código: 23G1696052
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 32
+  N° da Emissão: 170
   N° da série: 1
-  Qtd Emitida: 22000
-  Volume Emissão: 22000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-07-21
-  Data de Vencimento: 27/11/2025
-  Data Final de Distribuição: 2024-01-17
-  ISIN: BRPVSCCRI2K3
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2023-07-14
+  Data de Vencimento: 31/05/2034
+  Data Final de Distribuição: 2024-01-16
+  ISIN: 
 
-  Código: 22H1667508
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
+3 rows removed
+
+  Código: 13D0463613
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO S.A. DTVM
   N° da Emissão: 4
-  N° da série: 6
-  Qtd Emitida: 7500
-  Volume Emissão: 7500000.0
-  Remuneração: 100,00%  DI+12,50000%
-  Data de Emissão: 2022-08-22
-  Data de Vencimento: 20/08/2030
-  Data Final de Distribuição: 2023-02-22
-  ISIN: BRHBSCCRI981
+  N° da série: 52
+  Qtd Emitida: 20
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+4,25000%
+  Data de Emissão: 2013-04-01
+  Data de Vencimento: 14/07/2023
+  Data Final de Distribuição: 2013-09-12
+  ISIN: BRGAIACRI345
+
+  Código: 13D0463614
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO S.A. DTVM
+  N° da Emissão: 4
+  N° da série: 53
+  Qtd Emitida: 20
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+4,25000%
+  Data de Emissão: 2013-04-01
+  Data de Vencimento: 14/07/2023
+  Data Final de Distribuição: 2015-01-23
+  ISIN: BRGAIACRI352
+
+  Código: 13D0463615
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO S.A. DTVM
+  N° da Emissão: 4
+  N° da série: 54
+  Qtd Emitida: 10
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+4,25000%
+  Data de Emissão: 2013-04-01
+  Data de Vencimento: 14/07/2023
+  Data Final de Distribuição: 2015-07-23
+  ISIN: BRGAIACRI360
