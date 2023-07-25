@@ -1,68 +1,25 @@
-3 rows changed, 1 row added, 3 rows removed
+2 rows changed, 1 row added
 
-3 rows changed
+2 rows changed
 
-  Código: 21G0185485
-    Remuneração: "100,00%  DI+2,70000%" => "100,00%  DI+2,95000%"
+  Código: 15L0542301
+    Remuneração: "" => "15,00000%"
+    Data de Vencimento: "10/12/2022" => "10/12/2025"
 
-  Código: 13C0038450
-    Data de Vencimento: "22/07/2023" => "22/01/2024"
-
-  Código: 13C0038451
-    Data de Vencimento: "22/07/2023" => "22/01/2024"
+  Código: 20G0662637
+    Remuneração: "100,00%  DI+2,60000%" => ""
 
 1 row added
 
-  Código: 23G1696052
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 23F1241818
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 170
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-07-14
-  Data de Vencimento: 31/05/2034
-  Data Final de Distribuição: 2024-01-16
-  ISIN: 
-
-3 rows removed
-
-  Código: 13D0463613
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 4
-  N° da série: 52
-  Qtd Emitida: 20
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+4,25000%
-  Data de Emissão: 2013-04-01
-  Data de Vencimento: 14/07/2023
-  Data Final de Distribuição: 2013-09-12
-  ISIN: BRGAIACRI345
-
-  Código: 13D0463614
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 4
-  N° da série: 53
-  Qtd Emitida: 20
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+4,25000%
-  Data de Emissão: 2013-04-01
-  Data de Vencimento: 14/07/2023
-  Data Final de Distribuição: 2015-01-23
-  ISIN: BRGAIACRI352
-
-  Código: 13D0463615
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 4
-  N° da série: 54
-  Qtd Emitida: 10
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00%  DI+4,25000%
-  Data de Emissão: 2013-04-01
-  Data de Vencimento: 14/07/2023
-  Data Final de Distribuição: 2015-07-23
-  ISIN: BRGAIACRI360
+  N° da Emissão: 18
+  N° da série: 2
+  Qtd Emitida: 29381
+  Volume Emissão: 29381000.0
+  Remuneração: IPCA+7,75000%
+  Data de Emissão: 2023-06-26
+  Data de Vencimento: 25/05/2043
+  Data Final de Distribuição: 2023-10-29
+  ISIN: BRASTECRI257
