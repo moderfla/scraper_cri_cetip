@@ -1,25 +1,96 @@
-2 rows changed, 1 row added
+17 rows changed, 3 rows added
 
-2 rows changed
+17 rows changed
 
-  Código: 15L0542301
-    Remuneração: "" => "15,00000%"
-    Data de Vencimento: "10/12/2022" => "10/12/2025"
+  Código: 20E0870068
+    Remuneração: "" => "1,00% DI"
+    Data de Vencimento: "23/06/2023" => "23/06/2024"
 
-  Código: 20G0662637
-    Remuneração: "100,00%  DI+2,60000%" => ""
+  Código: 22K1691627
+    Data Final de Distribuição: "2023-06-29" => "2023-12-29"
 
-1 row added
+  Código: 22G0079318
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
 
-  Código: 23F1241818
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 18
+  Código: 22G0079365
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0080226
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0081374
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0081402
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0081407
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0082877
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0082910
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0082919
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0082982
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G0082985
+    Data Final de Distribuição: "2023-01-04" => "2024-01-04"
+
+  Código: 22G1165919
+    Data Final de Distribuição: "2023-07-29" => "2024-01-29"
+
+  Código: 22B0517033
+    Remuneração: "100,00%  DI+5,50000%" => "100,00%  DI+9,50000%"
+
+  Código: 22B0517034
+    Remuneração: "100,00%  DI+5,50000%" => "100,00%  DI+9,50000%"
+
+  Código: 22B0553420
+    Remuneração: "100,00%  DI+5,50000%" => "100,00%  DI+9,50000%"
+
+3 rows added
+
+  Código: 23F2454937
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 192
+  N° da série: 1
+  Qtd Emitida: 145721
+  Volume Emissão: 145721000.0
+  Remuneração: 100,00%  DI+1,00000%
+  Data de Emissão: 2023-07-15
+  Data de Vencimento: 15/07/2026
+  Data Final de Distribuição: 2024-01-24
+  ISIN: BRAPCSCRIIR7
+
+  Código: 23F2455004
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 192
   N° da série: 2
-  Qtd Emitida: 29381
-  Volume Emissão: 29381000.0
-  Remuneração: IPCA+7,75000%
-  Data de Emissão: 2023-06-26
-  Data de Vencimento: 25/05/2043
-  Data Final de Distribuição: 2023-10-29
-  ISIN: BRASTECRI257
+  Qtd Emitida: 878503
+  Volume Emissão: 878503000.0
+  Remuneração: 11,75000%
+  Data de Emissão: 2023-07-15
+  Data de Vencimento: 15/07/2027
+  Data Final de Distribuição: 2024-01-24
+  ISIN: BRAPCSCRIIS5
+
+  Código: 23F2455020
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 192
+  N° da série: 3
+  Qtd Emitida: 46622
+  Volume Emissão: 46622000.0
+  Remuneração: 100,00%  DI+1,15000%
+  Data de Emissão: 2023-07-15
+  Data de Vencimento: 17/07/2028
+  Data Final de Distribuição: 2024-01-24
+  ISIN: BRAPCSCRIIT3
