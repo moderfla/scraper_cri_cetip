@@ -1,123 +1,143 @@
-17 rows changed, 2 rows added, 3 rows removed
+2 rows changed, 8 rows added, 2 rows removed
 
-17 rows changed
+2 rows changed
 
-  Código: 22J1411297
-    Data Final de Distribuição: "2023-04-30" => "2023-10-31"
+  Código: 22G1233040
+    Data Final de Distribuição: "2023-08-04" => "2024-02-04"
 
-  Código: 11D0026797
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
+  Código: 22G1233041
+    Data Final de Distribuição: "2023-08-04" => "2024-02-04"
 
-  Código: 12D0031201
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
+8 rows added
 
-  Código: 18L1367003
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 23A1615602
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 11D0025456
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 11G0023510
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 11I0012970
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 11L0056864
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12B0038688
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12B0038689
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12D0013233
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12F0036335
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12L0018386
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 12L0019695
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 20H0794682
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-  Código: 08C0000078
-    Agente Fiduciário: "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA" => "TRUSTEE DTVM LTDA"
-
-2 rows added
-
-  Código: 23G1987362
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 145
+  Código: 23G1914605
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 56
   N° da série: 1
-  Qtd Emitida: 21300
-  Volume Emissão: 21300000.0
-  Remuneração: 100,00%  DI+4,20000%
-  Data de Emissão: 2023-07-20
-  Data de Vencimento: 26/01/2028
-  Data Final de Distribuição: 2024-01-21
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+13,00420%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 22/07/2027
+  Data Final de Distribuição: 2024-01-24
   ISIN: 
 
-  Código: 23G0008401
+  Código: 23G1914682
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 56
+  N° da série: 2
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+13,00420%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 22/07/2027
+  Data Final de Distribuição: 2024-01-24
+  ISIN: 
+
+  Código: 23G1914738
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 56
+  N° da série: 3
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+13,00420%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 22/07/2027
+  Data Final de Distribuição: 2024-01-24
+  ISIN: 
+
+  Código: 23G1914926
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 56
+  N° da série: 4
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+13,00420%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 22/07/2027
+  Data Final de Distribuição: 2024-01-24
+  ISIN: 
+
+  Código: 23G1991147
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 8
+  N° da série: 1
+  Qtd Emitida: 17436
+  Volume Emissão: 17436000.0
+  Remuneração: INCC-DI+12,68000%
+  Data de Emissão: 2023-07-20
+  Data de Vencimento: 02/09/2027
+  Data Final de Distribuição: 2024-01-21
+  ISIN: BRASPRCRI0V2
+
+  Código: 23G1991269
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 8
+  N° da série: 2
+  Qtd Emitida: 17500
+  Volume Emissão: 17500000.0
+  Remuneração: INCC-DI+9,00000%
+  Data de Emissão: 2023-07-20
+  Data de Vencimento: 02/09/2027
+  Data Final de Distribuição: 2024-01-21
+  ISIN: BRASPRCRI0W0
+
+  Código: 23G1676017
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 1
+  N° da série: 520
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2023-07-19
+  Data de Vencimento: 16/02/2052
+  Data Final de Distribuição: 2024-01-17
+  ISIN: 
+
+  Código: 23G1987539
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 188
+  N° da Emissão: 187
   N° da série: 1
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: 103,00% DI
-  Data de Emissão: 2023-07-28
-  Data de Vencimento: 28/07/2028
-  Data Final de Distribuição: 2024-01-21
-  ISIN: BRAPCSCRIIY3
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-07-25
+  Data de Vencimento: 25/07/2028
+  Data Final de Distribuição: 2024-01-24
+  ISIN: BRAPCSCRIJA1
 
-3 rows removed
+2 rows removed
 
-  Código: 11C0034561
-  Emissor: BRAZILIAN SECURITIES CIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  Código: 18L1367003
+  Emissor: LEADS CIA. SECURITIZADORA
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 2
+  N° da série: 1
+  Qtd Emitida: 2000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+16,00000%
+  Data de Emissão: 2018-12-26
+  Data de Vencimento: 20/01/2027
+  Data Final de Distribuição: 2021-01-18
+  ISIN: 
+
+  Código: 21G0613338
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 217
-  Qtd Emitida: 41
-  Volume Emissão: 12344350.52
-  Remuneração: IGP-M+8,00000%
-  Data de Emissão: 2011-03-20
-  Data de Vencimento: 20/02/2041
-  Data Final de Distribuição: 2011-09-13
-  ISIN: BRBSCSCRI5N1
-
-  Código: 21H1012347
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 192
-  Qtd Emitida: 2250
-  Volume Emissão: 2250000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2021-08-25
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2022-02-25
-  ISIN: BRGAIACRI618
-
-  Código: 21H1012348
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 193
-  Qtd Emitida: 2250
-  Volume Emissão: 2250000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2021-08-25
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2022-02-25
-  ISIN: BRGAIACRI626
+  N° da série: 357
+  Qtd Emitida: 20800
+  Volume Emissão: 20800000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2021-07-13
+  Data de Vencimento: 28/12/2023
+  Data Final de Distribuição: 2022-01-19
+  ISIN:
