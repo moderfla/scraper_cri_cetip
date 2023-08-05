@@ -1,63 +1,88 @@
-2 rows changed, 4 rows added
+5 rows changed, 5 rows added
 
-2 rows changed
+5 rows changed
 
-  Código: 22B0448635
-    Data Final de Distribuição: "2023-08-11" => "2024-02-11"
+  Código: 20E0870068
+    Remuneração: "1,00% DI" => "1,00%  DI+19,56000%"
 
-  Código: 22D0002416
-    Data Final de Distribuição: "2022-09-14" => "2023-09-14"
+  Código: 22G1110098
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-08-01" => "2024-02-01"
 
-4 rows added
+  Código: 22G1110109
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-08-01" => "2024-02-01"
 
-  Código: 23G1476822
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 55
-  N° da série: 1
-  Qtd Emitida: 3500
-  Volume Emissão: 3500000.0
+  Código: 22E0108325
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-05-03" => "2023-11-03"
+
+  Código: 22L0344564
+    Data Final de Distribuição: "2023-06-12" => "2023-12-12"
+
+5 rows added
+
+  Código: 23H0030801
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 29
+  N° da série: 3
+  Qtd Emitida: 4058
+  Volume Emissão: 4058000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2023-08-04
+  Data de Vencimento: 20/01/2043
+  Data Final de Distribuição: 2024-01-31
+  ISIN: BRPVSCCRI2O5
+
+  Código: 23H0031609
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 29
+  N° da série: 4
+  Qtd Emitida: 450
+  Volume Emissão: 450000.0
   Remuneração: IPCA+20,00000%
-  Data de Emissão: 2023-07-14
-  Data de Vencimento: 15/07/2026
-  Data Final de Distribuição: 2024-01-21
-  ISIN: BRCASCCRI0X0
+  Data de Emissão: 2023-08-04
+  Data de Vencimento: 20/01/2043
+  Data Final de Distribuição: 2024-01-31
+  ISIN: BRPVSCCRI2P2
 
-  Código: 23G1477566
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 55
-  N° da série: 2
-  Qtd Emitida: 6500
-  Volume Emissão: 6500000.0
-  Remuneração: IPCA+20,00000%
-  Data de Emissão: 2023-07-14
-  Data de Vencimento: 15/07/2026
-  Data Final de Distribuição: 2024-01-21
-  ISIN: BRCASCCRI0Y8
-
-  Código: 23G0009601
+  Código: 23G2239867
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 155
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 162
   N° da série: 1
-  Qtd Emitida: 250000
-  Volume Emissão: 250000000.0
-  Remuneração: 100,00%  DI+1,30000%
-  Data de Emissão: 2023-07-28
-  Data de Vencimento: 27/07/2028
+  Qtd Emitida: 75000
+  Volume Emissão: 75000000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-07-27
+  Data de Vencimento: 12/07/2038
   Data Final de Distribuição: 2024-01-28
-  ISIN: BRRBRACRA3H0
+  ISIN: BRRBRACRIIZ0
 
-  Código: 23G2012305
+  Código: 23G1446053
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 175
+  N° da Emissão: 164
   N° da série: 1
-  Qtd Emitida: 38780
-  Volume Emissão: 38780000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2023-07-20
-  Data de Vencimento: 16/07/2035
-  Data Final de Distribuição: 2024-02-02
-  ISIN: BRAPCSCRIJB9
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: IPCA+9,06000%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 10/07/2035
+  Data Final de Distribuição: 2024-01-28
+  ISIN: BRAPCSCRIJ52
+
+  Código: 23G1446061
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 164
+  N° da série: 2
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2023-07-21
+  Data de Vencimento: 10/07/2035
+  Data Final de Distribuição: 2024-01-28
+  ISIN: BRAPCSCRIJ60
