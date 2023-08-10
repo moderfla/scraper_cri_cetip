@@ -1,140 +1,125 @@
-6 rows changed, 9 rows added
+5 rows changed, 8 rows added
 
-6 rows changed
+5 rows changed
 
-  Código: 21F0950048
-    ISIN: "" => "BRFSECCRIF21"
+  Código: 22H1389755
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-08-22" => "2029-08-21"
 
-  Código: 21I0183215
-    ISIN: "" => "BRFSECCRIH37"
+  Código: 17I0181533
+    ISIN: "BRRBRACRI4P3" => "BRRBRACRI4O6"
 
-  Código: 19L0906443
-    ISIN: "" => "BRHBSCCRI4N7"
+  Código: 19K1124486
+    Data de Vencimento: "15/12/2026" => "15/12/2027"
 
-  Código: 22F1035289
-    ISIN: "" => "BRRBRACRICX8"
+  Código: 15L0542301
+    Data de Vencimento: "10/12/2025" => "15/12/2025"
 
-  Código: 23F1799558
-    ISIN: "" => "BRRBRACRII79"
+  Código: 22J0306938
+    ISIN: "BRVERTCRI4J6" => "BRVERTCRI4Z2"
 
-  Código: 22D1226341
-    ISIN: "" => "BRIMWLCRIC24"
+8 rows added
 
-9 rows added
-
-  Código: 23C0003601
+  Código: 23G0990171
   Emissor: CANAL COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 36
-  N° da série: 2
-  Qtd Emitida: 27427
-  Volume Emissão: 27427000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2023-08-01
-  Data de Vencimento: 16/03/2033
-  Data Final de Distribuição: 2023-08-26
-  ISIN: 
-
-  Código: 23G1576657
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
+  N° da Emissão: 49
   N° da série: 1
-  Qtd Emitida: 91005
-  Volume Emissão: 91005000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-07-18
-  Data de Vencimento: 20/07/2027
-  Data Final de Distribuição: 2024-01-13
-  ISIN: 
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-07-05
+  Data de Vencimento: 22/06/2033
+  Data Final de Distribuição: 2024-01-26
+  ISIN: BRCASCCRI0V4
 
-  Código: 23G1576682
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
+  Código: 23G0990636
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 49
   N° da série: 2
-  Qtd Emitida: 30612
-  Volume Emissão: 30612000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-07-18
-  Data de Vencimento: 20/07/2027
-  Data Final de Distribuição: 2024-01-13
-  ISIN: 
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: 100,00%  DI+11,67000%
+  Data de Emissão: 2023-07-05
+  Data de Vencimento: 22/06/2033
+  Data Final de Distribuição: 2024-01-26
+  ISIN: BRCASCCRI0W2
 
-  Código: 23G1576799
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
+  Código: 23G2308202
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
+  N° da série: 1
+  Qtd Emitida: 21330
+  Volume Emissão: 21330000.0
+  Remuneração: 100,00%  DI+1,80000%
+  Data de Emissão: 2023-07-27
+  Data de Vencimento: 27/07/2027
+  Data Final de Distribuição: 2024-02-07
+  ISIN: BRRBRACR0004
+
+  Código: 23G2308203
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
+  N° da série: 2
+  Qtd Emitida: 5670
+  Volume Emissão: 5670000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2023-07-27
+  Data de Vencimento: 27/07/2027
+  Data Final de Distribuição: 2024-02-07
+  ISIN: BRRBRACR0012
+
+  Código: 23G2308205
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
   N° da série: 3
-  Qtd Emitida: 116800
-  Volume Emissão: 116800000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-07-18
-  Data de Vencimento: 20/12/2033
-  Data Final de Distribuição: 2024-01-13
-  ISIN: 
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: 100,00%  DI+1,80000%
+  Data de Emissão: 2023-07-27
+  Data de Vencimento: 27/07/2027
+  Data Final de Distribuição: 2024-02-07
+  ISIN: BRRBRACR0020
 
-  Código: 23G1576809
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
+  Código: 23G2308207
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
   N° da série: 4
-  Qtd Emitida: 38700
-  Volume Emissão: 38700000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-07-18
-  Data de Vencimento: 20/12/2033
-  Data Final de Distribuição: 2024-01-13
-  ISIN: 
+  Qtd Emitida: 4000
+  Volume Emissão: 4000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2023-07-27
+  Data de Vencimento: 27/07/2027
+  Data Final de Distribuição: 2024-01-07
+  ISIN: BRRBRACR0038
 
-  Código: 23G1576810
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
-  N° da série: 5
-  Qtd Emitida: 3500
-  Volume Emissão: 3500000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-07-18
-  Data de Vencimento: 20/12/2033
-  Data Final de Distribuição: 2024-01-13
-  ISIN: 
-
-  Código: 23G2246560
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 33
-  N° da série: 1
-  Qtd Emitida: 1195472086
-  Volume Emissão: 11954720.86
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2023-07-26
-  Data de Vencimento: 18/01/2043
-  Data Final de Distribuição: 2024-02-02
-  ISIN: 
-
-  Código: 23G2256484
+  Código: 23H1038202
   Emissor: TRAVESSIA SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 33
+  N° da Emissão: 29
+  N° da série: 1
+  Qtd Emitida: 3800
+  Volume Emissão: 3800000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2023-08-03
+  Data de Vencimento: 24/08/2026
+  Data Final de Distribuição: 2024-02-07
+  ISIN: 
+
+  Código: 23H1038509
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 29
   N° da série: 2
-  Qtd Emitida: 643715739
-  Volume Emissão: 6437157.39
-  Remuneração: IPCA+14,69000%
-  Data de Emissão: 2023-07-26
-  Data de Vencimento: 18/01/2043
-  Data Final de Distribuição: 2024-02-02
-  ISIN: 
-
-  Código: 23G2304202
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 31
-  N° da série: 1
-  Qtd Emitida: 23000
-  Volume Emissão: 23000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2023-07-31
-  Data de Vencimento: 20/08/2027
-  Data Final de Distribuição: 2024-02-03
+  Qtd Emitida: 2500
+  Volume Emissão: 2500000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2023-08-03
+  Data de Vencimento: 24/08/2026
+  Data Final de Distribuição: 2024-02-07
   ISIN:
