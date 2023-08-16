@@ -1,24 +1,5 @@
-2 rows changed, 1 row added
+1 row changed
 
-2 rows changed
-
-  Código: 22B0939300
-    Data de Vencimento: "17/07/2028" => "15/08/2028"
-
-  Código: 22G0893940
-    Data Final de Distribuição: "2023-01-20" => "2024-01-20"
-
-1 row added
-
-  Código: 23H0096476
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 194
-  N° da série: 1
-  Qtd Emitida: 51000
-  Volume Emissão: 51000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2023-08-01
-  Data de Vencimento: 31/07/2035
-  Data Final de Distribuição: 2024-02-07
-  ISIN: BRAPCSCRIJE3
+  Código: 13H0072617
+    Remuneração: "" => "IGP-M+15,00000%"
+    Data de Vencimento: "10/08/2023" => "22/04/2030"
