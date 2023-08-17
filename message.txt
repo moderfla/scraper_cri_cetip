@@ -1,5 +1,8 @@
-1 row changed
+2 rows changed
 
-  Código: 13H0072617
-    Remuneração: "" => "IGP-M+15,00000%"
-    Data de Vencimento: "10/08/2023" => "22/04/2030"
+  Código: 22B0512752
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-08-24" => "2024-02-24"
+
+  Código: 21H1005977
+    Data de Vencimento: "18/03/2028" => "18/04/2032"
