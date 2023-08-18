@@ -1,8 +1,50 @@
-2 rows changed
+1 row changed, 2 rows added, 1 row removed
 
-  Código: 22B0512752
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-08-24" => "2024-02-24"
+1 row changed
 
-  Código: 21H1005977
-    Data de Vencimento: "18/03/2028" => "18/04/2032"
+  Código: 15L0648443
+    Qtd Emitida: "452" => "275"
+    Volume Emissão: "434007377.18" => "275201597.54"
+
+2 rows added
+
+  Código: 23H1070006
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 34
+  N° da série: 1
+  Qtd Emitida: 26000
+  Volume Emissão: 26000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-08-15
+  Data de Vencimento: 29/08/2028
+  Data Final de Distribuição: 2024-02-16
+  ISIN: BRPVSCCRI2T4
+
+  Código: 15L0790908
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 543
+  Qtd Emitida: 177
+  Volume Emissão: 177129755.51
+  Remuneração: IPCA+6,00000%
+  Data de Emissão: 2015-12-18
+  Data de Vencimento: 12/11/2031
+  Data Final de Distribuição: 2016-06-14
+  ISIN: 
+
+1 row removed
+
+  Código: 21E0705635
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 267
+  Qtd Emitida: 19000
+  Volume Emissão: 19000000.0
+  Remuneração: 1,00%  DI+2,10000%
+  Data de Emissão: 2021-05-31
+  Data de Vencimento: 09/08/2023
+  Data Final de Distribuição: 2021-11-27
+  ISIN:
