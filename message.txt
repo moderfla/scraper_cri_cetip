@@ -1,25 +1,56 @@
-2 rows changed, 1 row added
+4 rows changed, 3 rows removed
 
-2 rows changed
+4 rows changed
 
-  Código: 22E1273339
-    Qtd Emitida: "126000" => "92000"
-    Volume Emissão: "126000000.0" => "92000000.0"
+  Código: 21E0585082
+    Data de Vencimento: "11/09/2023" => "11/03/2024"
 
-  Código: 19I0252917
-    Data de Vencimento: "29/08/2023" => "27/10/2023"
+  Código: 22H1575011
+    Data Final de Distribuição: "2023-03-02" => "2024-03-02"
 
-1 row added
+  Código: 22H1575176
+    Data Final de Distribuição: "2023-03-02" => "2024-03-02"
 
-  Código: 23H1097588
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 3
-  N° da série: 1
-  Qtd Emitida: 189617
-  Volume Emissão: 189617000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-08-07
-  Data de Vencimento: 20/08/2028
-  Data Final de Distribuição: 2024-02-09
-  ISIN: BRBASECRI0X9
+  Código: 22H1575281
+    Data Final de Distribuição: "2023-03-02" => "2024-03-02"
+
+3 rows removed
+
+  Código: 18L1365605
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 189
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: IGP-M+13,68000%
+  Data de Emissão: 2018-12-26
+  Data de Vencimento: 20/08/2023
+  Data Final de Distribuição: 2020-12-28
+  ISIN: BRFSECCRI5T0
+
+  Código: 21H1012344
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 191
+  Qtd Emitida: 2250
+  Volume Emissão: 2250000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2021-08-25
+  Data de Vencimento: 20/08/2026
+  Data Final de Distribuição: 2022-02-25
+  ISIN: BRGAIACRI600
+
+  Código: 21H1012350
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 194
+  Qtd Emitida: 2250
+  Volume Emissão: 2250000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2021-08-25
+  Data de Vencimento: 20/08/2026
+  Data Final de Distribuição: 2022-08-25
+  ISIN: BRGAIACRI634
