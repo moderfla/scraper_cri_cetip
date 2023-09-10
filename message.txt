@@ -1,61 +1,79 @@
-10 rows changed, 2 rows added
+6 rows added
 
-10 rows changed
-
-  Código: 21H1029300
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,00000%"
-
-  Código: 21H1029302
-    Remuneração: "IPCA+12,34000%" => "IPCA+13,34000%"
-
-  Código: 21H1029303
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,00000%"
-
-  Código: 21H1029304
-    Remuneração: "IPCA+12,34000%" => "IPCA+13,34000%"
-
-  Código: 21H1029305
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,00000%"
-
-  Código: 21H1029306
-    Remuneração: "IPCA+12,34000%" => "IPCA+13,34000%"
-
-  Código: 21H1029307
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,00000%"
-
-  Código: 21H1029308
-    Remuneração: "IPCA+12,34000%" => "IPCA+13,34000%"
-
-  Código: 21H1029309
-    Remuneração: "IPCA+9,00000%" => "IPCA+10,00000%"
-
-  Código: 10E0013644
-    Data de Vencimento: "08/09/2023" => "08/03/2024"
-
-2 rows added
-
-  Código: 23B0494120
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 33
-  N° da série: 2
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: IPCA+9,80000%
-  Data de Emissão: 2023-08-30
-  Data de Vencimento: 27/01/2033
-  Data Final de Distribuição: 2024-02-26
-  ISIN: 
-
-  Código: 21L0967455
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 298
-  Qtd Emitida: 4500
-  Volume Emissão: 4500000.0
+  Código: 23I0010003
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 35
+  N° da série: 4
+  Qtd Emitida: 35789334
+  Volume Emissão: 35789334.0
   Remuneração: IPCA+10,00000%
-  Data de Emissão: 2021-12-20
-  Data de Vencimento: 24/12/2024
-  Data Final de Distribuição: 2023-12-20
-  ISIN: BRHBSCCRI7Q3
+  Data de Emissão: 2023-09-11
+  Data de Vencimento: 25/05/2038
+  Data Final de Distribuição: 2024-02-03
+  ISIN: BRPVSCCRI2Q0
+
+  Código: 23I0010202
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 35
+  N° da série: 5
+  Qtd Emitida: 4210666
+  Volume Emissão: 4210666.0
+  Remuneração: IPCA+14,00000%
+  Data de Emissão: 2023-09-11
+  Data de Vencimento: 25/05/2038
+  Data Final de Distribuição: 2024-02-03
+  ISIN: BRPVSCCRI2R8
+
+  Código: 23I0096173
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
+  N° da Emissão: 7
+  N° da série: 1
+  Qtd Emitida: 307617
+  Volume Emissão: 307617000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2023-09-04
+  Data de Vencimento: 20/03/2027
+  Data Final de Distribuição: 2024-03-03
+  ISIN: BRFSECCRIKC8
+
+  Código: 23I0096175
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
+  N° da Emissão: 7
+  N° da série: 2
+  Qtd Emitida: 122500
+  Volume Emissão: 122500000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2023-09-04
+  Data de Vencimento: 20/09/2038
+  Data Final de Distribuição: 2024-03-03
+  ISIN: BRFSECCRIKD6
+
+  Código: 23H1487992
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 193
+  N° da série: 1
+  Qtd Emitida: 29100
+  Volume Emissão: 29100000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2023-08-18
+  Data de Vencimento: 25/01/2027
+  Data Final de Distribuição: 2024-03-04
+  ISIN: BRAPCSCRIJL8
+
+  Código: 23H1315288
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 98
+  N° da série: 2
+  Qtd Emitida: 105000
+  Volume Emissão: 105000000.0
+  Remuneração: IPCA+8,85000%
+  Data de Emissão: 2023-08-21
+  Data de Vencimento: 27/03/2027
+  Data Final de Distribuição: 2024-03-06
+  ISIN: BRVERTCRI768
