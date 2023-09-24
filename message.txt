@@ -1,40 +1,4 @@
-3 rows changed, 2 rows added
+1 row changed
 
-3 rows changed
-
-  Código: 15L0542301
-    Data de Vencimento: "15/12/2025" => "10/12/2025"
-
-  Código: 22I0351653
-    Data Final de Distribuição: "2023-03-12" => "2024-03-12"
-
-  Código: 23C0527377
-    Remuneração: "IPCA+15,22000%" => "IPCA+15,16240%"
-
-2 rows added
-
-  Código: 23E1462691
-  Emissor: BSI CAPITAL SECURITIZADORA S.A.
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 17
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IPCA+13,50000%
-  Data de Emissão: 2023-05-09
-  Data de Vencimento: 09/05/2033
-  Data Final de Distribuição: 2023-12-04
-  ISIN: 
-
-  Código: 23I1512147
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 191
-  N° da série: 1
-  Qtd Emitida: 65000
-  Volume Emissão: 65000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2023-09-13
-  Data de Vencimento: 30/12/2038
-  Data Final de Distribuição: 2024-03-18
-  ISIN: BRRBRACRIJQ7
+  Código: 16I0926379
+    Remuneração: "IPCA+6,40000%" => ""
