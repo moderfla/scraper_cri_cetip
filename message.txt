@@ -1,4 +1,63 @@
-1 row changed
+2 rows changed, 4 rows added
 
-  Código: 16I0926379
-    Remuneração: "IPCA+6,40000%" => ""
+2 rows changed
+
+  Código: 16A0630092
+    Remuneração: "IPCA+6,54890%" => ""
+
+  Código: 23D1333883
+    Data de Vencimento: "25/04/2029" => "25/06/2029"
+
+4 rows added
+
+  Código: 23I1487207
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 12
+  N° da série: 1
+  Qtd Emitida: 117660
+  Volume Emissão: 117660000.0
+  Remuneração: INCC-DI+12,68000%
+  Data de Emissão: 2023-09-15
+  Data de Vencimento: 21/09/2032
+  Data Final de Distribuição: 2024-03-16
+  ISIN: BRASPRCRI0Y6
+
+  Código: 23I1487360
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 12
+  N° da série: 2
+  Qtd Emitida: 210340
+  Volume Emissão: 210340000.0
+  Remuneração: INCC-DI+9,00000%
+  Data de Emissão: 2023-09-15
+  Data de Vencimento: 21/09/2032
+  Data Final de Distribuição: 2024-03-16
+  ISIN: BRASPRCRI0Z3
+
+  Código: 20I0941573
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO S.A. DTVM
+  N° da Emissão: 1
+  N° da série: 544
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2020-09-22
+  Data de Vencimento: 27/09/2030
+  Data Final de Distribuição: 2024-02-28
+  ISIN: 
+
+  Código: 23I1740395
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 205
+  N° da série: 1
+  Qtd Emitida: 120000
+  Volume Emissão: 120000000.0
+  Remuneração: 100,00%  DI+2,25000%
+  Data de Emissão: 2023-09-18
+  Data de Vencimento: 27/09/2027
+  Data Final de Distribuição: 2024-03-25
+  ISIN: BRRBRACRIJY1
