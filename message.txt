@@ -1,382 +1,289 @@
-60 rows changed, 1 row added, 14 rows removed
+68 rows changed, 4 rows added, 2 rows removed
 
-60 rows changed
+68 rows changed
 
-  Código: 10L0013330
-    Agente Fiduciário: "PENTAGONO  SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 10G0033154
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 12F0023442
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S.A." => "OLIVEIRA TRUST DTVM S/A"
+  Código: 11F0042226
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 12I0031780
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 11I0021439
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 12I0031781
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 11I0025628
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 12L0023493
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 12E0031967
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 13D0460776
-    Agente Fiduciário: "PENTAGONO DTVM" => "PENTAGONO DTVM SA"
+  Código: 13A0016692
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 13G0249947
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 13J0119962
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 13I0061118
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 13J0119971
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 13L0038206
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 14I0139153
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 14I0139224
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 14I0139157
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 14I0139226
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 15F0599984
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 14K0076862
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 15F0600219
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 14L0180114
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 15H0699075
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 14L0233308
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 15H0699076
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
   Código: 15I0138541
-    ISIN: "" => "BRRBRACRIK42"
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 19K1145372
+  Código: 15L0660708
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 18C0804986
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 18C0860204
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 18F0879293
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 18F0925001
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 18L1299235
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 19H0182182
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 19H0205086
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 19I0360674
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 19I0745122
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 19L0909256
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 20J0647709
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 21F0968392
+    ISIN: "" => "BRRBRACRI8U4"
+
+  Código: 21H0850158
+    ISIN: "" => "BRRBRACRI937"
+
+  Código: 21H0850177
+    ISIN: "" => "BRRBRACRI945"
+
+  Código: 22B0653652
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22D1376213
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22E0891023
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22E1056953
     Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 20G0798867
+  Código: 22E1284821
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22E1284822
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22F0675402
     Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 20G0855277
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22F1195714
+    ISIN: "" => "BRRBRACRICR0"
 
-  Código: 20G0855350
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0283463
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20I0795196
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0283464
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20I0815541
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0663573
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20K0789466
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0668621
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20K0789469
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0668622
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20K0789493
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 22G0701494
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 21C0483517
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 21E0030495
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 21I0639671
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 21I0639672
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 22C0509668
+  Código: 22G0785359
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
   Código: 22G0859034
-    ISIN: "" => "BRRBRACRIDX6"
-
-  Código: 22L1106631
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 22L1266385
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 22L1266394
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
-
-  Código: 22L1270385
+  Código: 22G0897549
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 22L1369863
+  Código: 22H1579450
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 22L1379419
+  Código: 22I0150269
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I0150943
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I0207529
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I0207542
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I0247719
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I0868989
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22I1515298
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J0346032
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J1107076
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J1285684
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J1285918
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J1381882
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22J1408006
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22K0640841
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 22K1684666
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22L0004215
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22L0147303
     Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
   Código: 22L1429186
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    ISIN: "" => "BRRBRACRIJJ2"
 
-  Código: 22L1442125
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 23F0046476
+    ISIN: "" => "BRRBRACRIHB3"
 
-  Código: 22L1467751
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 23G1696052
+    ISIN: "" => "BRRBRACRIIV9"
 
-  Código: 22L1474446
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+4 rows added
 
-  Código: 22L2288683
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 22L2288690
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23A1225575
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23B0430541
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23C0118708
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23C1232565
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23C1756501
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23C2706233
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23D0005401
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23D1446730
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23D1446940
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23D1515316
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23D1695011
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23E1991802
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23G2308202
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23H1152062
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23I1565009
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23I1566435
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23I1566442
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23I1690470
-    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
-
-1 row added
-
-  Código: 23I2066060
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 33
-  N° da série: 1
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
+  Código: 21F0953755
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 571
+  Qtd Emitida: 11200
+  Volume Emissão: 11200000.0
   Remuneração: IPCA+10,00000%
-  Data de Emissão: 2023-09-27
-  Data de Vencimento: 15/09/2028
-  Data Final de Distribuição: 2024-04-01
-  ISIN: BRHBSCCRIAE7
+  Data de Emissão: 2021-09-01
+  Data de Vencimento: 20/08/2029
+  Data Final de Distribuição: 2023-10-05
+  ISIN: BRFSECCRIF05
 
-14 rows removed
-
-  Código: 20H0206719
+  Código: 21F0953757
   Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 389
-  Qtd Emitida: 7200
-  Volume Emissão: 7200000.0
-  Remuneração: IPCA+9,47000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2021-02-11
-  ISIN: BRFSECCRIC08
-
-  Código: 20H0206725
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 391
-  Qtd Emitida: 7200
-  Volume Emissão: 7200000.0
-  Remuneração: IPCA+9,47000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2022-04-11
-  ISIN: BRFSECCRIC24
-
-  Código: 20H0206726
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 393
-  Qtd Emitida: 2400
-  Volume Emissão: 2400000.0
-  Remuneração: IPCA+9,47000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2022-02-11
-  ISIN: 
-
-  Código: 20H0206727
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 390
+  N° da série: 572
   Qtd Emitida: 4800
   Volume Emissão: 4800000.0
-  Remuneração: IPCA+17,50000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2021-02-11
-  ISIN: BRFSECCRIC16
+  Remuneração: IPCA+16,65000%
+  Data de Emissão: 2021-09-01
+  Data de Vencimento: 20/08/2029
+  Data Final de Distribuição: 2023-10-05
+  ISIN: BRFSECCRIF13
 
-  Código: 20H0206728
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 392
-  Qtd Emitida: 4800
-  Volume Emissão: 4800000.0
-  Remuneração: IPCA+17,50000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2022-04-11
-  ISIN: BRFSECCRIC32
+  Código: 23I1402341
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 228
+  N° da série: 1
+  Qtd Emitida: 120000
+  Volume Emissão: 120000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2023-09-19
+  Data de Vencimento: 20/06/2033
+  Data Final de Distribuição: 2024-04-05
+  ISIN: BRAPCSCRIJU9
 
-  Código: 20H0206729
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 394
-  Qtd Emitida: 1600
-  Volume Emissão: 1600000.0
-  Remuneração: IPCA+17,50000%
-  Data de Emissão: 2020-08-07
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2022-02-11
-  ISIN: 
+  Código: 23I1966031
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 73
+  N° da série: 2
+  Qtd Emitida: 8908
+  Volume Emissão: 8389090.26
+  Remuneração: IPCA+9,75000%
+  Data de Emissão: 2023-09-26
+  Data de Vencimento: 11/05/2039
+  Data Final de Distribuição: 2024-04-02
+  ISIN: BRIMWLCRIGL7
 
-  Código: 20L0483914
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 478
-  Qtd Emitida: 4400
-  Volume Emissão: 4400000.0
-  Remuneração: IGP-M+16,00000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2021-06-08
-  ISIN: BRFSECCRICX1
+2 rows removed
 
-  Código: 20L0483915
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
+  Código: 20I0905793
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 479
-  Qtd Emitida: 6600
-  Volume Emissão: 6600000.0
-  Remuneração: IGP-M+10,47000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2021-12-08
-  ISIN: BRFSECCRICY9
+  N° da série: 284
+  Qtd Emitida: 20015
+  Volume Emissão: 20015000.0
+  Remuneração: 100,00%  DI+4,85000%
+  Data de Emissão: 2020-09-30
+  Data de Vencimento: 18/09/2025
+  Data Final de Distribuição: 2021-03-30
+  ISIN: BRRBRACRI7B6
 
-  Código: 20L0483917
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
+  Código: 21K0634938
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 480
-  Qtd Emitida: 4400
-  Volume Emissão: 4400000.0
-  Remuneração: IGP-M+16,00000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2021-12-08
-  ISIN: BRFSECCRICZ6
-
-  Código: 20L0483919
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 481
-  Qtd Emitida: 6600
-  Volume Emissão: 6600000.0
-  Remuneração: IGP-M+10,47000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2022-06-08
-  ISIN: BRFSECCRID07
-
-  Código: 20L0483921
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 482
-  Qtd Emitida: 4400
-  Volume Emissão: 4400000.0
-  Remuneração: IGP-M+16,00000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2022-06-08
-  ISIN: BRFSECCRID15
-
-  Código: 20L0483923
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 483
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IGP-M+10,47000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2022-06-08
-  ISIN: BRFSECCRID23
-
-  Código: 20L0483924
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 484
-  Qtd Emitida: 2000
-  Volume Emissão: 2000000.0
-  Remuneração: IGP-M+16,00000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2022-06-08
-  ISIN: BRFSECCRID31
-
-  Código: 20L0483929
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 477
-  Qtd Emitida: 6600
-  Volume Emissão: 6600000.0
-  Remuneração: IGP-M+10,47000%
-  Data de Emissão: 2020-12-04
-  Data de Vencimento: 20/04/2026
-  Data Final de Distribuição: 2021-06-08
-  ISIN: BRFSECCRICW3
+  N° da série: 440
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: IPCA+6,80000%
+  Data de Emissão: 2021-11-16
+  Data de Vencimento: 10/11/2033
+  Data Final de Distribuição: 2022-05-16
+  ISIN:
