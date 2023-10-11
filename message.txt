@@ -1,45 +1,35 @@
-4 rows changed, 2 rows added
+1 row changed, 2 rows removed
 
-4 rows changed
+1 row changed
 
-  Código: 21F0953755
+  Código: 22L0001401
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-10-05" => "2023-10-06"
+    Data Final de Distribuição: "2023-07-21" => "2024-01-21"
 
-  Código: 21F0953757
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-10-05" => "2023-10-06"
+2 rows removed
 
-  Código: 21I0798619
-    Remuneração: "IPCA+6,30000%" => "IPCA+0,02000%"
+  Código: 21C0599740
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 298
+  Qtd Emitida: 25463
+  Volume Emissão: 25463000.0
+  Remuneração: IPCA+5,50000%
+  Data de Emissão: 2021-03-25
+  Data de Vencimento: 17/03/2027
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRRBRACRI7Y8
 
-  Código: 21I0798657
-    Remuneração: "IPCA+8,90000%" => "IPCA+0,02000%"
-
-2 rows added
-
-  Código: 23I2111365
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 61
-  N° da série: 1
-  Qtd Emitida: 13700
-  Volume Emissão: 13700000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2023-09-29
-  Data de Vencimento: 22/09/2027
-  Data Final de Distribuição: 2024-03-27
-  ISIN: BRCASCCRI190
-
-  Código: 23I2111373
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 61
-  N° da série: 2
-  Qtd Emitida: 9000
-  Volume Emissão: 9000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2023-09-29
-  Data de Vencimento: 22/09/2027
-  Data Final de Distribuição: 2024-03-27
-  ISIN: BRCASCCRI1A6
+  Código: 21C0599747
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 320
+  Qtd Emitida: 1033
+  Volume Emissão: 1033000.0
+  Remuneração: IPCA+7,00000%
+  Data de Emissão: 2021-03-25
+  Data de Vencimento: 17/03/2027
+  Data Final de Distribuição: 2021-09-10
+  ISIN: BRRBRACRI7Z5
