@@ -1,40 +1,21 @@
-3 rows changed, 2 rows added
+1 row changed, 1 row added
 
-3 rows changed
+1 row changed
 
-  Código: 22I1684600
-    Data Final de Distribuição: "2023-10-20" => "2024-04-20"
+  Código: 22G0159793
+    Remuneração: "100,00%  DI+1,85000%" => "100,00%  DI+2,40000%"
 
-  Código: 22J1295552
-    Data Final de Distribuição: "2023-10-26" => "2024-04-26"
+1 row added
 
-  Código: 22J1295767
-    Data Final de Distribuição: "2023-10-26" => "2024-04-26"
-
-2 rows added
-
-  Código: 23F2569219
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PLANNER C V S/A
-  N° da Emissão: 6
-  N° da série: 4
-  Qtd Emitida: 19917
-  Volume Emissão: 19917000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-06-29
-  Data de Vencimento: 20/06/2036
-  Data Final de Distribuição: 2023-12-27
-  ISIN: 
-
-  Código: 23I1732112
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: GDC PARTNERS DTVM LTDA
-  N° da Emissão: 2
-  N° da série: 28
-  Qtd Emitida: 10120
-  Volume Emissão: 10120000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2023-10-06
-  Data de Vencimento: 17/03/2036
-  Data Final de Distribuição: 2024-04-03
-  ISIN: BRREICCRI0K8
+  Código: 23J1382317
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 60
+  N° da série: 1
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2023-10-10
+  Data de Vencimento: 22/10/2027
+  Data Final de Distribuição: 2024-04-15
+  ISIN: BRCASCCRI1H1
