@@ -1,21 +1,59 @@
-1 row changed, 1 row added
+5 rows changed, 3 rows removed
 
-1 row changed
+5 rows changed
 
-  Código: 22G0159793
-    Remuneração: "100,00%  DI+1,85000%" => "100,00%  DI+2,40000%"
+  Código: 22J0268287
+    Remuneração: "IPCA+8,50000%" => "IPCA+9,50000%"
 
-1 row added
+  Código: 22J0268409
+    Remuneração: "100,00%  DI+3,50000%" => "100,00%  DI+4,50000%"
 
-  Código: 23J1382317
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 60
-  N° da série: 1
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2023-10-10
-  Data de Vencimento: 22/10/2027
-  Data Final de Distribuição: 2024-04-15
-  ISIN: BRCASCCRI1H1
+  Código: 15J0170872
+    Remuneração: "IPCA+8,00000%" => ""
+
+  Código: 15J0170874
+    Remuneração: "IPCA+8,00000%" => ""
+
+  Código: 23D1333883
+    Data de Vencimento: "25/06/2029" => "25/07/2029"
+
+3 rows removed
+
+  Código: 13H0094454
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 1
+  N° da série: 93
+  Qtd Emitida: 160
+  Volume Emissão: 53528475.2
+  Remuneração: IPCA+6,15790%
+  Data de Emissão: 2013-08-15
+  Data de Vencimento: 15/10/2023
+  Data Final de Distribuição: 2014-02-11
+  ISIN: BRRBRACRI2C5
+
+  Código: 20L0610016
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 167
+  Qtd Emitida: 142875
+  Volume Emissão: 142875000.0
+  Remuneração: IPCA+5,00000%
+  Data de Emissão: 2020-12-15
+  Data de Vencimento: 15/12/2027
+  Data Final de Distribuição: 2021-06-10
+  ISIN: BRGAIACRI576
+
+  Código: 22J0978864
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 23
+  N° da série: 2
+  Qtd Emitida: 10397
+  Volume Emissão: 10397000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2022-10-10
+  Data de Vencimento: 20/10/2032
+  Data Final de Distribuição: 2023-04-13
+  ISIN:
