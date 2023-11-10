@@ -1,34 +1,58 @@
-1 row changed, 2 rows added
+9 rows changed, 2 rows added
 
-1 row changed
+9 rows changed
 
-  Código: 22B0939310
-    Data de Vencimento: "17/12/2029" => "15/01/2030"
+  Código: 23E1295288
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 21D0503170
+    ISIN: "" => "BRFSECCRIEG2"
+
+  Código: 21D0503171
+    ISIN: "" => "BRFSECCRIEH0"
+
+  Código: 23F2472075
+    ISIN: "" => "BRAPCSCRIIZ0"
+
+  Código: 23F2474864
+    ISIN: "" => "BRAPCSCRIJ03"
+
+  Código: 23F2474865
+    ISIN: "" => "BRAPCSCRIJ11"
+
+  Código: 23F2474866
+    ISIN: "" => "BRAPCSCRIJ29"
+
+  Código: 21L0329279
+    ISIN: "" => "BRVERTCRI2X1"
+
+  Código: 22E0644702
+    Data Final de Distribuição: "2022-11-10" => "2024-05-10"
 
 2 rows added
 
-  Código: 23J2233201
+  Código: 23J2231398
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 220
-  N° da série: 1
-  Qtd Emitida: 31545
-  Volume Emissão: 31545000.0
-  Remuneração: 100,00%  DI+2,80000%
-  Data de Emissão: 2023-10-31
-  Data de Vencimento: 06/01/2026
-  Data Final de Distribuição: 2024-05-05
-  ISIN: BRRBRACRIK75
-
-  Código: 23J1042731
-  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 222
+  N° da Emissão: 28
+  N° da série: 2
+  Qtd Emitida: 32331
+  Volume Emissão: 32331000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2023-10-31
+  Data de Vencimento: 21/10/2027
+  Data Final de Distribuição: 2024-05-06
+  ISIN: 
+
+  Código: 23J1142107
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 234
   N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-10-25
-  Data de Vencimento: 25/10/2028
-  Data Final de Distribuição: 2024-04-02
-  ISIN: BRAPCSCRIKK8
+  Qtd Emitida: 28000
+  Volume Emissão: 28000000.0
+  Remuneração: IPCA+11,02720%
+  Data de Emissão: 2023-10-18
+  Data de Vencimento: 27/12/2038
+  Data Final de Distribuição: 2024-04-24
+  ISIN: BRAPCSCRIKL6
