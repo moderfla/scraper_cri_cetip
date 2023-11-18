@@ -1,95 +1,176 @@
-3 rows changed, 6 rows added
+4 rows changed, 5 rows added, 7 rows removed
 
-3 rows changed
+4 rows changed
 
-  Código: 20E1055012
-    Remuneração: "" => "IPCA+12,68250%"
-    Data de Vencimento: "23/05/2023" => "10/01/2024"
-
-  Código: 22K1321340
+  Código: 22L1325864
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-05-18" => "2024-05-18"
+    Data Final de Distribuição: "2023-06-15" => "2024-06-15"
 
-  Código: 22K1019759
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-11-14" => "2024-05-14"
+  Código: 20I0623260
+    Data de Vencimento: "19/03/2024" => "18/12/2024"
 
-6 rows added
+  Código: 21H0950730
+    Data de Vencimento: "20/08/2025" => "20/10/2026"
 
-  Código: 23J1135495
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 22D0378281
+    Data de Vencimento: "17/03/2027" => "25/10/2025"
+
+5 rows added
+
+  Código: 23K1511855
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  N° da Emissão: 40
   N° da série: 1
-  Qtd Emitida: 3500
-  Volume Emissão: 3500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKM4
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2023-11-13
+  Data de Vencimento: 29/11/2028
+  Data Final de Distribuição: 2024-05-12
+  ISIN: BRHBSCCRIAI8
 
-  Código: 23J1135548
+  Código: 23J1706526
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 170
+  N° da série: 1
+  Qtd Emitida: 22800
+  Volume Emissão: 22800000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2023-11-10
+  Data de Vencimento: 15/12/2027
+  Data Final de Distribuição: 2024-05-06
+  ISIN: BRAPCSCRIL09
+
+  Código: 23K0018602
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 123
+  N° da série: 1
+  Qtd Emitida: 222194
+  Volume Emissão: 222194000.0
+  Remuneração: 100,00%  DI+0,60000%
+  Data de Emissão: 2023-11-15
+  Data de Vencimento: 15/01/2031
+  Data Final de Distribuição: 2024-05-14
+  ISIN: BRIMWLCRIGR4
+
+  Código: 23K0018801
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 123
+  N° da série: 3
+  Qtd Emitida: 127787
+  Volume Emissão: 127787000.0
+  Remuneração: 11,17050%
+  Data de Emissão: 2023-11-15
+  Data de Vencimento: 15/01/2031
+  Data Final de Distribuição: 2024-05-14
+  ISIN: BRIMWLCRIGT0
+
+  Código: 23K0018802
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 123
   N° da série: 2
+  Qtd Emitida: 250019
+  Volume Emissão: 250019000.0
+  Remuneração: 106,00% DI
+  Data de Emissão: 2023-11-15
+  Data de Vencimento: 15/01/2031
+  Data Final de Distribuição: 2024-05-14
+  ISIN: BRIMWLCRIGS2
+
+7 rows removed
+
+  Código: 21A0655087
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 30
+  N° da série: 1
   Qtd Emitida: 3000
   Volume Emissão: 3000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKN2
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2021-01-08
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2022-07-08
+  ISIN: BRVERTCRI628
 
-  Código: 23J1135553
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 21A0655088
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  N° da Emissão: 30
+  N° da série: 2
+  Qtd Emitida: 19500
+  Volume Emissão: 19500000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2021-01-08
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2022-07-08
+  ISIN: BRVERTCRI636
+
+  Código: 21A0655089
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 30
   N° da série: 3
-  Qtd Emitida: 2500
-  Volume Emissão: 2500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKO0
+  Qtd Emitida: 14000
+  Volume Emissão: 14000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2021-01-08
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2021-07-07
+  ISIN: BRVERTCRI5X4
 
-  Código: 23J1135558
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 21A0655094
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  N° da Emissão: 30
   N° da série: 4
-  Qtd Emitida: 2500
-  Volume Emissão: 2500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKP7
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2021-01-08
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2022-01-08
+  ISIN: BRVERTCRI5Y2
 
-  Código: 23J1135622
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 21A0655105
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  N° da Emissão: 30
   N° da série: 5
-  Qtd Emitida: 2500
-  Volume Emissão: 2500000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKQ5
+  Qtd Emitida: 8500
+  Volume Emissão: 8500000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2021-01-08
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2022-01-08
+  ISIN: BRVERTCRI5Z9
 
-  Código: 23J1135681
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 22G0930589
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 140
+  N° da Emissão: 30
+  N° da série: 7
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2022-07-04
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2023-01-15
+  ISIN: BRVERTCRI602
+
+  Código: 22G0930642
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 30
   N° da série: 6
-  Qtd Emitida: 1900
-  Volume Emissão: 1900000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2023-10-05
-  Data de Vencimento: 15/04/2027
-  Data Final de Distribuição: 2024-05-11
-  ISIN: BRAPCSCRIKR3
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2022-07-04
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2023-01-15
+  ISIN: BRVERTCRI610
