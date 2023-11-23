@@ -1,43 +1,460 @@
-4 rows changed, 2 rows added
+138 rows changed, 1 row added, 2 rows removed
 
-4 rows changed
+138 rows changed
 
-  Código: 19K0175216
-    Remuneração: "IPCA+11,32000%" => ""
+  Código: 20E0031084
+    ISIN: "" => "BRASTECRI0H2"
 
-  Código: 19K0175217
-    Remuneração: "IPCA+18,00000%" => ""
+  Código: 20D0774348
+    ISIN: "" => "BRPVSCCRI099"
 
-  Código: 20K0609818
-    Remuneração: "IPCA+12,75000%" => ""
+  Código: 20D0892140
+    ISIN: "" => "BRPVSCCRI0A8"
 
-  Código: 22F1223555
-    Remuneração: "IPCA+7,75000%" => "IPCA+8,25000%"
+  Código: 20E0945619
+    ISIN: "" => "BRPVSCCRI0B6"
 
-2 rows added
+  Código: 20H0164148
+    ISIN: "" => "BRPVSCCRI0D2"
 
-  Código: 23J2008462
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 31
-  N° da série: 1
-  Qtd Emitida: 8877
-  Volume Emissão: 8877000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2023-10-24
-  Data de Vencimento: 22/10/2038
-  Data Final de Distribuição: 2024-05-06
-  ISIN: BRHBSCCRIAH0
+  Código: 20J0566786
+    ISIN: "" => "BRPVSCCRI0P6"
 
-  Código: 23J2157659
+  Código: 20J0763944
+    ISIN: "" => "BRPVSCCRI0M3"
+
+  Código: 22B0512752
+    ISIN: "" => "BRPVSCCRI1E8"
+
+  Código: 22E0886427
+    ISIN: "" => "BRPVSCCRI1J7"
+
+  Código: 22F1013710
+    ISIN: "" => "BRPVSCCRI1K5"
+
+  Código: 22F1105839
+    ISIN: "" => "BRPVSCCRI1L3"
+
+  Código: 22F1106105
+    ISIN: "" => "BRPVSCCRI1M1"
+
+  Código: 22H1140550
+    ISIN: "" => "BRPVSCCRI1P4"
+
+  Código: 22I0053302
+    ISIN: "" => "BRPVSCCRI1U4"
+
+  Código: 22I0867063
+    ISIN: "" => "BRPVSCCRI1W0"
+
+  Código: 22J1329281
+    ISIN: "" => "BRPVSCCRI230"
+
+  Código: 22J1332631
+    ISIN: "" => "BRPVSCCRI248"
+
+  Código: 22L0179634
+    ISIN: "" => "BRPVSCCRI271"
+
+  Código: 23B0589567
+    ISIN: "" => "BRPVSCCRI297"
+
+  Código: 23D1611321
+    ISIN: "" => "BRPVSCCRI2D8"
+
+  Código: 20B0817014
+    ISIN: "" => "BRFSECCRIA42"
+
+  Código: 20B0817015
+    ISIN: "" => "BRFSECCRIA67"
+
+  Código: 21G0511750
+    ISIN: "" => "BRFSECCRIFD6"
+
+  Código: 21G0511751
+    ISIN: "" => "BRFSECCRIFE4"
+
+  Código: 21H0921848
+    ISIN: "" => "BRFSECCRIFP0"
+
+  Código: 21H0921851
+    ISIN: "" => "BRFSECCRIFR6"
+
+  Código: 21H0921853
+    ISIN: "" => "BRFSECCRIFT2"
+
+  Código: 21J0856192
+    ISIN: "" => "BRFSECCRIHZ5"
+
+  Código: 21J0856224
+    ISIN: "" => "BRFSECCRII02"
+
+  Código: 21L1012231
+    ISIN: "" => "BRFSECCRIIO7"
+
+  Código: 19D0671987
+    ISIN: "" => "BRHBSCCRI379"
+
+  Código: 19F0922610
+    ISIN: "" => "BRHBSCCRI3E8"
+
+  Código: 19I0307144
+    ISIN: "" => "BRHBSCCRI3Q2"
+
+  Código: 19I0737681
+    ISIN: "" => "BRHBSCCRI3V2"
+
+  Código: 19J0327167
+    ISIN: "" => "BRHBSCCRI4B2"
+
+  Código: 19K1139273
+    ISIN: "" => "BRHBSCCRI4H9"
+
+  Código: 19K1139274
+    ISIN: "" => "BRHBSCCRI4I7"
+
+  Código: 19K1145467
+    ISIN: "" => "BRHBSCCRI4K3"
+
+  Código: 19L0906036
+    ISIN: "" => "BRHBSCCRI4L1"
+
+  Código: 19L0906182
+    ISIN: "" => "BRHBSCCRI4M9"
+
+  Código: 19L0907825
+    ISIN: "" => "BRHBSCCRI4O5"
+
+  Código: 20F0870073
+    ISIN: "" => "BRHBSCCRI4Y4"
+
+  Código: 20G0926014
+    ISIN: "" => "BRHBSCCRI510"
+
+  Código: 20I0573995
+    ISIN: "" => "BRHBSCCRI544"
+
+  Código: 20I0718026
+    ISIN: "" => "BRHBSCCRI577"
+
+  Código: 20J0837296
+    ISIN: "" => "BRHBSCCRI5G8"
+
+  Código: 20J0846991
+    ISIN: "" => "BRHBSCCRI5H6"
+
+  Código: 20L0687995
+    ISIN: "" => "BRHBSCCRI5R5"
+
+  Código: 20L0765928
+    ISIN: "" => "BRHBSCCRI5N4"
+
+  Código: 15L0790908
+    ISIN: "" => "BRRBRACRIJB9"
+
+  Código: 19K1145398
+    ISIN: "" => "BRGAIACRI485"
+
+  Código: 19K1145463
+    ISIN: "" => "BRGAIACRI493"
+
+  Código: 20L0523180
+    ISIN: "" => "BRGAIACRI543"
+
+  Código: 21F0137139
+    ISIN: "" => "BRRBRACRI8Q2"
+
+  Código: 21F1076974
+    ISIN: "" => "BRRBRACRI8S8"
+
+  Código: 21G0685671
+    ISIN: "" => "BRRBRACRI911"
+
+  Código: 21K1073642
+    ISIN: "" => "BRGAIACRI6K4"
+
+  Código: 22E1284821
+    ISIN: "" => "BRRBRACRIC91"
+
+  Código: 22E1284822
+    ISIN: "" => "BRRBRACRICA6"
+
+  Código: 22E1284824
+    ISIN: "" => "BRRBRACRICB4"
+
+  Código: 22G0663573
+    ISIN: "" => "BRRBRACRIDM9"
+
+  Código: 22I0868989
+    ISIN: "" => "BRRBRACRIEE4"
+
+  Código: 22I1515298
+    ISIN: "" => "BRRBRACRIEJ3"
+
+  Código: 22K0075397
+    ISIN: "" => "BRARBRCRI010"
+
+  Código: 22K1048115
+    ISIN: "" => "BRRBRACRIFF8"
+
+  Código: 22K1089353
+    ISIN: "" => "BRRBRACRIFG6"
+
+  Código: 22K1089354
+    ISIN: "" => "BRRBRACRIFH4"
+
+  Código: 22K1089355
+    ISIN: "" => "BRRBRACRIFI2"
+
+  Código: 22L0004215
+    ISIN: "" => "BRRBRACRIFK8"
+
+  Código: 22L1086421
+    ISIN: "" => "BRRBRACRIFN2"
+
+  Código: 22L1086426
+    ISIN: "" => "BRRBRACRIFO0"
+
+  Código: 22L1270393
+    ISIN: "" => "BRRBRACRIFT9"
+
+  Código: 22L1325864
+    ISIN: "" => "BRRBRACRIFU7"
+
+  Código: 22L1442125
+    ISIN: "" => "BRRBRACRIG14"
+
+  Código: 22L1467751
+    ISIN: "" => "BRRBRACRIGK6"
+
+  Código: 23A1407158
+    ISIN: "" => "BRRBRACRIGM2"
+
+  Código: 23D1695011
+    ISIN: "" => "BRRBRACRIHJ6"
+
+  Código: 23D1695269
+    ISIN: "" => "BRRBRACRIHL2"
+
+  Código: 23D1695281
+    ISIN: "" => "BRRBRACRIHK4"
+
+  Código: 23D1695285
+    ISIN: "" => "BRRBRACRIHM0"
+
+  Código: 23E1082203
+    ISIN: "" => "BRRBRACRIHO6"
+
+  Código: 23E1687402
+    ISIN: "" => "BRRBRACRIHV1"
+
+  Código: 23E1820194
+    ISIN: "" => "BRRBRACRIHU3"
+
+  Código: 23F1447606
+    ISIN: "" => "BRRBRACRII61"
+
+  Código: 23F1568486
+    ISIN: "" => "BRRBRACRII53"
+
+  Código: 23G1149789
+    ISIN: "" => "BRRBRACRIIK2"
+
+  Código: 23H1152062
+    ISIN: "" => "BRRBRACRIGC3"
+
+  Código: 20I0905816
+    ISIN: "" => "BROSECCRI0R4"
+
+  Código: 21E0750441
+    ISIN: "" => "BROSECCRI0X2"
+
+  Código: 21F0568989
+    ISIN: "" => "BROSECCRI0Y0"
+
+  Código: 21H0891311
+    ISIN: "" => "BROSECCRI114"
+
+  Código: 21I0912120
+    ISIN: "" => "BROSECCRI148"
+
+  Código: 20J0546570
+    ISIN: "" => "BRTSSACRI0X3"
+
+  Código: 21E0665350
+    ISIN: "" => "BRTSSACRI190"
+
+  Código: 21H1079665
+    ISIN: "" => "BRTSSACRI1R3"
+
+  Código: 21H1079666
+    ISIN: "" => "BRTSSACRI1S1"
+
+  Código: 22A0339169
+    ISIN: "" => "BRTSSACRI232"
+
+  Código: 22A0339236
+    ISIN: "" => "BRTSSACRI257"
+
+  Código: 22A0411092
+    ISIN: "" => "BRTSSACRI299"
+
+  Código: 22G1046910
+    ISIN: "" => "BRTSSACRI2L4"
+
+  Código: 22G1225382
+    ISIN: "" => "BRTSSACRI2M2"
+
+  Código: 22I1294505
+    ISIN: "" => "BRTSSACRI2K6"
+
+  Código: 23A0006401
+    ISIN: "" => "BRTSSACRI2Z4"
+
+  Código: 23A0006402
+    ISIN: "" => "BRTSSACRI307"
+
+  Código: 23E2052806
+    ISIN: "" => "BRTSSACRI331"
+
+  Código: 23E2185848
+    ISIN: "" => "BRTSSACRI372"
+
+  Código: 20J0667658
+    Remuneração: "0,00010%" => "100,00% DI"
+
+  Código: 22C1067377
+    ISIN: "" => "BRAPCSCRICA6"
+
+  Código: 22C1067388
+    ISIN: "" => "BRAPCSCRICB4"
+
+  Código: 22G0641775
+    ISIN: "" => "BRAPCSCRIE16"
+
+  Código: 22G0652968
+    ISIN: "" => "BRAPCSCRIE24"
+
+  Código: 23C1735023
+    ISIN: "" => "BRAPCSCRIH54"
+
+  Código: 23I1554112
+    ISIN: "" => "BRAPCSCRIJX3"
+
+  Código: 20B0849733
+    ISIN: "" => "BRVERTCRI0Q9"
+
+  Código: 21F1058276
+    ISIN: "" => "BRVERTCRI1P9"
+
+  Código: 21H0892530
+    ISIN: "" => "BRVERTCRI2C5"
+
+  Código: 21H0922521
+    ISIN: "" => "BRVERTCRI2B7"
+
+  Código: 22C1235215
+    ISIN: "" => "BRVERTCRI3P5"
+
+  Código: 22C1235219
+    ISIN: "" => "BRVERTCRI3Q3"
+
+  Código: 22C1235221
+    ISIN: "" => "BRVERTCRI3R1"
+
+  Código: 14K0234407
+    ISIN: "" => "BRIMWLCRI0E3"
+
+  Código: 17H0163663
+    ISIN: "" => "BRPVSCCRI032"
+
+  Código: 19E0299199
+    ISIN: "" => "BRIMWLCRI179"
+
+  Código: 20J0665817
+    ISIN: "" => "BRIMWLCRI3M0"
+
+  Código: 20J0836808
+    ISIN: "" => "BRIMWLCRI401"
+
+  Código: 21C0071934
+    ISIN: "" => "BRIMWLCRI5H5"
+
+  Código: 21C0804527
+    ISIN: "" => "BRIMWLCRI6C4"
+
+  Código: 21C0804567
+    ISIN: "" => "BRIMWLCRI6D2"
+
+  Código: 21C0804584
+    ISIN: "" => "BRIMWLCRI6E0"
+
+  Código: 21C0805365
+    ISIN: "" => "BRIMWLCRI674"
+
+  Código: 21C0805371
+    ISIN: "" => "BRIMWLCRI682"
+
+  Código: 21C0805373
+    ISIN: "" => "BRIMWLCRI690"
+
+  Código: 21E0517511
+    ISIN: "" => "BRIMWLCRI6S0"
+
+  Código: 21F0001403
+    ISIN: "" => "BRIMWLCRI6T8"
+
+  Código: 21H0012919
+    ISIN: "" => "BRIMWLCRI7W0"
+
+  Código: 21H0149980
+    ISIN: "" => "BRIMWLCRI872"
+
+  Código: 21J0856001
+    ISIN: "" => "BRIMWLCRI9R6"
+
+  Código: 21J0856063
+    ISIN: "" => "BRIMWLCRI9S4"
+
+1 row added
+
+  Código: 23K1507975
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 233
+  N° da Emissão: 239
   N° da série: 1
-  Qtd Emitida: 15620
-  Volume Emissão: 15620000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-11-03
-  Data de Vencimento: 23/03/2029
-  Data Final de Distribuição: 2024-05-18
-  ISIN: BRAPCSCRIL58
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2023-11-20
+  Data de Vencimento: 20/11/2026
+  Data Final de Distribuição: 2024-05-19
+  ISIN: BRAPCSCRILH2
+
+2 rows removed
+
+  Código: 15J0170872
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 19
+  Qtd Emitida: 3731
+  Volume Emissão: 37310000.0
+  Remuneração: 
+  Data de Emissão: 2015-10-28
+  Data de Vencimento: 20/10/2023
+  Data Final de Distribuição: 2016-04-28
+  ISIN: BRSCCICRI0K9
+
+  Código: 15J0170874
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 20
+  Qtd Emitida: 1599
+  Volume Emissão: 15990000.0
+  Remuneração: 
+  Data de Emissão: 2015-10-28
+  Data de Vencimento: 20/10/2023
+  Data Final de Distribuição: 2016-04-28
+  ISIN: BRSCCICRI0L7
