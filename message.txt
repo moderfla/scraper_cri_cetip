@@ -1,40 +1,107 @@
-3 rows added
+8 rows changed, 6 rows added
 
-  Código: 23K1697617
+8 rows changed
+
+  Código: 23I1211962
+    ISIN: "" => "BRRBRACRIJ03"
+
+  Código: 23I1512147
+    Data de Vencimento: "30/12/2038" => "31/12/2038"
+
+  Código: 17B0048606
+    ISIN: "" => "BRSCCICRI0X2"
+
+  Código: 20J0909885
+    ISIN: "" => "BRIMWLCRI419"
+
+  Código: 20K0699593
+    ISIN: "" => "BRIMWLCRI450"
+
+  Código: 21C0601989
+    ISIN: "" => "BRIMWLCRI5X2"
+
+  Código: 21E0432227
+    ISIN: "" => "BRIMWLCRI6O9"
+
+  Código: 15I0187816
+    ISIN: "" => "BRCBSCCRI3N4"
+
+6 rows added
+
+  Código: 23K1699836
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 206
+  N° da Emissão: 222
   N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 100,00%  DI+5,50000%
+  Qtd Emitida: 45000
+  Volume Emissão: 45000000.0
+  Remuneração: 100,00%  DI+3,95000%
   Data de Emissão: 2023-11-09
-  Data de Vencimento: 28/10/2026
-  Data Final de Distribuição: 2024-05-19
-  ISIN: BRRBRACRIKO0
+  Data de Vencimento: 25/10/2033
+  Data Final de Distribuição: 2024-05-12
+  ISIN: BRRBRACRIKA9
 
-  Código: 23K1775123
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 211
-  N° da série: 1
-  Qtd Emitida: 196000
-  Volume Emissão: 196000000.0
-  Remuneração: IPCA+6,60790%
+  Código: 23J2160761
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 241
+  N° da série: 3
+  Qtd Emitida: 63303
+  Volume Emissão: 63303000.0
+  Remuneração: 11,80000%
   Data de Emissão: 2023-11-15
-  Data de Vencimento: 16/11/2033
-  Data Final de Distribuição: 2024-05-19
-  ISIN: BRRBRACRIKE1
+  Data de Vencimento: 16/11/2028
+  Data Final de Distribuição: 2024-05-21
+  ISIN: BRAPCSCRIL66
 
-  Código: 23K2046051
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 203
+  Código: 23K0018401
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 241
   N° da série: 1
-  Qtd Emitida: 180000
-  Volume Emissão: 180000000.0
-  Remuneração: IPCA+9,89000%
-  Data de Emissão: 2023-11-16
-  Data de Vencimento: 16/11/2038
-  Data Final de Distribuição: 2024-05-19
-  ISIN: BRRBRACRIKM4
+  Qtd Emitida: 74638
+  Volume Emissão: 74638000.0
+  Remuneração: 100,00%  DI+0,70000%
+  Data de Emissão: 2023-11-15
+  Data de Vencimento: 16/11/2028
+  Data Final de Distribuição: 2024-05-21
+  ISIN: BRAPCSCRIKV5
+
+  Código: 23K0019201
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 241
+  N° da série: 2
+  Qtd Emitida: 112059
+  Volume Emissão: 112059000.0
+  Remuneração: 106,50% DI
+  Data de Emissão: 2023-11-15
+  Data de Vencimento: 16/11/2028
+  Data Final de Distribuição: 2024-05-21
+  ISIN: BRAPCSCRIKW3
+
+  Código: 23K2108116
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 120
+  N° da série: 1
+  Qtd Emitida: 154688
+  Volume Emissão: 154688000.0
+  Remuneração: IPCA+10,10000%
+  Data de Emissão: 2023-11-24
+  Data de Vencimento: 21/03/2044
+  Data Final de Distribuição: 2024-05-21
+  ISIN: BRVERTCRI776
+
+  Código: 23K2108177
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 120
+  N° da série: 2
+  Qtd Emitida: 27297
+  Volume Emissão: 27297000.0
+  Remuneração: IPCA+14,45000%
+  Data de Emissão: 2023-11-24
+  Data de Vencimento: 21/03/2044
+  Data Final de Distribuição: 2024-05-21
+  ISIN: BRVERTCRI784
