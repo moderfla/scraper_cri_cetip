@@ -1,99 +1,63 @@
-5 rows changed, 6 rows added
+2 rows changed, 4 rows added
 
-5 rows changed
+2 rows changed
 
-  Código: 19K1145467
-    Data de Vencimento: "29/11/2023" => "30/01/2024"
+  Código: 22C0987445
+    Remuneração: "IPCA+9,50000%" => "IPCA+9,25000%"
 
-  Código: 23C0118708
-    Qtd Emitida: "120000" => "90922"
-    Volume Emissão: "120000000.0" => "90922000.0"
+  Código: 23I1402341
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
-  Código: 22D0382755
-    Data de Vencimento: "15/04/2027" => "15/12/2031"
+4 rows added
 
-  Código: 17L0745671
-    Remuneração: "13,86000%" => ""
-
-  Código: 17L0900866
-    Remuneração: "IGP-M+10,50000%" => ""
-
-6 rows added
-
-  Código: 23K2122788
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
-  N° da Emissão: 6
+  Código: 23K2202885
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 65
   N° da série: 1
-  Qtd Emitida: 350000
-  Volume Emissão: 350000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-11-24
-  Data de Vencimento: 20/11/2026
-  Data Final de Distribuição: 2024-05-22
-  ISIN: BRBASECRI131
-
-  Código: 23K2122789
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: PLANNER CORRETORA DE VALORES S.A.
-  N° da Emissão: 6
-  N° da série: 2
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-11-24
-  Data de Vencimento: 20/11/2043
-  Data Final de Distribuição: 2024-05-22
-  ISIN: BRBASECRI149
-
-  Código: 21L0967500
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 303
-  Qtd Emitida: 4500
-  Volume Emissão: 4500000.0
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
   Remuneração: IPCA+13,00000%
-  Data de Emissão: 2021-12-20
-  Data de Vencimento: 24/12/2024
-  Data Final de Distribuição: 2023-12-29
-  ISIN: BRHBSCCRI7V3
+  Data de Emissão: 2023-11-22
+  Data de Vencimento: 25/05/2027
+  Data Final de Distribuição: 2024-05-27
+  ISIN: BRCASCCRI1T6
 
-  Código: 23K2261339
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 228
-  N° da série: 3
-  Qtd Emitida: 85000
-  Volume Emissão: 85000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-11-21
-  Data de Vencimento: 29/11/2027
-  Data Final de Distribuição: 2024-05-26
-  ISIN: BRRBRACRIL17
+  Código: 23K2203899
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 65
+  N° da série: 2
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2023-11-22
+  Data de Vencimento: 25/05/2027
+  Data Final de Distribuição: 2024-05-27
+  ISIN: BRCASCCRI1U4
 
-  Código: 23K2263743
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 228
-  N° da série: 6
-  Qtd Emitida: 26000
-  Volume Emissão: 26000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-11-21
-  Data de Vencimento: 29/11/2027
-  Data Final de Distribuição: 2024-05-26
-  ISIN: BRRBRACRIL25
-
-  Código: 23K1775589
+  Código: 23J0019401
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 213
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 235
   N° da série: 1
-  Qtd Emitida: 19750
-  Volume Emissão: 19750000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2023-11-20
-  Data de Vencimento: 15/04/2038
-  Data Final de Distribuição: 2024-04-30
-  ISIN: BRAPCSCRILI0
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2023-11-22
+  Data de Vencimento: 17/05/2027
+  Data Final de Distribuição: 2024-05-27
+  ISIN: BRAPCSCRIKA9
+
+  Código: 22B0653681
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 4
+  N° da série: 454
+  Qtd Emitida: 43681
+  Volume Emissão: 4368100.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2022-02-25
+  Data de Vencimento: 24/08/2026
+  Data Final de Distribuição: 2024-02-23
+  ISIN: BRIMWLCRIBA1
