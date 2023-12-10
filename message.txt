@@ -1,44 +1,47 @@
-2 rows added, 1 row removed
+1 row changed, 3 rows added
 
-2 rows added
+1 row changed
 
-  Código: 23K0022031
+  Código: 17G0885490
+    Data de Vencimento: "10/12/2023" => "10/12/2025"
+
+3 rows added
+
+  Código: 23K2617033
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 70
+  N° da série: 1
+  Qtd Emitida: 78880
+  Volume Emissão: 78880000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-11-30
+  Data de Vencimento: 28/05/2034
+  Data Final de Distribuição: 2024-06-02
+  ISIN: BRCASCCRI2A4
+
+  Código: 23K2617098
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 70
+  N° da série: 2
+  Qtd Emitida: 19720
+  Volume Emissão: 19720000.0
+  Remuneração: IPCA+4,00000%
+  Data de Emissão: 2023-11-30
+  Data de Vencimento: 28/02/2039
+  Data Final de Distribuição: 2024-06-02
+  ISIN: BRCASCCRI2B2
+
+  Código: 23K1456442
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 236
-  N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+2,00000%
-  Data de Emissão: 2023-12-06
-  Data de Vencimento: 06/12/2028
-  Data Final de Distribuição: 2024-06-03
-  ISIN: BRAPCSCRIL33
-
-  Código: 23K2673618
-  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 117
+  N° da Emissão: 248
   N° da série: 1
-  Qtd Emitida: 21651
-  Volume Emissão: 21651000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-11-27
-  Data de Vencimento: 27/11/2027
-  Data Final de Distribuição: 2024-05-25
-  ISIN: BRVERTCRI7A8
-
-1 row removed
-
-  Código: 14I0086803
-  Emissor: TRX SECURITIZADORA S/A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 7
-  Qtd Emitida: 75
-  Volume Emissão: 26674943.25
-  Remuneração: 
-  Data de Emissão: 2014-09-15
-  Data de Vencimento: 06/11/2023
-  Data Final de Distribuição: 2015-03-16
-  ISIN:
+  Qtd Emitida: 41263
+  Volume Emissão: 41263000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-11-16
+  Data de Vencimento: 16/11/2028
+  Data Final de Distribuição: 2024-06-05
+  ISIN: BRAPCSCRILF6
