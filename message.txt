@@ -1,52 +1,49 @@
-2 rows changed, 2 rows added, 1 row removed
+6 rows changed, 2 rows added
 
-2 rows changed
+6 rows changed
 
-  Código: 22F1359784
-    Data Final de Distribuição: "2024-01-07" => "2024-06-07"
+  Código: 23L2306039
+    Agente Fiduciário: "PLANNER CORRETORA DE VALORES S.A." => "REAG DTVM S.A."
 
-  Código: 22H2247401
-    Data Final de Distribuição: "2023-06-30" => "2024-06-30"
+  Código: 23L2306058
+    Agente Fiduciário: "PLANNER CORRETORA DE VALORES S.A." => "REAG DTVM S.A."
+
+  Código: 21H1034619
+    Remuneração: "IPCA+8,15000%" => "IPCA+9,65000%"
+
+  Código: 21H1035009
+    Remuneração: "IPCA+11,00000%" => "IPCA+12,50000%"
+
+  Código: 21H1035398
+    Remuneração: "IPCA+9,25000%" => "IPCA+10,75000%"
+
+  Código: 21H1035558
+    Remuneração: "IPCA+13,00000%" => "IPCA+14,50000%"
 
 2 rows added
 
-  Código: 23L2415875
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 23L2524005
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 181
+  N° da Emissão: 119
   N° da série: 1
-  Qtd Emitida: 216000
-  Volume Emissão: 216000000.0
-  Remuneração: IPCA+8,25000%
-  Data de Emissão: 2023-12-28
-  Data de Vencimento: 04/01/2034
-  Data Final de Distribuição: 2024-06-25
-  ISIN: BRRBRACRILV3
-
-  Código: 23L1537480
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 120
-  N° da série: 1
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: IPCA+12,00000%
+  Qtd Emitida: 88000
+  Volume Emissão: 88000000.0
+  Remuneração: 100,00%  DI+5,50000%
   Data de Emissão: 2023-12-20
-  Data de Vencimento: 15/12/2033
-  Data Final de Distribuição: 2024-06-26
-  ISIN: BRAPCSCRIM32
+  Data de Vencimento: 21/12/2028
+  Data Final de Distribuição: 2024-06-18
+  ISIN: BRVERTCRI7F7
 
-1 row removed
-
-  Código: 14I0099952
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 23L2524016
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 1
-  N° da série: 42
-  Qtd Emitida: 274
-  Volume Emissão: 274000000.0
-  Remuneração: TR+9,50000%
-  Data de Emissão: 2014-09-18
-  Data de Vencimento: 15/10/2034
-  Data Final de Distribuição: 2015-03-10
-  ISIN: BRAPCSCRI101
+  N° da Emissão: 119
+  N° da série: 2
+  Qtd Emitida: 132000
+  Volume Emissão: 132000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2023-12-20
+  Data de Vencimento: 21/12/2029
+  Data Final de Distribuição: 2024-06-18
+  ISIN: BRVERTCRI7G5
