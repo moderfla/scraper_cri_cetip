@@ -1,49 +1,102 @@
-6 rows changed, 2 rows added
+9 rows changed, 3 rows added, 2 rows removed
 
-6 rows changed
+9 rows changed
 
-  Código: 23L2306039
-    Agente Fiduciário: "PLANNER CORRETORA DE VALORES S.A." => "REAG DTVM S.A."
+  Código: 21H0769214
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
 
-  Código: 23L2306058
-    Agente Fiduciário: "PLANNER CORRETORA DE VALORES S.A." => "REAG DTVM S.A."
+  Código: 21H0769216
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
 
-  Código: 21H1034619
-    Remuneração: "IPCA+8,15000%" => "IPCA+9,65000%"
+  Código: 21H0769217
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
 
-  Código: 21H1035009
-    Remuneração: "IPCA+11,00000%" => "IPCA+12,50000%"
+  Código: 21H0769218
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
 
-  Código: 21H1035398
-    Remuneração: "IPCA+9,25000%" => "IPCA+10,75000%"
+  Código: 21H0769219
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
 
-  Código: 21H1035558
-    Remuneração: "IPCA+13,00000%" => "IPCA+14,50000%"
+  Código: 21H0769220
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
 
-2 rows added
+  Código: 22L1369863
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-06-16" => "2024-06-20"
 
-  Código: 23L2524005
+  Código: 22L1379419
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2023-06-16" => "2024-06-20"
+
+  Código: 20L0000001
+    Remuneração: "IPCA+7,00000%" => "100,00%  DI+6,00000%"
+    Data de Vencimento: "26/12/2025" => "28/12/2026"
+
+3 rows added
+
+  Código: 23L2859177
   Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 119
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 118
   N° da série: 1
-  Qtd Emitida: 88000
-  Volume Emissão: 88000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-12-20
-  Data de Vencimento: 21/12/2028
-  Data Final de Distribuição: 2024-06-18
-  ISIN: BRVERTCRI7F7
+  Qtd Emitida: 15000000
+  Volume Emissão: 15000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2023-12-22
+  Data de Vencimento: 29/12/2027
+  Data Final de Distribuição: 2024-07-01
+  ISIN: BRVERTCRI7C4
 
-  Código: 23L2524016
+  Código: 23L2859178
   Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 119
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 118
   N° da série: 2
-  Qtd Emitida: 132000
-  Volume Emissão: 132000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2023-12-20
-  Data de Vencimento: 21/12/2029
-  Data Final de Distribuição: 2024-06-18
-  ISIN: BRVERTCRI7G5
+  Qtd Emitida: 29000000
+  Volume Emissão: 29000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2023-12-22
+  Data de Vencimento: 29/12/2027
+  Data Final de Distribuição: 2024-07-01
+  ISIN: BRVERTCRI7D2
+
+  Código: 23L2859179
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 118
+  N° da série: 3
+  Qtd Emitida: 5000000
+  Volume Emissão: 5000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2023-12-22
+  Data de Vencimento: 29/12/2027
+  Data Final de Distribuição: 2024-07-01
+  ISIN: BRVERTCRI7E0
+
+2 rows removed
+
+  Código: 19L0035166
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 237
+  Qtd Emitida: 57092
+  Volume Emissão: 57092000.0
+  Remuneração: IGP-M+4,00000%
+  Data de Emissão: 2019-12-05
+  Data de Vencimento: 07/11/2028
+  Data Final de Distribuição: 2020-05-18
+  ISIN: BRRBRACRI6B8
+
+  Código: 19L0126380
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 209
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: 100,00%  DI+2,80000%
+  Data de Emissão: 2019-12-06
+  Data de Vencimento: 13/12/2035
+  Data Final de Distribuição: 2020-11-13
+  ISIN: BRAPCSCRI6R4
