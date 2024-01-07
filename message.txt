@@ -1,102 +1,65 @@
-9 rows changed, 3 rows added, 2 rows removed
+2 rows changed, 2 rows added, 2 rows removed
 
-9 rows changed
+2 rows changed
 
-  Código: 21H0769214
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
+  Código: 22F1223555
+    Remuneração: "IPCA+8,25000%" => "IPCA+8,00000%"
 
-  Código: 21H0769216
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
+  Código: 22K0571216
+    Data Final de Distribuição: "2023-05-01" => "2024-05-01"
 
-  Código: 21H0769217
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
+2 rows added
 
-  Código: 21H0769218
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21H0769219
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0769220
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 22L1369863
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-06-16" => "2024-06-20"
-
-  Código: 22L1379419
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-06-16" => "2024-06-20"
-
-  Código: 20L0000001
-    Remuneração: "IPCA+7,00000%" => "100,00%  DI+6,00000%"
-    Data de Vencimento: "26/12/2025" => "28/12/2026"
-
-3 rows added
-
-  Código: 23L2859177
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 118
+  Código: 23L2858907
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 14
   N° da série: 1
-  Qtd Emitida: 15000000
-  Volume Emissão: 15000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2023-12-22
-  Data de Vencimento: 29/12/2027
-  Data Final de Distribuição: 2024-07-01
-  ISIN: BRVERTCRI7C4
+  Qtd Emitida: 28581
+  Volume Emissão: 28581000.0
+  Remuneração: INCC-DI+12,68000%
+  Data de Emissão: 2023-12-27
+  Data de Vencimento: 21/07/2028
+  Data Final de Distribuição: 2024-06-30
+  ISIN: BRASPRCRI166
 
-  Código: 23L2859178
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 118
+  Código: 23L2859167
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 14
   N° da série: 2
-  Qtd Emitida: 29000000
-  Volume Emissão: 29000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2023-12-22
-  Data de Vencimento: 29/12/2027
-  Data Final de Distribuição: 2024-07-01
-  ISIN: BRVERTCRI7D2
-
-  Código: 23L2859179
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 118
-  N° da série: 3
-  Qtd Emitida: 5000000
-  Volume Emissão: 5000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2023-12-22
-  Data de Vencimento: 29/12/2027
-  Data Final de Distribuição: 2024-07-01
-  ISIN: BRVERTCRI7E0
+  Qtd Emitida: 28582
+  Volume Emissão: 28582000.0
+  Remuneração: INCC-DI+9,00000%
+  Data de Emissão: 2023-12-27
+  Data de Vencimento: 21/07/2028
+  Data Final de Distribuição: 2024-06-30
+  ISIN: BRASPRCRI174
 
 2 rows removed
 
-  Código: 19L0035166
+  Código: 20H0794682
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 237
-  Qtd Emitida: 57092
-  Volume Emissão: 57092000.0
-  Remuneração: IGP-M+4,00000%
-  Data de Emissão: 2019-12-05
-  Data de Vencimento: 07/11/2028
-  Data Final de Distribuição: 2020-05-18
-  ISIN: BRRBRACRI6B8
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 4
+  N° da série: 140
+  Qtd Emitida: 86465
+  Volume Emissão: 86465864.65
+  Remuneração: IPCA+5,00000%
+  Data de Emissão: 2020-08-26
+  Data de Vencimento: 15/12/2028
+  Data Final de Distribuição: 2021-01-22
+  ISIN: 
 
-  Código: 19L0126380
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 209
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+2,80000%
-  Data de Emissão: 2019-12-06
-  Data de Vencimento: 13/12/2035
-  Data Final de Distribuição: 2020-11-13
-  ISIN: BRAPCSCRI6R4
+  Código: 21G0688160
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 52
+  N° da série: 1
+  Qtd Emitida: 6125000
+  Volume Emissão: 6125000.0
+  Remuneração: IPCA+8,25000%
+  Data de Emissão: 2021-07-20
+  Data de Vencimento: 20/07/2024
+  Data Final de Distribuição: 2022-01-20
+  ISIN: BRVERTCRI1W5
