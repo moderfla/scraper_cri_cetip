@@ -1,65 +1,62 @@
-2 rows changed, 2 rows added, 2 rows removed
+6 rows changed, 3 rows added
 
-2 rows changed
+6 rows changed
 
-  Código: 22F1223555
-    Remuneração: "IPCA+8,25000%" => "IPCA+8,00000%"
+  Código: 23E1206892
+    ISIN: "" => "BRHBSCCRIA68"
 
-  Código: 22K0571216
-    Data Final de Distribuição: "2023-05-01" => "2024-05-01"
+  Código: 22C0509668
+    ISIN: "" => "BRRBRACRIBA8"
 
-2 rows added
+  Código: 23J1829727
+    ISIN: "" => "BRRBRACRIKB7"
 
-  Código: 23L2858907
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Código: 21F0097247
+    ISIN: "" => "BRIMWLCRI6X0"
+
+  Código: 21F0097589
+    ISIN: "" => "BRIMWLCRI6Y8"
+
+  Código: 22I1466156
+    ISIN: "" => "BRIMWLCRIEE7"
+
+3 rows added
+
+  Código: 23L2409740
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 14
+  N° da Emissão: 276
   N° da série: 1
-  Qtd Emitida: 28581
-  Volume Emissão: 28581000.0
-  Remuneração: INCC-DI+12,68000%
-  Data de Emissão: 2023-12-27
-  Data de Vencimento: 21/07/2028
-  Data Final de Distribuição: 2024-06-30
-  ISIN: BRASPRCRI166
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: 100,00%  DI+7,75000%
+  Data de Emissão: 2023-12-26
+  Data de Vencimento: 26/12/2028
+  Data Final de Distribuição: 2024-07-06
+  ISIN: BRAPCSCRIMM0
 
-  Código: 23L2859167
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Código: 23L2409752
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 14
+  N° da Emissão: 276
   N° da série: 2
-  Qtd Emitida: 28582
-  Volume Emissão: 28582000.0
-  Remuneração: INCC-DI+9,00000%
-  Data de Emissão: 2023-12-27
-  Data de Vencimento: 21/07/2028
-  Data Final de Distribuição: 2024-06-30
-  ISIN: BRASPRCRI174
+  Qtd Emitida: 21000
+  Volume Emissão: 21000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-12-26
+  Data de Vencimento: 28/12/2026
+  Data Final de Distribuição: 2024-07-06
+  ISIN: BRAPCSCRIMN8
 
-2 rows removed
-
-  Código: 20H0794682
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 4
-  N° da série: 140
-  Qtd Emitida: 86465
-  Volume Emissão: 86465864.65
-  Remuneração: IPCA+5,00000%
-  Data de Emissão: 2020-08-26
-  Data de Vencimento: 15/12/2028
-  Data Final de Distribuição: 2021-01-22
-  ISIN: 
-
-  Código: 21G0688160
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 22H1237620
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 52
-  N° da série: 1
-  Qtd Emitida: 6125000
-  Volume Emissão: 6125000.0
-  Remuneração: IPCA+8,25000%
-  Data de Emissão: 2021-07-20
-  Data de Vencimento: 20/07/2024
-  Data Final de Distribuição: 2022-01-20
-  ISIN: BRVERTCRI1W5
+  N° da Emissão: 20
+  N° da série: 6
+  Qtd Emitida: 5300
+  Volume Emissão: 5300000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-08-18
+  Data de Vencimento: 21/07/2027
+  Data Final de Distribuição: 2024-02-18
+  ISIN: BRIMWLCRIDA7
