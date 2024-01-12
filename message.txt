@@ -1,47 +1,20 @@
-1 row changed, 3 rows added
+6 rows changed
 
-1 row changed
+  Código: 20E1055012
+    Remuneração: "IPCA+12,68250%" => ""
 
-  Código: 22F1035343
-    Data Final de Distribuição: "2023-12-23" => "2024-06-23"
+  Código: 19E0968002
+    Remuneração: "100,00%  DI+9,00000%" => ""
 
-3 rows added
+  Código: 22G0961469
+    Data Final de Distribuição: "2023-07-20" => "2024-07-20"
 
-  Código: 23L2833549
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER C V S/A
-  N° da Emissão: 45
-  N° da série: 1
-  Qtd Emitida: 21236
-  Volume Emissão: 21236000.0
-  Remuneração: IGP-M+9,30000%
-  Data de Emissão: 2023-12-26
-  Data de Vencimento: 15/10/2034
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRHBSCCRIAQ1
+  Código: 18F0922802
+    Remuneração: "IGP-M+22,00000%" => "VCP"
 
-  Código: 23L2834856
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER C V S/A
-  N° da Emissão: 45
-  N° da série: 2
-  Qtd Emitida: 9540
-  Volume Emissão: 9540000.0
-  Remuneração: IGP-M+7,00000%
-  Data de Emissão: 2023-12-26
-  Data de Vencimento: 15/10/2034
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRHBSCCRIAR9
+  Código: 23L1605218
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 24A1301841
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 215
-  N° da série: 1
-  Qtd Emitida: 19000
-  Volume Emissão: 19000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-01-03
-  Data de Vencimento: 12/01/2036
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRRBRACRIK91
+  Código: 23L1605235
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    N° da série: "3" => "2"
