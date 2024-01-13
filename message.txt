@@ -1,20 +1,27 @@
-6 rows changed
+2 rows added
 
-  Código: 20E1055012
-    Remuneração: "IPCA+12,68250%" => ""
+  Código: 23L2047744
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 274
+  N° da série: 1
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-12-27
+  Data de Vencimento: 21/12/2027
+  Data Final de Distribuição: 2024-07-03
+  ISIN: BRAPCSCRIMJ6
 
-  Código: 19E0968002
-    Remuneração: "100,00%  DI+9,00000%" => ""
-
-  Código: 22G0961469
-    Data Final de Distribuição: "2023-07-20" => "2024-07-20"
-
-  Código: 18F0922802
-    Remuneração: "IGP-M+22,00000%" => "VCP"
-
-  Código: 23L1605218
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-
-  Código: 23L1605235
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    N° da série: "3" => "2"
+  Código: 24A0013413
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: PLANNER C V S/A
+  N° da Emissão: 277
+  N° da série: 1
+  Qtd Emitida: 30200
+  Volume Emissão: 30200000.0
+  Remuneração: 100,00%  DI+3,70000%
+  Data de Emissão: 2023-12-29
+  Data de Vencimento: 26/12/2028
+  Data Final de Distribuição: 2024-07-08
+  ISIN: BRAPCSCRIMT5
