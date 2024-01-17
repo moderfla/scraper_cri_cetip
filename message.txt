@@ -1,27 +1,21 @@
-2 rows added
+1 row changed, 1 row added
 
-  Código: 23L2047744
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 274
-  N° da série: 1
-  Qtd Emitida: 55000
-  Volume Emissão: 55000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-12-27
-  Data de Vencimento: 21/12/2027
-  Data Final de Distribuição: 2024-07-03
-  ISIN: BRAPCSCRIMJ6
+1 row changed
 
-  Código: 24A0013413
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER C V S/A
-  N° da Emissão: 277
+  Código: 10D0018445
+    Remuneração: "IGP-M+10,68560%" => ""
+
+1 row added
+
+  Código: 24A1485443
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 81
   N° da série: 1
-  Qtd Emitida: 30200
-  Volume Emissão: 30200000.0
-  Remuneração: 100,00%  DI+3,70000%
-  Data de Emissão: 2023-12-29
-  Data de Vencimento: 26/12/2028
-  Data Final de Distribuição: 2024-07-08
-  ISIN: BRAPCSCRIMT5
+  Qtd Emitida: 28850
+  Volume Emissão: 28850000.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2024-01-04
+  Data de Vencimento: 27/01/2034
+  Data Final de Distribuição: 2024-07-02
+  ISIN: BRCASCCRI2O5
