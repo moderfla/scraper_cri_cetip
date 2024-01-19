@@ -1,170 +1,65 @@
-13 rows added
+2 rows changed, 2 rows added, 2 rows removed
 
-  Código: 24A1777605
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 78
+2 rows changed
+
+  Código: 22F1187231
+    Data Final de Distribuição: "2023-06-27" => "2024-06-27"
+
+  Código: 22E0891023
+    Data de Vencimento: "19/05/2027" => "01/06/2027"
+
+2 rows added
+
+  Código: 23L2517577
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 41
+  N° da série: 1
+  Qtd Emitida: 28500
+  Volume Emissão: 28500000.0
+  Remuneração: IPCA+11,25000%
+  Data de Emissão: 2023-12-28
+  Data de Vencimento: 29/12/2026
+  Data Final de Distribuição: 2024-07-14
+  ISIN: BRPVSCCRI3F1
+
+  Código: 23L2243696
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 4
   N° da série: 1
   Qtd Emitida: 25000
   Volume Emissão: 25000000.0
-  Remuneração: IPCA+12,68250%
-  Data de Emissão: 2024-01-08
-  Data de Vencimento: 17/01/2028
-  Data Final de Distribuição: 2024-07-12
-  ISIN: BRCASCCRI2P2
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2023-12-21
+  Data de Vencimento: 21/12/2037
+  Data Final de Distribuição: 2024-07-03
+  ISIN: BRREICCRI0L6
 
-  Código: 24A1777655
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 78
-  N° da série: 2
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: IPCA+12,68250%
-  Data de Emissão: 2024-01-08
-  Data de Vencimento: 17/01/2028
-  Data Final de Distribuição: 2024-07-12
-  ISIN: BRCASCCRI2Q0
+2 rows removed
 
-  Código: 24A1777749
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 78
-  N° da série: 3
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: IPCA+12,68250%
-  Data de Emissão: 2024-01-08
-  Data de Vencimento: 17/01/2028
-  Data Final de Distribuição: 2024-07-12
-  ISIN: BRCASCCRI2R8
+  Código: 19A0752048
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 67
+  Qtd Emitida: 29983
+  Volume Emissão: 29983000.0
+  Remuneração: IPCA+5,25020%
+  Data de Emissão: 2019-01-30
+  Data de Vencimento: 09/03/2026
+  Data Final de Distribuição: 2019-07-23
+  ISIN: 
 
-  Código: 24A1777868
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 78
-  N° da série: 4
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: IPCA+12,68250%
-  Data de Emissão: 2024-01-08
-  Data de Vencimento: 17/01/2028
-  Data Final de Distribuição: 2024-07-12
-  ISIN: BRCASCCRI2S6
-
-  Código: 23L2859168
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 1
-  Qtd Emitida: 3853412
-  Volume Emissão: 3853412.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1C1
-
-  Código: 23L2884758
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 2
-  Qtd Emitida: 3471185
-  Volume Emissão: 3471185.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1D9
-
-  Código: 23L2884760
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 3
-  Qtd Emitida: 3868594
-  Volume Emissão: 3868594.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1E7
-
-  Código: 23L2884761
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 4
-  Qtd Emitida: 4099594
-  Volume Emissão: 4099594.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1F4
-
-  Código: 23L2884762
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 5
-  Qtd Emitida: 3726870
-  Volume Emissão: 3726870.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1G2
-
-  Código: 23L2884763
-  Emissor: LOGOS COMPANHIA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 6
-  Qtd Emitida: 3882659
-  Volume Emissão: 3882659.0
-  Remuneração: IPCA+11,93000%
-  Data de Emissão: 2023-12-19
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-07-06
-  ISIN: BRLGOSCRI1H0
-
-  Código: 24A1828116
-  Emissor: ROCK SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 09H0003225
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PAVARINI DTVM LTDA
   N° da Emissão: 1
   N° da série: 1
-  Qtd Emitida: 11800
-  Volume Emissão: 11800000.0
-  Remuneração: IPCA+11,05000%
-  Data de Emissão: 2024-01-05
-  Data de Vencimento: 22/01/2030
-  Data Final de Distribuição: 2024-07-07
-  ISIN: BRRCKSCRI007
-
-  Código: 23K3204813
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 120
-  N° da série: 4
-  Qtd Emitida: 46581
-  Volume Emissão: 46581000.0
-  Remuneração: IPCA+10,10000%
-  Data de Emissão: 2024-01-16
-  Data de Vencimento: 20/05/2044
-  Data Final de Distribuição: 2024-07-14
-  ISIN: BRVERTCRI7K7
-
-  Código: 23K3204814
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 120
-  N° da série: 5
-  Qtd Emitida: 8220
-  Volume Emissão: 8220000.0
-  Remuneração: IPCA+14,45000%
-  Data de Emissão: 2024-01-16
-  Data de Vencimento: 20/05/2044
-  Data Final de Distribuição: 2024-07-14
-  ISIN: BRVERTCRI7L5
+  Qtd Emitida: 67
+  Volume Emissão: 20334500.0
+  Remuneração: TR+11,00000%
+  Data de Emissão: 2009-08-10
+  Data de Vencimento: 10/07/2024
+  Data Final de Distribuição: 2010-02-10
+  ISIN:
