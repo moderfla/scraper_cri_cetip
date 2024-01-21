@@ -1,4 +1,38 @@
-1 row changed
+2 rows changed, 2 rows added
 
-  Código: 23I1211920
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+2 rows changed
+
+  Código: 20J0514106
+    Remuneração: "" => "INCC-M"
+    Data de Vencimento: "21/12/2023" => "23/12/2024"
+
+  Código: 22G1038316
+    Data Final de Distribuição: "2024-01-27" => "2024-07-27"
+
+2 rows added
+
+  Código: 23L0034406
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 47
+  N° da série: 1
+  Qtd Emitida: 54300
+  Volume Emissão: 54300000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2024-01-11
+  Data de Vencimento: 30/12/2033
+  Data Final de Distribuição: 2024-01-31
+  ISIN: BRPVSCCRI3K1
+
+  Código: 24A2020350
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 39
+  N° da série: 1
+  Qtd Emitida: 10398
+  Volume Emissão: 10398000.0
+  Remuneração: IGP-M+10,50000%
+  Data de Emissão: 2024-01-11
+  Data de Vencimento: 15/10/2034
+  Data Final de Distribuição: 2024-07-15
+  ISIN: BRTSSACRI3M0
