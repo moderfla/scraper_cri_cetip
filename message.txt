@@ -1,38 +1,30 @@
-2 rows changed, 2 rows added
+4 rows changed, 1 row added
 
-2 rows changed
+4 rows changed
 
-  Código: 20J0514106
-    Remuneração: "" => "INCC-M"
-    Data de Vencimento: "21/12/2023" => "23/12/2024"
+  Código: 22A0896533
+    Remuneração: "IPCA+14,00000%" => ""
 
-  Código: 22G1038316
-    Data Final de Distribuição: "2024-01-27" => "2024-07-27"
+  Código: 22G1165919
+    Data Final de Distribuição: "2024-01-29" => "2024-07-29"
 
-2 rows added
+  Código: 13C0038450
+    Remuneração: "IGP-M+6,50000%" => ""
 
-  Código: 23L0034406
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 47
-  N° da série: 1
-  Qtd Emitida: 54300
-  Volume Emissão: 54300000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-01-11
-  Data de Vencimento: 30/12/2033
-  Data Final de Distribuição: 2024-01-31
-  ISIN: BRPVSCCRI3K1
+  Código: 13C0038451
+    Remuneração: "IGP-M+71,75210%" => ""
 
-  Código: 24A2020350
+1 row added
+
+  Código: 24A2020894
   Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 39
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 45
   N° da série: 1
-  Qtd Emitida: 10398
-  Volume Emissão: 10398000.0
-  Remuneração: IGP-M+10,50000%
+  Qtd Emitida: 20400
+  Volume Emissão: 20400000.0
+  Remuneração: IPCA+9,70000%
   Data de Emissão: 2024-01-11
-  Data de Vencimento: 15/10/2034
-  Data Final de Distribuição: 2024-07-15
-  ISIN: BRTSSACRI3M0
+  Data de Vencimento: 22/01/2033
+  Data Final de Distribuição: 2024-07-20
+  ISIN: BRTSSACRI3N8
