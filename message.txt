@@ -1,30 +1,27 @@
-4 rows changed, 1 row added
+2 rows added
 
-4 rows changed
+  Código: 24A1711223
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 94
+  N° da série: 3
+  Qtd Emitida: 1895
+  Volume Emissão: 1895000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2024-01-09
+  Data de Vencimento: 20/12/2032
+  Data Final de Distribuição: 2024-07-07
+  ISIN: BRRBRACRIGD1
 
-  Código: 22A0896533
-    Remuneração: "IPCA+14,00000%" => ""
-
-  Código: 22G1165919
-    Data Final de Distribuição: "2024-01-29" => "2024-07-29"
-
-  Código: 13C0038450
-    Remuneração: "IGP-M+6,50000%" => ""
-
-  Código: 13C0038451
-    Remuneração: "IGP-M+71,75210%" => ""
-
-1 row added
-
-  Código: 24A2020894
+  Código: 24A1638854
   Emissor: TRAVESSIA SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 45
+  N° da Emissão: 42
   N° da série: 1
   Qtd Emitida: 20400
   Volume Emissão: 20400000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2024-01-11
-  Data de Vencimento: 22/01/2033
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2024-01-08
+  Data de Vencimento: 22/12/2028
   Data Final de Distribuição: 2024-07-20
-  ISIN: BRTSSACRI3N8
+  ISIN: BRTSSACRI3L2
