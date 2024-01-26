@@ -1,27 +1,66 @@
-2 rows added
+2 rows changed, 3 rows added, 1 row removed
 
-  Código: 24A1711223
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 94
-  N° da série: 3
-  Qtd Emitida: 1895
-  Volume Emissão: 1895000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-01-09
-  Data de Vencimento: 20/12/2032
-  Data Final de Distribuição: 2024-07-07
-  ISIN: BRRBRACRIGD1
+2 rows changed
 
-  Código: 24A1638854
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 16L0178381
+    Remuneração: "IPCA+9,25000%" => ""
+
+  Código: 21E0466562
+    Remuneração: "IPCA+11,80000%" => "IPCA+10,50000%"
+    ISIN: "" => "BRVERTCRI1F0"
+
+3 rows added
+
+  Código: 24A1588305
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 42
+  N° da Emissão: 46
   N° da série: 1
-  Qtd Emitida: 20400
-  Volume Emissão: 20400000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2024-01-08
-  Data de Vencimento: 22/12/2028
-  Data Final de Distribuição: 2024-07-20
-  ISIN: BRTSSACRI3L2
+  Qtd Emitida: 48500
+  Volume Emissão: 48500000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2024-01-18
+  Data de Vencimento: 16/01/2028
+  Data Final de Distribuição: 2024-07-22
+  ISIN: BRPVSCCRI3G9
+
+  Código: 22A0933909
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 703
+  Qtd Emitida: 660
+  Volume Emissão: 660000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2022-01-27
+  Data de Vencimento: 20/01/2032
+  Data Final de Distribuição: 2024-01-27
+  ISIN: 
+
+  Código: 22A0933910
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 704
+  Qtd Emitida: 440
+  Volume Emissão: 440000.0
+  Remuneração: IPCA+15,00000%
+  Data de Emissão: 2022-01-27
+  Data de Vencimento: 20/01/2032
+  Data Final de Distribuição: 2024-01-27
+  ISIN: 
+
+1 row removed
+
+  Código: 13L0053201
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 1
+  N° da série: 103
+  Qtd Emitida: 16
+  Volume Emissão: 5482650.72
+  Remuneração: IPCA+6,38020%
+  Data de Emissão: 2013-12-17
+  Data de Vencimento: 17/01/2024
+  Data Final de Distribuição: 2014-06-17
+  ISIN: BRRBRACRI2L6
