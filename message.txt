@@ -1,56 +1,40 @@
-4 rows changed, 3 rows added
+3 rows changed, 2 rows added
 
-4 rows changed
+3 rows changed
 
-  Código: 14I0103933
-    Emissor: "TRX SECURITIZADORA S/A" => "HABITASEC SECURITIZADORA S/A"
+  Código: 23G1476822
+    Data Final de Distribuição: "2024-01-21" => "2024-01-28"
 
-  Código: 19G0311661
-    Remuneração: "100,00%  DI+1,80000%" => ""
-
-  Código: 20E1000787
-    Data de Vencimento: "28/05/2025" => "28/07/2027"
-
-  Código: 20E1000795
-    Data de Vencimento: "28/05/2025" => "28/07/2027"
-
-3 rows added
-
-  Código: 21E0908747
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 45
-  N° da série: 2
-  Qtd Emitida: 7509
-  Volume Emissão: 7509000.0
-  Remuneração: IPCA+13,75000%
-  Data de Emissão: 2021-05-07
-  Data de Vencimento: 12/05/2025
-  Data Final de Distribuição: 2021-11-08
-  ISIN: 
+  Código: 23G1477566
+    Data Final de Distribuição: "2024-01-21" => "2024-01-28"
 
   Código: 24A2395040
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 122
-  N° da série: 1
-  Qtd Emitida: 130000
-  Volume Emissão: 130000000.0
-  Remuneração: 100,00%  DI+9,75000%
-  Data de Emissão: 2024-01-18
-  Data de Vencimento: 21/01/2030
-  Data Final de Distribuição: 2024-07-22
-  ISIN: BRVERTCRI7M3
+    Remuneração: "100,00%  DI+9,75000%" => "100,00%  DI+1,85000%"
 
-  Código: 24A2398750
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+2 rows added
+
+  Código: 24A1828538
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 122
-  N° da série: 2
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+9,75000%
-  Data de Emissão: 2024-01-18
-  Data de Vencimento: 21/01/2030
-  Data Final de Distribuição: 2024-07-22
-  ISIN: BRVERTCRI7N1
+  N° da Emissão: 152
+  N° da série: 1
+  Qtd Emitida: 87750
+  Volume Emissão: 87750000.0
+  Remuneração: 100,00%  DI+3,25000%
+  Data de Emissão: 2024-01-12
+  Data de Vencimento: 03/12/2038
+  Data Final de Distribuição: 2024-07-20
+  ISIN: BRRBRACRIM24
+
+  Código: 24A2092008
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 231
+  N° da série: 1
+  Qtd Emitida: 33500
+  Volume Emissão: 33500000.0
+  Remuneração: IPCA+9,40000%
+  Data de Emissão: 2024-01-19
+  Data de Vencimento: 20/07/2026
+  Data Final de Distribuição: 2024-07-16
+  ISIN: BRRBRACRIM32
