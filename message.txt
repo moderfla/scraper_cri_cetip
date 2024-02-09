@@ -1,27 +1,61 @@
-2 rows removed
+1 row changed, 4 rows added
 
-  Código: 19K1145467
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 168
-  Qtd Emitida: 45000
-  Volume Emissão: 45000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2019-11-29
-  Data de Vencimento: 30/01/2024
-  Data Final de Distribuição: 2020-06-12
-  ISIN: BRHBSCCRI4K3
+1 row changed
 
-  Código: 19J0280616
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 231
-  Qtd Emitida: 36000
-  Volume Emissão: 36000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2019-10-18
-  Data de Vencimento: 29/09/2027
-  Data Final de Distribuição: 2020-04-17
-  ISIN: BRRBRACRI663
+  Código: 23H1297201
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2024-02-17" => "2024-02-14"
+
+4 rows added
+
+  Código: 24A1781654
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 40
+  N° da série: 1
+  Qtd Emitida: 96101
+  Volume Emissão: 96101000.0
+  Remuneração: IPCA+7,19820%
+  Data de Emissão: 2024-01-15
+  Data de Vencimento: 15/01/2031
+  Data Final de Distribuição: 2024-08-04
+  ISIN: BRPVSCCRI3H7
+
+  Código: 24A1785576
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 40
+  N° da série: 2
+  Qtd Emitida: 5339
+  Volume Emissão: 5339000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-01-15
+  Data de Vencimento: 15/07/2031
+  Data Final de Distribuição: 2024-08-04
+  ISIN: BRPVSCCRI3I5
+
+  Código: 24A2073778
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 54
+  N° da série: 1
+  Qtd Emitida: 32000
+  Volume Emissão: 32000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-01-31
+  Data de Vencimento: 03/03/2027
+  Data Final de Distribuição: 2024-07-31
+  ISIN: BRPVSCCRI3M7
+
+  Código: 24A2073830
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 54
+  N° da série: 2
+  Qtd Emitida: 8000
+  Volume Emissão: 8000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2024-01-31
+  Data de Vencimento: 03/03/2027
+  Data Final de Distribuição: 2024-07-31
+  ISIN: BRPVSCCRI3N5
