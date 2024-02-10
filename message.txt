@@ -1,61 +1,52 @@
-1 row changed, 4 rows added
+2 rows changed, 2 rows added, 1 row removed
 
-1 row changed
+2 rows changed
 
-  Código: 23H1297201
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2024-02-17" => "2024-02-14"
+  Código: 23F2566574
+    Agente Fiduciário: "PLANNER C V S/A" => "PLANNER CORRETORA DE VALORES S.A."
 
-4 rows added
+  Código: 22G0893940
+    Data Final de Distribuição: "2024-01-20" => "2024-07-20"
 
-  Código: 24A1781654
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 40
-  N° da série: 1
-  Qtd Emitida: 96101
-  Volume Emissão: 96101000.0
-  Remuneração: IPCA+7,19820%
-  Data de Emissão: 2024-01-15
-  Data de Vencimento: 15/01/2031
-  Data Final de Distribuição: 2024-08-04
-  ISIN: BRPVSCCRI3H7
+2 rows added
 
-  Código: 24A1785576
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 40
-  N° da série: 2
-  Qtd Emitida: 5339
-  Volume Emissão: 5339000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-01-15
-  Data de Vencimento: 15/07/2031
-  Data Final de Distribuição: 2024-08-04
-  ISIN: BRPVSCCRI3I5
-
-  Código: 24A2073778
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 22K1451344
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 54
-  N° da série: 1
-  Qtd Emitida: 32000
-  Volume Emissão: 32000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-01-31
-  Data de Vencimento: 03/03/2027
-  Data Final de Distribuição: 2024-07-31
-  ISIN: BRPVSCCRI3M7
+  N° da Emissão: 97
+  N° da série: 8
+  Qtd Emitida: 7231971
+  Volume Emissão: 7231971.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2022-11-25
+  Data de Vencimento: 20/12/2028
+  Data Final de Distribuição: 2023-11-28
+  ISIN: BRVERTCRI5A2
 
-  Código: 24A2073830
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 24A2951984
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 54
-  N° da série: 2
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2024-01-31
-  Data de Vencimento: 03/03/2027
+  N° da Emissão: 127
+  N° da série: 1
+  Qtd Emitida: 21121
+  Volume Emissão: 21121000.0
+  Remuneração: IPCA+13,75000%
+  Data de Emissão: 2024-02-01
+  Data de Vencimento: 24/01/2028
   Data Final de Distribuição: 2024-07-31
-  ISIN: BRPVSCCRI3N5
+  ISIN: BRIMWLCRIHN1
+
+1 row removed
+
+  Código: 22E1284808
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 14
+  N° da série: 1
+  Qtd Emitida: 52000
+  Volume Emissão: 52000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2022-06-03
+  Data de Vencimento: 18/03/2024
+  Data Final de Distribuição: 2022-12-03
+  ISIN:
