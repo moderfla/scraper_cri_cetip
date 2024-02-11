@@ -1,52 +1,48 @@
-2 rows changed, 2 rows added, 1 row removed
+5 rows changed, 2 rows added
 
-2 rows changed
+5 rows changed
 
-  Código: 23F2566574
+  Código: 23F2555071
     Agente Fiduciário: "PLANNER C V S/A" => "PLANNER CORRETORA DE VALORES S.A."
 
-  Código: 22G0893940
-    Data Final de Distribuição: "2024-01-20" => "2024-07-20"
+  Código: 23F2569219
+    Agente Fiduciário: "PLANNER C V S/A" => "PLANNER CORRETORA DE VALORES S.A."
+
+  Código: 16L0139650
+    Data de Vencimento: "10/02/2024" => "10/07/2026"
+
+  Código: 16L0139651
+    Data de Vencimento: "10/07/2025" => "10/07/2026"
+
+  Código: 22K1451344
+    Qtd Emitida: "7231971" => "5550000"
+    Volume Emissão: "7231971.0" => "5550000.0"
+    Remuneração: "IPCA+10,50000%" => "IPCA+10,90000%"
 
 2 rows added
 
-  Código: 22K1451344
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 97
-  N° da série: 8
-  Qtd Emitida: 7231971
-  Volume Emissão: 7231971.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-11-25
-  Data de Vencimento: 20/12/2028
-  Data Final de Distribuição: 2023-11-28
-  ISIN: BRVERTCRI5A2
-
-  Código: 24A2951984
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 127
-  N° da série: 1
-  Qtd Emitida: 21121
-  Volume Emissão: 21121000.0
-  Remuneração: IPCA+13,75000%
-  Data de Emissão: 2024-02-01
-  Data de Vencimento: 24/01/2028
-  Data Final de Distribuição: 2024-07-31
-  ISIN: BRIMWLCRIHN1
-
-1 row removed
-
-  Código: 22E1284808
+  Código: 24A1470431
   Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 14
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 278
   N° da série: 1
-  Qtd Emitida: 52000
-  Volume Emissão: 52000000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2022-06-03
-  Data de Vencimento: 18/03/2024
-  Data Final de Distribuição: 2022-12-03
-  ISIN:
+  Qtd Emitida: 89545
+  Volume Emissão: 89545000.0
+  Remuneração: IPCA+5,45000%
+  Data de Emissão: 2024-01-15
+  Data de Vencimento: 15/01/2044
+  Data Final de Distribuição: 2024-08-07
+  ISIN: BRAPCSCRIMU3
+
+  Código: 24A1479480
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 278
+  N° da série: 2
+  Qtd Emitida: 4712
+  Volume Emissão: 4712000.0
+  Remuneração: IPCA+6,45000%
+  Data de Emissão: 2024-01-15
+  Data de Vencimento: 15/01/2044
+  Data Final de Distribuição: 2024-08-07
+  ISIN: BRAPCSCRIMV1
