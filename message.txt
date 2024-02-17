@@ -1,81 +1,101 @@
-3 rows changed, 4 rows added, 1 row removed
+1 row changed, 5 rows added, 2 rows removed
 
-3 rows changed
+1 row changed
 
-  Código: 05J0024391
-    Remuneração: "IPCA+9,02840%" => ""
+  Código: 22H1116780
+    Data Final de Distribuição: "2024-02-16" => "2024-08-16"
 
-  Código: 15D0540147
-    Remuneração: "IGP-M+8,00000%" => ""
+5 rows added
 
-  Código: 15D0540161
-    Remuneração: "IGP-M+12,00000%" => ""
-
-4 rows added
-
-  Código: 24A2947648
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Código: 24B1276213
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 16
+  N° da Emissão: 27
   N° da série: 1
-  Qtd Emitida: 55558
-  Volume Emissão: 55558000.0
-  Remuneração: INCC-DI+12,68000%
-  Data de Emissão: 2024-01-29
-  Data de Vencimento: 21/12/2027
-  Data Final de Distribuição: 2024-08-07
-  ISIN: BRASPRCRI182
+  Qtd Emitida: 64075
+  Volume Emissão: 64075185.13
+  Remuneração: IPCA+7,10580%
+  Data de Emissão: 2024-02-09
+  Data de Vencimento: 14/02/2039
+  Data Final de Distribuição: 2024-08-12
+  ISIN: BRASTECRI2G0
 
-  Código: 24A2947672
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Código: 24B1276266
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 16
+  N° da Emissão: 27
   N° da série: 2
-  Qtd Emitida: 55557
-  Volume Emissão: 55557000.0
-  Remuneração: INCC-DI+10,00000%
-  Data de Emissão: 2024-01-29
-  Data de Vencimento: 21/12/2027
-  Data Final de Distribuição: 2024-07-30
-  ISIN: BRASPRCRI190
+  Qtd Emitida: 49042
+  Volume Emissão: 49042549.89
+  Remuneração: IPCA+7,10580%
+  Data de Emissão: 2024-02-09
+  Data de Vencimento: 14/02/2039
+  Data Final de Distribuição: 2024-08-12
+  ISIN: BRASTECRI2H8
 
-  Código: 24B1328842
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 24B1276268
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 247
-  N° da série: 1
-  Qtd Emitida: 16000
-  Volume Emissão: 16000000.0
+  N° da Emissão: 27
+  N° da série: 3
+  Qtd Emitida: 82514
+  Volume Emissão: 82514310.52
+  Remuneração: IPCA+7,10580%
+  Data de Emissão: 2024-02-09
+  Data de Vencimento: 14/02/2039
+  Data Final de Distribuição: 2024-08-12
+  ISIN: BRASTECRI2I6
+
+  Código: 23J1706527
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 170
+  N° da série: 2
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
   Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-02-07
-  Data de Vencimento: 28/07/2027
-  Data Final de Distribuição: 2024-08-07
-  ISIN: BRRBRACRIM73
+  Data de Emissão: 2023-11-10
+  Data de Vencimento: 15/12/2027
+  Data Final de Distribuição: 2024-07-31
+  ISIN: BRAPCSCRIL17
 
-  Código: 24A2983450
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 126
+  Código: 24A2806776
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 139
   N° da série: 1
-  Qtd Emitida: 135000
-  Volume Emissão: 135000000.0
-  Remuneração: 100,00%  DI+2,60000%
+  Qtd Emitida: 52000
+  Volume Emissão: 52000000.0
+  Remuneração: IPCA+8,70000%
   Data de Emissão: 2024-01-31
-  Data de Vencimento: 09/02/2029
-  Data Final de Distribuição: 2024-02-19
-  ISIN: BRVERTCRI7W2
+  Data de Vencimento: 19/01/2039
+  Data Final de Distribuição: 2024-08-07
+  ISIN: BRIMWLCRIHL5
 
-1 row removed
+2 rows removed
 
-  Código: 16I0965520
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 130
-  Qtd Emitida: 72111
-  Volume Emissão: 72111000.0
-  Remuneração: IPCA+6,57270%
-  Data de Emissão: 2016-09-30
-  Data de Vencimento: 02/10/2024
-  Data Final de Distribuição: 2017-03-29
-  ISIN: BRRBRACRI3R1
+  Código: 21D0779661
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
+  N° da série: 35
+  Qtd Emitida: 51000
+  Volume Emissão: 51000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2021-04-26
+  Data de Vencimento: 04/07/2024
+  Data Final de Distribuição: 2023-05-03
+  ISIN: 
+
+  Código: 23F2545371
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: PLANNER C V S/A
+  N° da Emissão: 5
+  N° da série: 4
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2023-06-29
+  Data de Vencimento: 20/06/2038
+  Data Final de Distribuição: 2023-12-30
+  ISIN:
