@@ -1,115 +1,49 @@
-1 row changed, 7 rows added, 1 row removed
+5 rows changed, 1 row added, 1 row removed
 
-1 row changed
+5 rows changed
 
-  Código: 22D0059915
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2023-10-04" => "2024-04-04"
+  Código: 23J1801379
+    Qtd Emitida: "40000" => "80000"
+    Volume Emissão: "40000000.0" => "80000000.0"
 
-7 rows added
+  Código: 10L0013330
+    Remuneração: "IGP-M+7,90000%" => ""
 
-  Código: 24B0013801
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 25
+  Código: 23K0344514
+    Data de Vencimento: "16/12/2030" => "15/12/2030"
+
+  Código: 23K0344580
+    Data de Vencimento: "16/12/2030" => "15/12/2030"
+
+  Código: 23K0344581
+    Data de Vencimento: "16/12/2030" => "15/12/2030"
+
+1 row added
+
+  Código: 24B1427981
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PENTAGONO S.A. DTVM
+  N° da Emissão: 143
   N° da série: 1
-  Qtd Emitida: 108279
-  Volume Emissão: 108279685.27
-  Remuneração: IPCA+6,10000%
-  Data de Emissão: 2024-02-23
-  Data de Vencimento: 18/01/2028
-  Data Final de Distribuição: 2024-08-06
-  ISIN: BRASTECRI2D7
-
-  Código: 24B0013802
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 26
-  N° da série: 1
-  Qtd Emitida: 42198
-  Volume Emissão: 42198000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2024-02-23
-  Data de Vencimento: 19/02/2026
-  Data Final de Distribuição: 2024-08-06
-  ISIN: BRASTECRI2E5
-
-  Código: 24H0000401
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 26
-  N° da série: 2
-  Qtd Emitida: 28000
-  Volume Emissão: 28000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2024-02-23
-  Data de Vencimento: 19/02/2026
-  Data Final de Distribuição: 2024-08-06
-  ISIN: BRASTECRI2F2
-
-  Código: 24B1404723
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 56
-  N° da série: 1
-  Qtd Emitida: 88000000
-  Volume Emissão: 88000000.0
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
   Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-02-20
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-08-17
-  ISIN: BRPVSCCRI3P0
-
-  Código: 24B1404726
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 56
-  N° da série: 2
-  Qtd Emitida: 16500000
-  Volume Emissão: 16500000.0
-  Remuneração: IPCA+11,50000%
-  Data de Emissão: 2024-02-20
-  Data de Vencimento: 25/11/2038
-  Data Final de Distribuição: 2024-08-17
-  ISIN: BRPVSCCRI3Q8
-
-  Código: 24B1573243
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 1
-  Qtd Emitida: 94304
-  Volume Emissão: 94304000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-02-14
-  Data de Vencimento: 22/07/2037
-  Data Final de Distribuição: 2024-08-18
-  ISIN: BRLSECCRI011
-
-  Código: 24B1617889
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 207
-  N° da série: 1
-  Qtd Emitida: 19785
-  Volume Emissão: 19785000.0
-  Remuneração: IPCA+7,30000%
-  Data de Emissão: 2024-02-15
-  Data de Vencimento: 10/02/2034
-  Data Final de Distribuição: 2024-08-18
-  ISIN: BRRBRACRIMK4
+  Data de Emissão: 2024-02-09
+  Data de Vencimento: 13/02/2034
+  Data Final de Distribuição: 2024-08-19
+  ISIN: BRIMWLCRIHO9
 
 1 row removed
 
-  Código: 08L0002118
-  Emissor: BRAZILIAN SECURITIES CIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 113
-  Qtd Emitida: 50
-  Volume Emissão: 16162899.0
-  Remuneração: IGP-M+10,81130%
-  Data de Emissão: 2008-12-13
-  Data de Vencimento: 13/02/2024
-  Data Final de Distribuição: 2009-06-05
-  ISIN: BRBSCSCRI2R9
+  Código: 21K0635617
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 207
+  Qtd Emitida: 40284
+  Volume Emissão: 40284000.0
+  Remuneração: IGP-M+5,00000%
+  Data de Emissão: 2021-11-11
+  Data de Vencimento: 15/05/2025
+  Data Final de Distribuição: 2022-05-11
+  ISIN: BRGAIACRI691
