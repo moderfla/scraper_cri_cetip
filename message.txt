@@ -1,49 +1,65 @@
-5 rows changed, 1 row added, 1 row removed
+2 rows changed, 2 rows added, 2 rows removed
 
-5 rows changed
+2 rows changed
 
-  Código: 23J1801379
-    Qtd Emitida: "40000" => "80000"
-    Volume Emissão: "40000000.0" => "80000000.0"
+  Código: 22H1319855
+    Data Final de Distribuição: "2023-08-18" => "2024-08-18"
 
-  Código: 10L0013330
-    Remuneração: "IGP-M+7,90000%" => ""
+  Código: 20G0754279
+    Remuneração: "IPCA+9,00000%" => "100,00%  DI+7,00000%"
 
-  Código: 23K0344514
-    Data de Vencimento: "16/12/2030" => "15/12/2030"
+2 rows added
 
-  Código: 23K0344580
-    Data de Vencimento: "16/12/2030" => "15/12/2030"
-
-  Código: 23K0344581
-    Data de Vencimento: "16/12/2030" => "15/12/2030"
-
-1 row added
-
-  Código: 24B1427981
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 143
+  Código: 24B1669805
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 49
   N° da série: 1
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-02-09
-  Data de Vencimento: 13/02/2034
-  Data Final de Distribuição: 2024-08-19
-  ISIN: BRIMWLCRIHO9
+  Qtd Emitida: 542619
+  Volume Emissão: 542619000.0
+  Remuneração: IPCA+7,50000%
+  Data de Emissão: 2024-02-19
+  Data de Vencimento: 26/02/2044
+  Data Final de Distribuição: 2024-08-21
+  ISIN: BRHBSCCRIAX7
 
-1 row removed
+  Código: 24B1693195
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 249
+  N° da série: 1
+  Qtd Emitida: 75000
+  Volume Emissão: 75000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2024-02-19
+  Data de Vencimento: 07/02/2034
+  Data Final de Distribuição: 2024-08-21
+  ISIN: BRRBRACRIML2
 
-  Código: 21K0635617
+2 rows removed
+
+  Código: 23L2171296
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 207
-  Qtd Emitida: 40284
-  Volume Emissão: 40284000.0
-  Remuneração: IGP-M+5,00000%
-  Data de Emissão: 2021-11-11
-  Data de Vencimento: 15/05/2025
-  Data Final de Distribuição: 2022-05-11
-  ISIN: BRGAIACRI691
+  N° da Emissão: 240
+  N° da série: 3
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: IPCA+9,35000%
+  Data de Emissão: 2023-12-21
+  Data de Vencimento: 20/12/2028
+  Data Final de Distribuição: 2024-06-19
+  ISIN: BRRBRACRILQ3
+
+  Código: 19J0159587
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 10
+  N° da série: 1
+  Qtd Emitida: 109753
+  Volume Emissão: 109753754.77
+  Remuneração: IPCA+3,50000%
+  Data de Emissão: 2019-10-10
+  Data de Vencimento: 20/01/2025
+  Data Final de Distribuição: 2020-03-24
+  ISIN: BRVERTCRI0E5
