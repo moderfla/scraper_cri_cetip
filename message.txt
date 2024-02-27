@@ -1,65 +1,29 @@
-2 rows changed, 2 rows added, 2 rows removed
+3 rows changed, 1 row removed
 
-2 rows changed
+3 rows changed
 
-  Código: 22H1319855
-    Data Final de Distribuição: "2023-08-18" => "2024-08-18"
+  Código: 20B0929306
+    Remuneração: "IPCA+8,00000%" => "IPCA+12,00000%"
+    Data de Vencimento: "03/03/2027" => "05/03/2029"
 
-  Código: 20G0754279
-    Remuneração: "IPCA+9,00000%" => "100,00%  DI+7,00000%"
+  Código: 20B0929384
+    Remuneração: "IPCA+8,00000%" => "IPCA+12,00000%"
+    Data de Vencimento: "03/03/2027" => "05/03/2029"
 
-2 rows added
+  Código: 21G0093703
+    Data de Vencimento: "20/06/2033" => "15/06/2033"
 
-  Código: 24B1669805
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 49
-  N° da série: 1
-  Qtd Emitida: 542619
-  Volume Emissão: 542619000.0
-  Remuneração: IPCA+7,50000%
-  Data de Emissão: 2024-02-19
-  Data de Vencimento: 26/02/2044
-  Data Final de Distribuição: 2024-08-21
-  ISIN: BRHBSCCRIAX7
+1 row removed
 
-  Código: 24B1693195
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 249
-  N° da série: 1
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2024-02-19
-  Data de Vencimento: 07/02/2034
-  Data Final de Distribuição: 2024-08-21
-  ISIN: BRRBRACRIML2
-
-2 rows removed
-
-  Código: 23L2171296
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 240
-  N° da série: 3
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: IPCA+9,35000%
-  Data de Emissão: 2023-12-21
-  Data de Vencimento: 20/12/2028
-  Data Final de Distribuição: 2024-06-19
-  ISIN: BRRBRACRILQ3
-
-  Código: 19J0159587
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 19L0120507
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 10
-  N° da série: 1
-  Qtd Emitida: 109753
-  Volume Emissão: 109753754.77
-  Remuneração: IPCA+3,50000%
-  Data de Emissão: 2019-10-10
-  Data de Vencimento: 20/01/2025
-  Data Final de Distribuição: 2020-03-24
-  ISIN: BRVERTCRI0E5
+  N° da Emissão: 1
+  N° da série: 208
+  Qtd Emitida: 107000
+  Volume Emissão: 107000000.0
+  Remuneração: 100,00%  DI+1,90000%
+  Data de Emissão: 2019-12-06
+  Data de Vencimento: 13/12/2035
+  Data Final de Distribuição: 2020-11-13
+  ISIN: BRAPCSCRI6Q6
