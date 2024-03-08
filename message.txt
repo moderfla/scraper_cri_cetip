@@ -1,371 +1,158 @@
-91 rows changed, 6 rows added, 1 row removed
+7 rows changed, 7 rows added, 3 rows removed
 
-91 rows changed
+7 rows changed
 
-  Código: 20F0638988
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+  Código: 23I0096175
+    Data Final de Distribuição: "2024-03-03" => "2038-09-19"
 
-  Código: 20F0638992
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+  Código: 21L0970492
+    ISIN: "" => "BRRBRACRIMQ1"
 
-  Código: 20F0638993
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+  Código: 22C1074766
+    ISIN: "" => "BRRBRACRIMR9"
 
-  Código: 20F0638994
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+  Código: 22H0156413
+    ISIN: "" => "BRRBRACRIMS7"
 
-  Código: 20G0684774
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
+  Código: 22H0197977
+    ISIN: "" => "BRRBRACRIMT5"
 
-  Código: 20G0684775
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
+  Código: 10E0013644
+    Data de Vencimento: "08/03/2024" => "08/08/2024"
 
-  Código: 20G0684776
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
+  Código: 21L0823062
+    Remuneração: "100,00%  DI+5,00000%" => "100,00%  DI+5,25000%"
 
-  Código: 20G0684778
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
+7 rows added
 
-  Código: 20G0684779
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684823
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684824
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684826
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684827
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684828
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20G0684848
-    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
-
-  Código: 20L0504499
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0504500
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0504501
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0504502
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0505084
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0505190
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0505193
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 20L0505199
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0503168
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0503169
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0503170
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0503171
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805847
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805849
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805850
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805852
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805853
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805854
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805855
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805856
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805857
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21D0805858
-    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
-
-  Código: 21F0950048
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950049
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950050
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950051
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950052
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950067
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950068
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950069
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0950070
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0953750
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0953751
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21F0953754
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21F0953755
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21F0953757
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21F0966704
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21G0511750
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21G0511751
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921848
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921850
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921851
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921852
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921853
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921854
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921855
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H0921856
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029300
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029302
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029303
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21H1029304
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21H1029305
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21H1029306
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 21H1029307
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029308
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029309
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029310
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029311
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21H1029315
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21L1012230
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21L1012231
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21L1228732
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 21L1228734
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 23C1835265
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835476
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835477
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835480
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835481
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835482
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835484
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835485
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835487
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835488
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "REAG DTVM S.A."
-
-  Código: 23C1835489
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 23C1835491
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
-
-  Código: 22I1293391
-    Data Final de Distribuição: "2023-03-23" => "2024-09-23"
-
-6 rows added
-
-  Código: 24B2011344
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 82
+  Código: 24B2057932
+  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 8
   N° da série: 1
-  Qtd Emitida: 47500
-  Volume Emissão: 47500000.0
-  Remuneração: IPCA+9,80000%
-  Data de Emissão: 2024-02-27
-  Data de Vencimento: 27/02/2034
-  Data Final de Distribuição: 2024-08-25
-  ISIN: BRCASCCRI331
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-02-26
+  Data de Vencimento: 20/02/2034
+  Data Final de Distribuição: 2024-08-27
+  ISIN: BRBASECRI172
 
-  Código: 24B2019632
+  Código: 24B2057933
+  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 8
+  N° da série: 2
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+13,79000%
+  Data de Emissão: 2024-02-26
+  Data de Vencimento: 20/02/2034
+  Data Final de Distribuição: 2024-08-27
+  ISIN: BRBASECRI180
+
+  Código: 24B1812864
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 29
+  N° da série: 1
+  Qtd Emitida: 17469
+  Volume Emissão: 17469000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2024-02-15
+  Data de Vencimento: 21/01/2039
+  Data Final de Distribuição: 2024-08-28
+  ISIN: BRHBSCCRIAZ2
+
+  Código: 23K2261105
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 228
+  N° da série: 1
+  Qtd Emitida: 14500
+  Volume Emissão: 14500000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2023-11-21
+  Data de Vencimento: 29/11/2027
+  Data Final de Distribuição: 2024-05-26
+  ISIN: BRRBRACRIKV5
+
+  Código: 23K2262998
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 228
+  N° da série: 4
+  Qtd Emitida: 17500
+  Volume Emissão: 17500000.0
+  Remuneração: 100,00%  DI+3,50000%
+  Data de Emissão: 2023-11-21
+  Data de Vencimento: 29/11/2027
+  Data Final de Distribuição: 2024-05-26
+  ISIN: BRRBRACRIKY9
+
+  Código: 23L1773235
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 237
+  N° da série: 1
+  Qtd Emitida: 158000
+  Volume Emissão: 158000000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2024-02-27
+  Data de Vencimento: 18/02/2036
+  Data Final de Distribuição: 2024-09-02
+  ISIN: BRAPCSCRIMC1
+
+  Código: 24B1861489
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 269
+  N° da série: 1
+  Qtd Emitida: 36605
+  Volume Emissão: 36605000.0
+  Remuneração: IPCA+11,70000%
+  Data de Emissão: 2024-02-28
+  Data de Vencimento: 18/02/2037
+  Data Final de Distribuição: 2024-09-01
+  ISIN: BRAPCSCRINA3
+
+3 rows removed
+
+  Código: 20D0774348
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 11
+  Qtd Emitida: 24000
+  Volume Emissão: 24000000.0
+  Remuneração: 100,00%  DI+3,75000%
+  Data de Emissão: 2020-04-08
+  Data de Vencimento: 28/03/2025
+  Data Final de Distribuição: 2020-10-08
+  ISIN: BRPVSCCRI099
+
+  Código: 20L0592654
   Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 128
+  N° da Emissão: 28
   N° da série: 1
-  Qtd Emitida: 39767
-  Volume Emissão: 39767000.0
-  Remuneração: IPCA+0,00010%
-  Data de Emissão: 2024-02-27
-  Data de Vencimento: 27/02/2030
-  Data Final de Distribuição: 2024-08-31
-  ISIN: BRVERTCRI800
+  Qtd Emitida: 6000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+4,70000%
+  Data de Emissão: 2020-12-03
+  Data de Vencimento: 17/12/2025
+  Data Final de Distribuição: 2021-06-10
+  ISIN: BRVERTCRI107
 
-  Código: 22H1237621
+  Código: 21C0549648
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 20
-  N° da série: 7
-  Qtd Emitida: 5200
-  Volume Emissão: 5200000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-08-18
-  Data de Vencimento: 21/07/2027
-  Data Final de Distribuição: 2024-08-18
-  ISIN: BRIMWLCRIDB5
-
-  Código: 24B0013201
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 138
-  N° da série: 1
-  Qtd Emitida: 76865
-  Volume Emissão: 76865000.0
-  Remuneração: 100,00%  DI+0,60000%
-  Data de Emissão: 2024-02-15
-  Data de Vencimento: 15/02/2028
-  Data Final de Distribuição: 2024-08-31
-  ISIN: BRIMWLCRIHB6
-
-  Código: 24B0013202
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 138
-  N° da série: 2
-  Qtd Emitida: 268068
-  Volume Emissão: 268068000.0
-  Remuneração: 11,00000%
-  Data de Emissão: 2024-02-15
-  Data de Vencimento: 15/02/2028
-  Data Final de Distribuição: 2024-08-31
-  ISIN: BRIMWLCRIHC4
-
-  Código: 24B0013203
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 138
-  N° da série: 3
-  Qtd Emitida: 280067
-  Volume Emissão: 280067000.0
-  Remuneração: IPCA+6,40000%
-  Data de Emissão: 2024-02-15
-  Data de Vencimento: 15/02/2030
-  Data Final de Distribuição: 2024-08-31
-  ISIN: BRIMWLCRIHD2
-
-1 row removed
-
-  Código: 22F0781905
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 5
-  N° da série: 1
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: 100,00%  DI+8,50000%
-  Data de Emissão: 2022-10-14
-  Data de Vencimento: 21/10/2025
-  Data Final de Distribuição: 2023-12-20
-  ISIN: BRASTECRI1B3
+  N° da Emissão: 4
+  N° da série: 226
+  Qtd Emitida: 18594
+  Volume Emissão: 18594166.66
+  Remuneração: IPCA+5,75000%
+  Data de Emissão: 2021-03-12
+  Data de Vencimento: 09/03/2033
+  Data Final de Distribuição: 2021-09-15
+  ISIN:
