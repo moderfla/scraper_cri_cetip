@@ -1,37 +1,54 @@
-2 rows changed, 2 rows added
+3 rows changed, 3 rows added
 
-2 rows changed
+3 rows changed
 
-  Código: 21E0585082
-    Data de Vencimento: "11/03/2024" => "10/03/2025"
+  Código: 23L2833549
+    Agente Fiduciário: "PLANNER C V S/A" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 22I0144759
-    Data de Vencimento: "11/03/2024" => "10/03/2025"
+  Código: 23L2834856
+    Agente Fiduciário: "PLANNER C V S/A" => "OLIVEIRA TRUST DTVM S/A"
 
-2 rows added
+  Código: 21J0706907
+    Remuneração: "IPCA+7,90000%" => "IPCA+8,25000%"
+    Data de Vencimento: "22/09/2028" => "22/09/2030"
 
-  Código: 24C0006204
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 250
-  N° da série: 4
-  Qtd Emitida: 145000
-  Volume Emissão: 145000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2024-03-05
-  Data de Vencimento: 17/03/2031
+3 rows added
+
+  Código: 24B1618082
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 48
+  N° da série: 1
+  Qtd Emitida: 5050
+  Volume Emissão: 5050000.0
+  Remuneração: IGP-M+10,50000%
+  Data de Emissão: 2024-02-07
+  Data de Vencimento: 28/01/2036
+  Data Final de Distribuição: 2024-08-17
+  ISIN: BRTSSACRI3O6
+
+  Código: 24B1618639
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 48
+  N° da série: 2
+  Qtd Emitida: 5050
+  Volume Emissão: 5050000.0
+  Remuneração: IGP-M+10,50000%
+  Data de Emissão: 2024-02-07
+  Data de Vencimento: 28/01/2036
+  Data Final de Distribuição: 2024-08-17
+  ISIN: BRTSSACRI3P3
+
+  Código: 24B0014064
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 130
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2024-02-02
+  Data de Vencimento: 16/02/2029
   Data Final de Distribuição: 2024-09-04
-  ISIN: BRRBRACRIMH0
-
-  Código: 24C0006205
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 250
-  N° da série: 5
-  Qtd Emitida: 85000
-  Volume Emissão: 85000000.0
-  Remuneração: IPCA+10,60550%
-  Data de Emissão: 2024-03-05
-  Data de Vencimento: 17/03/2031
-  Data Final de Distribuição: 2024-09-04
-  ISIN: BRRBRACRIMI8
+  ISIN: BRIMWLCRIHM3
