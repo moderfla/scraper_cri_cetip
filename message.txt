@@ -1,54 +1,10 @@
-3 rows changed, 3 rows added
-
 3 rows changed
 
-  Código: 23L2833549
-    Agente Fiduciário: "PLANNER C V S/A" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 20K0754354
+    Data de Vencimento: "13/03/2024" => "13/06/2024"
 
-  Código: 23L2834856
-    Agente Fiduciário: "PLANNER C V S/A" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 23I1740477
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 21J0706907
-    Remuneração: "IPCA+7,90000%" => "IPCA+8,25000%"
-    Data de Vencimento: "22/09/2028" => "22/09/2030"
-
-3 rows added
-
-  Código: 24B1618082
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 48
-  N° da série: 1
-  Qtd Emitida: 5050
-  Volume Emissão: 5050000.0
-  Remuneração: IGP-M+10,50000%
-  Data de Emissão: 2024-02-07
-  Data de Vencimento: 28/01/2036
-  Data Final de Distribuição: 2024-08-17
-  ISIN: BRTSSACRI3O6
-
-  Código: 24B1618639
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 48
-  N° da série: 2
-  Qtd Emitida: 5050
-  Volume Emissão: 5050000.0
-  Remuneração: IGP-M+10,50000%
-  Data de Emissão: 2024-02-07
-  Data de Vencimento: 28/01/2036
-  Data Final de Distribuição: 2024-08-17
-  ISIN: BRTSSACRI3P3
-
-  Código: 24B0014064
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 130
-  N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-02-02
-  Data de Vencimento: 16/02/2029
-  Data Final de Distribuição: 2024-09-04
-  ISIN: BRIMWLCRIHM3
+  Código: 19J0279390
+    Data de Vencimento: "13/03/2024" => "11/12/2024"
