@@ -1,104 +1,92 @@
-2 rows changed, 7 rows added
-
-2 rows changed
-
-  Código: 21L1280755
-    Qtd Emitida: "105000" => "65000"
-    Volume Emissão: "105000000.0" => "65000000.0"
-
-  Código: 22I0822128
-    N° da série: "2" => "3"
-    Data Final de Distribuição: "2024-03-18" => "2024-09-14"
-
 7 rows added
 
-  Código: 23H1097648
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: TRUSTEE DTVM LTDA
-  N° da Emissão: 3
+  Código: 24C1360385
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 227
+  N° da série: 1
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2024-03-01
+  Data de Vencimento: 26/02/2029
+  Data Final de Distribuição: 2024-09-08
+  ISIN: BRRBRACRIMZ2
+
+  Código: 24C1475908
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 258
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+2,25000%
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 09/03/2028
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMU3
+
+  Código: 24C1475909
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 258
   N° da série: 2
-  Qtd Emitida: 106000
-  Volume Emissão: 106000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2023-08-07
-  Data de Vencimento: 20/04/2040
-  Data Final de Distribuição: 2024-12-09
-  ISIN: BRBASECRI0Y7
+  Qtd Emitida: 235000
+  Volume Emissão: 235000000.0
+  Remuneração: IPCA+7,75000%
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 09/03/2039
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMV1
 
-  Código: 22I0822159
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24C1475910
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
+  N° da Emissão: 258
   N° da série: 3
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2024-09-14
-  ISIN: BRAPCSCRIF98
+  Qtd Emitida: 113250
+  Volume Emissão: 113250000.0
+  Remuneração: 100,00% DI
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 10/03/2026
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMW9
 
-  Código: 22I0822490
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24C1476175
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
+  N° da Emissão: 258
   N° da série: 4
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-09-14
-  ISIN: BRAPCSCRIFA9
+  Qtd Emitida: 113250
+  Volume Emissão: 113250000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 13/03/2025
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMX7
 
-  Código: 22I0822508
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24C1476176
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
+  N° da Emissão: 258
   N° da série: 5
-  Qtd Emitida: 8600
-  Volume Emissão: 8600000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-09-14
-  ISIN: BRAPCSCRIFB7
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 09/03/2034
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMY5
 
-  Código: 22I0822516
+  Código: 23J0021416
   Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
-  N° da série: 6
-  Qtd Emitida: 1000
-  Volume Emissão: 1000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-09-14
-  ISIN: BRAPCSCRIFC5
-
-  Código: 22I0822528
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
-  N° da série: 7
-  Qtd Emitida: 1000
-  Volume Emissão: 1000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-09-14
-  ISIN: BRAPCSCRIFD3
-
-  Código: 22I0822569
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 44
-  N° da série: 8
-  Qtd Emitida: 500
-  Volume Emissão: 500000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2022-09-15
-  Data de Vencimento: 15/09/2032
-  Data Final de Distribuição: 2023-09-14
-  ISIN: BRAPCSCRIFE1
+  N° da Emissão: 212
+  N° da série: 2
+  Qtd Emitida: 17389
+  Volume Emissão: 17389000.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2023-10-16
+  Data de Vencimento: 26/10/2026
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRAPCSCRIKC5
