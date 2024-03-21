@@ -1,30 +1,14 @@
-4 rows changed, 1 row removed
+1 row added
 
-4 rows changed
-
-  Código: 21F0137139
-    Data de Vencimento: "26/05/2025" => "26/05/2026"
-
-  Código: 21G0093703
-    Data de Vencimento: "15/06/2033" => "20/06/2033"
-
-  Código: 22H0166203
-    Remuneração: "IPCA+11,76870%" => "IPCA+8,91360%"
-
-  Código: 22H0166224
-    Remuneração: "IPCA+15,61090%" => "IPCA+12,79640%"
-
-1 row removed
-
-  Código: 13I0117184
+  Código: 22J0346038
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 4
-  N° da série: 43
-  Qtd Emitida: 6606
-  Volume Emissão: 2036908705.32
-  Remuneração: TR+6,38000%
-  Data de Emissão: 2013-09-13
-  Data de Vencimento: 10/09/2033
-  Data Final de Distribuição: 2014-03-10
-  ISIN:
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 68
+  N° da série: 3
+  Qtd Emitida: 17163
+  Volume Emissão: 17163000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2022-10-07
+  Data de Vencimento: 22/10/2026
+  Data Final de Distribuição: 2024-04-11
+  ISIN: BRRBRACRIER6
