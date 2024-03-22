@@ -1,14 +1,70 @@
-1 row added
+4 rows added, 1 row removed
 
-  Código: 22J0346038
-  Emissor: OPEA SECURITIZADORA S/A
+4 rows added
+
+  Código: 24C0006002
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 68
+  N° da Emissão: 145
+  N° da série: 1
+  Qtd Emitida: 76400
+  Volume Emissão: 76400000.0
+  Remuneração: 100,00%  DI+0,80000%
+  Data de Emissão: 2024-03-20
+  Data de Vencimento: 22/03/2027
+  Data Final de Distribuição: 2024-09-17
+  ISIN: BRIMWLCRIHE0
+
+  Código: 24C0006003
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 145
+  N° da série: 4
+  Qtd Emitida: 230950
+  Volume Emissão: 230950000.0
+  Remuneração: 11,63460%
+  Data de Emissão: 2024-03-20
+  Data de Vencimento: 20/03/2029
+  Data Final de Distribuição: 2024-09-17
+  ISIN: BRIMWLCRIHH3
+
+  Código: 24C0006004
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 145
+  N° da série: 2
+  Qtd Emitida: 80850
+  Volume Emissão: 80850000.0
+  Remuneração: 100,00%  DI+1,00000%
+  Data de Emissão: 2024-03-20
+  Data de Vencimento: 20/03/2029
+  Data Final de Distribuição: 2024-09-17
+  ISIN: BRIMWLCRIHF7
+
+  Código: 24C0006005
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 145
   N° da série: 3
-  Qtd Emitida: 17163
-  Volume Emissão: 17163000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-10-07
-  Data de Vencimento: 22/10/2026
-  Data Final de Distribuição: 2024-04-11
-  ISIN: BRRBRACRIER6
+  Qtd Emitida: 111800
+  Volume Emissão: 111800000.0
+  Remuneração: 10,88000%
+  Data de Emissão: 2024-03-20
+  Data de Vencimento: 22/03/2027
+  Data Final de Distribuição: 2024-09-17
+  ISIN: BRIMWLCRIHG5
+
+1 row removed
+
+  Código: 20I0597382
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 319
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+1,11000%
+  Data de Emissão: 2020-09-15
+  Data de Vencimento: 13/03/2024
+  Data Final de Distribuição: 2021-03-11
+  ISIN: BRAPCSCRI879
