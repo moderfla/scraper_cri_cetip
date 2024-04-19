@@ -1,88 +1,44 @@
-1 row changed, 4 rows added, 2 rows removed
+1 row added, 2 rows removed
 
-1 row changed
+1 row added
 
-  Código: 20B0817201
-    Remuneração: "IPCA+4,81520%" => "IPCA+5,90000%"
-
-4 rows added
-
-  Código: 24D0006601
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 24D2858481
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 262
+  N° da Emissão: 55
   N° da série: 1
-  Qtd Emitida: 352502
-  Volume Emissão: 352502000.0
-  Remuneração: 100,00%  DI+0,55000%
-  Data de Emissão: 2024-04-15
-  Data de Vencimento: 16/04/2029
-  Data Final de Distribuição: 2024-10-12
-  ISIN: BRRBRACRIMN8
-
-  Código: 24D0006602
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 262
-  N° da série: 2
-  Qtd Emitida: 377919
-  Volume Emissão: 377919000.0
-  Remuneração: 105,00% DI
-  Data de Emissão: 2024-04-15
-  Data de Vencimento: 16/04/2029
-  Data Final de Distribuição: 2024-10-12
-  ISIN: BRRBRACRIMO6
-
-  Código: 24D0006603
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 262
-  N° da série: 3
-  Qtd Emitida: 469579
-  Volume Emissão: 469579000.0
-  Remuneração: 11,66860%
-  Data de Emissão: 2024-04-15
-  Data de Vencimento: 15/04/2031
-  Data Final de Distribuição: 2024-10-12
-  ISIN: BRRBRACRIMP3
-
-  Código: 24C1582963
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 5
-  N° da série: 1
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2024-03-18
-  Data de Vencimento: 18/11/2028
-  Data Final de Distribuição: 2024-10-09
-  ISIN: BRREICCRI0M4
+  Qtd Emitida: 95000
+  Volume Emissão: 95000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2024-04-12
+  Data de Vencimento: 15/04/2029
+  Data Final de Distribuição: 2024-10-13
+  ISIN: BRHBSCCRIBA3
 
 2 rows removed
 
-  Código: 19D0618118
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: SIMPLIFIC PAVARINI DTVM LTDA
+  Código: 15L0542301
+  Emissor: POLO CAPITAL SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
   N° da Emissão: 1
-  N° da série: 211
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00% DI
-  Data de Emissão: 2019-04-05
-  Data de Vencimento: 09/04/2024
-  Data Final de Distribuição: 2019-10-02
-  ISIN: BRRBRACRI5M7
+  N° da série: 32
+  Qtd Emitida: 12
+  Volume Emissão: 4303300.2
+  Remuneração: IGP-M+9,50000%
+  Data de Emissão: 2015-12-03
+  Data de Vencimento: 10/12/2025
+  Data Final de Distribuição: 2016-05-31
+  ISIN: 
 
-  Código: 17L0745671
-  Emissor: VIRGO II COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 2
-  N° da série: 294
-  Qtd Emitida: 26
-  Volume Emissão: 26141047.47
-  Remuneração: 
-  Data de Emissão: 2017-12-08
-  Data de Vencimento: 28/11/2023
-  Data Final de Distribuição: 2018-06-21
-  ISIN:
+  Código: 17J0885406
+  Emissor: POLO CAPITAL SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 60
+  Qtd Emitida: 40
+  Volume Emissão: 10800000.0
+  Remuneração: IPCA+7,50000%
+  Data de Emissão: 2017-10-27
+  Data de Vencimento: 10/04/2024
+  Data Final de Distribuição: 2018-04-25
+  ISIN: BRPLSCCRI181
