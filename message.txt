@@ -1,44 +1,4 @@
-1 row added, 2 rows removed
+1 row changed
 
-1 row added
-
-  Código: 24D2858481
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 55
-  N° da série: 1
-  Qtd Emitida: 95000
-  Volume Emissão: 95000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-04-12
-  Data de Vencimento: 15/04/2029
-  Data Final de Distribuição: 2024-10-13
-  ISIN: BRHBSCCRIBA3
-
-2 rows removed
-
-  Código: 15L0542301
-  Emissor: POLO CAPITAL SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 32
-  Qtd Emitida: 12
-  Volume Emissão: 4303300.2
-  Remuneração: IGP-M+9,50000%
-  Data de Emissão: 2015-12-03
-  Data de Vencimento: 10/12/2025
-  Data Final de Distribuição: 2016-05-31
-  ISIN: 
-
-  Código: 17J0885406
-  Emissor: POLO CAPITAL SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 60
-  Qtd Emitida: 40
-  Volume Emissão: 10800000.0
-  Remuneração: IPCA+7,50000%
-  Data de Emissão: 2017-10-27
-  Data de Vencimento: 10/04/2024
-  Data Final de Distribuição: 2018-04-25
-  ISIN: BRPLSCCRI181
+  Código: 21C0789502
+    Remuneração: "IPCA+12,00000%" => ""
