@@ -1,4 +1,49 @@
+1 row changed, 2 rows added, 1 row removed
+
 1 row changed
 
-  Código: 21C0789502
-    Remuneração: "IPCA+12,00000%" => ""
+  Código: 21K0939348
+    Data de Vencimento: "25/02/2043" => "27/02/2043"
+
+2 rows added
+
+  Código: 24D2962583
+  Emissor: ROCK SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 2
+  N° da série: 1
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: 100,00%  DI+2,65000%
+  Data de Emissão: 2024-04-09
+  Data de Vencimento: 22/03/2030
+  Data Final de Distribuição: 2024-10-13
+  ISIN: BRRCKSCRI015
+
+  Código: 24C2247803
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 71
+  N° da série: 5
+  Qtd Emitida: 3464778
+  Volume Emissão: 3464778.0
+  Remuneração: IPCA+7,30000%
+  Data de Emissão: 2024-04-15
+  Data de Vencimento: 15/10/2032
+  Data Final de Distribuição: 2024-10-13
+  ISIN: BRAPCSCRINQ9
+
+1 row removed
+
+  Código: 24B2057933
+  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 8
+  N° da série: 2
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+13,79000%
+  Data de Emissão: 2024-02-26
+  Data de Vencimento: 20/02/2034
+  Data Final de Distribuição: 2024-08-27
+  ISIN: BRBASECRI180
