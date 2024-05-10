@@ -1,64 +1,31 @@
-6 rows changed, 2 rows added, 1 row removed
+1 row added, 1 row removed
 
-6 rows changed
+1 row added
 
-  Código: 23J1215952
-    Data Final de Distribuição: "2024-04-14" => "2024-10-14"
-
-  Código: 24A2984293
-    Emissor: "KANASTRA SECURITIZACAO S.A." => "KANASTRA SECURITIZADORA S.A."
-
-  Código: 24A2984294
-    Emissor: "KANASTRA SECURITIZACAO S.A." => "KANASTRA SECURITIZADORA S.A."
-
-  Código: 24A2984300
-    Emissor: "KANASTRA SECURITIZACAO S.A." => "KANASTRA SECURITIZADORA S.A."
-
-  Código: 24A2984302
-    Emissor: "KANASTRA SECURITIZACAO S.A." => "KANASTRA SECURITIZADORA S.A."
-
-  Código: 22G1401749
-    Data de Vencimento: "07/08/2029" => "15/08/2029"
-
-2 rows added
-
-  Código: 22H2625803
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 83
-  N° da série: 3
-  Qtd Emitida: 34400
-  Volume Emissão: 34400000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2022-08-24
-  Data de Vencimento: 16/04/2031
-  Data Final de Distribuição: 2024-02-25
-  ISIN: BRAPCSCRIO48
-
-  Código: 22H2625804
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 83
-  N° da série: 2
-  Qtd Emitida: 36200
-  Volume Emissão: 36200000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2022-08-24
-  Data de Vencimento: 17/09/2029
-  Data Final de Distribuição: 2024-02-25
-  ISIN: BRAPCSCRIO30
+  Código: 24B1813276
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 9
+  N° da série: 1
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2024-02-19
+  Data de Vencimento: 25/08/2039
+  Data Final de Distribuição: 2024-11-03
+  ISIN: BRHBSCCRIB00
 
 1 row removed
 
-  Código: 21D0808611
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 24C1476176
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 34
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2021-04-26
-  Data de Vencimento: 29/04/2026
-  Data Final de Distribuição: 2021-10-30
-  ISIN:
+  N° da Emissão: 258
+  N° da série: 5
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: 
+  Data de Emissão: 2024-03-08
+  Data de Vencimento: 09/03/2034
+  Data Final de Distribuição: 2024-09-11
+  ISIN: BRRBRACRIMY5
