@@ -1,14 +1,40 @@
-1 row added
+3 rows changed, 2 rows added
 
-  Código: 24E1296964
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+3 rows changed
+
+  Código: 23L1199761
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 22D0847833
+    Data de Vencimento: "27/04/2026" => "26/11/2027"
+
+  Código: 22D0847835
+    Data de Vencimento: "26/04/2027" => "27/11/2028"
+
+2 rows added
+
+  Código: 24E1453010
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 132
+  N° da Emissão: 267
   N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2024-05-20
-  Data de Vencimento: 16/05/2039
-  Data Final de Distribuição: 2024-11-12
-  ISIN: BRVERTCRI8D0
+  Qtd Emitida: 14350
+  Volume Emissão: 14350000.0
+  Remuneração: IPCA+8,25000%
+  Data de Emissão: 2024-05-10
+  Data de Vencimento: 22/05/2034
+  Data Final de Distribuição: 2024-11-13
+  ISIN: BRRBRACRINH8
+
+  Código: 24E1453917
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 267
+  N° da série: 2
+  Qtd Emitida: 14350
+  Volume Emissão: 14350000.0
+  Remuneração: IPCA+10,95000%
+  Data de Emissão: 2024-05-10
+  Data de Vencimento: 22/05/2034
+  Data Final de Distribuição: 2024-11-13
+  ISIN: BRRBRACRINI6
