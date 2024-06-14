@@ -1,62 +1,54 @@
-1 row changed, 3 rows added, 1 row removed
+3 rows changed, 3 rows added
 
-1 row changed
+3 rows changed
 
-  Código: 22E1150634
-    Data de Vencimento: "25/07/2032" => "25/05/2032"
+  Código: 22J0019767
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2024-06-13" => "2024-12-13"
+
+  Código: 14F0679871
+    Remuneração: "100,00%  DI+3,20000%" => "IPCA+3,20000%"
+
+  Código: 19L0810517
+    Data de Vencimento: "20/06/2024" => "20/01/2025"
 
 3 rows added
 
-  Código: 24B2057933
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 2
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: IPCA+13,79000%
-  Data de Emissão: 2024-02-26
-  Data de Vencimento: 20/02/2034
-  Data Final de Distribuição: 2024-08-27
-  ISIN: BRBASECRI180
-
-  Código: 24C0000001
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 31
-  N° da série: 2
-  Qtd Emitida: 23000
-  Volume Emissão: 23000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-03-01
-  Data de Vencimento: 20/08/2027
-  Data Final de Distribuição: 2024-12-03
-  ISIN: BRTSSACRI3B3
-
-  Código: 24F1187189
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 169
-  N° da série: 1
-  Qtd Emitida: 160000
-  Volume Emissão: 160000000.0
-  Remuneração: 18,14000%
-  Data de Emissão: 2024-06-04
-  Data de Vencimento: 16/06/2031
-  Data Final de Distribuição: 2024-12-02
-  ISIN: BRIMWLCRIIH1
-
-1 row removed
-
-  Código: 20J0665817
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24F1177122
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 103
-  Qtd Emitida: 23536
-  Volume Emissão: 23536000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2020-10-15
-  Data de Vencimento: 19/03/2026
-  Data Final de Distribuição: 2021-04-15
-  ISIN: BRIMWLCRI3M0
+  N° da Emissão: 8
+  N° da série: 3
+  Qtd Emitida: 17350
+  Volume Emissão: 17350000.0
+  Remuneração: INCC-DI+12,68000%
+  Data de Emissão: 2024-06-04
+  Data de Vencimento: 21/06/2029
+  Data Final de Distribuição: 2024-12-04
+  ISIN: BRASPRCRI1D8
+
+  Código: 24F1183470
+  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 8
+  N° da série: 4
+  Qtd Emitida: 17350
+  Volume Emissão: 17350000.0
+  Remuneração: INCC-DI+9,00000%
+  Data de Emissão: 2024-06-04
+  Data de Vencimento: 21/06/2029
+  Data Final de Distribuição: 2024-12-04
+  ISIN: BRASPRCRI1E6
+
+  Código: 24E2388811
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 313
+  N° da série: 1
+  Qtd Emitida: 19800
+  Volume Emissão: 19800000.0
+  Remuneração: 100,00%  DI+6,40000%
+  Data de Emissão: 2024-05-31
+  Data de Vencimento: 25/11/2027
+  Data Final de Distribuição: 2024-12-03
+  ISIN: BRAPCSCRIOT1
