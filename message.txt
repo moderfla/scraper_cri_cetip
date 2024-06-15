@@ -1,54 +1,148 @@
-3 rows changed, 3 rows added
+10 rows added, 1 row removed
 
-3 rows changed
+10 rows added
 
-  Código: 22J0019767
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2024-06-13" => "2024-12-13"
-
-  Código: 14F0679871
-    Remuneração: "100,00%  DI+3,20000%" => "IPCA+3,20000%"
-
-  Código: 19L0810517
-    Data de Vencimento: "20/06/2024" => "20/01/2025"
-
-3 rows added
-
-  Código: 24F1177122
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 3
-  Qtd Emitida: 17350
-  Volume Emissão: 17350000.0
-  Remuneração: INCC-DI+12,68000%
-  Data de Emissão: 2024-06-04
-  Data de Vencimento: 21/06/2029
-  Data Final de Distribuição: 2024-12-04
-  ISIN: BRASPRCRI1D8
-
-  Código: 24F1183470
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 8
-  N° da série: 4
-  Qtd Emitida: 17350
-  Volume Emissão: 17350000.0
-  Remuneração: INCC-DI+9,00000%
-  Data de Emissão: 2024-06-04
-  Data de Vencimento: 21/06/2029
-  Data Final de Distribuição: 2024-12-04
-  ISIN: BRASPRCRI1E6
-
-  Código: 24E2388811
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 313
+  Código: 24F1234491
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
   N° da série: 1
-  Qtd Emitida: 19800
-  Volume Emissão: 19800000.0
-  Remuneração: 100,00%  DI+6,40000%
-  Data de Emissão: 2024-05-31
-  Data de Vencimento: 25/11/2027
-  Data Final de Distribuição: 2024-12-03
-  ISIN: BRAPCSCRIOT1
+  Qtd Emitida: 4548
+  Volume Emissão: 4548000.0
+  Remuneração: IPCA+9,15000%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKP0
+
+  Código: 24F1234494
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 2
+  Qtd Emitida: 624
+  Volume Emissão: 624000.0
+  Remuneração: IPCA+9,15000%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKQ8
+
+  Código: 24F1234495
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 3
+  Qtd Emitida: 288
+  Volume Emissão: 288000.0
+  Remuneração: IPCA+9,15000%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKR6
+
+  Código: 24F1234497
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 4
+  Qtd Emitida: 600
+  Volume Emissão: 600000.0
+  Remuneração: IPCA+9,15000%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKS4
+
+  Código: 24F1234500
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 5
+  Qtd Emitida: 14402
+  Volume Emissão: 14402000.0
+  Remuneração: IPCA+14,21580%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKT2
+
+  Código: 24F1234506
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 6
+  Qtd Emitida: 1976
+  Volume Emissão: 1976000.0
+  Remuneração: IPCA+14,21580%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKU0
+
+  Código: 24F1234507
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 7
+  Qtd Emitida: 912
+  Volume Emissão: 912000.0
+  Remuneração: IPCA+14,21580%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKV8
+
+  Código: 24F1234510
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 8
+  Qtd Emitida: 1900
+  Volume Emissão: 1900000.0
+  Remuneração: IPCA+14,21580%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKW6
+
+  Código: 24F1234512
+  Emissor: FORTE SECURITIZADORA S.A.
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 14
+  N° da série: 9
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2024-06-06
+  Data de Vencimento: 20/03/2030
+  Data Final de Distribuição: 2024-12-08
+  ISIN: BRFSECCRIKX4
+
+  Código: 23G1988495
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 145
+  N° da série: 2
+  Qtd Emitida: 21400
+  Volume Emissão: 21400000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2023-07-20
+  Data de Vencimento: 26/01/2028
+  Data Final de Distribuição: 2024-12-09
+  ISIN: BRRBRACRIIY3
+
+1 row removed
+
+  Código: 21D0543868
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 250
+  Qtd Emitida: 82500
+  Volume Emissão: 82500000.0
+  Remuneração: 
+  Data de Emissão: 2021-04-14
+  Data de Vencimento: 30/04/2024
+  Data Final de Distribuição: 2021-10-14
+  ISIN: BRHBSCCRI6A9
