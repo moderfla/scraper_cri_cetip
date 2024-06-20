@@ -1,107 +1,54 @@
-3 rows changed, 1 row added, 6 rows removed
+3 rows changed, 3 rows added
 
 3 rows changed
 
-  Código: 24C1990828
-    Data de Vencimento: "15/08/2029" => "15/12/2029"
+  Código: 21F0099843
+    Data de Vencimento: "20/06/2024" => "20/12/2024"
 
-  Código: 08C0000078
-    Remuneração: "IGP-M+9,20000%" => ""
+  Código: 21F0136519
+    Data de Vencimento: "20/06/2024" => "20/12/2024"
 
-  Código: 23F2910406
-    Data de Vencimento: "19/10/2034" => "19/06/2034"
+  Código: 16H0204017
+    Remuneração: "" => "IGP-M+10,00000%"
+    Data de Vencimento: "10/06/2024" => "10/06/2026"
 
-1 row added
+3 rows added
 
-  Código: 24E2535174
-  Emissor: BASE SECURITIZADORA DE CREDITOS IMOBILIARIOS S.A.
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 9
-  N° da série: 2
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: IPCA+7,50000%
-  Data de Emissão: 2024-05-31
-  Data de Vencimento: 20/04/2039
-  Data Final de Distribuição: 2024-12-01
-  ISIN: BRBASECRI1A5
-
-6 rows removed
-
-  Código: 22F1013710
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  Código: 24E2213960
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 10
+  N° da série: 1
+  Qtd Emitida: 5250
+  Volume Emissão: 5250000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-05-21
+  Data de Vencimento: 22/09/2027
+  Data Final de Distribuição: 2024-12-09
+  ISIN: BRLSECCRI0E5
+
+  Código: 24E2256429
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 10
+  N° da série: 2
+  Qtd Emitida: 5520
+  Volume Emissão: 5520000.0
+  Remuneração: IPCA+15,00000%
+  Data de Emissão: 2024-05-21
+  Data de Vencimento: 22/09/2027
+  Data Final de Distribuição: 2025-12-09
+  ISIN: BRLSECCRI0F2
+
+  Código: 24E1280914
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 253
   N° da série: 1
   Qtd Emitida: 80000
   Volume Emissão: 80000000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2022-06-27
-  Data de Vencimento: 08/07/2027
-  Data Final de Distribuição: 2022-12-27
-  ISIN: BRPVSCCRI1K5
-
-  Código: 21F0001459
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 363
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 7,00000%
-  Data de Emissão: 2021-06-02
-  Data de Vencimento: 10/06/2024
-  Data Final de Distribuição: 2021-11-30
-  ISIN: BRRBRACRI8M1
-
-  Código: 21F0001460
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 362
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 7,00000%
-  Data de Emissão: 2021-06-02
-  Data de Vencimento: 10/06/2024
-  Data Final de Distribuição: 2021-11-30
-  ISIN: BRRBRACRI8L3
-
-  Código: 20L0698323
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 342
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+5,00000%
-  Data de Emissão: 2020-12-17
-  Data de Vencimento: 18/12/2030
-  Data Final de Distribuição: 2021-06-21
-  ISIN: BRAPCSCRI8S8
-
-  Código: 19F0179211
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 36
-  Qtd Emitida: 58000
-  Volume Emissão: 58000000.0
-  Remuneração: 9,65000%
-  Data de Emissão: 2019-06-10
-  Data de Vencimento: 10/06/2024
-  Data Final de Distribuição: 2019-12-10
-  ISIN: BRIMWLCRI1C5
-
-  Código: 19F0179276
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 37
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 100,00%  DI+2,70000%
-  Data de Emissão: 2019-06-10
-  Data de Vencimento: 10/06/2024
-  Data Final de Distribuição: 2019-12-10
-  ISIN: BRIMWLCRI1D3
+  Remuneração: 100,00%  DI+4,20000%
+  Data de Emissão: 2024-05-07
+  Data de Vencimento: 17/11/2026
+  Data Final de Distribuição: 2024-11-18
+  ISIN: BRRBRACRIN31
