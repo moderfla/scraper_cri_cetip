@@ -1,53 +1,115 @@
+1 row changed, 4 rows added, 4 rows removed
+
+1 row changed
+
+  Código: 21H0921820
+    Qtd Emitida: "56000" => "100"
+    Volume Emissão: "56000000.0" => "100000.0"
+
 4 rows added
 
-  Código: 24F1584241
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24F2263347
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 175
-  N° da série: 3
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-06-14
-  Data de Vencimento: 22/07/2027
-  Data Final de Distribuição: 2024-12-25
-  ISIN: BRIMWLCRIIS8
-
-  Código: 24F1584242
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 175
+  N° da Emissão: 67
   N° da série: 1
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: IPCA+9,80000%
+  Data de Emissão: 2024-06-25
+  Data de Vencimento: 25/07/2027
+  Data Final de Distribuição: 2024-12-29
+  ISIN: BRPVSCCRI4M5
+
+  Código: 21H1384714
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 515
+  Qtd Emitida: 55900
+  Volume Emissão: 55900000.0
   Remuneração: IPCA+10,50000%
-  Data de Emissão: 2024-06-14
-  Data de Vencimento: 22/07/2027
-  Data Final de Distribuição: 2024-12-25
-  ISIN: BRIMWLCRIIQ2
+  Data de Emissão: 2021-08-15
+  Data de Vencimento: 15/08/2031
+  Data Final de Distribuição: 2022-02-20
+  ISIN: BRAPCSCRIP96
 
-  Código: 24F1584243
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24D3680471
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 175
-  N° da série: 4
-  Qtd Emitida: 7000
-  Volume Emissão: 7000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-06-14
-  Data de Vencimento: 22/07/2027
-  Data Final de Distribuição: 2024-12-25
-  ISIN: BRIMWLCRIIT6
+  N° da Emissão: 306
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+2,40000%
+  Data de Emissão: 2024-06-25
+  Data de Vencimento: 27/06/2029
+  Data Final de Distribuição: 2024-12-28
+  ISIN: BRAPCSCRIOD5
 
-  Código: 24F1584244
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24F1345887
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 175
+  N° da Emissão: 306
   N° da série: 2
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-06-14
-  Data de Vencimento: 22/07/2027
-  Data Final de Distribuição: 2024-12-25
-  ISIN: BRIMWLCRIIR0
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2024-06-25
+  Data de Vencimento: 27/06/2029
+  Data Final de Distribuição: 2024-12-28
+  ISIN: BRAPCSCRIP21
+
+4 rows removed
+
+  Código: 18H0250037
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 4
+  Qtd Emitida: 15100
+  Volume Emissão: 15100000.0
+  Remuneração: 
+  Data de Emissão: 2018-08-03
+  Data de Vencimento: 09/04/2024
+  Data Final de Distribuição: 2020-08-27
+  ISIN: 
+
+  Código: 21F0950239
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 40
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: 100,00%  DI+4,75000%
+  Data de Emissão: 2021-06-23
+  Data de Vencimento: 03/08/2026
+  Data Final de Distribuição: 2022-06-29
+  ISIN: 
+
+  Código: 21F0950399
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 41
+  Qtd Emitida: 18000
+  Volume Emissão: 18000000.0
+  Remuneração: 100,00%  DI+4,75000%
+  Data de Emissão: 2021-06-23
+  Data de Vencimento: 03/08/2026
+  Data Final de Distribuição: 2022-06-29
+  ISIN: 
+
+  Código: 20I0905816
+  Emissor: ORE SECURITIZADORA S.A.
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
+  N° da Emissão: 1
+  N° da série: 29
+  Qtd Emitida: 47034
+  Volume Emissão: 47034000.0
+  Remuneração: IPCA+6,00000%
+  Data de Emissão: 2020-09-25
+  Data de Vencimento: 23/09/2025
+  Data Final de Distribuição: 2021-03-09
+  ISIN: BROSECCRI0R4
