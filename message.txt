@@ -1,46 +1,37 @@
-5 rows changed, 2 rows added
+2 rows changed, 2 rows removed
 
-5 rows changed
+2 rows changed
 
-  Código: 23I1487207
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 21I0566602
+    Remuneração: "IPCA+9,00000%" => "IPCA+12,00000%"
 
-  Código: 22F1195716
-    ISIN: "" => "BRRBRACRICS8"
+  Código: 21I0566648
+    Remuneração: "IPCA+10,00000%" => "IPCA+13,00000%"
 
-  Código: 22F1195743
-    ISIN: "" => "BRRBRACRICV2"
+2 rows removed
 
-  Código: 22G1165919
-    Remuneração: "100,00%  DI+5,00000%" => ""
+  Código: 18K1252555
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 1
+  N° da série: 118
+  Qtd Emitida: 17500
+  Volume Emissão: 17500000.0
+  Remuneração: IPCA+9,75000%
+  Data de Emissão: 2018-11-19
+  Data de Vencimento: 06/12/2033
+  Data Final de Distribuição: 2019-05-21
+  ISIN: BRHBSCCRI2S0
 
-  Código: 21F1057167
-    ISIN: "" => "BRVERTCRI1L8"
-
-2 rows added
-
-  Código: 24F2416149
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Código: 19I0307144
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 107
-  N° da série: 1
-  Qtd Emitida: 7284
-  Volume Emissão: 7284000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-06-26
-  Data de Vencimento: 19/11/2031
-  Data Final de Distribuição: 2024-12-28
-  ISIN: BRCASCCRI3T2
-
-  Código: 24F2316395
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 461
-  Qtd Emitida: 178714
-  Volume Emissão: 17871400.0
-  Remuneração: IPCA+11,35000%
-  Data de Emissão: 2024-06-24
-  Data de Vencimento: 24/08/2026
-  Data Final de Distribuição: 2024-12-28
-  ISIN: BRIMWLCRIIZ3
+  N° da Emissão: 1
+  N° da série: 167
+  Qtd Emitida: 56000
+  Volume Emissão: 56000000.0
+  Remuneração: 100,00%  DI+4,25000%
+  Data de Emissão: 2019-09-03
+  Data de Vencimento: 11/03/2025
+  Data Final de Distribuição: 2020-03-13
+  ISIN: BRHBSCCRI3Q2
