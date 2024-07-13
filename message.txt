@@ -1,92 +1,74 @@
-7 rows added
+1 row changed, 5 rows added
 
-  Código: 24F2420812
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 105
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+8,70000%
-  Data de Emissão: 2024-06-25
-  Data de Vencimento: 20/06/2029
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRCASCCRI3U0
+1 row changed
 
-  Código: 24F2420816
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 105
-  N° da série: 2
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+8,57300%
-  Data de Emissão: 2024-06-25
-  Data de Vencimento: 20/06/2029
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRCASCCRI3V8
+  Código: 20E0870068
+    Remuneração: "" => "1,00%  DI+19,56000%"
+    Data de Vencimento: "23/06/2024" => "25/06/2025"
 
-  Código: 24F2418658
-  Emissor: HABITASEC SECURITIZADORA S/A
+5 rows added
+
+  Código: 24F1533576
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 62
+  N° da Emissão: 59
   N° da série: 1
-  Qtd Emitida: 38500
-  Volume Emissão: 38500000.0
-  Remuneração: IPCA+11,50000%
-  Data de Emissão: 2024-06-28
-  Data de Vencimento: 29/06/2027
+  Qtd Emitida: 10432
+  Volume Emissão: 10432000.0
+  Remuneração: IPCA+5,60000%
+  Data de Emissão: 2024-06-21
+  Data de Vencimento: 11/09/2029
   Data Final de Distribuição: 2025-01-05
-  ISIN: BRHBSCCRIBM8
+  ISIN: BRPVSCCRI4L7
 
-  Código: 24F2427238
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 51
+  Código: 24G1305617
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 4
   N° da série: 1
-  Qtd Emitida: 4000
-  Volume Emissão: 4000000.0
-  Remuneração: IPCA+13,94000%
-  Data de Emissão: 2024-06-20
-  Data de Vencimento: 22/06/2027
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRTSSACRI3T5
+  Qtd Emitida: 523000
+  Volume Emissão: 523000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-07-11
+  Data de Vencimento: 20/07/2027
+  Data Final de Distribuição: 2025-01-07
+  ISIN: BRLVERCRI047
 
-  Código: 24F2427239
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 51
+  Código: 24G1305618
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 4
   N° da série: 2
-  Qtd Emitida: 3000
-  Volume Emissão: 3000000.0
-  Remuneração: IPCA+13,94000%
-  Data de Emissão: 2024-06-20
-  Data de Vencimento: 22/07/2027
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRTSSACRI3U3
+  Qtd Emitida: 75000
+  Volume Emissão: 75000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-07-11
+  Data de Vencimento: 20/06/2039
+  Data Final de Distribuição: 2025-01-07
+  ISIN: BRLVERCRI054
 
-  Código: 24F2427240
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 51
+  Código: 24G1305619
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 4
   N° da série: 3
-  Qtd Emitida: 2700
-  Volume Emissão: 2700000.0
-  Remuneração: IPCA+13,94000%
-  Data de Emissão: 2024-06-20
-  Data de Vencimento: 22/08/2027
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRTSSACRI3V1
+  Qtd Emitida: 90000
+  Volume Emissão: 90000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-07-11
+  Data de Vencimento: 20/06/2039
+  Data Final de Distribuição: 2025-01-07
+  ISIN: BRLVERCRI062
 
-  Código: 24F2427242
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 51
+  Código: 24G1305620
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 4
   N° da série: 4
-  Qtd Emitida: 300
-  Volume Emissão: 300000.0
-  Remuneração: IPCA+20,00000%
-  Data de Emissão: 2024-06-20
-  Data de Vencimento: 22/11/2027
-  Data Final de Distribuição: 2025-01-04
-  ISIN: BRTSSACRI3W9
+  Qtd Emitida: 62000
+  Volume Emissão: 62000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-07-11
+  Data de Vencimento: 20/06/2039
+  Data Final de Distribuição: 2025-01-07
+  ISIN: BRLVERCRI070
