@@ -1,74 +1,34 @@
-1 row changed, 5 rows added
+1 row changed, 2 rows added
 
 1 row changed
 
-  Código: 20E0870068
-    Remuneração: "" => "1,00%  DI+19,56000%"
-    Data de Vencimento: "23/06/2024" => "25/06/2025"
+  Código: 23K1507975
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-5 rows added
+2 rows added
 
-  Código: 24F1533576
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 24E3191022
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 59
+  N° da Emissão: 324
   N° da série: 1
-  Qtd Emitida: 10432
-  Volume Emissão: 10432000.0
-  Remuneração: IPCA+5,60000%
-  Data de Emissão: 2024-06-21
-  Data de Vencimento: 11/09/2029
-  Data Final de Distribuição: 2025-01-05
-  ISIN: BRPVSCCRI4L7
+  Qtd Emitida: 74000
+  Volume Emissão: 74000000.0
+  Remuneração: IPCA+7,65000%
+  Data de Emissão: 2024-07-05
+  Data de Vencimento: 15/06/2035
+  Data Final de Distribuição: 2025-01-07
+  ISIN: BRAPCSCRIP88
 
-  Código: 24G1305617
-  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 4
+  Código: 24G1249772
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 181
   N° da série: 1
-  Qtd Emitida: 523000
-  Volume Emissão: 523000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-07-11
-  Data de Vencimento: 20/07/2027
+  Qtd Emitida: 90268
+  Volume Emissão: 90268000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2024-07-03
+  Data de Vencimento: 20/06/2031
   Data Final de Distribuição: 2025-01-07
-  ISIN: BRLVERCRI047
-
-  Código: 24G1305618
-  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 2
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-07-11
-  Data de Vencimento: 20/06/2039
-  Data Final de Distribuição: 2025-01-07
-  ISIN: BRLVERCRI054
-
-  Código: 24G1305619
-  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 3
-  Qtd Emitida: 90000
-  Volume Emissão: 90000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-07-11
-  Data de Vencimento: 20/06/2039
-  Data Final de Distribuição: 2025-01-07
-  ISIN: BRLVERCRI062
-
-  Código: 24G1305620
-  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 4
-  Qtd Emitida: 62000
-  Volume Emissão: 62000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-07-11
-  Data de Vencimento: 20/06/2039
-  Data Final de Distribuição: 2025-01-07
-  ISIN: BRLVERCRI070
+  ISIN: BRIMWLCRIJ27
