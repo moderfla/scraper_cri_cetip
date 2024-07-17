@@ -1,34 +1,21 @@
-1 row changed, 2 rows added
+1 row changed, 1 row removed
 
 1 row changed
 
-  Código: 23K1507975
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 23J2231398
+    Remuneração: "IPCA+10,50000%" => "IPCA+9,35000%"
 
-2 rows added
+1 row removed
 
-  Código: 24E3191022
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 324
+  Código: 24C2036988
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 266
   N° da série: 1
-  Qtd Emitida: 74000
-  Volume Emissão: 74000000.0
-  Remuneração: IPCA+7,65000%
-  Data de Emissão: 2024-07-05
-  Data de Vencimento: 15/06/2035
-  Data Final de Distribuição: 2025-01-07
-  ISIN: BRAPCSCRIP88
-
-  Código: 24G1249772
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 181
-  N° da série: 1
-  Qtd Emitida: 90268
-  Volume Emissão: 90268000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-07-03
-  Data de Vencimento: 20/06/2031
-  Data Final de Distribuição: 2025-01-07
-  ISIN: BRIMWLCRIJ27
+  Qtd Emitida: 20200
+  Volume Emissão: 20200000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-03-26
+  Data de Vencimento: 27/03/2027
+  Data Final de Distribuição: 2024-10-02
+  ISIN: BRRBRACRIN56
