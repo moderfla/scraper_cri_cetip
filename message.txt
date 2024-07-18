@@ -1,21 +1,4 @@
-1 row changed, 1 row removed
-
 1 row changed
 
-  Código: 23J2231398
-    Remuneração: "IPCA+10,50000%" => "IPCA+9,35000%"
-
-1 row removed
-
-  Código: 24C2036988
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 266
-  N° da série: 1
-  Qtd Emitida: 20200
-  Volume Emissão: 20200000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-03-26
-  Data de Vencimento: 27/03/2027
-  Data Final de Distribuição: 2024-10-02
-  ISIN: BRRBRACRIN56
+  Código: 21A0618771
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "H. COMMCOR DTVM LTDA"
