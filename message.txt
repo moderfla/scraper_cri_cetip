@@ -1,4 +1,40 @@
-1 row changed
+3 rows changed, 2 rows added
 
-  Código: 21A0618771
+3 rows changed
+
+  Código: 24E2267941
+    ISIN: "BRLSECCRI0N6" => "BRLSECCRI0O4"
+
+  Código: 21A0618761
     Agente Fiduciário: "PENTAGONO SA DTVM" => "H. COMMCOR DTVM LTDA"
+
+  Código: 21A0618769
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "H. COMMCOR DTVM LTDA"
+
+2 rows added
+
+  Código: 24E1751024
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 254
+  N° da série: 1
+  Qtd Emitida: 52000
+  Volume Emissão: 52000000.0
+  Remuneração: 100,00%  DI+4,25000%
+  Data de Emissão: 2024-05-16
+  Data de Vencimento: 17/05/2028
+  Data Final de Distribuição: 2024-12-03
+  ISIN: BRRBRACRINK2
+
+  Código: 24G1253164
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 7
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 100,00%  DI+1,95000%
+  Data de Emissão: 2024-07-18
+  Data de Vencimento: 16/07/2031
+  Data Final de Distribuição: 2025-01-13
+  ISIN: BRIMWLCR0085
