@@ -1,62 +1,27 @@
-1 row changed, 1 row added, 3 rows removed
+2 rows added
 
-1 row changed
-
-  Código: 13C0037949
-    Remuneração: "IGP-M+34,65150%" => ""
-
-1 row added
-
-  Código: 24G1255391
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 185
-  N° da série: 1
-  Qtd Emitida: 27000
-  Volume Emissão: 27000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-07-15
-  Data de Vencimento: 24/07/2029
-  Data Final de Distribuição: 2025-01-12
-  ISIN: BRIMWLCRIJ35
-
-3 rows removed
-
-  Código: 21D0733766
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 24G1667218
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 180
-  Qtd Emitida: 45000
-  Volume Emissão: 45000000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2021-04-23
-  Data de Vencimento: 15/10/2028
-  Data Final de Distribuição: 2021-10-22
-  ISIN: BRGAIACRI5I0
+  N° da Emissão: 135
+  N° da série: 4
+  Qtd Emitida: 37515
+  Volume Emissão: 37515000.0
+  Remuneração: IPCA+8,30000%
+  Data de Emissão: 2024-07-24
+  Data de Vencimento: 16/11/2044
+  Data Final de Distribuição: 2024-07-29
+  ISIN: BRVERTCRI8O7
 
-  Código: 21D0733780
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 24G1667911
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 181
-  Qtd Emitida: 60313
-  Volume Emissão: 60313000.0
-  Remuneração: IPCA+5,50000%
-  Data de Emissão: 2021-04-23
-  Data de Vencimento: 15/10/2028
-  Data Final de Distribuição: 2021-10-22
-  ISIN: BRGAIACRI5J8
-
-  Código: 18I0000001
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 28
-  Qtd Emitida: 20
-  Volume Emissão: 20500000.0
-  Remuneração: 100,00%  DI+3,27000%
-  Data de Emissão: 2018-09-03
-  Data de Vencimento: 15/09/2028
-  Data Final de Distribuição: 2019-03-08
-  ISIN: BRNSECCRI0S3
+  N° da Emissão: 135
+  N° da série: 5
+  Qtd Emitida: 7957
+  Volume Emissão: 7957000.0
+  Remuneração: IPCA+10,85000%
+  Data de Emissão: 2024-07-24
+  Data de Vencimento: 16/11/2044
+  Data Final de Distribuição: 2024-07-29
+  ISIN: BRVERTCRI8P4
