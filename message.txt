@@ -1,50 +1,27 @@
-1 row changed, 1 row added, 2 rows removed
+2 rows added
 
-1 row changed
-
-  Código: 15L0542303
-    Remuneração: "" => "IGP-M+11,50000%"
-    Data de Vencimento: "10/09/2023" => "10/03/2025"
-
-1 row added
-
-  Código: 24G1769360
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 162
-  N° da série: 1
-  Qtd Emitida: 11834
-  Volume Emissão: 11834000.0
-  Remuneração: IGP-M+8,00000%
-  Data de Emissão: 2024-07-22
-  Data de Vencimento: 20/07/2029
-  Data Final de Distribuição: 2025-01-20
-  ISIN: BRIMWLCRIJ50
-
-2 rows removed
-
-  Código: 20E0870068
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 5
-  Qtd Emitida: 30081
-  Volume Emissão: 30081000.0
-  Remuneração: 1,00%  DI+19,56000%
-  Data de Emissão: 2020-05-13
-  Data de Vencimento: 25/06/2025
-  Data Final de Distribuição: 2022-05-15
-  ISIN: BRASPRCRI067
-
-  Código: 22C0794372
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 24G1896218
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 74
-  N° da série: 2
-  Qtd Emitida: 29692035
-  Volume Emissão: 29692035.0
-  Remuneração: IPCA+8,75000%
-  Data de Emissão: 2022-03-18
-  Data de Vencimento: 18/03/2028
-  Data Final de Distribuição: 2023-09-18
-  ISIN: BRVERTCRI3G4
+  N° da Emissão: 62
+  N° da série: 1
+  Qtd Emitida: 72200
+  Volume Emissão: 72200000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-07-22
+  Data de Vencimento: 31/07/2034
+  Data Final de Distribuição: 2025-01-22
+  ISIN: BRPVSCCRI4N3
+
+  Código: 24E3185606
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 338
+  N° da série: 1
+  Qtd Emitida: 40505
+  Volume Emissão: 40505000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2024-07-23
+  Data de Vencimento: 20/07/2029
+  Data Final de Distribuição: 2025-01-21
+  ISIN: BRAPCSCRIPA8
