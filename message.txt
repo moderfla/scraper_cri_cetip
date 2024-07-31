@@ -1,27 +1,65 @@
-2 rows added
+2 rows changed, 3 rows added, 1 row removed
 
-  Código: 24G1896218
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+2 rows changed
+
+  Código: 23L1955395
+    Data de Vencimento: "10/12/2030" => "20/12/2030"
+
+  Código: 20I0720439
+    Remuneração: "IPCA+8,80000%" => ""
+
+3 rows added
+
+  Código: 24G1966807
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 62
+  N° da Emissão: 13
   N° da série: 1
-  Qtd Emitida: 72200
-  Volume Emissão: 72200000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-07-22
-  Data de Vencimento: 31/07/2034
-  Data Final de Distribuição: 2025-01-22
-  ISIN: BRPVSCCRI4N3
+  Qtd Emitida: 28075
+  Volume Emissão: 28075000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-07-18
+  Data de Vencimento: 20/06/2034
+  Data Final de Distribuição: 2025-01-25
+  ISIN: BRLSECCRI128
 
-  Código: 24E3185606
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24G1967273
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 13
+  N° da série: 2
+  Qtd Emitida: 28075
+  Volume Emissão: 28075000.0
+  Remuneração: IPCA+16,00000%
+  Data de Emissão: 2024-07-18
+  Data de Vencimento: 20/06/2034
+  Data Final de Distribuição: 2025-01-25
+  ISIN: BRLSECCRI136
+
+  Código: 24G1871947
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 338
+  N° da Emissão: 53
   N° da série: 1
-  Qtd Emitida: 40505
-  Volume Emissão: 40505000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2024-07-23
-  Data de Vencimento: 20/07/2029
+  Qtd Emitida: 42000
+  Volume Emissão: 42000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-07-17
+  Data de Vencimento: 20/07/2037
   Data Final de Distribuição: 2025-01-21
-  ISIN: BRAPCSCRIPA8
+  ISIN: BRTSSACRI3X7
+
+1 row removed
+
+  Código: 19L0986350
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 15
+  N° da série: 1
+  Qtd Emitida: 16224344
+  Volume Emissão: 16224344.0
+  Remuneração: 100,00%  DI+1,80000%
+  Data de Emissão: 2019-12-31
+  Data de Vencimento: 10/01/2030
+  Data Final de Distribuição: 2020-06-27
+  ISIN: BRVERTCRI0M8
