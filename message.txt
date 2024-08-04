@@ -1,69 +1,10 @@
-3 rows changed, 2 rows added, 2 rows removed
-
 3 rows changed
 
-  Código: 22F0715946
-    Remuneração: "100,00%  DI+2,30000%" => ""
+  Código: 21G0063228
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
-  Código: 21D0733768
-    Remuneração: "IPCA+5,60000%" => "IPCA+7,00000%"
-    Data de Vencimento: "24/04/2031" => "25/04/2034"
+  Código: 21G0063256
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
-  Código: 20I0720439
-    Remuneração: "" => "IPCA"
-
-2 rows added
-
-  Código: 24G1883357
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 286
-  N° da série: 1
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2024-07-22
-  Data de Vencimento: 24/11/2027
-  Data Final de Distribuição: 2025-01-27
-  ISIN: BRRBRACRIOZ8
-
-  Código: 24G1970699
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 150
-  N° da série: 1
-  Qtd Emitida: 15000
-  Volume Emissão: 15000000.0
-  Remuneração: IPCA+10,25000%
-  Data de Emissão: 2024-07-22
-  Data de Vencimento: 20/07/2029
-  Data Final de Distribuição: 2025-01-28
-  ISIN: BRIMWLCRIJ84
-
-2 rows removed
-
-  Código: 23A1688205
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 22
-  N° da série: 1
-  Qtd Emitida: 70000
-  Volume Emissão: 70000000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2023-02-16
-  Data de Vencimento: 15/02/2027
-  Data Final de Distribuição: 2023-08-16
-  ISIN: BRAPCSCRIGP5
-
-  Código: 23B0418447
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 22
-  N° da série: 2
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+6,50000%
-  Data de Emissão: 2023-02-16
-  Data de Vencimento: 15/02/2030
-  Data Final de Distribuição: 2023-08-16
-  ISIN: BRAPCSCRIGQ3
+  Código: 21G0063257
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
