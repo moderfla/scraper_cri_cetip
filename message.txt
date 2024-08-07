@@ -1,10 +1,82 @@
-3 rows changed
+12 rows changed, 2 rows added, 1 row removed
 
-  Código: 21G0063228
+12 rows changed
+
+  Código: 22A0896533
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "REAG DTVM S.A."
+
+  Código: 24A2398844
+    Data Final de Distribuição: "2024-07-30" => "2032-01-28"
+
+  Código: 15L0676664
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
-  Código: 21G0063256
+  Código: 19J0279700
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
-  Código: 21G0063257
+  Código: 19J0279705
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+
+  Código: 19J0279728
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+
+  Código: 19J0279742
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+
+  Código: 19J0279754
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+
+  Código: 14G0412584
+    Remuneração: "IGP-M+9,00000%" => ""
+
+  Código: 14G0412585
+    Remuneração: "IGP-M+36,87000%" => ""
+
+  Código: 22H0166203
+    Remuneração: "IPCA+8,91360%" => "IPCA+11,76870%"
+
+  Código: 22H0166224
+    Remuneração: "IPCA+12,79640%" => "IPCA+15,61090%"
+
+2 rows added
+
+  Código: 24F1277566
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 331
+  N° da série: 1
+  Qtd Emitida: 156321
+  Volume Emissão: 156321000.0
+  Remuneração: 103,00% DI
+  Data de Emissão: 2024-07-15
+  Data de Vencimento: 16/07/2029
+  Data Final de Distribuição: 2025-01-29
+  ISIN: BRAPCSCRIP62
+
+  Código: 24F1277567
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 331
+  N° da série: 2
+  Qtd Emitida: 155613
+  Volume Emissão: 155613000.0
+  Remuneração: IPCA+6,67470%
+  Data de Emissão: 2024-07-15
+  Data de Vencimento: 15/07/2031
+  Data Final de Distribuição: 2025-01-29
+  ISIN: BRAPCSCRIP70
+
+1 row removed
+
+  Código: 23I1869336
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 199
+  N° da série: 1
+  Qtd Emitida: 20000
+  Volume Emissão: 20000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2023-09-25
+  Data de Vencimento: 29/09/2026
+  Data Final de Distribuição: 2024-03-26
+  ISIN: BRRBRACRIK26
