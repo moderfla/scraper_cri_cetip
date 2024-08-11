@@ -1,21 +1,27 @@
-1 row changed, 1 row removed
+2 rows added
 
-1 row changed
-
-  Código: 10E0013644
-    Remuneração: "IGP-M+9,40000%" => ""
-
-1 row removed
-
-  Código: 22C0794302
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 24F2830801
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 74
-  N° da série: 1
-  Qtd Emitida: 37480000
-  Volume Emissão: 37480000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2022-03-18
-  Data de Vencimento: 18/03/2028
-  Data Final de Distribuição: 2022-09-18
-  ISIN: BRVERTCRI3F6
+  N° da Emissão: 294
+  N° da série: 3
+  Qtd Emitida: 16000
+  Volume Emissão: 16000000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2024-06-13
+  Data de Vencimento: 27/06/2030
+  Data Final de Distribuição: 2025-02-04
+  ISIN: BRRBRACRIP96
+
+  Código: 22H1237622
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 20
+  N° da série: 8
+  Qtd Emitida: 5200
+  Volume Emissão: 5200000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-08-18
+  Data de Vencimento: 21/07/2027
+  Data Final de Distribuição: 2024-08-18
+  ISIN: BRIMWLCRIDC3
