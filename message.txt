@@ -1,27 +1,60 @@
-2 rows added
+4 rows changed, 1 row added, 2 rows removed
 
-  Código: 24F2830801
+4 rows changed
+
+  Código: 21F0137139
+    Remuneração: "IPCA+12,00000%" => ""
+
+  Código: 22L1215505
+    Remuneração: "100,00%  DI+11,70000%" => ""
+
+  Código: 22K1451344
+    Qtd Emitida: "5550000" => "7625247"
+    Volume Emissão: "5550000.0" => "7625247.0"
+
+  Código: 22K1451361
+    Qtd Emitida: "8913942" => "6663942"
+    Volume Emissão: "8913942.0" => "6663942.0"
+
+1 row added
+
+  Código: 24H0121713
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 294
-  N° da série: 3
-  Qtd Emitida: 16000
-  Volume Emissão: 16000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-06-13
-  Data de Vencimento: 27/06/2030
-  Data Final de Distribuição: 2025-02-04
-  ISIN: BRRBRACRIP96
+  N° da Emissão: 299
+  N° da série: 1
+  Qtd Emitida: 12000
+  Volume Emissão: 12000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2024-08-02
+  Data de Vencimento: 31/08/2034
+  Data Final de Distribuição: 2025-02-02
+  ISIN: BRRBRACRIP62
 
-  Código: 22H1237622
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+2 rows removed
+
+  Código: 21K0019326
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 3
+  N° da série: 47
+  Qtd Emitida: 80000
+  Volume Emissão: 80000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2021-11-01
+  Data de Vencimento: 30/10/2041
+  Data Final de Distribuição: 2023-11-04
+  ISIN: 
+
+  Código: 21K0912321
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 20
-  N° da série: 8
-  Qtd Emitida: 5200
-  Volume Emissão: 5200000.0
-  Remuneração: IPCA+12,68000%
-  Data de Emissão: 2022-08-18
-  Data de Vencimento: 21/07/2027
-  Data Final de Distribuição: 2024-08-18
-  ISIN: BRIMWLCRIDC3
+  N° da Emissão: 1
+  N° da série: 483
+  Qtd Emitida: 19000
+  Volume Emissão: 19000000.0
+  Remuneração: 100,00%  DI+6,50000%
+  Data de Emissão: 2021-11-24
+  Data de Vencimento: 05/12/2024
+  Data Final de Distribuição: 2022-05-24
+  ISIN: BRAPCSCRIBK7
