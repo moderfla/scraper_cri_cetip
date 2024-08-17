@@ -1,41 +1,27 @@
-7 rows changed, 1 row added
+2 rows added
 
-7 rows changed
+  Código: 24H1453741
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 64
+  N° da série: 1
+  Qtd Emitida: 10440
+  Volume Emissão: 10440000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2024-08-08
+  Data de Vencimento: 21/09/2027
+  Data Final de Distribuição: 2025-02-10
+  ISIN: BRHBSCCRIBN6
 
-  Código: 23E0002201
-    Data Final de Distribuição: "2024-07-21" => "2024-12-21"
-
-  Código: 23J0000201
-    Data Final de Distribuição: "2023-12-21" => "2024-12-21"
-
-  Código: 22H1319855
-    Qtd Emitida: "43100" => "34470"
-    Volume Emissão: "43100000.0" => "34470000.0"
-
-  Código: 22G0283464
-    Remuneração: "IPCA+9,50000%" => ""
-
-  Código: 24A2806776
-    Qtd Emitida: "52000" => "46681"
-    Volume Emissão: "52000000.0" => "46681000.0"
-
-  Código: 24F2269311
-    Data Final de Distribuição: "2024-12-23" => "2028-09-21"
-
-  Código: 24F2269312
-    Data Final de Distribuição: "2024-12-23" => "2028-09-21"
-
-1 row added
-
-  Código: 24E3191694
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 516
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-07-24
-  Data de Vencimento: 15/07/2031
-  Data Final de Distribuição: 2025-02-05
-  ISIN: BRAPCSCRIPC4
+  Código: 24H1395335
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 137
+  N° da série: 1
+  Qtd Emitida: 48000
+  Volume Emissão: 48000000.0
+  Remuneração: IPCA+10,75000%
+  Data de Emissão: 2024-08-07
+  Data de Vencimento: 25/07/2029
+  Data Final de Distribuição: 2025-02-10
+  ISIN: BRVERTCRI8R0
