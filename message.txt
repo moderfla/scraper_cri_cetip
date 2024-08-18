@@ -1,27 +1,36 @@
-2 rows added
+1 row changed, 1 row added, 1 row removed
 
-  Código: 24H1453741
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 64
-  N° da série: 1
-  Qtd Emitida: 10440
-  Volume Emissão: 10440000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2024-08-08
-  Data de Vencimento: 21/09/2027
-  Data Final de Distribuição: 2025-02-10
-  ISIN: BRHBSCCRIBN6
+1 row changed
 
-  Código: 24H1395335
-  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Código: 22H0087510
+    Remuneração: "IPCA+10,50000%" => "IPCA+9,35000%"
+
+1 row added
+
+  Código: 24H1397486
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 137
-  N° da série: 1
-  Qtd Emitida: 48000
-  Volume Emissão: 48000000.0
-  Remuneração: IPCA+10,75000%
-  Data de Emissão: 2024-08-07
-  Data de Vencimento: 25/07/2029
-  Data Final de Distribuição: 2025-02-10
-  ISIN: BRVERTCRI8R0
+  N° da Emissão: 101
+  N° da série: 2
+  Qtd Emitida: 4300
+  Volume Emissão: 4300000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2024-08-01
+  Data de Vencimento: 21/02/2033
+  Data Final de Distribuição: 2024-11-14
+  ISIN: BRIMWLCRIJJ5
+
+1 row removed
+
+  Código: 20J0777633
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 140
+  Qtd Emitida: 5500
+  Volume Emissão: 5500000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2020-10-20
+  Data de Vencimento: 20/11/2030
+  Data Final de Distribuição: 2022-10-20
+  ISIN:
