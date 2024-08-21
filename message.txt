@@ -1,36 +1,68 @@
-1 row changed, 1 row added, 1 row removed
+7 rows changed, 1 row added, 2 rows removed
 
-1 row changed
+7 rows changed
 
-  Código: 22H0087510
-    Remuneração: "IPCA+10,50000%" => "IPCA+9,35000%"
+  Código: 22G0283464
+    Remuneração: "" => "IPCA+9,50000%"
+
+  Código: 23G2308202
+    Remuneração: "100,00%  DI+1,80000%" => "100,00%  DI+2,00000%"
+
+  Código: 23G2308205
+    Remuneração: "100,00%  DI+1,80000%" => "100,00%  DI+2,00000%"
+
+  Código: 21J0300224
+    Data de Vencimento: "20/10/2027" => "20/02/2030"
+
+  Código: 21J0300975
+    Data de Vencimento: "20/10/2027" => "20/02/2030"
+
+  Código: 21J0302094
+    Data de Vencimento: "20/10/2027" => "20/02/2030"
+
+  Código: 22I1466165
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2023-03-26" => "2024-09-26"
 
 1 row added
 
-  Código: 24H1397486
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 101
-  N° da série: 2
-  Qtd Emitida: 4300
-  Volume Emissão: 4300000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-08-01
-  Data de Vencimento: 21/02/2033
-  Data Final de Distribuição: 2024-11-14
-  ISIN: BRIMWLCRIJJ5
+  Código: 24G1669361
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 296
+  N° da série: 1
+  Qtd Emitida: 340000
+  Volume Emissão: 340000000.0
+  Remuneração: 100,00%  DI+1,30000%
+  Data de Emissão: 2024-07-22
+  Data de Vencimento: 24/07/2029
+  Data Final de Distribuição: 2025-02-12
+  ISIN: BRRBRACRIOW5
 
-1 row removed
+2 rows removed
 
-  Código: 20J0777633
+  Código: 21I0016224
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 3
+  N° da série: 45
+  Qtd Emitida: 101937
+  Volume Emissão: 101937000.0
+  Remuneração: IPCA+5,50000%
+  Data de Emissão: 2021-09-01
+  Data de Vencimento: 20/11/2028
+  Data Final de Distribuição: 2022-02-25
+  ISIN: 
+
+  Código: 21L0868908
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 4
-  N° da série: 140
-  Qtd Emitida: 5500
-  Volume Emissão: 5500000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2020-10-20
-  Data de Vencimento: 20/11/2030
-  Data Final de Distribuição: 2022-10-20
-  ISIN:
+  N° da série: 434
+  Qtd Emitida: 25000
+  Volume Emissão: 25000000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2021-12-27
+  Data de Vencimento: 24/12/2024
+  Data Final de Distribuição: 2022-06-22
+  ISIN: BRIMWLCRIAH8
