@@ -1,24 +1,118 @@
-2 rows changed, 1 row added
+6 rows changed, 5 rows added, 2 rows removed
 
-2 rows changed
+6 rows changed
 
-  Código: 20J0612532
-    Remuneração: "IPCA+7,50000%" => ""
+  Código: 22K1448235
+    Data Final de Distribuição: "2023-05-23" => "2024-11-23"
 
-  Código: 20J0705977
-    Remuneração: "IPCA+7,50000%" => ""
+  Código: 21F0137139
+    Remuneração: "" => "IPCA+12,00000%"
 
-1 row added
+  Código: 22L1215505
+    Remuneração: "" => "100,00%  DI+11,70000%"
 
-  Código: 24H1396116
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 290
+  Código: 22I0822490
+    Data Final de Distribuição: "2023-09-14" => "2024-09-14"
+
+  Código: 23H1297146
+    Qtd Emitida: "11300000" => "16973544"
+    Volume Emissão: "11300000.0" => "16973544.0"
+
+  Código: 23H1297147
+    Qtd Emitida: "9500000" => "3826456"
+    Volume Emissão: "9500000.0" => "3826456.0"
+
+5 rows added
+
+  Código: 24H1514742
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 3
   N° da série: 1
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: 100,00%  DI+4,20000%
-  Data de Emissão: 2024-08-09
-  Data de Vencimento: 31/08/2028
-  Data Final de Distribuição: 2025-02-16
-  ISIN: BRRBRACRIPD2
+  Qtd Emitida: 180600
+  Volume Emissão: 180600000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-08-16
+  Data de Vencimento: 20/08/2027
+  Data Final de Distribuição: 2025-02-15
+  ISIN: BRLVERCRI088
+
+  Código: 24H1514748
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 3
+  N° da série: 2
+  Qtd Emitida: 30300
+  Volume Emissão: 30300000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-08-16
+  Data de Vencimento: 20/09/2038
+  Data Final de Distribuição: 2025-02-15
+  ISIN: BRLVERCRI096
+
+  Código: 24H1514749
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 3
+  N° da série: 3
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-08-16
+  Data de Vencimento: 20/09/2038
+  Data Final de Distribuição: 2025-02-15
+  ISIN: BRLVERCRI0A1
+
+  Código: 24H1514750
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 3
+  N° da série: 4
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-08-16
+  Data de Vencimento: 20/09/2038
+  Data Final de Distribuição: 2025-02-15
+  ISIN: BRLVERCRI0B9
+
+  Código: 24H1514751
+  Emissor: LEVER COMPANHIA SECURITIZADORA DE CREDITOS
+  Agente Fiduciário: REAG DTVM S.A.
+  N° da Emissão: 3
+  N° da série: 5
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+8,00000%
+  Data de Emissão: 2024-08-16
+  Data de Vencimento: 20/09/2038
+  Data Final de Distribuição: 2025-02-15
+  ISIN: BRLVERCRI0C7
+
+2 rows removed
+
+  Código: 15F0599984
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 4
+  N° da série: 79
+  Qtd Emitida: 59
+  Volume Emissão: 19800000.57
+  Remuneração: IGP-M+10,50000%
+  Data de Emissão: 2015-06-01
+  Data de Vencimento: 14/11/2027
+  Data Final de Distribuição: 2015-12-18
+  ISIN: 
+
+  Código: 15F0600219
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 4
+  N° da série: 80
+  Qtd Emitida: 38
+  Volume Emissão: 13000000.26
+  Remuneração: IGP-M+12,00000%
+  Data de Emissão: 2015-06-01
+  Data de Vencimento: 14/12/2027
+  Data Final de Distribuição: 2015-12-18
+  ISIN:
