@@ -1,47 +1,53 @@
-1 row changed, 3 rows added
+3 rows changed, 3 rows added
 
-1 row changed
+3 rows changed
 
-  Código: 22F0715946
-    Remuneração: "" => "100,00%  DI+2,30000%"
+  Código: 16I0926379
+    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
+
+  Código: 17L0776216
+    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
+
+  Código: 17L0785393
+    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
 
 3 rows added
 
-  Código: 24G2741426
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24H0022052
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 336
-  N° da série: 1
-  Qtd Emitida: 4000
-  Volume Emissão: 4000000.0
-  Remuneração: IPCA+10,50000%
+  N° da Emissão: 180
+  N° da série: 2
+  Qtd Emitida: 206446
+  Volume Emissão: 206446000.0
+  Remuneração: IPCA+6,93280%
   Data de Emissão: 2024-08-15
-  Data de Vencimento: 15/08/2028
+  Data de Vencimento: 15/08/2029
   Data Final de Distribuição: 2025-02-18
-  ISIN: BRAPCSCRIPD2
+  ISIN: BRIMWLCRIJC0
 
-  Código: 24H1554971
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 135
-  N° da série: 6
-  Qtd Emitida: 25556
-  Volume Emissão: 25556000.0
-  Remuneração: IPCA+8,30000%
-  Data de Emissão: 2024-08-23
-  Data de Vencimento: 16/12/2044
-  Data Final de Distribuição: 2025-02-17
-  ISIN: BRVERTCRI8X8
+  Código: 24H0022053
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 180
+  N° da série: 3
+  Qtd Emitida: 132617
+  Volume Emissão: 132617000.0
+  Remuneração: 11,88620%
+  Data de Emissão: 2024-08-15
+  Data de Vencimento: 15/08/2029
+  Data Final de Distribuição: 2025-02-18
+  ISIN: BRIMWLCRIJD8
 
-  Código: 24H1554974
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 135
-  N° da série: 7
-  Qtd Emitida: 5420
-  Volume Emissão: 5420000.0
-  Remuneração: IPCA+10,85000%
-  Data de Emissão: 2024-08-23
-  Data de Vencimento: 16/12/2044
-  Data Final de Distribuição: 2025-02-17
-  ISIN: BRVERTCRI8Y6
+  Código: 24H0022054
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 180
+  N° da série: 1
+  Qtd Emitida: 33507
+  Volume Emissão: 33507000.0
+  Remuneração: 100,00%  DI+0,40000%
+  Data de Emissão: 2024-08-15
+  Data de Vencimento: 15/08/2029
+  Data Final de Distribuição: 2025-02-18
+  ISIN: BRIMWLCRIJB2
