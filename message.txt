@@ -1,53 +1,14 @@
-3 rows changed, 3 rows added
+1 row removed
 
-3 rows changed
-
-  Código: 16I0926379
-    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
-
-  Código: 17L0776216
-    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
-
-  Código: 17L0785393
-    Emissor: "BLUM COMPANHIA DE SECURITIZACAO DE CREDITOS S.A" => "REAG SECURITIES S.A"
-
-3 rows added
-
-  Código: 24H0022052
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 23K1456442
+  Emissor: TRUE  SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 180
-  N° da série: 2
-  Qtd Emitida: 206446
-  Volume Emissão: 206446000.0
-  Remuneração: IPCA+6,93280%
-  Data de Emissão: 2024-08-15
-  Data de Vencimento: 15/08/2029
-  Data Final de Distribuição: 2025-02-18
-  ISIN: BRIMWLCRIJC0
-
-  Código: 24H0022053
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 180
-  N° da série: 3
-  Qtd Emitida: 132617
-  Volume Emissão: 132617000.0
-  Remuneração: 11,88620%
-  Data de Emissão: 2024-08-15
-  Data de Vencimento: 15/08/2029
-  Data Final de Distribuição: 2025-02-18
-  ISIN: BRIMWLCRIJD8
-
-  Código: 24H0022054
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 180
+  N° da Emissão: 248
   N° da série: 1
-  Qtd Emitida: 33507
-  Volume Emissão: 33507000.0
-  Remuneração: 100,00%  DI+0,40000%
-  Data de Emissão: 2024-08-15
-  Data de Vencimento: 15/08/2029
-  Data Final de Distribuição: 2025-02-18
-  ISIN: BRIMWLCRIJB2
+  Qtd Emitida: 41263
+  Volume Emissão: 41263000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2023-11-16
+  Data de Vencimento: 16/11/2028
+  Data Final de Distribuição: 2024-06-05
+  ISIN: BRAPCSCRILF6
