@@ -1,49 +1,49 @@
-1 row changed, 2 rows added, 1 row removed
+1 row changed, 1 row added, 2 rows removed
 
 1 row changed
 
-  Código: 21I0801132
-    Remuneração: "100,00%  DI+2,90000%" => ""
+  Código: 24F1277567
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-2 rows added
+1 row added
 
-  Código: 24H2096783
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 63
-  N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-08-30
-  Data de Vencimento: 22/10/2040
-  Data Final de Distribuição: 2025-02-15
-  ISIN: BRHBSCCRIBQ9
-
-  Código: 24H1938813
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24H2216619
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 132
-  N° da série: 5
-  Qtd Emitida: 13411
-  Volume Emissão: 13411000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-08-23
-  Data de Vencimento: 13/12/2038
-  Data Final de Distribuição: 2025-02-23
-  ISIN: BRIMWLCRIJK3
+  N° da Emissão: 72
+  N° da série: 1
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: IPCA+10,85000%
+  Data de Emissão: 2024-08-28
+  Data de Vencimento: 16/08/2029
+  Data Final de Distribuição: 2025-03-02
+  ISIN: BRPVSCCRI4V6
 
-1 row removed
+2 rows removed
 
-  Código: 21I0802807
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 20I0718026
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 377
-  Qtd Emitida: 5947
-  Volume Emissão: 5947000.0
-  Remuneração: 100,00%  DI+6,18000%
-  Data de Emissão: 2021-09-21
-  Data de Vencimento: 24/09/2026
-  Data Final de Distribuição: 2022-03-22
-  ISIN: BRRBRACRI9N7
+  N° da série: 190
+  Qtd Emitida: 62000
+  Volume Emissão: 62000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2020-09-17
+  Data de Vencimento: 26/09/2024
+  Data Final de Distribuição: 2021-02-12
+  ISIN: BRHBSCCRI577
+
+  Código: 20I0718383
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 191
+  Qtd Emitida: 21000
+  Volume Emissão: 21000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2020-09-17
+  Data de Vencimento: 26/09/2024
+  Data Final de Distribuição: 2021-02-12
+  ISIN: BRHBSCCRI585
