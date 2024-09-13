@@ -1,165 +1,63 @@
-5 rows changed, 10 rows added, 1 row removed
+6 rows changed, 3 rows added
 
-5 rows changed
+6 rows changed
 
-  Código: 23F2688949
-    Data de Vencimento: "20/06/2026" => "20/06/2025"
+  Código: 23L2243294
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2024-06-25" => "2024-12-25"
 
-  Código: 14D0082239
-    Remuneração: "IGP-M+8,50000%" => ""
+  Código: 22C0508211
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 14D0082240
-    Remuneração: "IGP-M+14,50000%" => ""
+  Código: 22E1315701
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 20I0784087
-    Remuneração: "12,00000%" => ""
+  Código: 22E1338401
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 23J1135553
-    Data Final de Distribuição: "2024-05-11" => "2027-04-14"
+  Código: 22E1338402
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
 
-10 rows added
+  Código: 22E1338403
+    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 24I1148077
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 59
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+4,10000%
-  Data de Emissão: 2024-09-03
-  Data de Vencimento: 30/12/2026
-  Data Final de Distribuição: 2025-03-08
-  ISIN: BRPVSCCRI4Y0
+3 rows added
 
-  Código: 24G2759412
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 335
-  N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-08-29
-  Data de Vencimento: 21/08/2034
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRAPCSCRIPO9
-
-  Código: 24G2759413
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 335
-  N° da série: 2
-  Qtd Emitida: 12500
-  Volume Emissão: 12500000.0
-  Remuneração: IPCA+14,00000%
-  Data de Emissão: 2024-08-29
-  Data de Vencimento: 21/08/2034
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRAPCSCRIPP6
-
-  Código: 24G2819302
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24H2282134
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 344
-  N° da série: 1
-  Qtd Emitida: 110500
-  Volume Emissão: 110500000.0
-  Remuneração: 100,00%  DI+2,25000%
-  Data de Emissão: 2024-09-09
-  Data de Vencimento: 20/08/2029
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRAPCSCRIPT8
-
-  Código: 24G2824961
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 344
-  N° da série: 2
-  Qtd Emitida: 110500
-  Volume Emissão: 110500000.0
-  Remuneração: 100,00%  DI+5,25000%
-  Data de Emissão: 2024-09-09
-  Data de Vencimento: 20/08/2029
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRAPCSCRIPY8
-
-  Código: 24H1403338
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 136
-  N° da série: 1
-  Qtd Emitida: 29412
-  Volume Emissão: 29412000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2024-08-08
-  Data de Vencimento: 17/08/2029
-  Data Final de Distribuição: 2025-02-24
-  ISIN: BRVERTCRI8S8
-
-  Código: 24H1407584
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 136
-  N° da série: 3
-  Qtd Emitida: 5882
-  Volume Emissão: 5882000.0
-  Remuneração: IPCA+12,25000%
-  Data de Emissão: 2024-08-08
-  Data de Vencimento: 17/08/2029
-  Data Final de Distribuição: 2025-02-24
-  ISIN: BRVERTCRI8U4
-
-  Código: 24H1407587
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 136
-  N° da série: 2
-  Qtd Emitida: 14706
-  Volume Emissão: 14706000.0
-  Remuneração: IPCA+9,75000%
-  Data de Emissão: 2024-08-08
-  Data de Vencimento: 17/08/2029
-  Data Final de Distribuição: 2025-02-24
-  ISIN: BRVERTCRI8T6
-
-  Código: 24I1193531
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 197
-  N° da série: 2
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2024-09-06
-  Data de Vencimento: 30/08/2034
-  Data Final de Distribuição: 2025-03-08
-  ISIN: BRIMWLCRIJW8
-
-  Código: 24I1193532
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 197
-  N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+1,50000%
-  Data de Emissão: 2024-09-06
-  Data de Vencimento: 28/08/2030
-  Data Final de Distribuição: 2025-03-06
-  ISIN: BRIMWLCRIJV0
-
-1 row removed
-
-  Código: 20I0573995
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 186
-  Qtd Emitida: 7250
-  Volume Emissão: 7250000.0
-  Remuneração: IPCA+5,90000%
-  Data de Emissão: 2020-09-04
-  Data de Vencimento: 03/09/2024
-  Data Final de Distribuição: 2021-03-01
-  ISIN: BRHBSCCRI544
+  N° da série: 546
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2024-08-30
+  Data de Vencimento: 24/01/2029
+  Data Final de Distribuição: 2025-03-10
+  ISIN: BRRBRACRIPK7
+
+  Código: 23H2511006
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 109
+  N° da série: 5
+  Qtd Emitida: 6379
+  Volume Emissão: 6379000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2023-08-29
+  Data de Vencimento: 15/12/2026
+  Data Final de Distribuição: 2025-03-09
+  ISIN: BRIMWLCRIGC6
+
+  Código: 23H2511201
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 109
+  N° da série: 6
+  Qtd Emitida: 4481
+  Volume Emissão: 4481000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2023-08-29
+  Data de Vencimento: 15/12/2026
+  Data Final de Distribuição: 2025-03-09
+  ISIN: BRIMWLCRIGD4
