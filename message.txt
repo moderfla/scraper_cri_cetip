@@ -1,63 +1,87 @@
-6 rows changed, 3 rows added
+1 row changed, 6 rows added
 
-6 rows changed
+1 row changed
 
-  Código: 23L2243294
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2024-06-25" => "2024-12-25"
+  Código: 21E0466562
+    Qtd Emitida: "11263" => "18772"
+    Volume Emissão: "11263000.0" => "18772000.0"
 
-  Código: 22C0508211
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+6 rows added
 
-  Código: 22E1315701
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+  Código: 24I1424510
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 129
+  N° da série: 1
+  Qtd Emitida: 32700
+  Volume Emissão: 32700000.0
+  Remuneração: IPCA+12,80000%
+  Data de Emissão: 2024-09-09
+  Data de Vencimento: 26/08/2030
+  Data Final de Distribuição: 2025-03-11
+  ISIN: BRCASCCRI4D4
 
-  Código: 22E1338401
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 24I1425363
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 129
+  N° da série: 2
+  Qtd Emitida: 28700
+  Volume Emissão: 28700000.0
+  Remuneração: IPCA+12,81000%
+  Data de Emissão: 2024-09-09
+  Data de Vencimento: 27/08/2030
+  Data Final de Distribuição: 2025-03-11
+  ISIN: BRCASCCRI4E2
 
-  Código: 22E1338402
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 24I1425552
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 129
+  N° da série: 3
+  Qtd Emitida: 22000
+  Volume Emissão: 22000000.0
+  Remuneração: IPCA+12,82000%
+  Data de Emissão: 2024-09-09
+  Data de Vencimento: 28/08/2030
+  Data Final de Distribuição: 2025-03-11
+  ISIN: BRCASCCRI4F9
 
-  Código: 22E1338403
-    Agente Fiduciário: "PENTAGONO SA DTVM" => "PENTAGONO DTVM SA"
+  Código: 24I1425608
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 129
+  N° da série: 4
+  Qtd Emitida: 33000
+  Volume Emissão: 33000000.0
+  Remuneração: IPCA+12,83000%
+  Data de Emissão: 2024-09-09
+  Data de Vencimento: 29/08/2030
+  Data Final de Distribuição: 2025-03-11
+  ISIN: BRCASCCRI4G7
 
-3 rows added
+  Código: 24I1425687
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 129
+  N° da série: 5
+  Qtd Emitida: 3600
+  Volume Emissão: 3600000.0
+  Remuneração: IPCA+12,84000%
+  Data de Emissão: 2024-09-09
+  Data de Vencimento: 30/08/2030
+  Data Final de Distribuição: 2025-03-11
+  ISIN: BRCASCCRI4H5
 
-  Código: 24H2282134
+  Código: 24G2735282
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 546
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2024-08-30
-  Data de Vencimento: 24/01/2029
+  N° da Emissão: 281
+  N° da série: 1
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: IPCA+9,92230%
+  Data de Emissão: 2024-08-15
+  Data de Vencimento: 15/08/2034
   Data Final de Distribuição: 2025-03-10
-  ISIN: BRRBRACRIPK7
-
-  Código: 23H2511006
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 109
-  N° da série: 5
-  Qtd Emitida: 6379
-  Volume Emissão: 6379000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2023-08-29
-  Data de Vencimento: 15/12/2026
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRIMWLCRIGC6
-
-  Código: 23H2511201
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 109
-  N° da série: 6
-  Qtd Emitida: 4481
-  Volume Emissão: 4481000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2023-08-29
-  Data de Vencimento: 15/12/2026
-  Data Final de Distribuição: 2025-03-09
-  ISIN: BRIMWLCRIGD4
+  ISIN: BRRBRACRIOT1
