@@ -1,196 +1,27 @@
-6 rows changed, 11 rows added, 2 rows removed
+2 rows added
 
-6 rows changed
-
-  Código: 22G1110098
-    Qtd Emitida: "100000" => "43800"
-    Volume Emissão: "100000000.0" => "43800000.0"
-    Data Final de Distribuição: "2024-08-01" => "2042-07-24"
-
-  Código: 22I1465810
-    Remuneração: "IPCA+12,00000%" => "IPCA+12,95000%"
-
-  Código: 22I1466133
-    Remuneração: "IPCA+12,00000%" => "IPCA+12,95000%"
-
-  Código: 22I1466156
-    Remuneração: "IPCA+12,00000%" => "IPCA+12,95000%"
-
-  Código: 22I1466165
-    Remuneração: "IPCA+12,00000%" => "IPCA+12,95000%"
-
-  Código: 22I1466175
-    Remuneração: "IPCA+12,00000%" => "IPCA+12,95000%"
-
-11 rows added
-
-  Código: 24I1768824
-  Emissor: BARI SECURITIZADORA S.A.
+  Código: 24I2431440
+  Emissor: ECO SECURITIZADORA DE DIREITOS CREDITORIOS DO AGRONEGOCIO S.A.
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 34
+  N° da Emissão: 2
   N° da série: 1
-  Qtd Emitida: 75000
-  Volume Emissão: 75000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-09-23
-  Data de Vencimento: 18/09/2034
-  Data Final de Distribuição: 2025-03-26
-  ISIN: BRASTECRI3I4
-
-  Código: 24I2268708
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 115
-  N° da série: 1
-  Qtd Emitida: 252000
-  Volume Emissão: 252000000.0
-  Remuneração: IPCA+9,50000%
-  Data de Emissão: 2024-09-26
-  Data de Vencimento: 19/09/2041
-  Data Final de Distribuição: 2025-03-30
-  ISIN: BRCASCCRI497
-
-  Código: 24I2477779
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 70
-  N° da série: 1
-  Qtd Emitida: 76000
-  Volume Emissão: 76000000.0
-  Remuneração: 100,00%  DI+8,00000%
-  Data de Emissão: 2024-09-23
-  Data de Vencimento: 28/10/2027
-  Data Final de Distribuição: 2025-03-26
-  ISIN: BRHBSCCRIBS5
-
-  Código: 24I1966999
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 292
-  N° da série: 1
-  Qtd Emitida: 40000
-  Volume Emissão: 40000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2024-09-20
-  Data de Vencimento: 17/03/2028
-  Data Final de Distribuição: 2025-03-25
-  ISIN: BRRBRACRIPI1
-
-  Código: 24I2114588
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 323
-  N° da série: 1
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: IPCA+7,90000%
-  Data de Emissão: 2024-09-24
-  Data de Vencimento: 28/05/2034
-  Data Final de Distribuição: 2025-03-29
-  ISIN: BRRBRACRIPV4
-
-  Código: 24I2115255
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 323
-  N° da série: 2
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: IPCA+7,95000%
-  Data de Emissão: 2024-09-24
-  Data de Vencimento: 28/06/2034
-  Data Final de Distribuição: 2025-03-29
-  ISIN: BRRBRACRIPW2
-
-  Código: 24I2536115
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 333
-  N° da série: 1
-  Qtd Emitida: 180942
-  Volume Emissão: 180942000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-09-19
-  Data de Vencimento: 08/09/2025
-  Data Final de Distribuição: 2025-03-30
-  ISIN: BRRBRACRIPX0
-
-  Código: 24I2113183
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 55
-  N° da série: 1
-  Qtd Emitida: 8184
-  Volume Emissão: 8184000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2024-09-19
-  Data de Vencimento: 22/09/2025
-  Data Final de Distribuição: 2025-03-29
-  ISIN: BRTSSACRI422
-
-  Código: 24E3617801
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 301
-  N° da série: 1
-  Qtd Emitida: 127500
-  Volume Emissão: 127500000.0
-  Remuneração: IPCA+10,75000%
-  Data de Emissão: 2024-09-20
-  Data de Vencimento: 17/09/2029
-  Data Final de Distribuição: 2025-03-29
-  ISIN: BRAPCSCRIQE8
-
-  Código: 24G2816828
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 348
-  N° da série: 1
-  Qtd Emitida: 250000
-  Volume Emissão: 250000000.0
-  Remuneração: 100,00%  DI+0,80000%
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: IPCA+8,94590%
   Data de Emissão: 2024-09-25
-  Data de Vencimento: 25/09/2029
-  Data Final de Distribuição: 2025-03-26
-  ISIN: BRAPCSCRIPS0
+  Data de Vencimento: 24/09/2032
+  Data Final de Distribuição: 2025-03-30
+  ISIN: BRECOACRI062
 
-  Código: 24I1827027
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24G1954918
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 207
-  N° da série: 1
-  Qtd Emitida: 18000
-  Volume Emissão: 18000000.0
-  Remuneração: IPCA+9,20000%
-  Data de Emissão: 2024-09-18
-  Data de Vencimento: 24/09/2031
-  Data Final de Distribuição: 2025-03-29
-  ISIN: BRIMWLCRIK32
-
-2 rows removed
-
-  Código: 22L1325864
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 110
-  N° da série: 1
-  Qtd Emitida: 43250
-  Volume Emissão: 43250000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2022-12-15
-  Data de Vencimento: 24/12/2026
-  Data Final de Distribuição: 2024-06-15
-  ISIN: BRRBRACRIFU7
-
-  Código: 21J0067337
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 359
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2021-10-04
-  Data de Vencimento: 21/10/2024
-  Data Final de Distribuição: 2022-04-05
-  ISIN: BRIMWLCRI8Y4
+  N° da Emissão: 9
+  N° da série: 3
+  Qtd Emitida: 4000
+  Volume Emissão: 4000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2024-07-19
+  Data de Vencimento: 20/05/2034
+  Data Final de Distribuição: 2025-03-26
+  ISIN: BRLSECCRI185
