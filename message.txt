@@ -1,4 +1,87 @@
-1 row changed
+9 rows changed, 2 rows added, 2 rows removed
 
-  Código: 24E2205602
+9 rows changed
+
+  Código: 24C1638785
+    Remuneração: "IPCA+7,08530%" => ""
+
+  Código: 24C1638799
+    Remuneração: "IPCA+7,08530%" => ""
+
+  Código: 24C1638802
+    Remuneração: "IPCA+7,08530%" => ""
+
+  Código: 16L0089814
+    Remuneração: "" => "100,00%  DI+3,00000%"
+
+  Código: 22J0347078
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
+    Data Final de Distribuição: "2024-10-19" => "2025-12-04"
+
+  Código: 24B1669805
+    Data de Vencimento: "06/09/2039" => "06/10/2039"
+
+  Código: 24B1669810
+    Data de Vencimento: "07/09/2039" => "07/10/2039"
+
+  Código: 24J2479385
+    Remuneração: "IPCA+9,50000%" => "IPCA"
+
+  Código: 24J2479470
+    Remuneração: "IPCA+0,00010%" => "IPCA"
+
+2 rows added
+
+  Código: 24I1980366
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 352
+  N° da série: 1
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2024-10-07
+  Data de Vencimento: 20/10/2028
+  Data Final de Distribuição: 2025-04-16
+  ISIN: BRAPCSCRIQF5
+
+  Código: 24J2339041
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 508
+  Qtd Emitida: 4500
+  Volume Emissão: 4500000.0
+  Remuneração: IPCA+15,38940%
+  Data de Emissão: 2024-10-07
+  Data de Vencimento: 17/06/2027
+  Data Final de Distribuição: 2025-04-19
+  ISIN: BRIMWLCRIKB0
+
+2 rows removed
+
+  Código: 23I1512147
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 191
+  N° da série: 1
+  Qtd Emitida: 65000
+  Volume Emissão: 65000000.0
+  Remuneração: IPCA+10,00000%
+  Data de Emissão: 2023-09-13
+  Data de Vencimento: 31/12/2038
+  Data Final de Distribuição: 2024-03-18
+  ISIN: BRRBRACRIJQ7
+
+  Código: 22B0679516
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 89
+  Qtd Emitida: 6300
+  Volume Emissão: 6300000.0
+  Remuneração: IPCA+15,00000%
+  Data de Emissão: 2022-02-18
+  Data de Vencimento: 24/02/2037
+  Data Final de Distribuição: 2023-08-18
+  ISIN: BRTSSACRI2D1
