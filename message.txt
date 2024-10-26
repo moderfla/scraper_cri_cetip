@@ -1,56 +1,37 @@
-3 rows changed, 2 rows added, 1 row removed
+2 rows changed, 2 rows added
 
-3 rows changed
+2 rows changed
 
-  Código: 24D2858481
-    Data Final de Distribuição: "2024-10-13" => "2029-04-14"
-
-  Código: 22I1466165
+  Código: 19L0867734
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
-    Data Final de Distribuição: "2024-09-26" => "2026-03-19"
 
-  Código: 22I1466175
-    Data Final de Distribuição: "2023-03-26" => "2026-03-19"
+  Código: 19L0882479
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM"
 
 2 rows added
 
-  Código: 24I1980390
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24J2539918
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 358
+  N° da Emissão: 339
   N° da série: 1
-  Qtd Emitida: 538669
-  Volume Emissão: 538669000.0
-  Remuneração: 110,00% DI
-  Data de Emissão: 2024-10-15
-  Data de Vencimento: 15/10/2029
-  Data Final de Distribuição: 2025-04-19
-  ISIN: BRAPCSCRIQH1
+  Qtd Emitida: 48000
+  Volume Emissão: 48000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2024-10-14
+  Data de Vencimento: 13/09/2028
+  Data Final de Distribuição: 2025-04-22
+  ISIN: BRRBRACRIQC2
 
-  Código: 24I1980417
-  Emissor: TRUE  SECURITIZADORA S/A
+  Código: 24J4613741
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 358
-  N° da série: 2
-  Qtd Emitida: 102775
-  Volume Emissão: 102775000.0
-  Remuneração: IPCA+8,04830%
-  Data de Emissão: 2024-10-15
-  Data de Vencimento: 15/10/2031
-  Data Final de Distribuição: 2025-04-19
-  ISIN: BRAPCSCRIQI9
-
-1 row removed
-
-  Código: 21A0742342
-  Emissor: ORE SECURITIZADORA S.A.
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 33
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: IPCA+6,20000%
-  Data de Emissão: 2021-01-20
-  Data de Vencimento: 16/01/2026
-  Data Final de Distribuição: 2021-07-08
-  ISIN: BROSECCRI0T0
+  N° da Emissão: 327
+  N° da série: 1
+  Qtd Emitida: 75000
+  Volume Emissão: 75000000.0
+  Remuneração: IPCA+8,75000%
+  Data de Emissão: 2024-10-16
+  Data de Vencimento: 22/10/2036
+  Data Final de Distribuição: 2025-04-22
+  ISIN: BRRBRACRIQI9
