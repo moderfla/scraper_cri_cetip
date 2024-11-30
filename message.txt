@@ -1,174 +1,60 @@
-15 rows changed, 6 rows added, 3 rows removed
+14 rows changed, 1 row added
 
-15 rows changed
+14 rows changed
 
-  Código: 17K0117676
-    Remuneração: "IGP-M+14,71000%" => ""
+  Código: 19H0167424
+    Agente Fiduciário: "VORTX DTVM S.A." => "REAG DTVM S.A."
 
-  Código: 21E0823441
+  Código: 19K1139240
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139241
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139242
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139243
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139244
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139245
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139246
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139247
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139248
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 19K1139249
+    Agente Fiduciário: "SIMPLIFIC PAVARINI DTVM LTDA" => "REAG DTVM S.A."
+
+  Código: 21C0678164
     Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
 
-  Código: 23J1748260
-    Remuneração: "INCC-DI+12,68000%" => "INCC-DI+9,00000%"
+  Código: 21C0678189
+    Agente Fiduciário: "PAVARINI DTVM LTDA" => "REAG DTVM S.A."
 
-  Código: 23J1748341
-    Remuneração: "INCC-DI+12,68000%" => "INCC-DI+9,00000%"
+  Código: 22I0150269
+    ISIN: "BRRBRACRA2D1" => "BRRBRACRIRM9"
 
-  Código: 17I0141694
-    Remuneração: "IPCA+6,50000%" => "IPCA+7,00000%"
+1 row added
 
-  Código: 17I0181533
-    Remuneração: "IPCA+6,50000%" => "IPCA+7,00000%"
-
-  Código: 24J3438891
-    Remuneração: "IPCA+8,10000%" => "IPCA+8,18000%"
-    Data de Vencimento: "13/10/2034" => "13/11/2034"
-
-  Código: 24J3439259
-    Remuneração: "IPCA+7,90000%" => "IPCA+10,00000%"
-    Data de Vencimento: "13/10/2034" => "13/11/2034"
-
-  Código: 24K1731612
-    Remuneração: "12,27850%" => "12,29290%"
-
-  Código: 12E0030299
-    Remuneração: "IPCA+12,00000%" => ""
-
-  Código: 13D0358495
-    Remuneração: "IPCA+12,50000%" => ""
-
-  Código: 13D0358513
-    Remuneração: "1,00000%" => ""
-
-  Código: 21H0875649
-    Remuneração: "" => "IPCA+12,00000%"
-    Data de Vencimento: "29/10/2024" => "29/11/2024"
-
-  Código: 21H0875786
-    Remuneração: "" => "IPCA+12,00000%"
-    Data de Vencimento: "29/10/2024" => "29/11/2024"
-
-  Código: 21H0875868
-    Remuneração: "" => "IPCA+12,00000%"
-    Data de Vencimento: "29/10/2024" => "29/11/2024"
-
-6 rows added
-
-  Código: 24K1509813
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Código: 24K1659470
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 17
+  N° da Emissão: 67
   N° da série: 1
-  Qtd Emitida: 12185
-  Volume Emissão: 12185000.0
+  Qtd Emitida: 19180
+  Volume Emissão: 19180000.0
   Remuneração: IPCA+10,00000%
-  Data de Emissão: 2024-11-11
-  Data de Vencimento: 20/11/2028
-  Data Final de Distribuição: 2025-05-21
-  ISIN: BRLSECCRI1O2
-
-  Código: 24K1581772
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 17
-  N° da série: 2
-  Qtd Emitida: 4065
-  Volume Emissão: 4065000.0
-  Remuneração: IPCA+18,00000%
-  Data de Emissão: 2024-11-11
-  Data de Vencimento: 20/11/2028
-  Data Final de Distribuição: 2025-05-21
-  ISIN: BRLSECCRI1P9
-
-  Código: 24K1883726
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 548
-  Qtd Emitida: 8500
-  Volume Emissão: 8500000.0
-  Remuneração: 100,00%  DI+3,51000%
-  Data de Emissão: 2024-11-14
-  Data de Vencimento: 24/11/2031
-  Data Final de Distribuição: 2025-05-24
-  ISIN: BRRBRACRIRE6
-
-  Código: 24K1630970
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 144
-  N° da série: 1
-  Qtd Emitida: 29543
-  Volume Emissão: 29543000.0
-  Remuneração: IPCA+8,30000%
-  Data de Emissão: 2024-11-25
-  Data de Vencimento: 15/03/2045
-  Data Final de Distribuição: 2025-05-17
-  ISIN: BRVERTCRIAJ7
-
-  Código: 24K1630974
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 144
-  N° da série: 2
-  Qtd Emitida: 6266
-  Volume Emissão: 6266000.0
-  Remuneração: IPCA+10,85000%
-  Data de Emissão: 2024-11-25
-  Data de Vencimento: 15/03/2045
-  Data Final de Distribuição: 2025-05-17
-  ISIN: BRVERTCRIAK5
-
-  Código: 24K1685332
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 196
-  N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+11,00000%
   Data de Emissão: 2024-11-08
-  Data de Vencimento: 24/11/2027
-  Data Final de Distribuição: 2025-05-20
-  ISIN: BRIMWLCRIKK1
-
-3 rows removed
-
-  Código: 21D0524815
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 317
-  Qtd Emitida: 55000
-  Volume Emissão: 55000000.0
-  Remuneração: 100,00%  DI+3,50000%
-  Data de Emissão: 2021-04-15
-  Data de Vencimento: 22/05/2031
-  Data Final de Distribuição: 2022-10-29
-  ISIN: BRRBRACRI879
-
-  Código: 22J0020768
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 86
-  N° da série: 1
-  Qtd Emitida: 40500
-  Volume Emissão: 40500000.0
-  Remuneração: IPCA+8,75000%
-  Data de Emissão: 2022-10-07
-  Data de Vencimento: 22/09/2037
-  Data Final de Distribuição: 2023-03-19
-  ISIN: BRAPCSCRIFM4
-
-  Código: 21J0195709
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 56
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2021-10-15
-  Data de Vencimento: 15/10/2026
-  Data Final de Distribuição: 2022-04-14
-  ISIN:
+  Data de Vencimento: 09/11/2029
+  Data Final de Distribuição: 2025-05-23
+  ISIN: BRHBSCCRIBZ0
