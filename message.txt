@@ -1,14 +1,39 @@
+2 rows changed, 1 row added, 1 row removed
+
+2 rows changed
+
+  Código: 21K0870291
+    Data de Vencimento: "26/11/2028" => "26/03/2025"
+
+  Código: 19J0279390
+    Data de Vencimento: "11/12/2024" => "11/03/2025"
+
 1 row added
 
-  Código: 24K2407994
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 220
+  Código: 24K1892305
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 309
   N° da série: 1
-  Qtd Emitida: 100000
-  Volume Emissão: 100000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2024-11-26
-  Data de Vencimento: 21/11/2029
-  Data Final de Distribuição: 2025-05-27
-  ISIN: BRIMWLCRIKS4
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 80,00% DI
+  Data de Emissão: 2024-11-18
+  Data de Vencimento: 27/11/2034
+  Data Final de Distribuição: 2025-05-31
+  ISIN: BRRBRACRIRF3
+
+1 row removed
+
+  Código: 23D1860605
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 26
+  N° da série: 1
+  Qtd Emitida: 84573
+  Volume Emissão: 84573000.0
+  Remuneração: 100,00%  DI+2,25000%
+  Data de Emissão: 2023-04-28
+  Data de Vencimento: 27/04/2027
+  Data Final de Distribuição: 2023-11-13
+  ISIN: BRHBSCCRIA43
