@@ -1,39 +1,61 @@
-2 rows changed, 1 row added, 1 row removed
+8 rows changed, 1 row added, 1 row removed
 
-2 rows changed
+8 rows changed
 
-  Código: 21K0870291
-    Data de Vencimento: "26/11/2028" => "26/03/2025"
+  Código: 22J0347078
+    Remuneração: "IPCA+9,00000%" => "100,00%  DI+3,96000%"
+    Data de Vencimento: "05/12/2025" => "05/06/2026"
 
-  Código: 19J0279390
-    Data de Vencimento: "11/12/2024" => "11/03/2025"
+  Código: 19K1003755
+    Data de Vencimento: "20/11/2029" => "24/11/2031"
+
+  Código: 20F0165468
+    Data de Vencimento: "05/12/2024" => "05/06/2025"
+
+  Código: 24C1582963
+    Data de Vencimento: "18/11/2028" => "18/03/2025"
+
+  Código: 23L2243247
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+    Data Final de Distribuição: "2024-06-25" => "2036-01-21"
+
+  Código: 23L2243294
+    Data Final de Distribuição: "2024-12-25" => "2037-04-21"
+
+  Código: 20I0047200
+    Remuneração: "IPCA+5,75000%" => "IPCA+7,80000%"
+    Data de Vencimento: "25/08/2032" => "25/08/2039"
+
+  Código: 20I0047574
+    Remuneração: "100,00%  DI+4,30000%" => "IPCA+7,80000%"
+    Data de Vencimento: "25/08/2032" => "25/08/2039"
 
 1 row added
 
-  Código: 24K1892305
+  Código: 24K2591027
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 309
+  N° da Emissão: 381
   N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 80,00% DI
-  Data de Emissão: 2024-11-18
-  Data de Vencimento: 27/11/2034
-  Data Final de Distribuição: 2025-05-31
-  ISIN: BRRBRACRIRF3
+  Qtd Emitida: 42300
+  Volume Emissão: 42300000.0
+  Remuneração: 100,00%  DI+1,60000%
+  Data de Emissão: 2024-11-27
+  Data de Vencimento: 22/12/2025
+  Data Final de Distribuição: 2025-06-01
+  ISIN: BRRBRACRIRP2
 
 1 row removed
 
-  Código: 23D1860605
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 26
-  N° da série: 1
-  Qtd Emitida: 84573
-  Volume Emissão: 84573000.0
-  Remuneração: 100,00%  DI+2,25000%
-  Data de Emissão: 2023-04-28
-  Data de Vencimento: 27/04/2027
-  Data Final de Distribuição: 2023-11-13
-  ISIN: BRHBSCCRIA43
+  Código: 17K0226746
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 116
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: 100,00%  DI+2,70000%
+  Data de Emissão: 2017-11-28
+  Data de Vencimento: 27/11/2024
+  Data Final de Distribuição: 2018-05-26
+  ISIN: BRAPCSCRI333
