@@ -1,57 +1,41 @@
-1 row added, 3 rows removed
+3 rows changed, 2 rows added
 
-1 row added
+3 rows changed
 
-  Código: 21C0912079
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 1
-  N° da série: 355
-  Qtd Emitida: 7134
-  Volume Emissão: 7134000.0
-  Remuneração: IPCA+11,52000%
-  Data de Emissão: 2021-03-12
-  Data de Vencimento: 25/02/2025
-  Data Final de Distribuição: 2022-03-11
+  Código: 22L1369863
+    Data de Vencimento: "25/06/2026" => "27/03/2028"
+
+  Código: 22L1379419
+    Data de Vencimento: "25/06/2026" => "27/03/2028"
+
+  Código: 21C0749722
+    Qtd Emitida: "13620" => "12436"
+    Volume Emissão: "13620000.0" => "12436000.0"
+
+2 rows added
+
+  Código: 25A1296532
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 69
+  N° da série: 2
+  Qtd Emitida: 9386
+  Volume Emissão: 9386000.0
+  Remuneração: IPCA+8,01000%
+  Data de Emissão: 2025-01-02
+  Data de Vencimento: 12/09/2039
+  Data Final de Distribuição: 2025-07-07
   ISIN: 
 
-3 rows removed
-
-  Código: 23D1446730
+  Código: 24L2281075
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 118
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 360
   N° da série: 1
-  Qtd Emitida: 27500
-  Volume Emissão: 27500000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-04-20
-  Data de Vencimento: 07/05/2027
-  Data Final de Distribuição: 2023-10-22
-  ISIN: BRRBRACRIHG2
-
-  Código: 23D1446940
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 118
-  N° da série: 2
-  Qtd Emitida: 17500
-  Volume Emissão: 17500000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2023-04-20
-  Data de Vencimento: 07/05/2027
-  Data Final de Distribuição: 2023-10-22
-  ISIN: BRRBRACRIHH0
-
-  Código: 23K1456442
-  Emissor: TRUE  SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 248
-  N° da série: 1
-  Qtd Emitida: 41263
-  Volume Emissão: 41263000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-11-16
-  Data de Vencimento: 16/11/2028
-  Data Final de Distribuição: 2024-06-05
-  ISIN: BRAPCSCRILF6
+  Qtd Emitida: 37000
+  Volume Emissão: 37000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2024-12-04
+  Data de Vencimento: 25/07/2035
+  Data Final de Distribuição: 2025-07-05
+  ISIN: BRRBRACRIS02
