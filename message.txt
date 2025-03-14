@@ -1,104 +1,50 @@
-2 rows changed, 6 rows added, 1 row removed
+2 rows changed, 3 rows added
 
 2 rows changed
 
-  Código: 22K0640841
-    Remuneração: "100,00%  DI+2,50000%" => "100,00%  DI+4,75000%"
+  Código: 24C1796102
+    Data Final de Distribuição: "2024-09-15" => "2027-03-30"
 
-  Código: 20I0784087
-    Remuneração: "IPCA+12,00000%" => ""
+  Código: 20C0937316
+    Remuneração: "IGP-M+6,00000%" => "IPCA+10,00000%"
 
-6 rows added
+3 rows added
 
-  Código: 25B3559901
-  Emissor: CR SECURITIZADORA S.A.
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: 100,00%  DI+2,00000%
-  Data de Emissão: 2025-02-27
-  Data de Vencimento: 27/12/2025
-  Data Final de Distribuição: 2025-08-27
-  ISIN: BR0HNUCR0003
-
-  Código: 25B3565601
-  Emissor: CR SECURITIZADORA S.A.
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 2
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2025-02-27
-  Data de Vencimento: 27/03/2026
-  Data Final de Distribuição: 2025-08-27
-  ISIN: BR0HNUCR0011
-
-  Código: 25B3570346
-  Emissor: CR SECURITIZADORA S.A.
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 3
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2025-02-27
-  Data de Vencimento: 27/04/2026
-  Data Final de Distribuição: 2025-08-27
-  ISIN: BR0HNUCR0029
-
-  Código: 25B3571101
-  Emissor: CR SECURITIZADORA S.A.
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 4
-  Qtd Emitida: 10000
-  Volume Emissão: 10000000.0
-  Remuneração: 100,00%  DI+6,50000%
-  Data de Emissão: 2025-02-27
-  Data de Vencimento: 27/09/2026
-  Data Final de Distribuição: 2025-08-27
-  ISIN: BR0HNUCR0037
-
-  Código: 25B3571688
-  Emissor: CR SECURITIZADORA S.A.
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 5
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: 100,00% DI
-  Data de Emissão: 2025-02-27
-  Data de Vencimento: 27/11/2027
-  Data Final de Distribuição: 2025-08-27
-  ISIN: BR0HNUCR0045
-
-  Código: 23H2511202
+  Código: 25C2809324
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 109
-  N° da série: 7
-  Qtd Emitida: 4844
-  Volume Emissão: 4844000.0
-  Remuneração: IPCA+8,50000%
-  Data de Emissão: 2023-08-29
-  Data de Vencimento: 15/12/2026
-  Data Final de Distribuição: 2025-03-18
-  ISIN: BRIMWLCRIGE2
+  N° da Emissão: 256
+  N° da série: 2
+  Qtd Emitida: 2154
+  Volume Emissão: 2154000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2025-03-05
+  Data de Vencimento: 25/01/2045
+  Data Final de Distribuição: 2025-09-08
+  ISIN: BRIMWLCRIME0
 
-1 row removed
+  Código: 25C2809325
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 256
+  N° da série: 3
+  Qtd Emitida: 2155
+  Volume Emissão: 2155000.0
+  Remuneração: 0,00010%
+  Data de Emissão: 2025-03-05
+  Data de Vencimento: 27/02/2045
+  Data Final de Distribuição: 2025-09-08
+  ISIN: BRIMWLCRIMF7
 
-  Código: 15C0143533
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 1
-  N° da série: 31
-  Qtd Emitida: 61
-  Volume Emissão: 61599917.95
-  Remuneração: TR+10,87920%
-  Data de Emissão: 2015-03-25
-  Data de Vencimento: 05/03/2025
-  Data Final de Distribuição: 2015-09-18
-  ISIN:
+  Código: 25C2809326
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 256
+  N° da série: 1
+  Qtd Emitida: 17232
+  Volume Emissão: 17232000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2025-03-05
+  Data de Vencimento: 25/11/2044
+  Data Final de Distribuição: 2025-09-08
+  ISIN: BRIMWLCRIMD2
