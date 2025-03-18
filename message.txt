@@ -1,138 +1,58 @@
-40 rows changed, 1 row added
+4 rows changed, 2 rows added, 1 row removed
 
-40 rows changed
+4 rows changed
 
-  Código: 14F0696836
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
+  Código: 24H2096783
+    Data Final de Distribuição: "2025-02-15" => "2040-10-21"
 
-  Código: 15L0676667
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
+  Código: 24C1582963
+    Data de Vencimento: "18/03/2025" => "18/04/2025"
 
-  Código: 18H0014828
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 19H0235501
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 20L0000001
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 21C0818300
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 21H1078699
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 21H1078700
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22C0023008
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22C0422763
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1321748
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1321749
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1321750
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1321751
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1338401
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1338402
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22E1338403
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22F0230096
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 22H1522692
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23F2454937
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23F2455004
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23F2455020
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23J0138429
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23J0138430
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23J0138431
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23J0138439
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23K0344514
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23K0344580
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23K0344581
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23L2755315
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 23L2755396
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24A2477852
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24A2477856
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24A2477894
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24A2483764
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24H1396116
-    Data Final de Distribuição: "2025-02-16" => "2028-08-30"
-
-  Código: 24J0943210
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24J0943225
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
-
-  Código: 24J0943229
-    Emissor: "TRUE  SECURITIZADORA S/A" => "OPEA SECURITIZADORA S/A"
+  Código: 19L0810517
+    Remuneração: "IPCA+11,00000%" => ""
 
   Código: 21F0097247
-    Remuneração: "IPCA+5,50000%" => ""
+    Remuneração: "" => "IPCA+5,50000%"
 
-1 row added
+2 rows added
 
-  Código: 25B3690940
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 25C3358493
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 94
+  N° da Emissão: 1600
   N° da série: 1
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: 100,00%  DI+4,95000%
-  Data de Emissão: 2025-02-24
-  Data de Vencimento: 21/08/2028
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2025-03-12
+  Data de Vencimento: 25/03/2030
+  Data Final de Distribuição: 2025-09-10
+  ISIN: BRRBRACR00N2
+
+  Código: 25C2960533
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 251
+  N° da série: 1
+  Qtd Emitida: 18000
+  Volume Emissão: 18000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2025-03-10
+  Data de Vencimento: 19/03/2030
   Data Final de Distribuição: 2025-09-08
-  ISIN: BRPVSCCRI669
+  ISIN: BRIMWLCRIMG5
+
+1 row removed
+
+  Código: 21E0585082
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 391
+  Qtd Emitida: 72000
+  Volume Emissão: 71770140.0
+  Remuneração: 100,00%  DI+6,50000%
+  Data de Emissão: 2021-05-07
+  Data de Vencimento: 10/03/2025
+  Data Final de Distribuição: 2021-11-18
+  ISIN: BRAPCSCRI9T4
