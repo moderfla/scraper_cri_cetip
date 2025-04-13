@@ -1,54 +1,40 @@
-12 rows changed, 1 row added
+2 rows changed, 1 row added, 1 row removed
 
-12 rows changed
+2 rows changed
 
-  Código: 25C3758200
-    Data Final de Distribuição: "2025-09-10" => "2025-10-05"
+  Código: 21I0566602
+    Data de Vencimento: "15/09/2025" => "17/11/2025"
 
-  Código: 24E2213960
-    Remuneração: "IPCA+8,00000%" => "100,00%  DI+2,50000%"
-
-  Código: 24E2256429
-    Remuneração: "IPCA+15,00000%" => "100,00%  DI+5,50000%"
-
-  Código: 24E2256646
-    Remuneração: "IPCA+8,00000%" => "100,00%  DI+2,50000%"
-
-  Código: 24E2256722
-    Remuneração: "IPCA+15,00000%" => "100,00%  DI+5,50000%"
-
-  Código: 24E2256761
-    Remuneração: "IPCA+8,00000%" => "100,00%  DI+2,50000%"
-
-  Código: 24E2258710
-    Remuneração: "IPCA+15,00000%" => "100,00%  DI+5,50000%"
-
-  Código: 21F0243328
-    Remuneração: "IPCA+8,00000%" => ""
-
-  Código: 24J4566658
-    Data de Vencimento: "07/04/2026" => "10/08/2026"
-
-  Código: 24J4566766
-    Data de Vencimento: "07/04/2026" => "10/08/2026"
-
-  Código: 24J4566799
-    Data de Vencimento: "07/04/2026" => "10/08/2026"
-
-  Código: 24L3217852
-    Data de Vencimento: "09/12/2026" => "07/02/2027"
+  Código: 21I0912120
+    Remuneração: "IPCA+7,50000%" => "DI+4,50000%"
+    Data de Vencimento: "23/09/2026" => "25/09/2028"
 
 1 row added
 
-  Código: 25D2376863
-  Emissor: GCB SECURITIZADORA II S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 82
+  Código: 25C6112775
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 150
   N° da série: 1
-  Qtd Emitida: 10900
-  Volume Emissão: 10900000.0
-  Remuneração: 100,00%  DI+10,00000%
-  Data de Emissão: 2025-04-08
-  Data de Vencimento: 27/03/2026
-  Data Final de Distribuição: 2025-10-05
-  ISIN:
+  Qtd Emitida: 60105128
+  Volume Emissão: 60105128.0
+  Remuneração: IPCA+11,75000%
+  Data de Emissão: 2025-03-31
+  Data de Vencimento: 24/03/2032
+  Data Final de Distribuição: 2025-10-06
+  ISIN: BRVERTCRIBF3
+
+1 row removed
+
+  Código: 21H0084172
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 4
+  N° da série: 176
+  Qtd Emitida: 26099
+  Volume Emissão: 26098739.01
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2021-08-02
+  Data de Vencimento: 18/10/2029
+  Data Final de Distribuição: 2021-11-26
+  ISIN: BRGAIACRI5N0
