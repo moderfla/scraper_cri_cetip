@@ -1,57 +1,21 @@
-3 rows added, 1 row removed
+1 row changed, 1 row added
 
-3 rows added
+1 row changed
 
-  Código: 21F0953753
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 568
-  Qtd Emitida: 9900
-  Volume Emissão: 9900000.0
-  Remuneração: IPCA+13,65000%
-  Data de Emissão: 2021-09-01
-  Data de Vencimento: 20/07/2030
-  Data Final de Distribuição: 2030-07-19
-  ISIN: BRFSECCRIGO1
+  Código: 24C1582963
+    Remuneração: "IPCA+12,68000%" => ""
 
-  Código: 21F0966694
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: REAG DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 567
-  Qtd Emitida: 23100
-  Volume Emissão: 23100000.0
-  Remuneração: IPCA+7,00000%
-  Data de Emissão: 2021-09-01
-  Data de Vencimento: 20/07/2030
-  Data Final de Distribuição: 2030-07-19
-  ISIN: BRFSECCRIGN3
+1 row added
 
-  Código: 25D2075129
+  Código: 25D2932713
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 431
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 408
   N° da série: 1
-  Qtd Emitida: 77050
-  Volume Emissão: 77050000.0
-  Remuneração: 100,00%  DI+1,85000%
-  Data de Emissão: 2025-04-04
-  Data de Vencimento: 29/03/2029
-  Data Final de Distribuição: 2025-10-11
-  ISIN: BRRBRACRIUT8
-
-1 row removed
-
-  Código: 22B0084502
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 427
-  Qtd Emitida: 120000
-  Volume Emissão: 120000000.0
-  Remuneração: 100,00%  DI+4,50000%
-  Data de Emissão: 2022-02-07
-  Data de Vencimento: 25/02/2026
-  Data Final de Distribuição: 2022-06-17
-  ISIN: BRIMWLCRIAR7
+  Qtd Emitida: 70000
+  Volume Emissão: 70000000.0
+  Remuneração: 100,00%  DI+1,50000%
+  Data de Emissão: 2025-04-16
+  Data de Vencimento: 25/04/2031
+  Data Final de Distribuição: 2025-10-14
+  ISIN: BRRBRACRIUG5
