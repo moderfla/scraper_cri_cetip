@@ -1,50 +1,20 @@
-6 rows changed, 2 rows removed
+5 rows changed
 
-6 rows changed
+  Código: 22C0927973
+    Data de Vencimento: "06/05/2025" => "05/05/2025"
 
-  Código: 20J0720654
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "TERRA INVEST DTVM LTDA"
+  Código: 25C3746712
+    Qtd Emitida: "11250" => "6000"
+    Volume Emissão: "11250000.0" => "6000000.0"
 
-  Código: 23J1092517
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "TERRA INVEST DTVM LTDA"
+  Código: 25C3750605
+    Qtd Emitida: "11250" => "6000"
+    Volume Emissão: "11250000.0" => "6000000.0"
 
-  Código: 24J2335548
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
-    Data Final de Distribuição: "2025-04-13" => "2039-09-28"
+  Código: 25C3750670
+    Qtd Emitida: "11250" => "6000"
+    Volume Emissão: "11250000.0" => "6000000.0"
 
-  Código: 22K1685394
-    Remuneração: "IPCA+10,25000%" => ""
-
-  Código: 24J4816258
-    Data de Vencimento: "26/12/2029" => "05/11/2029"
-
-  Código: 24J4831399
-    Data de Vencimento: "26/12/2029" => "05/11/2029"
-
-2 rows removed
-
-  Código: 20G0720718
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 8
-  Qtd Emitida: 59000
-  Volume Emissão: 59000000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2020-07-20
-  Data de Vencimento: 21/07/2026
-  Data Final de Distribuição: 2021-01-20
-  ISIN: BRASPRCRI075
-
-  Código: 22J0019767
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 6
-  N° da série: 1
-  Qtd Emitida: 44000
-  Volume Emissão: 44000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2022-10-04
-  Data de Vencimento: 05/12/2025
-  Data Final de Distribuição: 2024-12-13
-  ISIN: BRPVSCCRI1X8
+  Código: 25C3750671
+    Qtd Emitida: "11250" => "15600"
+    Volume Emissão: "11250000.0" => "15600000.0"
