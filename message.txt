@@ -1,127 +1,46 @@
-1 row changed, 4 rows added, 5 rows removed
+5 rows changed, 2 rows added
 
-1 row changed
+5 rows changed
 
-  Código: 24G1768866
-    Data Final de Distribuição: "2025-01-19" => "2032-07-19"
+  Código: 24A2634127
+    Data Final de Distribuição: "2024-08-25" => "2039-01-23"
 
-4 rows added
+  Código: 24A2634961
+    Data Final de Distribuição: "2024-08-25" => "2039-01-23"
 
-  Código: 25D0012202
+  Código: 19H0331237
+    Remuneração: "IPCA+6,00000%" => "IPCA+7,25000%"
+
+  Código: 21D0698165
+    Remuneração: "IPCA+6,00000%" => "IPCA+7,25000%"
+
+  Código: 22E0482927
+    ISIN: "BRVERTCRI428" => "BRVERTCRI438"
+
+2 rows added
+
+  Código: 25D4088622
   Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 102
-  N° da série: 1
-  Qtd Emitida: 151979
-  Volume Emissão: 151979000.0
-  Remuneração: 96,00% DI
-  Data de Emissão: 2025-04-15
-  Data de Vencimento: 15/04/2029
-  Data Final de Distribuição: 2025-10-29
-  ISIN: BRPVSCCRI6B3
-
-  Código: 25D0012203
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 102
-  N° da série: 2
-  Qtd Emitida: 348021
-  Volume Emissão: 348021000.0
-  Remuneração: 97,00% DI
-  Data de Emissão: 2025-04-15
-  Data de Vencimento: 15/04/2030
-  Data Final de Distribuição: 2025-10-29
-  ISIN: BRPVSCCRI6C1
-
-  Código: 25D0012204
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 102
-  N° da série: 3
-  Qtd Emitida: 200000
-  Volume Emissão: 200000000.0
-  Remuneração: IPCA+7,66930%
-  Data de Emissão: 2025-04-15
-  Data de Vencimento: 15/04/2032
-  Data Final de Distribuição: 2025-10-29
-  ISIN: BRPVSCCRI6D9
-
-  Código: 25D4482026
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
-  N° da Emissão: 155
-  N° da série: 1
-  Qtd Emitida: 12000
-  Volume Emissão: 12000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2025-04-25
-  Data de Vencimento: 20/08/2029
-  Data Final de Distribuição: 2025-11-01
-  ISIN: BRVERTCRIBP2
-
-5 rows removed
-
-  Código: 12F0028370
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 1
-  N° da série: 12
-  Qtd Emitida: 112
-  Volume Emissão: 33675649.53
-  Remuneração: IPCA+8,75000%
-  Data de Emissão: 2012-06-15
-  Data de Vencimento: 15/06/2026
-  Data Final de Distribuição: 2012-12-15
-  ISIN: BRHBSCCRI072
-
-  Código: 12F0028545
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 1
-  N° da série: 13
-  Qtd Emitida: 28
-  Volume Emissão: 8418912.38
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2012-06-15
-  Data de Vencimento: 15/09/2027
-  Data Final de Distribuição: 2012-12-15
-  ISIN: BRHBSCCRI080
-
-  Código: 20G0855277
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 285
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+3,91000%
-  Data de Emissão: 2020-07-23
-  Data de Vencimento: 25/04/2025
-  Data Final de Distribuição: 2021-01-22
-  ISIN: BRRBRACRI747
-
-  Código: 20G0855350
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 283
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+3,91000%
-  Data de Emissão: 2020-07-23
-  Data de Vencimento: 25/04/2025
-  Data Final de Distribuição: 2021-01-22
-  ISIN: BRRBRACRI739
-
-  Código: 23H2512601
-  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 54
+  N° da Emissão: 103
   N° da série: 1
-  Qtd Emitida: 7000
-  Volume Emissão: 7000000.0
-  Remuneração: 100,00%  DI+5,00000%
-  Data de Emissão: 2023-08-30
-  Data de Vencimento: 18/02/2026
-  Data Final de Distribuição: 2024-03-11
-  ISIN: BRRBRACRIJE3
+  Qtd Emitida: 23450
+  Volume Emissão: 23450000.0
+  Remuneração: IPCA+12,50000%
+  Data de Emissão: 2025-04-23
+  Data de Vencimento: 23/04/2029
+  Data Final de Distribuição: 2025-10-31
+  ISIN: BRPVSCCRI6G2
+
+  Código: 25D4088712
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 103
+  N° da série: 2
+  Qtd Emitida: 55000
+  Volume Emissão: 55000000.0
+  Remuneração: IPCA+12,50000%
+  Data de Emissão: 2025-04-23
+  Data de Vencimento: 23/05/2029
+  Data Final de Distribuição: 2025-10-31
+  ISIN: BRPVSCCRI6H0
