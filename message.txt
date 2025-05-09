@@ -1,46 +1,42 @@
-5 rows changed, 2 rows added
+3 rows changed, 1 row added, 1 row removed
 
-5 rows changed
+3 rows changed
 
-  Código: 24A2634127
-    Data Final de Distribuição: "2024-08-25" => "2039-01-23"
+  Código: 25D0012202
+    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
 
-  Código: 24A2634961
-    Data Final de Distribuição: "2024-08-25" => "2039-01-23"
+  Código: 25D0012203
+    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
 
-  Código: 19H0331237
-    Remuneração: "IPCA+6,00000%" => "IPCA+7,25000%"
+  Código: 25D0012204
+    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
 
-  Código: 21D0698165
-    Remuneração: "IPCA+6,00000%" => "IPCA+7,25000%"
+1 row added
 
-  Código: 22E0482927
-    ISIN: "BRVERTCRI428" => "BRVERTCRI438"
-
-2 rows added
-
-  Código: 25D4088622
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 103
+  Código: 25E0013355
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 273
   N° da série: 1
-  Qtd Emitida: 23450
-  Volume Emissão: 23450000.0
-  Remuneração: IPCA+12,50000%
-  Data de Emissão: 2025-04-23
-  Data de Vencimento: 23/04/2029
-  Data Final de Distribuição: 2025-10-31
-  ISIN: BRPVSCCRI6G2
+  Qtd Emitida: 11000
+  Volume Emissão: 11000000.0
+  Remuneração: IPCA+10,51000%
+  Data de Emissão: 2025-05-02
+  Data de Vencimento: 22/05/2030
+  Data Final de Distribuição: 2025-11-01
+  ISIN: BRIMWLCRIN13
 
-  Código: 25D4088712
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+1 row removed
+
+  Código: 19E0281174
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 103
-  N° da série: 2
-  Qtd Emitida: 55000
-  Volume Emissão: 55000000.0
-  Remuneração: IPCA+12,50000%
-  Data de Emissão: 2025-04-23
-  Data de Vencimento: 23/05/2029
-  Data Final de Distribuição: 2025-10-31
-  ISIN: BRPVSCCRI6H0
+  N° da Emissão: 1
+  N° da série: 147
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2019-05-21
+  Data de Vencimento: 28/05/2026
+  Data Final de Distribuição: 2019-11-22
+  ISIN: BRHBSCCRI3B4
