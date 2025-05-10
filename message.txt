@@ -1,42 +1,34 @@
-3 rows changed, 1 row added, 1 row removed
+1 row changed, 2 rows removed
 
-3 rows changed
+1 row changed
 
-  Código: 25D0012202
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
+  Código: 21B0767864
+    Data de Vencimento: "12/05/2025" => "12/07/2025"
 
-  Código: 25D0012203
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
+2 rows removed
 
-  Código: 25D0012204
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
-
-1 row added
-
-  Código: 25E0013355
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 20I0784087
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 273
-  N° da série: 1
-  Qtd Emitida: 11000
-  Volume Emissão: 11000000.0
-  Remuneração: IPCA+10,51000%
-  Data de Emissão: 2025-05-02
-  Data de Vencimento: 22/05/2030
-  Data Final de Distribuição: 2025-11-01
-  ISIN: BRIMWLCRIN13
-
-1 row removed
-
-  Código: 19E0281174
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
-  N° da série: 147
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2019-05-21
-  Data de Vencimento: 28/05/2026
-  Data Final de Distribuição: 2019-11-22
-  ISIN: BRHBSCCRI3B4
+  N° da série: 37
+  Qtd Emitida: 14500
+  Volume Emissão: 14500000.0
+  Remuneração: IPCA
+  Data de Emissão: 2020-09-22
+  Data de Vencimento: 30/04/2025
+  Data Final de Distribuição: 2022-09-21
+  ISIN: BRTSSACRI0V7
+
+  Código: 21L1280755
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 95
+  Qtd Emitida: 65000
+  Volume Emissão: 65000000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2021-12-22
+  Data de Vencimento: 24/12/2029
+  Data Final de Distribuição: 2023-12-23
+  ISIN: BRTSSACRI224
