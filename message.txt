@@ -1,34 +1,62 @@
-1 row changed, 2 rows removed
+1 row changed, 1 row added, 3 rows removed
 
 1 row changed
 
-  Código: 21B0767864
-    Data de Vencimento: "12/05/2025" => "12/07/2025"
+  Código: 21E0466562
+    Remuneração: "IPCA+11,80000%" => ""
 
-2 rows removed
+1 row added
 
-  Código: 20I0784087
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 25E0012602
+  Emissor: OCTANTE SECURITIZADORA S/A
+  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
+  N° da Emissão: 6
+  N° da série: 2
+  Qtd Emitida: 14165
+  Volume Emissão: 14165000.0
+  Remuneração: IPCA+8,56000%
+  Data de Emissão: 2025-05-13
+  Data de Vencimento: 23/10/2034
+  Data Final de Distribuição: 2025-11-05
+  ISIN: BROCTSCRI0D7
+
+3 rows removed
+
+  Código: 15E0101858
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 1
   N° da série: 37
-  Qtd Emitida: 14500
-  Volume Emissão: 14500000.0
-  Remuneração: IPCA
-  Data de Emissão: 2020-09-22
-  Data de Vencimento: 30/04/2025
-  Data Final de Distribuição: 2022-09-21
-  ISIN: BRTSSACRI0V7
+  Qtd Emitida: 72
+  Volume Emissão: 72166221.55
+  Remuneração: TR+9,63000%
+  Data de Emissão: 2015-05-22
+  Data de Vencimento: 05/05/2025
+  Data Final de Distribuição: 2015-11-20
+  ISIN: BRASTECRI3C7
 
-  Código: 21L1280755
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 22C0927973
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 95
-  Qtd Emitida: 65000
-  Volume Emissão: 65000000.0
+  N° da Emissão: 3
+  N° da série: 52
+  Qtd Emitida: 85000
+  Volume Emissão: 85000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2022-03-23
+  Data de Vencimento: 05/05/2025
+  Data Final de Distribuição: 2023-09-29
+  ISIN: BRPVSCCRI1G3
+
+  Código: 23L1538152
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 9
+  N° da série: 2
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
   Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-12-22
-  Data de Vencimento: 24/12/2029
-  Data Final de Distribuição: 2023-12-23
-  ISIN: BRTSSACRI224
+  Data de Emissão: 2023-12-18
+  Data de Vencimento: 05/08/2025
+  Data Final de Distribuição: 2024-06-19
+  ISIN: BRPVSCCRI396
