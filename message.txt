@@ -1,62 +1,39 @@
-1 row changed, 1 row added, 3 rows removed
+2 rows changed, 1 row added, 1 row removed
 
-1 row changed
+2 rows changed
 
-  Código: 21E0466562
-    Remuneração: "IPCA+11,80000%" => ""
+  Código: 21E0432227
+    Data de Vencimento: "15/05/2025" => "15/05/2026"
+
+  Código: 24K1425359
+    Data Final de Distribuição: "2025-05-12" => "2029-11-21"
 
 1 row added
 
-  Código: 25E0012602
-  Emissor: OCTANTE SECURITIZADORA S/A
-  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
-  N° da Emissão: 6
-  N° da série: 2
-  Qtd Emitida: 14165
-  Volume Emissão: 14165000.0
-  Remuneração: IPCA+8,56000%
-  Data de Emissão: 2025-05-13
-  Data de Vencimento: 23/10/2034
-  Data Final de Distribuição: 2025-11-05
-  ISIN: BROCTSCRI0D7
+  Código: 25E0012805
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 440
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 103,00% DI
+  Data de Emissão: 2025-05-08
+  Data de Vencimento: 10/05/2030
+  Data Final de Distribuição: 2025-11-09
+  ISIN: BRRBRACRIUV4
 
-3 rows removed
+1 row removed
 
-  Código: 15E0101858
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 37
-  Qtd Emitida: 72
-  Volume Emissão: 72166221.55
-  Remuneração: TR+9,63000%
-  Data de Emissão: 2015-05-22
-  Data de Vencimento: 05/05/2025
-  Data Final de Distribuição: 2015-11-20
-  ISIN: BRASTECRI3C7
-
-  Código: 22C0927973
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Código: 21E0466562
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 3
-  N° da série: 52
-  Qtd Emitida: 85000
-  Volume Emissão: 85000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2022-03-23
-  Data de Vencimento: 05/05/2025
-  Data Final de Distribuição: 2023-09-29
-  ISIN: BRPVSCCRI1G3
-
-  Código: 23L1538152
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 9
-  N° da série: 2
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2023-12-18
-  Data de Vencimento: 05/08/2025
-  Data Final de Distribuição: 2024-06-19
-  ISIN: BRPVSCCRI396
+  N° da Emissão: 45
+  N° da série: 1
+  Qtd Emitida: 18772
+  Volume Emissão: 18772000.0
+  Remuneração: 
+  Data de Emissão: 2021-05-07
+  Data de Vencimento: 12/05/2025
+  Data Final de Distribuição: 2021-11-08
+  ISIN: BRVERTCRI1F0
