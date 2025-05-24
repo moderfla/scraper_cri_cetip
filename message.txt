@@ -1,110 +1,96 @@
-17 rows changed, 4 rows added
+8 rows changed, 4 rows added, 1 row removed
 
-17 rows changed
+8 rows changed
 
-  Código: 25A1296532
-    Qtd Emitida: "9386" => "14137"
-    Volume Emissão: "9386000.0" => "14137000.0"
+  Código: 23F1206508
+    Data Final de Distribuição: "2023-12-09" => "2026-10-20"
 
-  Código: 20F0638988
-    Agente Fiduciário: "FRIZZO PECUNIA DTVM LTDA" => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 19F0922610
+    Remuneração: "100,00%  DI+3,00000%" => "100,00%  DI+2,50000%"
 
-  Código: 20F0638993
-    Agente Fiduciário: "FRIZZO PECUNIA DTVM LTDA" => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 24H2096783
+    Data de Vencimento: "22/10/2040" => "28/10/2040"
 
-  Código: 21I0826412
-    Remuneração: "IPCA+7,10000%" => "IPCA+9,00000%"
-    Data de Vencimento: "25/06/2028" => "25/06/2035"
+  Código: 21C0710497
+    Remuneração: "IPCA+10,50000%" => ""
 
-  Código: 22J1379218
-    Emissor: "PLAYBANCO SECURITIZADORA S.A." => "PLAYSEC SECURITIZADORA S.A."
+  Código: 21C0710683
+    Remuneração: "IPCA+16,00000%" => ""
 
-  Código: 22J1381567
-    Emissor: "PLAYBANCO SECURITIZADORA S.A." => "PLAYSEC SECURITIZADORA S.A."
+  Código: 21C0710827
+    Remuneração: "IPCA+10,50000%" => ""
 
-  Código: 22J1381764
-    Emissor: "PLAYBANCO SECURITIZADORA S.A." => "PLAYSEC SECURITIZADORA S.A."
+  Código: 21C0710881
+    Remuneração: "IPCA+16,00000%" => ""
 
-  Código: 22K1321340
-    Emissor: "PLAYBANCO SECURITIZADORA S.A." => "PLAYSEC SECURITIZADORA S.A."
-
-  Código: 24G1627395
-    Emissor: "PLAYBANCO SECURITIZADORA S.A." => "PLAYSEC SECURITIZADORA S.A."
-
-  Código: 22H1237505
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237507
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237510
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237592
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237617
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237620
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237621
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
-
-  Código: 22H1237622
-    Remuneração: "IPCA+12,68000%" => "100,00%  DI+3,00000%"
+  Código: 23C2552432
+    Data de Vencimento: "31/03/2028" => "31/05/2028"
 
 4 rows added
 
-  Código: 25D0262185
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Código: 25E3131393
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 139
+  N° da Emissão: 83
   N° da série: 1
-  Qtd Emitida: 15000
-  Volume Emissão: 15000000.0
-  Remuneração: IPCA+8,00000%
-  Data de Emissão: 2025-04-03
-  Data de Vencimento: 21/05/2030
-  Data Final de Distribuição: 2025-11-17
-  ISIN: BRCASCCRI5I0
+  Qtd Emitida: 27500
+  Volume Emissão: 27500000.0
+  Remuneração: IPCA+14,00000%
+  Data de Emissão: 2025-05-05
+  Data de Vencimento: 22/04/2045
+  Data Final de Distribuição: 2025-11-21
+  ISIN: BRHBSCCRICN4
 
-  Código: 25E0172646
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 100
-  N° da série: 1
-  Qtd Emitida: 100000000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2025-05-19
-  Data de Vencimento: 27/02/2040
-  Data Final de Distribuição: 2025-11-17
-  ISIN: BRPVSCCRI6J6
-
-  Código: 25E0172665
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 100
-  N° da série: 2
-  Qtd Emitida: 100000000
-  Volume Emissão: 100000000.0
-  Remuneração: IPCA+11,50000%
-  Data de Emissão: 2025-05-19
-  Data de Vencimento: 27/02/2040
-  Data Final de Distribuição: 2025-11-17
-  ISIN: BRPVSCCRI6K4
-
-  Código: 25E2915218
+  Código: 25D5145010
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 277
+  N° da Emissão: 274
+  N° da série: 3
+  Qtd Emitida: 11500
+  Volume Emissão: 11500000.0
+  Remuneração: IPCA+9,70000%
+  Data de Emissão: 2025-04-30
+  Data de Vencimento: 22/12/2028
+  Data Final de Distribuição: 2025-11-18
+  ISIN: BRIMWLCRINA6
+
+  Código: 25D5145011
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 274
+  N° da série: 2
+  Qtd Emitida: 5750
+  Volume Emissão: 5750000.0
+  Remuneração: IPCA+9,70000%
+  Data de Emissão: 2025-04-30
+  Data de Vencimento: 22/12/2028
+  Data Final de Distribuição: 2025-11-18
+  ISIN: BRIMWLCRIN96
+
+  Código: 25D5145012
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 274
   N° da série: 1
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
+  Qtd Emitida: 40250
+  Volume Emissão: 40250000.0
   Remuneração: IPCA+9,00000%
-  Data de Emissão: 2025-05-14
-  Data de Vencimento: 11/03/2030
-  Data Final de Distribuição: 2025-11-17
-  ISIN: BRIMWLCRINC2
+  Data de Emissão: 2025-04-30
+  Data de Vencimento: 22/12/2028
+  Data Final de Distribuição: 2025-11-18
+  ISIN: BRIMWLCRIN88
+
+1 row removed
+
+  Código: 20B0849635
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PAVARINI DTVM LTDA
+  N° da Emissão: 4
+  N° da série: 92
+  Qtd Emitida: 54500
+  Volume Emissão: 54500000.0
+  Remuneração: 
+  Data de Emissão: 2020-02-18
+  Data de Vencimento: 19/11/2031
+  Data Final de Distribuição: 2020-08-11
+  ISIN: BRIMWLCRI286
