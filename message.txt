@@ -1,96 +1,76 @@
-8 rows changed, 4 rows added, 1 row removed
+2 rows changed, 5 rows added
 
-8 rows changed
+2 rows changed
 
-  Código: 23F1206508
-    Data Final de Distribuição: "2023-12-09" => "2026-10-20"
+  Código: 23C1288904
+    Remuneração: "100,00%  DI+6,75000%" => ""
 
-  Código: 19F0922610
-    Remuneração: "100,00%  DI+3,00000%" => "100,00%  DI+2,50000%"
+  Código: 23L1357500
+    Remuneração: "100,00%  DI+5,50000%" => ""
 
-  Código: 24H2096783
-    Data de Vencimento: "22/10/2040" => "28/10/2040"
+5 rows added
 
-  Código: 21C0710497
-    Remuneração: "IPCA+10,50000%" => ""
-
-  Código: 21C0710683
-    Remuneração: "IPCA+16,00000%" => ""
-
-  Código: 21C0710827
-    Remuneração: "IPCA+10,50000%" => ""
-
-  Código: 21C0710881
-    Remuneração: "IPCA+16,00000%" => ""
-
-  Código: 23C2552432
-    Data de Vencimento: "31/03/2028" => "31/05/2028"
-
-4 rows added
-
-  Código: 25E3131393
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 83
+  Código: 25E3232141
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 65
   N° da série: 1
-  Qtd Emitida: 27500
-  Volume Emissão: 27500000.0
-  Remuneração: IPCA+14,00000%
-  Data de Emissão: 2025-05-05
-  Data de Vencimento: 22/04/2045
-  Data Final de Distribuição: 2025-11-21
-  ISIN: BRHBSCCRICN4
+  Qtd Emitida: 180000
+  Volume Emissão: 180000000.0
+  Remuneração: 100,00%  DI+2,10000%
+  Data de Emissão: 2025-05-15
+  Data de Vencimento: 22/05/2029
+  Data Final de Distribuição: 2025-11-19
+  ISIN: BRTSSACRI4O4
 
-  Código: 25D5145010
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 25E3158500
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 274
-  N° da série: 3
-  Qtd Emitida: 11500
-  Volume Emissão: 11500000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2025-04-30
-  Data de Vencimento: 22/12/2028
+  N° da Emissão: 154
+  N° da série: 20
+  Qtd Emitida: 15142
+  Volume Emissão: 15142000.0
+  Remuneração: IPCA+8,49000%
+  Data de Emissão: 2025-05-23
+  Data de Vencimento: 20/09/2044
   Data Final de Distribuição: 2025-11-18
-  ISIN: BRIMWLCRINA6
+  ISIN: BRVERTCRICB0
 
-  Código: 25D5145011
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 25E3158501
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 274
-  N° da série: 2
-  Qtd Emitida: 5750
-  Volume Emissão: 5750000.0
-  Remuneração: IPCA+9,70000%
-  Data de Emissão: 2025-04-30
-  Data de Vencimento: 22/12/2028
+  N° da Emissão: 154
+  N° da série: 21
+  Qtd Emitida: 10600
+  Volume Emissão: 10600000.0
+  Remuneração: IPCA+9,51000%
+  Data de Emissão: 2025-05-23
+  Data de Vencimento: 20/09/2046
   Data Final de Distribuição: 2025-11-18
-  ISIN: BRIMWLCRIN96
+  ISIN: BRVERTCRICC8
 
-  Código: 25D5145012
+  Código: 25E3158510
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 154
+  N° da série: 22
+  Qtd Emitida: 4542
+  Volume Emissão: 4542000.0
+  Remuneração: IPCA+12,85000%
+  Data de Emissão: 2025-05-23
+  Data de Vencimento: 20/09/2046
+  Data Final de Distribuição: 2025-11-18
+  ISIN: BRVERTCRICD6
+
+  Código: 25E2914005
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 274
+  N° da Emissão: 266
   N° da série: 1
-  Qtd Emitida: 40250
-  Volume Emissão: 40250000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2025-04-30
-  Data de Vencimento: 22/12/2028
-  Data Final de Distribuição: 2025-11-18
-  ISIN: BRIMWLCRIN88
-
-1 row removed
-
-  Código: 20B0849635
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 4
-  N° da série: 92
-  Qtd Emitida: 54500
-  Volume Emissão: 54500000.0
-  Remuneração: 
-  Data de Emissão: 2020-02-18
-  Data de Vencimento: 19/11/2031
-  Data Final de Distribuição: 2020-08-11
-  ISIN: BRIMWLCRI286
+  Qtd Emitida: 19000
+  Volume Emissão: 19000000.0
+  Remuneração: 100,00%  DI+6,50000%
+  Data de Emissão: 2025-05-16
+  Data de Vencimento: 22/11/2027
+  Data Final de Distribuição: 2025-11-19
+  ISIN: BRIMWLCRIND0
