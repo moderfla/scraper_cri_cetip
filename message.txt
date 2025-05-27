@@ -1,76 +1,87 @@
-2 rows changed, 5 rows added
+23 rows changed, 1 row added
 
-2 rows changed
+23 rows changed
 
-  Código: 23C1288904
-    Remuneração: "100,00%  DI+6,75000%" => ""
+  Código: 20I0941573
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
 
-  Código: 23L1357500
-    Remuneração: "100,00%  DI+5,50000%" => ""
+  Código: 21G0063228
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-5 rows added
+  Código: 21G0063257
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 25E3232141
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 65
-  N° da série: 1
-  Qtd Emitida: 180000
-  Volume Emissão: 180000000.0
-  Remuneração: 100,00%  DI+2,10000%
-  Data de Emissão: 2025-05-15
-  Data de Vencimento: 22/05/2029
-  Data Final de Distribuição: 2025-11-19
-  ISIN: BRTSSACRI4O4
+  Código: 21L0866334
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 25E3158500
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 154
-  N° da série: 20
-  Qtd Emitida: 15142
-  Volume Emissão: 15142000.0
-  Remuneração: IPCA+8,49000%
-  Data de Emissão: 2025-05-23
-  Data de Vencimento: 20/09/2044
-  Data Final de Distribuição: 2025-11-18
-  ISIN: BRVERTCRICB0
+  Código: 22K1019759
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 25E3158501
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 154
-  N° da série: 21
-  Qtd Emitida: 10600
-  Volume Emissão: 10600000.0
-  Remuneração: IPCA+9,51000%
-  Data de Emissão: 2025-05-23
-  Data de Vencimento: 20/09/2046
-  Data Final de Distribuição: 2025-11-18
-  ISIN: BRVERTCRICC8
+  Código: 23H0190135
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 25E3158510
-  Emissor: VERT COMPANHIA  SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 154
-  N° da série: 22
-  Qtd Emitida: 4542
-  Volume Emissão: 4542000.0
-  Remuneração: IPCA+12,85000%
-  Data de Emissão: 2025-05-23
-  Data de Vencimento: 20/09/2046
-  Data Final de Distribuição: 2025-11-18
-  ISIN: BRVERTCRICD6
+  Código: 23H0190188
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
 
-  Código: 25E2914005
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 266
-  N° da série: 1
-  Qtd Emitida: 19000
-  Volume Emissão: 19000000.0
-  Remuneração: 100,00%  DI+6,50000%
-  Data de Emissão: 2025-05-16
-  Data de Vencimento: 22/11/2027
-  Data Final de Distribuição: 2025-11-19
-  ISIN: BRIMWLCRIND0
+  Código: 23I1230816
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1230828
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1230915
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1554068
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1554111
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1554258
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1554281
+    Agente Fiduciário: "PENTAGONO S.A. DTVM" => "PENTAGONO DTVM SA"
+
+  Código: 23I1816280
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 23J1141681
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 23J1142031
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 23J1142506
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 23K1775589
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 23L2415875
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 24B1328842
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 24I2429067
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 24K2690249
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM S/A"
+
+1 row added
+
+  Código: 25E2272808
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 430
+  N° da série: 2
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2025-05-07
+  Data de Vencimento: 16/12/2026
+  Data Final de Distribuição: 2025-11-22
+  ISIN: BRRBRACRIV98
