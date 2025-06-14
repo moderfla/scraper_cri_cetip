@@ -1,34 +1,31 @@
-1 row changed, 2 rows added
+1 row added, 1 row removed
 
-1 row changed
+1 row added
 
-  Código: 24K1659470
-    Data Final de Distribuição: "2025-05-23" => "2029-11-08"
+  Código: 24H2367531
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 194
+  N° da série: 2
+  Qtd Emitida: 28000
+  Volume Emissão: 28000000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2024-08-30
+  Data de Vencimento: 29/08/2029
+  Data Final de Distribuição: 2025-12-08
+  ISIN: BRIMWLCRIJU2
 
-2 rows added
+1 row removed
 
-  Código: 23K2204376
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
-  N° da Emissão: 65
-  N° da série: 6
-  Qtd Emitida: 5000
-  Volume Emissão: 5000000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2023-11-22
-  Data de Vencimento: 25/05/2027
-  Data Final de Distribuição: 2027-05-25
-  ISIN: BRCASCCRI1Y6
-
-  Código: 25F0010202
+  Código: 21F1008310
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 276
-  N° da série: 1
-  Qtd Emitida: 125000
-  Volume Emissão: 125000000.0
-  Remuneração: 102,50% DI
-  Data de Emissão: 2025-06-09
-  Data de Vencimento: 12/06/2030
-  Data Final de Distribuição: 2025-12-07
-  ISIN: BRIMWLCRINB4
+  N° da Emissão: 4
+  N° da série: 300
+  Qtd Emitida: 63752
+  Volume Emissão: 63752000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2021-06-22
+  Data de Vencimento: 05/06/2025
+  Data Final de Distribuição: 2023-06-29
+  ISIN: BRIMWLCRI7L3
