@@ -1,31 +1,63 @@
-1 row added, 1 row removed
+1 row changed, 3 rows added, 1 row removed
 
-1 row added
+1 row changed
 
-  Código: 24H2367531
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 19H0167424
+    Remuneração: "" => "IGP-M+11,00000%"
+    Data de Vencimento: "20/05/2025" => "22/05/2028"
+
+3 rows added
+
+  Código: 25F1884832
+  Emissor: ARTESANAL SECURITIZADORA DE CREDITOS S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 194
+  N° da Emissão: 1
+  N° da série: 1
+  Qtd Emitida: 31764
+  Volume Emissão: 31764000.0
+  Remuneração: 16,00000%
+  Data de Emissão: 2025-06-06
+  Data de Vencimento: 20/04/2034
+  Data Final de Distribuição: 2025-12-09
+  ISIN: BRASECNCM007
+
+  Código: 25F1887300
+  Emissor: ARTESANAL SECURITIZADORA DE CREDITOS S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
   N° da série: 2
-  Qtd Emitida: 28000
-  Volume Emissão: 28000000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2024-08-30
-  Data de Vencimento: 29/08/2029
-  Data Final de Distribuição: 2025-12-08
-  ISIN: BRIMWLCRIJU2
+  Qtd Emitida: 1
+  Volume Emissão: 1000.0
+  Remuneração: 16,00000%
+  Data de Emissão: 2025-06-06
+  Data de Vencimento: 20/04/2034
+  Data Final de Distribuição: 2025-12-09
+  ISIN: BRASECNCM015
+
+  Código: 25F1981809
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 35
+  N° da série: 1
+  Qtd Emitida: 51500
+  Volume Emissão: 51500000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2025-06-06
+  Data de Vencimento: 25/06/2030
+  Data Final de Distribuição: 2025-12-10
+  ISIN: BRLSECCRI2O0
 
 1 row removed
 
-  Código: 21F1008310
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
+  Código: 20H0676515
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PAVARINI DTVM LTDA
   N° da Emissão: 4
-  N° da série: 300
-  Qtd Emitida: 63752
-  Volume Emissão: 63752000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2021-06-22
-  Data de Vencimento: 05/06/2025
-  Data Final de Distribuição: 2023-06-29
-  ISIN: BRIMWLCRI7L3
+  N° da série: 126
+  Qtd Emitida: 15400
+  Volume Emissão: 15400000.0
+  Remuneração: IPCA+5,25000%
+  Data de Emissão: 2020-08-26
+  Data de Vencimento: 12/09/2031
+  Data Final de Distribuição: 2021-02-03
+  ISIN: BRGAIACRI4M5
