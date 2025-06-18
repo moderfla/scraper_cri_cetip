@@ -1,63 +1,96 @@
-1 row changed, 3 rows added, 1 row removed
+5 rows added, 2 rows removed
 
-1 row changed
+5 rows added
 
-  Código: 19H0167424
-    Remuneração: "" => "IGP-M+11,00000%"
-    Data de Vencimento: "20/05/2025" => "22/05/2028"
+  Código: 25E3908357
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
+  N° da Emissão: 71
+  N° da série: 4
+  Qtd Emitida: 54700
+  Volume Emissão: 54700000.0
+  Remuneração: IPCA+10,25000%
+  Data de Emissão: 2025-05-26
+  Data de Vencimento: 30/11/2040
+  Data Final de Distribuição: 2025-12-13
+  ISIN: BRCASCCRI5R1
 
-3 rows added
+  Código: 25F1869744
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
+  N° da Emissão: 71
+  N° da série: 4
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: IPCA+12,70000%
+  Data de Emissão: 2025-06-09
+  Data de Vencimento: 19/12/2028
+  Data Final de Distribuição: 2025-12-13
+  ISIN: BRCASCCRI5S9
 
-  Código: 25F1884832
-  Emissor: ARTESANAL SECURITIZADORA DE CREDITOS S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
+  Código: 25F1756909
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: TERRA INVEST DTVM LTDA
+  N° da Emissão: 11
   N° da série: 1
-  Qtd Emitida: 31764
-  Volume Emissão: 31764000.0
-  Remuneração: 16,00000%
-  Data de Emissão: 2025-06-06
-  Data de Vencimento: 20/04/2034
-  Data Final de Distribuição: 2025-12-09
-  ISIN: BRASECNCM007
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: IPCA+13,51000%
+  Data de Emissão: 2025-06-16
+  Data de Vencimento: 25/06/2028
+  Data Final de Distribuição: 2025-12-03
+  ISIN: BRREICCRI0T9
 
-  Código: 25F1887300
-  Emissor: ARTESANAL SECURITIZADORA DE CREDITOS S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
+  Código: 25F1757890
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: TERRA INVEST DTVM LTDA
+  N° da Emissão: 11
   N° da série: 2
-  Qtd Emitida: 1
-  Volume Emissão: 1000.0
-  Remuneração: 16,00000%
-  Data de Emissão: 2025-06-06
-  Data de Vencimento: 20/04/2034
-  Data Final de Distribuição: 2025-12-09
-  ISIN: BRASECNCM015
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: IPCA+13,50000%
+  Data de Emissão: 2025-06-16
+  Data de Vencimento: 25/06/2028
+  Data Final de Distribuição: 2025-12-03
+  ISIN: BRREICCRI0U7
 
-  Código: 25F1981809
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 35
-  N° da série: 1
-  Qtd Emitida: 51500
-  Volume Emissão: 51500000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2025-06-06
-  Data de Vencimento: 25/06/2030
-  Data Final de Distribuição: 2025-12-10
-  ISIN: BRLSECCRI2O0
+  Código: 25F1757987
+  Emissor: REIT SECURITIZADORA S/A
+  Agente Fiduciário: TERRA INVEST DTVM LTDA
+  N° da Emissão: 11
+  N° da série: 3
+  Qtd Emitida: 13000
+  Volume Emissão: 13000000.0
+  Remuneração: IPCA+13,49000%
+  Data de Emissão: 2025-06-16
+  Data de Vencimento: 25/06/2028
+  Data Final de Distribuição: 2025-12-03
+  ISIN: BRREICCRI0V5
 
-1 row removed
+2 rows removed
 
-  Código: 20H0676515
+  Código: 21F0001447
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 4
-  N° da série: 126
-  Qtd Emitida: 15400
-  Volume Emissão: 15400000.0
-  Remuneração: IPCA+5,25000%
-  Data de Emissão: 2020-08-26
-  Data de Vencimento: 12/09/2031
-  Data Final de Distribuição: 2021-02-03
-  ISIN: BRGAIACRI4M5
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 354
+  Qtd Emitida: 91455
+  Volume Emissão: 91455000.0
+  Remuneração: IPCA+6,00000%
+  Data de Emissão: 2021-06-18
+  Data de Vencimento: 13/06/2032
+  Data Final de Distribuição: 2021-11-28
+  ISIN: BRRBRACRI8K5
+
+  Código: 22E0778729
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PENTAGONO SA DTVM
+  N° da Emissão: 6
+  N° da série: 1
+  Qtd Emitida: 160000
+  Volume Emissão: 160000000.0
+  Remuneração: IPCA+6,69730%
+  Data de Emissão: 2022-05-13
+  Data de Vencimento: 20/04/2032
+  Data Final de Distribuição: 2022-10-12
+  ISIN: BRIMWLCRIC16
