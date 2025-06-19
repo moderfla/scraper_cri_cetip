@@ -1,6 +1,85 @@
-5 rows added, 2 rows removed
+12 rows changed, 3 rows added, 1 row removed
 
-5 rows added
+12 rows changed
+
+  Código: 20G0684774
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684775
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684776
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684778
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684779
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684823
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684824
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684826
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684827
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684828
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 20G0684848
+    Data de Vencimento: "20/06/2025" => "20/10/2040"
+
+  Código: 24K1488063
+    Data Final de Distribuição: "2025-05-11" => "2029-10-30"
+
+3 rows added
+
+  Código: 25F0010602
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 447
+  N° da série: 1
+  Qtd Emitida: 29587
+  Volume Emissão: 29587000.0
+  Remuneração: 98,00% DI
+  Data de Emissão: 2025-06-17
+  Data de Vencimento: 19/06/2030
+  Data Final de Distribuição: 2025-12-13
+  ISIN: BRRBRACRIVE8
+
+  Código: 25F0010603
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 447
+  N° da série: 2
+  Qtd Emitida: 141391
+  Volume Emissão: 141391000.0
+  Remuneração: 14,20000%
+  Data de Emissão: 2025-06-17
+  Data de Vencimento: 17/06/2032
+  Data Final de Distribuição: 2025-12-13
+  ISIN: BRRBRACRIVF5
+
+  Código: 25F0010604
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 447
+  N° da série: 3
+  Qtd Emitida: 29022
+  Volume Emissão: 29022000.0
+  Remuneração: IPCA+7,75230%
+  Data de Emissão: 2025-06-17
+  Data de Vencimento: 19/06/2035
+  Data Final de Distribuição: 2025-12-13
+  ISIN: BRRBRACRIVG3
+
+1 row removed
 
   Código: 25E3908357
   Emissor: CANAL COMPANHIA DE SECURITIZACAO
@@ -14,83 +93,3 @@
   Data de Vencimento: 30/11/2040
   Data Final de Distribuição: 2025-12-13
   ISIN: BRCASCCRI5R1
-
-  Código: 25F1869744
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
-  N° da Emissão: 71
-  N° da série: 4
-  Qtd Emitida: 35000
-  Volume Emissão: 35000000.0
-  Remuneração: IPCA+12,70000%
-  Data de Emissão: 2025-06-09
-  Data de Vencimento: 19/12/2028
-  Data Final de Distribuição: 2025-12-13
-  ISIN: BRCASCCRI5S9
-
-  Código: 25F1756909
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 11
-  N° da série: 1
-  Qtd Emitida: 13000
-  Volume Emissão: 13000000.0
-  Remuneração: IPCA+13,51000%
-  Data de Emissão: 2025-06-16
-  Data de Vencimento: 25/06/2028
-  Data Final de Distribuição: 2025-12-03
-  ISIN: BRREICCRI0T9
-
-  Código: 25F1757890
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 11
-  N° da série: 2
-  Qtd Emitida: 13000
-  Volume Emissão: 13000000.0
-  Remuneração: IPCA+13,50000%
-  Data de Emissão: 2025-06-16
-  Data de Vencimento: 25/06/2028
-  Data Final de Distribuição: 2025-12-03
-  ISIN: BRREICCRI0U7
-
-  Código: 25F1757987
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: TERRA INVEST DTVM LTDA
-  N° da Emissão: 11
-  N° da série: 3
-  Qtd Emitida: 13000
-  Volume Emissão: 13000000.0
-  Remuneração: IPCA+13,49000%
-  Data de Emissão: 2025-06-16
-  Data de Vencimento: 25/06/2028
-  Data Final de Distribuição: 2025-12-03
-  ISIN: BRREICCRI0V5
-
-2 rows removed
-
-  Código: 21F0001447
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 354
-  Qtd Emitida: 91455
-  Volume Emissão: 91455000.0
-  Remuneração: IPCA+6,00000%
-  Data de Emissão: 2021-06-18
-  Data de Vencimento: 13/06/2032
-  Data Final de Distribuição: 2021-11-28
-  ISIN: BRRBRACRI8K5
-
-  Código: 22E0778729
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 6
-  N° da série: 1
-  Qtd Emitida: 160000
-  Volume Emissão: 160000000.0
-  Remuneração: IPCA+6,69730%
-  Data de Emissão: 2022-05-13
-  Data de Vencimento: 20/04/2032
-  Data Final de Distribuição: 2022-10-12
-  ISIN: BRIMWLCRIC16
