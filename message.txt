@@ -1,70 +1,27 @@
-3 rows added, 2 rows removed
+2 rows added
 
-3 rows added
-
-  Código: 25G0062107
-  Emissor: CASA DE PEDRA SECURITIZADORA DE CREDITO S.A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 17
-  N° da série: 3
-  Qtd Emitida: 90000
-  Volume Emissão: 90000000.0
-  Remuneração: 24,12000%
-  Data de Emissão: 2025-07-01
-  Data de Vencimento: 23/07/2030
-  Data Final de Distribuição: 2025-12-29
-  ISIN: BRASPRCRI1P2
-
-  Código: 25F8639834
+  Código: 25E3479737
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 511
-  Qtd Emitida: 35000
-  Volume Emissão: 35000000.0
-  Remuneração: 100,00%  DI+6,01000%
-  Data de Emissão: 2025-06-24
-  Data de Vencimento: 05/02/2027
-  Data Final de Distribuição: 2026-01-03
-  ISIN: BRIMWLCRINQ2
-
-  Código: 25F8639835
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 512
-  Qtd Emitida: 70000
-  Volume Emissão: 70000000.0
+  N° da Emissão: 280
+  N° da série: 2
+  Qtd Emitida: 75000
+  Volume Emissão: 75000000.0
   Remuneração: 100,00%  DI+6,00000%
-  Data de Emissão: 2025-06-24
-  Data de Vencimento: 05/03/2027
-  Data Final de Distribuição: 2026-01-03
-  ISIN: BRIMWLCRINR0
+  Data de Emissão: 2025-05-22
+  Data de Vencimento: 25/05/2034
+  Data Final de Distribuição: 2025-11-23
+  ISIN: BRIMWLCRING3
 
-2 rows removed
-
-  Código: 22H1333201
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: H. COMMCOR DTVM LTDA
-  N° da Emissão: 8
-  N° da série: 1
-  Qtd Emitida: 19500
-  Volume Emissão: 19500000.0
-  Remuneração: IPCA+15,39000%
-  Data de Emissão: 2022-08-17
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2023-08-18
-  ISIN: BRCASCCRI042
-
-  Código: 21F1201632
+  Código: 25E4252540
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 499
-  Qtd Emitida: 2534
-  Volume Emissão: 2534000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2023-08-07
-  Data de Vencimento: 26/12/2026
-  Data Final de Distribuição: 2024-02-19
-  ISIN: BRIMWLCRIFX4
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 267
+  N° da série: 1
+  Qtd Emitida: 41000
+  Volume Emissão: 41000000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2025-05-22
+  Data de Vencimento: 17/05/2040
+  Data Final de Distribuição: 2026-01-04
+  ISIN: BRIMWLCRINN9
