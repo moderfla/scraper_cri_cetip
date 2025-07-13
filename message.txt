@@ -1,55 +1,56 @@
-18 rows changed
+4 rows changed, 3 rows removed
 
-  Código: 21B0767864
-    Data de Vencimento: "12/07/2025" => "09/10/2025"
+4 rows changed
 
-  Código: 21L0868593
-    Data de Vencimento: "21/11/2031" => "22/11/2033"
+  Código: 24F1584241
+    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
 
-  Código: 21L0868658
-    Data de Vencimento: "21/11/2031" => "22/11/2033"
+  Código: 24F1584242
+    Remuneração: "IPCA+10,50000%" => "IPCA+12,50000%"
 
-  Código: 24F1075307
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 24F1584243
+    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
 
-  Código: 24F1075308
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 24F1584244
+    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
 
-  Código: 24F2255907
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+3 rows removed
 
-  Código: 24F2255908
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 19G0269138
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 193
+  Qtd Emitida: 250000
+  Volume Emissão: 250000000.0
+  Remuneração: 104,00% DI
+  Data de Emissão: 2019-07-03
+  Data de Vencimento: 04/07/2025
+  Data Final de Distribuição: 2020-01-31
+  ISIN: BRAPCSCRI523
 
-  Código: 24G1305617
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 19J0265419
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 223
+  Qtd Emitida: 60000
+  Volume Emissão: 60000000.0
+  Remuneração: 100,00%  DI+1,85000%
+  Data de Emissão: 2019-10-18
+  Data de Vencimento: 02/10/2031
+  Data Final de Distribuição: 2020-04-16
+  ISIN: BRRBRACRI655
 
-  Código: 24G1305618
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24G1305619
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24G1305620
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24H1514742
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24H1514748
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24H1514749
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24H1514750
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24H1514751
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0754279
-    Data de Vencimento: "11/07/2025" => "10/01/2026"
-
-  Código: 20J0909885
-    Remuneração: "IPCA+6,50000%" => ""
+  Código: 21G0761891
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 368
+  Qtd Emitida: 85000
+  Volume Emissão: 85000000.0
+  Remuneração: 
+  Data de Emissão: 2021-07-15
+  Data de Vencimento: 20/07/2026
+  Data Final de Distribuição: 2022-01-26
+  ISIN:
