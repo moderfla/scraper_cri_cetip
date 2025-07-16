@@ -1,56 +1,49 @@
-4 rows changed, 3 rows removed
+1 row changed, 2 rows added, 1 row removed
 
-4 rows changed
+1 row changed
 
-  Código: 24F1584241
-    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
+  Código: 10G0019826
+    Remuneração: "IGP-M+10,67540%" => ""
 
-  Código: 24F1584242
-    Remuneração: "IPCA+10,50000%" => "IPCA+12,50000%"
+2 rows added
 
-  Código: 24F1584243
-    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
-
-  Código: 24F1584244
-    Remuneração: "IPCA+11,00000%" => "IPCA+12,00000%"
-
-3 rows removed
-
-  Código: 19G0269138
+  Código: 25F8639014
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 193
-  Qtd Emitida: 250000
-  Volume Emissão: 250000000.0
-  Remuneração: 104,00% DI
-  Data de Emissão: 2019-07-03
-  Data de Vencimento: 04/07/2025
-  Data Final de Distribuição: 2020-01-31
-  ISIN: BRAPCSCRI523
+  N° da Emissão: 459
+  N° da série: 1
+  Qtd Emitida: 150000
+  Volume Emissão: 150000000.0
+  Remuneração: IPCA+9,03610%
+  Data de Emissão: 2025-06-26
+  Data de Vencimento: 19/06/2030
+  Data Final de Distribuição: 2026-01-06
+  ISIN: BRRBRACRIW06
 
-  Código: 19J0265419
+  Código: 25G2306493
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 223
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+1,85000%
-  Data de Emissão: 2019-10-18
-  Data de Vencimento: 02/10/2031
-  Data Final de Distribuição: 2020-04-16
-  ISIN: BRRBRACRI655
+  N° da Emissão: 22
+  N° da série: 1
+  Qtd Emitida: 560000
+  Volume Emissão: 560000000.0
+  Remuneração: 100,00%  DI+1,70000%
+  Data de Emissão: 2025-07-14
+  Data de Vencimento: 15/12/2026
+  Data Final de Distribuição: 2026-01-07
+  ISIN: BRRBRACR00T9
 
-  Código: 21G0761891
+1 row removed
+
+  Código: 22K1415873
   Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 368
-  Qtd Emitida: 85000
-  Volume Emissão: 85000000.0
-  Remuneração: 
-  Data de Emissão: 2021-07-15
-  Data de Vencimento: 20/07/2026
-  Data Final de Distribuição: 2022-01-26
-  ISIN:
+  Agente Fiduciário: PENTAGONO DTVM SA
+  N° da Emissão: 89
+  N° da série: 1
+  Qtd Emitida: 165727
+  Volume Emissão: 165727000.0
+  Remuneração: IPCA+10,01510%
+  Data de Emissão: 2022-11-23
+  Data de Vencimento: 15/12/2039
+  Data Final de Distribuição: 2023-05-23
+  ISIN: BRAPCSCRIG14
