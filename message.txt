@@ -1,4 +1,51 @@
-1 row changed
+6 rows changed, 1 row added, 1 row removed
 
-  Código: 23D1293668
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "TERRA INVEST DTVM LTDA"
+6 rows changed
+
+  Código: 24I1194133
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+
+  Código: 24I1194134
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+
+  Código: 24L2166539
+    Agente Fiduciário: "TRUSTEE DTVM LTDA" => "PLANNER TRUSTEE DTVM LTDA"
+
+  Código: 21K0660418
+    Data de Vencimento: "21/07/2025" => "20/08/2025"
+
+  Código: 21K0660445
+    Data de Vencimento: "21/07/2025" => "20/08/2025"
+
+  Código: 21K0661041
+    Data de Vencimento: "21/07/2025" => "20/08/2025"
+
+1 row added
+
+  Código: 25G0707498
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: PLANNER TRUSTEE DTVM LTDA
+  N° da Emissão: 78
+  N° da série: 5
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+12,70000%
+  Data de Emissão: 2025-07-04
+  Data de Vencimento: 18/01/2028
+  Data Final de Distribuição: 2026-01-12
+  ISIN: BRCASCCRI638
+
+1 row removed
+
+  Código: 24K2210125
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 83
+  N° da série: 1
+  Qtd Emitida: 14500
+  Volume Emissão: 14500000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2024-12-30
+  Data de Vencimento: 26/07/2031
+  Data Final de Distribuição: 2025-07-08
+  ISIN: BRPVSCCRI5Z4
