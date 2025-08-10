@@ -1,146 +1,23 @@
-3 rows changed, 5 rows added, 5 rows removed
+1 row changed, 1 row added
 
-3 rows changed
+1 row changed
 
-  Código: 20L0610250
-    Remuneração: "IPCA+7,00000%" => "IPCA+8,00000%"
+  Código: 13I0049561
+    Emissor: "BRAZILIAN SECURITIES CIA DE SECURITIZACAO" => "TRAVESSIA SECURITIZADORA S.A."
+    N° da série: "324" => "68"
+    ISIN: "BRBSCSCRI8M7" => "BRTSSACRI4V9"
 
-  Código: 22L2786958
-    ISIN: "" => "BRRBRACRIG55"
+1 row added
 
-  Código: 23J1042731
-    Data de Vencimento: "25/10/2028" => "26/07/2027"
-
-5 rows added
-
-  Código: 25G4316892
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 36
+  Código: 25G5640017
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 69
   N° da série: 1
-  Qtd Emitida: 27000
-  Volume Emissão: 27000000.0
-  Remuneração: IPCA+15,66340%
-  Data de Emissão: 2025-07-22
-  Data de Vencimento: 24/07/2035
+  Qtd Emitida: 23500
+  Volume Emissão: 23500000.0
+  Remuneração: 100,00%  DI+3,00000%
+  Data de Emissão: 2025-07-21
+  Data de Vencimento: 29/07/2030
   Data Final de Distribuição: 2026-02-03
-  ISIN: BRLSECCRI2V5
-
-  Código: 25G5827604
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 281
-  N° da série: 1
-  Qtd Emitida: 200000
-  Volume Emissão: 200000000.0
-  Remuneração: 109,00% DI
-  Data de Emissão: 2025-07-15
-  Data de Vencimento: 19/12/2029
-  Data Final de Distribuição: 2026-02-03
-  ISIN: BRIMWLCRIO53
-
-  Código: 25G5830819
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 256
-  N° da série: 2
-  Qtd Emitida: 17464
-  Volume Emissão: 17464000.0
-  Remuneração: IPCA+9,49000%
-  Data de Emissão: 2025-07-25
-  Data de Vencimento: 27/02/2045
-  Data Final de Distribuição: 2026-02-06
-  ISIN: BRIMWLCRIOM9
-
-  Código: 25G5830826
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 256
-  N° da série: 2
-  Qtd Emitida: 2183
-  Volume Emissão: 2183000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2025-07-25
-  Data de Vencimento: 26/06/2045
-  Data Final de Distribuição: 2026-02-06
-  ISIN: BRIMWLCRION7
-
-  Código: 25G5835046
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 256
-  N° da série: 2
-  Qtd Emitida: 2183
-  Volume Emissão: 2183000.0
-  Remuneração: 0,00010%
-  Data de Emissão: 2025-07-25
-  Data de Vencimento: 25/08/2045
-  Data Final de Distribuição: 2026-02-06
-  ISIN: BRIMWLCRIOO5
-
-5 rows removed
-
-  Código: 21C0775913
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 159
-  Qtd Emitida: 10200
-  Volume Emissão: 10200000.0
-  Remuneração: IPCA+12,00000%
-  Data de Emissão: 2021-03-11
-  Data de Vencimento: 20/08/2025
-  Data Final de Distribuição: 2023-03-11
-  ISIN: BRIMWLCRI658
-
-  Código: 21J0068517
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 368
-  Qtd Emitida: 11856
-  Volume Emissão: 11856000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-10-08
-  Data de Vencimento: 22/10/2025
-  Data Final de Distribuição: 2022-04-05
-  ISIN: BRIMWLCRI914
-
-  Código: 21J0070422
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 369
-  Qtd Emitida: 10547
-  Volume Emissão: 10547000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-10-08
-  Data de Vencimento: 22/10/2025
-  Data Final de Distribuição: 2022-10-05
-  ISIN: BRIMWLCRI922
-
-  Código: 21J0071738
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 370
-  Qtd Emitida: 10547
-  Volume Emissão: 10547000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-10-08
-  Data de Vencimento: 22/10/2025
-  Data Final de Distribuição: 2022-04-05
-  ISIN: BRIMWLCRI930
-
-  Código: 21J0072017
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 4
-  N° da série: 389
-  Qtd Emitida: 1500
-  Volume Emissão: 1500000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2021-10-08
-  Data de Vencimento: 22/10/2025
-  Data Final de Distribuição: 2022-04-05
-  ISIN: BRIMWLCRI948
+  ISIN: BRTSSACRI4U1
