@@ -1,23 +1,75 @@
-1 row changed, 1 row added
+1 row changed, 4 rows added, 1 row removed
 
 1 row changed
 
-  Código: 13I0049561
-    Emissor: "BRAZILIAN SECURITIES CIA DE SECURITIZACAO" => "TRAVESSIA SECURITIZADORA S.A."
-    N° da série: "324" => "68"
-    ISIN: "BRBSCSCRI8M7" => "BRTSSACRI4V9"
+  Código: 14J0105984
+    Remuneração: "IGP-M+14,00000%" => ""
 
-1 row added
+4 rows added
 
-  Código: 25G5640017
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 25H0017008
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 69
+  N° da Emissão: 18
+  N° da série: 3
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2025-08-05
+  Data de Vencimento: 05/08/2026
+  Data Final de Distribuição: 2026-02-04
+  ISIN: BRPVSCCRI743
+
+  Código: 25G0669788
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 21
+  N° da série: 2
+  Qtd Emitida: 4500
+  Volume Emissão: 4500000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2025-07-01
+  Data de Vencimento: 20/02/2033
+  Data Final de Distribuição: 2026-01-06
+  ISIN: BRLSECCRI2U7
+
+  Código: 25G5313879
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 158
   N° da série: 1
-  Qtd Emitida: 23500
-  Volume Emissão: 23500000.0
-  Remuneração: 100,00%  DI+3,00000%
-  Data de Emissão: 2025-07-21
-  Data de Vencimento: 29/07/2030
-  Data Final de Distribuição: 2026-02-03
-  ISIN: BRTSSACRI4U1
+  Qtd Emitida: 281934
+  Volume Emissão: 281934000.0
+  Remuneração: 103,75% DI
+  Data de Emissão: 2025-07-15
+  Data de Vencimento: 15/07/2030
+  Data Final de Distribuição: 2026-02-04
+  ISIN: BRVERTCRICK1
+
+  Código: 25G5313963
+  Emissor: VERT COMPANHIA  SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 158
+  N° da série: 2
+  Qtd Emitida: 18066
+  Volume Emissão: 18066000.0
+  Remuneração: IPCA+8,42310%
+  Data de Emissão: 2025-07-15
+  Data de Vencimento: 15/07/2032
+  Data Final de Distribuição: 2026-02-04
+  ISIN: BRVERTCRICL9
+
+1 row removed
+
+  Código: 19K0059589
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 1
+  N° da série: 73
+  Qtd Emitida: 15000
+  Volume Emissão: 150000000.0
+  Remuneração: 100,00%  DI+1,45000%
+  Data de Emissão: 2019-11-01
+  Data de Vencimento: 22/11/2029
+  Data Final de Distribuição: 2020-05-05
+  ISIN: BRASTECRI0E9
