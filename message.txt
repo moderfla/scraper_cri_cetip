@@ -1,21 +1,68 @@
-1 row changed, 1 row removed
+3 rows changed, 2 rows added, 2 rows removed
 
-1 row changed
+3 rows changed
 
-  Código: 25G3629975
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+  Código: 25F1756909
+    Data de Vencimento: "25/06/2028" => "25/05/2028"
 
-1 row removed
+  Código: 25F1757890
+    Data de Vencimento: "25/06/2028" => "25/05/2028"
 
-  Código: 21C0730879
+  Código: 25F1757987
+    Data de Vencimento: "25/06/2028" => "25/05/2028"
+
+2 rows added
+
+  Código: 25H3263353
   Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S/A DTVM
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 24
+  N° da série: 5
+  Qtd Emitida: 9554
+  Volume Emissão: 9554000.0
+  Remuneração: IPCA+17,01100%
+  Data de Emissão: 2025-08-13
+  Data de Vencimento: 15/04/2035
+  Data Final de Distribuição: 2026-02-14
+  ISIN: BRHBSCCRICS3
+
+  Código: 24D5115403
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 360
+  N° da série: 2
+  Qtd Emitida: 6250
+  Volume Emissão: 6250000.0
+  Remuneração: IPCA+11,50000%
+  Data de Emissão: 2024-11-21
+  Data de Vencimento: 24/11/2027
+  Data Final de Distribuição: 2025-05-27
+  ISIN: BRAPCSCRIQX8
+
+2 rows removed
+
+  Código: 22G1110109
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 13
+  N° da série: 2
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2022-07-27
+  Data de Vencimento: 25/07/2042
+  Data Final de Distribuição: 2024-08-01
+  ISIN: 
+
+  Código: 20H0734994
+  Emissor: ORE SECURITIZADORA S.A.
+  Agente Fiduciário: H. COMMCOR DTVM LTDA
   N° da Emissão: 1
-  N° da série: 233
-  Qtd Emitida: 106000
-  Volume Emissão: 106000000.0
-  Remuneração: IPCA+6,75000%
-  Data de Emissão: 2021-03-17
-  Data de Vencimento: 17/03/2031
-  Data Final de Distribuição: 2021-09-17
-  ISIN: BRHBSCCRI650
+  N° da série: 31
+  Qtd Emitida: 25992
+  Volume Emissão: 25992000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2020-08-19
+  Data de Vencimento: 12/08/2025
+  Data Final de Distribuição: 2021-02-20
+  ISIN: BROSECCRI0P8
