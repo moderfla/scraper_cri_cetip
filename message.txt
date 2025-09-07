@@ -2,48 +2,48 @@
 
 1 row changed
 
-  Código: 20F0165468
-    Data de Vencimento: "05/09/2025" => "05/03/2026"
+  Código: 22L1379419
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
 
 2 rows added
 
-  Código: 25H4925952
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 44
-  N° da série: 1
-  Qtd Emitida: 20000
-  Volume Emissão: 20000000.0
-  Remuneração: 100,00%  DI+3,25000%
-  Data de Emissão: 2025-08-22
-  Data de Vencimento: 23/08/2028
-  Data Final de Distribuição: 2026-03-03
-  ISIN: BRLSECCRI334
-
-  Código: 25H4703760
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 25H5087307
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 441
-  N° da série: 2
-  Qtd Emitida: 7250
-  Volume Emissão: 7250000.0
-  Remuneração: IPCA+10,00000%
-  Data de Emissão: 2025-08-22
-  Data de Vencimento: 28/12/2043
-  Data Final de Distribuição: 2026-03-01
-  ISIN: BRRBRACRIX70
+  N° da Emissão: 56
+  N° da série: 1
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: IPCA+10,50000%
+  Data de Emissão: 2025-08-12
+  Data de Vencimento: 17/08/2029
+  Data Final de Distribuição: 2026-02-24
+  ISIN: BRASTECRI497
+
+  Código: 25H5030806
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 149
+  N° da série: 1
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2025-08-29
+  Data de Vencimento: 22/12/2033
+  Data Final de Distribuição: 2026-03-04
+  ISIN: BRCASCCRI6P3
 
 1 row removed
 
-  Código: 17B0048624
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 20F0674264
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 34
-  Qtd Emitida: 21
-  Volume Emissão: 21798033.56
-  Remuneração: IPCA+13,65000%
-  Data de Emissão: 2017-02-06
-  Data de Vencimento: 20/09/2025
-  Data Final de Distribuição: 2017-08-06
-  ISIN:
+  N° da série: 265
+  Qtd Emitida: 34000
+  Volume Emissão: 34000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2020-06-03
+  Data de Vencimento: 16/05/2033
+  Data Final de Distribuição: 2020-12-11
+  ISIN: BRRBRACRI6O1
