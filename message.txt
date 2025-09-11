@@ -1,60 +1,25 @@
-1 row changed, 4 rows added
+2 rows changed, 1 row added
 
-1 row changed
+2 rows changed
 
-  Código: 24I2536115
-    Remuneração: "IPCA+9,00000%" => ""
+  Código: 24L1532447
+    Data Final de Distribuição: "2025-06-21" => "2034-12-19"
 
-4 rows added
+  Código: 24E2256415
+    Qtd Emitida: "14000" => "8241"
+    Volume Emissão: "14000000.0" => "8241000.0"
 
-  Código: 25H5085635
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 160
-  N° da série: 1
-  Qtd Emitida: 34359
-  Volume Emissão: 34359000.0
-  Remuneração: IPCA+13,00000%
-  Data de Emissão: 2025-08-29
-  Data de Vencimento: 22/08/2035
-  Data Final de Distribuição: 2026-03-07
-  ISIN: BRCASCCRI6Q1
+1 row added
 
-  Código: 25H5085654
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 160
-  N° da série: 2
-  Qtd Emitida: 15000
-  Volume Emissão: 15000000.0
-  Remuneração: IPCA+13,01000%
-  Data de Emissão: 2025-08-29
-  Data de Vencimento: 23/08/2035
-  Data Final de Distribuição: 2026-03-07
-  ISIN: BRCASCCRI6R9
-
-  Código: 25H5089180
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 95
-  N° da série: 1
-  Qtd Emitida: 50000
-  Volume Emissão: 50000000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2025-08-29
-  Data de Vencimento: 29/09/2031
-  Data Final de Distribuição: 2026-02-27
-  ISIN: BRHBSCCRICZ8
-
-  Código: 25H5131703
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 25H2744350
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 88
-  N° da série: 3
-  Qtd Emitida: 59106
-  Volume Emissão: 59106000.0
-  Remuneração: IPCA+6,00000%
-  Data de Emissão: 2025-08-20
-  Data de Vencimento: 28/03/2028
-  Data Final de Distribuição: 2026-03-04
-  ISIN: BRRBRACRIXE4
+  N° da Emissão: 109
+  N° da série: 1
+  Qtd Emitida: 40000
+  Volume Emissão: 40000000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2025-09-01
+  Data de Vencimento: 30/08/2032
+  Data Final de Distribuição: 2026-03-08
+  ISIN: BRPVSCCRI719
