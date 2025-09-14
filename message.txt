@@ -1,44 +1,187 @@
-8 rows changed, 1 row added
+3 rows changed, 7 rows added, 6 rows removed
 
-8 rows changed
+3 rows changed
 
-  Código: 25B2022040
-    Remuneração: "IPCA+12,50000%" => "100,00%  DI+4,85000%"
+  Código: 25G5648900
+    Remuneração: "0,01% DI" => ""
 
-  Código: 15H0105481
-    Remuneração: "IGP-M+14,00000%" => ""
-
-  Código: 21H0921820
-    Remuneração: "IPCA+6,50000%" => ""
-
-  Código: 25C3470318
-    Qtd Emitida: "50000" => "40000"
-    Volume Emissão: "50000000.0" => "40000000.0"
-    Data Final de Distribuição: "2025-09-15" => "2025-09-17"
-
-  Código: 25B3323668
+  Código: 24G2759412
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    Data Final de Distribuição: "2025-03-09" => "2026-03-07"
 
-  Código: 25B3323688
+  Código: 24G2759413
     Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    Data Final de Distribuição: "2025-03-09" => "2026-03-07"
 
-  Código: 25B3323728
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+7 rows added
 
-  Código: 25B3323740
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-1 row added
-
-  Código: 25I0175369
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 81
-  N° da série: 1
-  Qtd Emitida: 15000
-  Volume Emissão: 15000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2025-09-02
-  Data de Vencimento: 29/08/2028
+  Código: 25I0814514
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 41
+  N° da série: 7
+  Qtd Emitida: 28159
+  Volume Emissão: 28159754.63
+  Remuneração: IPCA+11,50000%
+  Data de Emissão: 2025-09-11
+  Data de Vencimento: 14/10/2039
   Data Final de Distribuição: 2026-03-09
-  ISIN: BRHBSCCRID08
+  ISIN: BRASTECRI4C5
+
+  Código: 25I0951607
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 41
+  N° da série: 8
+  Qtd Emitida: 2815
+  Volume Emissão: 2815975.46
+  Remuneração: IPCA+12,50000%
+  Data de Emissão: 2025-09-11
+  Data de Vencimento: 14/10/2039
+  Data Final de Distribuição: 2026-03-09
+  ISIN: BRASTECRI4D3
+
+  Código: 25I0968297
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 41
+  N° da série: 9
+  Qtd Emitida: 2815
+  Volume Emissão: 2815975.46
+  Remuneração: IPCA+15,25000%
+  Data de Emissão: 2025-09-11
+  Data de Vencimento: 14/10/2039
+  Data Final de Distribuição: 2026-03-09
+  ISIN: BRASTECRI4E1
+
+  Código: 25H2108710
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 157
+  N° da série: 1
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2025-08-04
+  Data de Vencimento: 23/07/2030
+  Data Final de Distribuição: 2026-03-09
+  ISIN: BRCASCCRI6J6
+
+  Código: 25H5085933
+  Emissor: CANAL COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: TRUSTEE DTVM LTDA
+  N° da Emissão: 84
+  N° da série: 5
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: IPCA+12,70000%
+  Data de Emissão: 2025-08-29
+  Data de Vencimento: 15/02/2029
+  Data Final de Distribuição: 2026-03-11
+  ISIN: BRCASCCRI6N8
+
+  Código: 25H8249620
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 24
+  N° da série: 1
+  Qtd Emitida: 200000
+  Volume Emissão: 200000000.0
+  Remuneração: 100,00%  DI+0,90000%
+  Data de Emissão: 2025-08-20
+  Data de Vencimento: 23/08/2028
+  Data Final de Distribuição: 2026-03-10
+  ISIN: BRRBRACR00X1
+
+  Código: 25I2039269
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 478
+  N° da série: 1
+  Qtd Emitida: 64500
+  Volume Emissão: 64500000.0
+  Remuneração: 100,00%  DI+4,50000%
+  Data de Emissão: 2025-09-05
+  Data de Vencimento: 04/09/2035
+  Data Final de Distribuição: 2026-03-11
+  ISIN: BRRBRACRIX47
+
+6 rows removed
+
+  Código: 24E1816335
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 318
+  N° da série: 1
+  Qtd Emitida: 43169
+  Volume Emissão: 43169000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOG8
+
+  Código: 24E1816594
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 318
+  N° da série: 3
+  Qtd Emitida: 18501
+  Volume Emissão: 18501000.0
+  Remuneração: 100,00%  DI+9,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOH6
+
+  Código: 24E1816847
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 319
+  N° da série: 1
+  Qtd Emitida: 43169
+  Volume Emissão: 43169000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOK0
+
+  Código: 24E1816849
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 319
+  N° da série: 3
+  Qtd Emitida: 18501
+  Volume Emissão: 18501000.0
+  Remuneração: 100,00%  DI+9,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOL8
+
+  Código: 24E1817009
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 320
+  N° da série: 1
+  Qtd Emitida: 43162
+  Volume Emissão: 43162000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOO2
+
+  Código: 24E1817011
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 320
+  N° da série: 3
+  Qtd Emitida: 18498
+  Volume Emissão: 18498000.0
+  Remuneração: 100,00%  DI+9,00000%
+  Data de Emissão: 2024-05-24
+  Data de Vencimento: 24/05/2027
+  Data Final de Distribuição: 2024-11-24
+  ISIN: BRAPCSCRIOP9
