@@ -1,81 +1,40 @@
-3 rows changed, 1 row added, 4 rows removed
+3 rows changed, 2 rows removed
 
 3 rows changed
 
-  Código: 23G0990171
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "TERRA INVEST DTVM LTDA"
+  Código: 22J1379218
+    Data de Vencimento: "23/12/2025" => "22/12/2026"
 
-  Código: 23G0990636
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "TERRA INVEST DTVM LTDA"
+  Código: 22J1381567
+    Data de Vencimento: "23/12/2025" => "22/12/2026"
 
-  Código: 24L1812703
-    Data de Vencimento: "20/10/2037" => "20/12/2039"
+  Código: 22J1381764
+    Data de Vencimento: "23/12/2025" => "22/12/2026"
 
-1 row added
+2 rows removed
 
-  Código: 25H4328913
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 62
-  N° da série: 2
-  Qtd Emitida: 7000
-  Volume Emissão: 7000000.0
-  Remuneração: 100,00%  DI+3,75000%
-  Data de Emissão: 2025-09-16
-  Data de Vencimento: 31/07/2034
-  Data Final de Distribuição: 2026-03-14
-  ISIN: BRPVSCCRI7B1
-
-4 rows removed
-
-  Código: 15I0138541
+  Código: 19I0745122
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: PENTAGONO DTVM SA
   N° da Emissão: 4
-  N° da série: 82
-  Qtd Emitida: 24
-  Volume Emissão: 8068322.88
-  Remuneração: IPCA+12,50000%
-  Data de Emissão: 2015-09-18
-  Data de Vencimento: 15/09/2025
-  Data Final de Distribuição: 2017-03-15
-  ISIN: BRRBRACRIK42
+  N° da série: 124
+  Qtd Emitida: 3527
+  Volume Emissão: 3527000.0
+  Remuneração: IPCA+6,00000%
+  Data de Emissão: 2019-09-16
+  Data de Vencimento: 16/09/2025
+  Data Final de Distribuição: 2020-04-14
+  ISIN: BRGAIACRI451
 
-  Código: 23C0001602
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 23L2524016
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 126
-  N° da série: 1
-  Qtd Emitida: 87500
-  Volume Emissão: 87500000.0
-  Remuneração: 99,00% DI
-  Data de Emissão: 2023-03-31
-  Data de Vencimento: 15/09/2025
-  Data Final de Distribuição: 2023-09-24
-  ISIN: BRAPCSCRIGX9
-
-  Código: 23H1186528
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO S.A. DTVM
-  N° da Emissão: 208
-  N° da série: 1
-  Qtd Emitida: 350000
-  Volume Emissão: 350000000.0
-  Remuneração: 100,00%  DI+0,30000%
-  Data de Emissão: 2023-09-15
-  Data de Vencimento: 15/09/2025
-  Data Final de Distribuição: 2024-03-12
-  ISIN: BRAPCSCRIJI4
-
-  Código: 22J1099385
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 63
-  N° da série: 1
-  Qtd Emitida: 18500
-  Volume Emissão: 18500000.0
-  Remuneração: IPCA+9,25000%
-  Data de Emissão: 2022-10-21
-  Data de Vencimento: 13/10/2037
-  Data Final de Distribuição: 2023-04-20
-  ISIN: BRIMWLCRIEO6
+  N° da Emissão: 119
+  N° da série: 2
+  Qtd Emitida: 132000
+  Volume Emissão: 132000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2023-12-20
+  Data de Vencimento: 21/12/2029
+  Data Final de Distribuição: 2024-06-18
+  ISIN: BRVERTCRI7G5
