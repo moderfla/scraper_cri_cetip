@@ -1,84 +1,78 @@
-4 rows changed, 3 rows added, 2 rows removed
+2 rows changed, 4 rows added, 1 row removed
 
-4 rows changed
+2 rows changed
 
-  Código: 24D3163840
-    Data de Vencimento: "20/10/2025" => "20/01/2026"
+  Código: 24K1685332
+    Emissor: "VIRGO COMPANHIA DE SECURITIZACAO" => "BARI SECURITIZADORA S.A."
 
-  Código: 23H0027403
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
+  Código: 23H0190135
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
 
-  Código: 23H0027404
-    Agente Fiduciário: "PENTAGONO DTVM SA" => "PENTAGONO S.A. DTVM"
+4 rows added
 
-  Código: 24F1187189
-    Data de Vencimento: "16/06/2031" => "11/06/2031"
-
-3 rows added
-
-  Código: 25I4858675
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 72
-  N° da série: 1
-  Qtd Emitida: 13750
-  Volume Emissão: 13750000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2025-09-24
-  Data de Vencimento: 24/03/2028
-  Data Final de Distribuição: 2026-04-11
-  ISIN: BRTSSACRI4W7
-
-  Código: 25I4858680
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 72
+  Código: 25I4856904
+  Emissor: EXES SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 3
   N° da série: 2
-  Qtd Emitida: 13700
-  Volume Emissão: 13700000.0
-  Remuneração: IPCA+11,00000%
-  Data de Emissão: 2025-09-24
-  Data de Vencimento: 27/03/2028
-  Data Final de Distribuição: 2026-04-11
-  ISIN: BRTSSACRI4X5
+  Qtd Emitida: 13800
+  Volume Emissão: 13800000.0
+  Remuneração: 100,00% DI
+  Data de Emissão: 2025-09-20
+  Data de Vencimento: 22/09/2028
+  Data Final de Distribuição: 2026-04-06
+  ISIN: BREXSECRI061
 
-  Código: 25I4858683
-  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Código: 25J0860765
+  Emissor: EXES SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 3
+  N° da série: 1
+  Qtd Emitida: 32200
+  Volume Emissão: 32200000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2025-09-20
+  Data de Vencimento: 22/09/2028
+  Data Final de Distribuição: 2026-04-06
+  ISIN: BREXSECRI053
+
+  Código: 24I1827028
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 207
+  N° da série: 2
+  Qtd Emitida: 22000
+  Volume Emissão: 22000000.0
+  Remuneração: IPCA+9,15000%
+  Data de Emissão: 2024-09-18
+  Data de Vencimento: 24/09/2031
+  Data Final de Distribuição: 2026-04-06
+  ISIN: BRIMWLCRIK40
+
+  Código: 25C0021802
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 72
-  N° da série: 3
-  Qtd Emitida: 15794
-  Volume Emissão: 15794000.0
-  Remuneração: IPCA+24,64710%
-  Data de Emissão: 2025-09-24
-  Data de Vencimento: 24/03/2028
-  Data Final de Distribuição: 2026-04-11
-  ISIN: BRTSSACRI4Y3
+  N° da Emissão: 209
+  N° da série: 2
+  Qtd Emitida: 11000
+  Volume Emissão: 11000000.0
+  Remuneração: IPCA+11,05000%
+  Data de Emissão: 2025-03-20
+  Data de Vencimento: 21/01/2030
+  Data Final de Distribuição: 2026-03-29
+  ISIN: BRIMWLCRIM30
 
-2 rows removed
+1 row removed
 
-  Código: 20F0870073
+  Código: 20J0864669
   Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 198
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: 
-  Data de Emissão: 2020-06-24
-  Data de Vencimento: 20/08/2026
-  Data Final de Distribuição: 2020-12-24
-  ISIN: BRHBSCCRI4Y4
-
-  Código: 23I1732112
-  Emissor: REIT SECURITIZADORA S/A
-  Agente Fiduciário: GDC PARTNERS DTVM LTDA
-  N° da Emissão: 2
-  N° da série: 28
-  Qtd Emitida: 10120
-  Volume Emissão: 10120000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2023-10-06
-  Data de Vencimento: 17/03/2036
-  Data Final de Distribuição: 2024-04-03
-  ISIN: BRREICCRI0K8
+  N° da série: 189
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+8,50000%
+  Data de Emissão: 2020-10-28
+  Data de Vencimento: 15/03/2031
+  Data Final de Distribuição: 2021-04-23
+  ISIN: BRHBSCCRI5J2
