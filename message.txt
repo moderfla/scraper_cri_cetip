@@ -1,122 +1,66 @@
-29 rows changed, 1 row added, 1 row removed
+2 rows changed, 1 row added, 3 rows removed
 
-29 rows changed
+2 rows changed
 
-  Código: 20G0684774
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  Código: 24D3313118
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    Data Final de Distribuição: "2025-10-26" => "2025-11-23"
 
-  Código: 20G0684775
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684776
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684778
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684779
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684823
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684824
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684826
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684827
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684828
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20G0684848
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225976
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225977
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225978
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225979
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225980
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225981
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225982
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 20H0225983
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21G0064620
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21G0064621
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769214
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769216
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769217
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769218
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769219
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21H0769220
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21C0731423
-    Remuneração: "" => "IPCA+11,52000%"
-    Data de Vencimento: "25/10/2025" => "25/11/2025"
-
-  Código: 21C0912079
-    Remuneração: "" => "IPCA+11,52000%"
-    Data de Vencimento: "25/10/2025" => "25/11/2025"
+  Código: 20L0870667
+    Remuneração: "IPCA+12,00000%" => "IPCA+4,00000%"
 
 1 row added
 
-  Código: 25J2737576
-  Emissor: OPEA SECURITIZADORA S/A
+  Código: 25J3835800
+  Emissor: VERT COMPANHIA  SECURITIZADORA
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 500
+  N° da Emissão: 160
   N° da série: 1
-  Qtd Emitida: 80000
-  Volume Emissão: 80000000.0
-  Remuneração: 100,00%  DI+3,30000%
-  Data de Emissão: 2025-10-20
-  Data de Vencimento: 18/10/2033
-  Data Final de Distribuição: 2026-04-20
-  ISIN: BRRBRACRIY79
+  Qtd Emitida: 120000
+  Volume Emissão: 120000000.0
+  Remuneração: 104,50% DI
+  Data de Emissão: 2025-10-15
+  Data de Vencimento: 17/10/2030
+  Data Final de Distribuição: 2026-04-26
+  ISIN: BRVERTCRIDA0
 
-1 row removed
+3 rows removed
 
-  Código: 22K1262056
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 24F2427238
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 3
-  Qtd Emitida: 193966
-  Volume Emissão: 193966000.0
-  Remuneração: 100,00%  SELIC+1,75500%
-  Data de Emissão: 2022-11-21
-  Data de Vencimento: 21/10/2025
-  Data Final de Distribuição: 2023-04-24
-  ISIN: BRIMWLCR0051
+  N° da Emissão: 51
+  N° da série: 1
+  Qtd Emitida: 4000
+  Volume Emissão: 4000000.0
+  Remuneração: IPCA+13,94000%
+  Data de Emissão: 2024-06-20
+  Data de Vencimento: 22/06/2027
+  Data Final de Distribuição: 2025-01-04
+  ISIN: BRTSSACRI3T5
+
+  Código: 22I1290893
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 48
+  N° da série: 1
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-09-30
+  Data de Vencimento: 22/10/2025
+  Data Final de Distribuição: 2023-03-23
+  ISIN: BRIMWLCRIEA5
+
+  Código: 22I1290978
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 48
+  N° da série: 2
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: IPCA+12,68000%
+  Data de Emissão: 2022-09-30
+  Data de Vencimento: 22/10/2025
+  Data Final de Distribuição: 2023-09-23
+  ISIN: BRIMWLCRIEB3
