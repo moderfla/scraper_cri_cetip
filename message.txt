@@ -1,81 +1,14 @@
-21 rows changed, 1 row added
+1 row removed
 
-21 rows changed
-
-  Código: 19K1139240
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139241
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139242
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139243
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139244
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139245
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139246
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139247
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139248
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 19K1139249
-    Agente Fiduciário: "REAG DTVM S.A." => "TERRA INVESTIMENTOS DTVM LTDA"
-
-  Código: 21D0805847
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805849
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805850
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805852
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805853
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805854
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805855
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805856
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805857
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 21D0805858
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
-
-  Código: 24D3430377
-    Data de Vencimento: "28/04/2027" => "28/10/2028"
-
-1 row added
-
-  Código: 25J4696146
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 166
-  N° da série: 1
-  Qtd Emitida: 30000
-  Volume Emissão: 30000000.0
-  Remuneração: IPCA+11,30000%
-  Data de Emissão: 2025-10-27
-  Data de Vencimento: 25/10/2032
-  Data Final de Distribuição: 2026-05-02
-  ISIN: BRCASCCRI6X7
+  Código: 21G0734354
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 266
+  Qtd Emitida: 200000
+  Volume Emissão: 200000000.0
+  Remuneração: 100,00%  DI+7,70000%
+  Data de Emissão: 2021-07-13
+  Data de Vencimento: 15/06/2026
+  Data Final de Distribuição: 2022-01-21
+  ISIN: BRHBSCCRI6W3
