@@ -1,14 +1,40 @@
-1 row removed
+3 rows removed
 
-  Código: 21G0734354
-  Emissor: HABITASEC SECURITIZADORA S/A
+  Código: 20J0764140
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 266
-  Qtd Emitida: 200000
-  Volume Emissão: 200000000.0
-  Remuneração: 100,00%  DI+7,70000%
-  Data de Emissão: 2021-07-13
-  Data de Vencimento: 15/06/2026
-  Data Final de Distribuição: 2022-01-21
-  ISIN: BRHBSCCRI6W3
+  N° da Emissão: 3
+  N° da série: 22
+  Qtd Emitida: 37500
+  Volume Emissão: 37500000.0
+  Remuneração: 100,00%  DI+4,75000%
+  Data de Emissão: 2020-10-23
+  Data de Vencimento: 30/10/2025
+  Data Final de Distribuição: 2021-04-21
+  ISIN: BRPVSCCRI0N1
+
+  Código: 20J0764341
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 23
+  Qtd Emitida: 37500
+  Volume Emissão: 37500000.0
+  Remuneração: 100,00%  DI+4,75000%
+  Data de Emissão: 2020-10-23
+  Data de Vencimento: 30/10/2025
+  Data Final de Distribuição: 2021-04-21
+  ISIN: BRPVSCCRI0O9
+
+  Código: 23C1664455
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 145
+  N° da série: 1
+  Qtd Emitida: 9000
+  Volume Emissão: 9000000.0
+  Remuneração: IPCA+10,75000%
+  Data de Emissão: 2023-03-17
+  Data de Vencimento: 25/03/2033
+  Data Final de Distribuição: 2023-09-23
+  ISIN: BRAPCSCRIH39
