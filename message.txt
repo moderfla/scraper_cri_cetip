@@ -1,40 +1,73 @@
-3 rows removed
+1 row changed, 5 rows removed
 
-  Código: 20J0764140
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+1 row changed
+
+  Código: 17L0785393
+    Data de Vencimento: "29/12/2027" => "29/11/2027"
+
+5 rows removed
+
+  Código: 22D0371159
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 105
+  Qtd Emitida: 81416
+  Volume Emissão: 81416017.99
+  Remuneração: IPCA+6,10000%
+  Data de Emissão: 2022-04-14
+  Data de Vencimento: 25/03/2042
+  Data Final de Distribuição: 2022-09-30
+  ISIN: BRASTECRI141
+
+  Código: 22D0371507
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 1
+  N° da série: 106
+  Qtd Emitida: 41852
+  Volume Emissão: 41852639.21
+  Remuneração: IPCA+6,65000%
+  Data de Emissão: 2022-04-14
+  Data de Vencimento: 25/04/2047
+  Data Final de Distribuição: 2022-09-30
+  ISIN: BRASTECRI158
+
+  Código: 22F0783752
+  Emissor: BARI SECURITIZADORA S.A.
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
   N° da Emissão: 3
-  N° da série: 22
-  Qtd Emitida: 37500
-  Volume Emissão: 37500000.0
-  Remuneração: 100,00%  DI+4,75000%
-  Data de Emissão: 2020-10-23
-  Data de Vencimento: 30/10/2025
-  Data Final de Distribuição: 2021-04-21
-  ISIN: BRPVSCCRI0N1
-
-  Código: 20J0764341
-  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
-  N° da série: 23
-  Qtd Emitida: 37500
-  Volume Emissão: 37500000.0
-  Remuneração: 100,00%  DI+4,75000%
-  Data de Emissão: 2020-10-23
-  Data de Vencimento: 30/10/2025
-  Data Final de Distribuição: 2021-04-21
-  ISIN: BRPVSCCRI0O9
-
-  Código: 23C1664455
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 145
   N° da série: 1
-  Qtd Emitida: 9000
-  Volume Emissão: 9000000.0
-  Remuneração: IPCA+10,75000%
-  Data de Emissão: 2023-03-17
-  Data de Vencimento: 25/03/2033
-  Data Final de Distribuição: 2023-09-23
-  ISIN: BRAPCSCRIH39
+  Qtd Emitida: 86617
+  Volume Emissão: 86617632.11
+  Remuneração: IPCA+6,10000%
+  Data de Emissão: 2022-06-20
+  Data de Vencimento: 25/06/2042
+  Data Final de Distribuição: 2022-12-06
+  ISIN: BRASTECRI190
+
+  Código: 22F0783773
+  Emissor: BARI SECURITIZADORA S.A.
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 3
+  N° da série: 2
+  Qtd Emitida: 44529
+  Volume Emissão: 44529670.37
+  Remuneração: IPCA+6,65000%
+  Data de Emissão: 2022-06-20
+  Data de Vencimento: 26/06/2034
+  Data Final de Distribuição: 2022-12-06
+  ISIN: BRASTECRI1A5
+
+  Código: 23H1744677
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM
+  N° da Emissão: 27
+  N° da série: 1
+  Qtd Emitida: 42000
+  Volume Emissão: 42000000.0
+  Remuneração: 100,00%  DI+5,50000%
+  Data de Emissão: 2023-08-18
+  Data de Vencimento: 25/09/2026
+  Data Final de Distribuição: 2024-02-14
+  ISIN: BRHBSCCRIAC1
