@@ -1,73 +1,63 @@
-1 row changed, 5 rows removed
+2 rows changed, 4 rows added
 
-1 row changed
+2 rows changed
 
-  Código: 17L0785393
-    Data de Vencimento: "29/12/2027" => "29/11/2027"
+  Código: 21B0767864
+    Remuneração: "IPCA+18,00000%" => ""
 
-5 rows removed
+  Código: 17H0182069
+    Remuneração: "IPCA+11,00000%" => ""
 
-  Código: 22D0371159
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 105
-  Qtd Emitida: 81416
-  Volume Emissão: 81416017.99
-  Remuneração: IPCA+6,10000%
-  Data de Emissão: 2022-04-14
-  Data de Vencimento: 25/03/2042
-  Data Final de Distribuição: 2022-09-30
-  ISIN: BRASTECRI141
+4 rows added
 
-  Código: 22D0371507
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 1
-  N° da série: 106
-  Qtd Emitida: 41852
-  Volume Emissão: 41852639.21
-  Remuneração: IPCA+6,65000%
-  Data de Emissão: 2022-04-14
-  Data de Vencimento: 25/04/2047
-  Data Final de Distribuição: 2022-09-30
-  ISIN: BRASTECRI158
-
-  Código: 22F0783752
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
+  Código: 25J4652042
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 52
   N° da série: 1
-  Qtd Emitida: 86617
-  Volume Emissão: 86617632.11
-  Remuneração: IPCA+6,10000%
-  Data de Emissão: 2022-06-20
-  Data de Vencimento: 25/06/2042
-  Data Final de Distribuição: 2022-12-06
-  ISIN: BRASTECRI190
+  Qtd Emitida: 24700
+  Volume Emissão: 24700000.0
+  Remuneração: 100,00%  DI+3,40000%
+  Data de Emissão: 2025-10-30
+  Data de Vencimento: 07/11/2029
+  Data Final de Distribuição: 2026-05-09
+  ISIN: BRLSECCRI391
 
-  Código: 22F0783773
-  Emissor: BARI SECURITIZADORA S.A.
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 3
+  Código: 25J4653545
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 54
+  N° da série: 1
+  Qtd Emitida: 20500
+  Volume Emissão: 20500000.0
+  Remuneração: 100,00%  DI+3,40000%
+  Data de Emissão: 2025-10-30
+  Data de Vencimento: 07/11/2029
+  Data Final de Distribuição: 2026-05-09
+  ISIN: BRLSECCRI3J8
+
+  Código: 25J5559777
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
   N° da série: 2
-  Qtd Emitida: 44529
-  Volume Emissão: 44529670.37
-  Remuneração: IPCA+6,65000%
-  Data de Emissão: 2022-06-20
-  Data de Vencimento: 26/06/2034
-  Data Final de Distribuição: 2022-12-06
-  ISIN: BRASTECRI1A5
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: 100,00%  DI+11,90000%
+  Data de Emissão: 2025-10-29
+  Data de Vencimento: 12/11/2035
+  Data Final de Distribuição: 2026-05-09
+  ISIN: BRLSECCRI3L4
 
-  Código: 23H1744677
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 27
+  Código: 25J5559778
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 53
   N° da série: 1
-  Qtd Emitida: 42000
-  Volume Emissão: 42000000.0
+  Qtd Emitida: 17250
+  Volume Emissão: 17250000.0
   Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2023-08-18
-  Data de Vencimento: 25/09/2026
-  Data Final de Distribuição: 2024-02-14
-  ISIN: BRHBSCCRIAC1
+  Data de Emissão: 2025-10-29
+  Data de Vencimento: 11/11/2030
+  Data Final de Distribuição: 2026-05-09
+  ISIN: BRLSECCRI3K6
