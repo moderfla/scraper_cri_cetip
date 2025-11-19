@@ -1,76 +1,173 @@
-19 rows changed, 1 row added
+24 rows changed, 5 rows added, 2 rows removed
 
-19 rows changed
+24 rows changed
 
-  Código: 20H0225976
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19J0713614
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225977
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19J0713616
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225978
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19J0713620
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225979
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19J0713625
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225980
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882495
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225981
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882537
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225982
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882538
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20H0225983
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882539
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21G0064620
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882544
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21G0064621
-    Data de Vencimento: "20/07/2026" => "22/07/2030"
+  Código: 19L0882549
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21H0769214
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 19L0882550
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21H0769216
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 19L0882551
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21H0769217
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 17D0192369
+    Remuneração: "100,00%  DI+3,50000%" => "100,00%  DI+3,00000%"
+    Data de Vencimento: "27/04/2026" => "28/04/2031"
 
-  Código: 21H0769218
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 20K0659884
+    Remuneração: "" => "IPCA+7,25000%"
+    Data de Vencimento: "12/11/2025" => "14/12/2026"
 
-  Código: 21H0769219
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 17H0182069
+    Remuneração: "" => "IPCA+11,00000%"
+    Data de Vencimento: "10/11/2025" => "10/11/2026"
 
-  Código: 21H0769220
-    Data de Vencimento: "20/08/2026" => "22/07/2030"
+  Código: 22B0652228
+    Remuneração: "IPCA+9,80000%" => ""
 
-  Código: 21B0767864
-    Remuneração: "" => "IPCA+18,00000%"
-    Data de Vencimento: "10/11/2025" => "09/12/2025"
+  Código: 22B0653348
+    Remuneração: "IPCA+11,35000%" => ""
 
-  Código: 21H0953104
-    Data de Vencimento: "15/10/2038" => "15/11/2040"
+  Código: 22B0653493
+    Remuneração: "IPCA+9,80000%" => ""
 
-  Código: 21H0953114
-    Data de Vencimento: "15/10/2038" => "15/11/2040"
+  Código: 22B0653556
+    Remuneração: "IPCA+11,35000%" => ""
 
-1 row added
+  Código: 22B0653645
+    Remuneração: "IPCA+9,80000%" => ""
 
-  Código: 25J5557433
-  Emissor: TR BLOCK SECURITIZADORA S.A
+  Código: 22B0653656
+    Remuneração: "IPCA+11,35000%" => ""
+
+  Código: 22B0653675
+    Remuneração: "IPCA+9,80000%" => ""
+
+  Código: 22B0653678
+    Remuneração: "IPCA+11,35000%" => ""
+
+  Código: 22B0653681
+    Remuneração: "IPCA+9,80000%" => ""
+
+5 rows added
+
+  Código: 25J5477356
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 54
+  N° da série: 4
+  Qtd Emitida: 5000
+  Volume Emissão: 5000000.0
+  Remuneração: 100,00%  DI+6,00000%
+  Data de Emissão: 2025-11-11
+  Data de Vencimento: 03/03/2027
+  Data Final de Distribuição: 2026-05-17
+  ISIN: BRPVSCCRI7T3
+
+  Código: 25J5480731
+  Emissor: COMPANHIA PROVINCIA DE SECURITIZACAO
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 54
+  N° da série: 3
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: IPCA+12,24000%
+  Data de Emissão: 2025-11-11
+  Data de Vencimento: 03/03/2027
+  Data Final de Distribuição: 2026-05-17
+  ISIN: BRPVSCCRI7S5
+
+  Código: 25K2582347
+  Emissor: HABITASEC SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 34
+  N° da Emissão: 92
   N° da série: 1
-  Qtd Emitida: 180000
-  Volume Emissão: 180000000.0
-  Remuneração: 100,00%  DI+5,50000%
-  Data de Emissão: 2025-10-30
-  Data de Vencimento: 01/11/2029
-  Data Final de Distribuição: 2026-05-06
-  ISIN: BRTRSECR0009
+  Qtd Emitida: 82500
+  Volume Emissão: 82500000.0
+  Remuneração: IPCA+9,50000%
+  Data de Emissão: 2025-11-12
+  Data de Vencimento: 26/04/2052
+  Data Final de Distribuição: 2026-05-16
+  ISIN: BRHBSCCRID73
+
+  Código: 25K2451016
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 526
+  N° da série: 1
+  Qtd Emitida: 58257
+  Volume Emissão: 58257000.0
+  Remuneração: IPCA+9,00000%
+  Data de Emissão: 2025-11-18
+  Data de Vencimento: 16/01/2047
+  Data Final de Distribuição: 2026-05-16
+  ISIN: BRRBRACRIYS2
+
+  Código: 25C2961458
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 251
+  N° da série: 3
+  Qtd Emitida: 11113
+  Volume Emissão: 11113000.0
+  Remuneração: IPCA+12,00000%
+  Data de Emissão: 2025-10-13
+  Data de Vencimento: 19/03/2030
+  Data Final de Distribuição: 2025-09-07
+  ISIN: BRIMWLCRIMI1
+
+2 rows removed
+
+  Código: 22L1463276
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 79
+  N° da série: 1
+  Qtd Emitida: 29000
+  Volume Emissão: 29000000.0
+  Remuneração: 100,00%  DI+4,00000%
+  Data de Emissão: 2022-12-22
+  Data de Vencimento: 24/12/2025
+  Data Final de Distribuição: 2023-06-20
+  ISIN: BRIMWLCRIF21
+
+  Código: 22L1463473
+  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 79
+  N° da série: 2
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: IPCA+11,14000%
+  Data de Emissão: 2022-12-22
+  Data de Vencimento: 24/12/2025
+  Data Final de Distribuição: 2023-06-20
+  ISIN: BRIMWLCRIF39
