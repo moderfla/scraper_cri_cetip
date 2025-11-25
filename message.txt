@@ -1,184 +1,117 @@
-33 rows changed, 2 rows added, 4 rows removed
+26 rows changed, 1 row added, 1 row removed
 
-33 rows changed
+26 rows changed
 
-  Código: 22K1319699
-    Remuneração: "IPCA+10,00000%" => ""
-
-  Código: 24A2532710
-    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "VORTX DTVM S.A."
-
-  Código: 19K1139240
-    Remuneração: "IPCA+9,50000%" => ""
-
-  Código: 19K1139241
-    Remuneração: "IPCA+9,50000%" => ""
-
-  Código: 19K1139242
-    Remuneração: "IPCA+9,50000%" => ""
-
-  Código: 19K1139243
-    Remuneração: "IPCA+9,50000%" => ""
-
-  Código: 19K1139245
-    Remuneração: "IPCA+16,64000%" => ""
-
-  Código: 19K1139246
-    Remuneração: "IPCA+16,64000%" => ""
-
-  Código: 19K1139247
-    Remuneração: "IPCA+16,64000%" => ""
-
-  Código: 19K1139248
-    Remuneração: "IPCA+16,64000%" => ""
-
-  Código: 20L0504499
+  Código: 19K0175216
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0504500
+  Código: 19K0175217
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0504501
+  Código: 21H1029300
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0504502
+  Código: 21H1029302
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0505084
+  Código: 21H1029303
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0505190
+  Código: 21H1029304
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0505193
+  Código: 21H1029305
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 20L0505199
+  Código: 21H1029306
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21C0678164
+  Código: 21H1029307
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21C0678189
+  Código: 21H1029308
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21L1012230
+  Código: 21H1029309
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21L1012231
+  Código: 21H1029310
     Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 19J0327167
-    Remuneração: "100,00%  DI+5,70000%" => "100,00%  DI+2,80000%"
+  Código: 21H1029311
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21C0731423
-    Data de Vencimento: "25/11/2025" => "26/12/2025"
+  Código: 21H1029315
+    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
 
-  Código: 21C0912079
-    Data de Vencimento: "25/11/2025" => "26/12/2025"
+  Código: 21G0733018
+    Remuneração: "IPCA+10,00000%" => "IPCA+11,25000%"
 
-  Código: 24J4816258
-    Data de Vencimento: "05/11/2029" => "05/11/2050"
+  Código: 21G0733026
+    Remuneração: "IPCA+10,00000%" => "IPCA+11,25000%"
+    Data de Vencimento: "26/09/2029" => "29/06/2029"
 
-  Código: 24J4831399
-    Data de Vencimento: "05/11/2029" => "05/11/2050"
+  Código: 22E0854678
+    Remuneração: "IPCA+9,00000%" => ""
 
   Código: 22I0879235
-    Remuneração: "IPCA+10,00000%" => ""
+    Remuneração: "" => "IPCA+10,00000%"
+    Data de Vencimento: "20/11/2025" => "22/12/2025"
 
-  Código: 18I0295355
-    Remuneração: "IPCA+10,50000%" => "IPCA+12,68000%"
+  Código: 24E1509888
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
 
-  Código: 25B3323668
-    Remuneração: "100,00%  DI+2,25000%" => "100,00%  DI+2,15000%"
+  Código: 21H1088438
+    Remuneração: "" => "IPCA+11,25000%"
+    Data de Vencimento: "18/12/2024" => "18/08/2026"
 
-  Código: 25B3323688
-    Remuneração: "100,00%  DI+2,25000%" => "100,00%  DI+2,15000%"
+  Código: 21H1089110
+    Remuneração: "" => "IPCA+13,15000%"
+    Data de Vencimento: "18/12/2024" => "18/08/2026"
 
-  Código: 25B3323728
-    Remuneração: "100,00%  DI+4,45000%" => "100,00%  DI+4,35000%"
+  Código: 24F2427239
+    Remuneração: "IPCA+13,94000%" => ""
 
-  Código: 25B3323740
-    Remuneração: "100,00%  DI+4,45000%" => "100,00%  DI+4,35000%"
+  Código: 24F2427240
+    Remuneração: "IPCA+13,94000%" => ""
 
-2 rows added
+  Código: 20K0713315
+    Remuneração: "IPCA+12,68000%" => ""
 
-  Código: 19L0000003
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 1
-  N° da série: 282
-  Qtd Emitida: 21000
-  Volume Emissão: 21000000.0
-  Remuneração: IGP-M+12,00000%
-  Data de Emissão: 2019-12-03
-  Data de Vencimento: 20/11/2025
-  Data Final de Distribuição: 2020-03-23
-  ISIN: BRFSECCRI8A4
+  Código: 21F0165264
+    Remuneração: "100,00%  DI+7,00000%" => "100,00%  DI+8,00000%"
+    Data de Vencimento: "26/12/2025" => "28/12/2026"
 
-  Código: 25K2513233
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 485
-  N° da série: 1
-  Qtd Emitida: 187000
-  Volume Emissão: 187000000.0
-  Remuneração: 100,00%  DI+0,60000%
-  Data de Emissão: 2025-11-15
-  Data de Vencimento: 25/11/2030
-  Data Final de Distribuição: 2026-05-18
-  ISIN: BRRBRACRIYH5
+  Código: 23I1275811
+    Remuneração: "100,00%  DI+7,00000%" => "100,00%  DI+8,00000%"
+    Data de Vencimento: "26/12/2025" => "28/12/2026"
 
-4 rows removed
+1 row added
 
-  Código: 12K0035724
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO SA DTVM
-  N° da Emissão: 1
-  N° da série: 84
-  Qtd Emitida: 7
-  Volume Emissão: 2640861.79
-  Remuneração: IPCA+6,90470%
-  Data de Emissão: 2012-11-19
-  Data de Vencimento: 17/10/2028
-  Data Final de Distribuição: 2013-05-19
-  ISIN: BRRBRACRI291
-
-  Código: 15H0121267
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 103
-  Qtd Emitida: 1
-  Volume Emissão: 66063385.0
-  Remuneração: IPCA+9,44370%
-  Data de Emissão: 2015-08-17
-  Data de Vencimento: 11/06/2027
-  Data Final de Distribuição: 2016-02-12
-  ISIN: BRRBCSCRI337
-
-  Código: 15H0121300
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: PENTAGONO DTVM SA
-  N° da Emissão: 1
-  N° da série: 105
-  Qtd Emitida: 1
-  Volume Emissão: 117165196.19
+  Código: 24D3691425
+  Emissor: TRUE  SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 304
+  N° da série: 3
+  Qtd Emitida: 4440
+  Volume Emissão: 4440000.0
   Remuneração: IPCA+8,50000%
-  Data de Emissão: 2015-08-17
-  Data de Vencimento: 11/06/2027
-  Data Final de Distribuição: 2016-02-13
-  ISIN: BRRBCSCRI345
+  Data de Emissão: 2024-05-22
+  Data de Vencimento: 28/09/2029
+  Data Final de Distribuição: 2026-05-18
+  ISIN: BRAPCSCRIOA1
 
-  Código: 21E0631138
+1 row removed
+
+  Código: 21I0955277
   Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: VORTX DTVM S.A.
   N° da Emissão: 1
-  N° da série: 343
-  Qtd Emitida: 1605
-  Volume Emissão: 1605000.0
+  N° da série: 376
+  Qtd Emitida: 7000
+  Volume Emissão: 7000000.0
   Remuneração: 
-  Data de Emissão: 2021-05-19
-  Data de Vencimento: 07/04/2023
-  Data Final de Distribuição: 2021-11-18
-  ISIN: BRRBRACRI8F5
+  Data de Emissão: 2021-09-24
+  Data de Vencimento: 24/09/2025
+  Data Final de Distribuição: 2022-03-24
+  ISIN: BRRBRACRI9S6
