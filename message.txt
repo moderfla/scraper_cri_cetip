@@ -1,62 +1,67 @@
-5 rows changed, 1 row added, 2 rows removed
+2 rows changed, 3 rows added, 1 row removed
 
-5 rows changed
+2 rows changed
 
-  Código: 22J1370286
-    Remuneração: "IPCA+10,90000%" => "100,00%  DI+3,00000%"
+  Código: 25E3729759
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    Data Final de Distribuição: "2025-11-23" => "2028-07-20"
 
-  Código: 25J4545788
-    Data de Vencimento: "13/11/2035" => "16/11/2035"
+  Código: 25E3736055
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    Data Final de Distribuição: "2025-11-23" => "2028-07-20"
 
-  Código: 25J4546988
-    Data de Vencimento: "11/11/2032" => "16/11/2032"
+3 rows added
 
-  Código: 25J4548658
-    Data de Vencimento: "13/11/2040" => "16/11/2040"
-
-  Código: 22E0854678
-    Remuneração: "" => "IPCA+9,00000%"
-    Data de Vencimento: "22/11/2025" => "22/05/2026"
-
-1 row added
-
-  Código: 25K2628125
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
+  Código: 25K1934018
+  Emissor: OPEA SECURITIZADORA S/A
   Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 298
+  N° da Emissão: 515
+  N° da série: 1
+  Qtd Emitida: 150000
+  Volume Emissão: 150000000.0
+  Remuneração: IPCA+10,22350%
+  Data de Emissão: 2025-11-21
+  Data de Vencimento: 16/11/2033
+  Data Final de Distribuição: 2026-05-30
+  ISIN: BRRBRACRIYN3
+
+  Código: 25K3286379
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 285
   N° da série: 2
-  Qtd Emitida: 25000
-  Volume Emissão: 25000000.0
-  Remuneração: 100,00%  DI+1,85000%
-  Data de Emissão: 2025-11-27
-  Data de Vencimento: 29/11/2030
-  Data Final de Distribuição: 2026-05-27
-  ISIN: BRIMWLCRIOU2
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+4,70000%
+  Data de Emissão: 2025-11-11
+  Data de Vencimento: 24/11/2028
+  Data Final de Distribuição: 2026-05-26
+  ISIN: 
 
-2 rows removed
+  Código: 25J5716833
+  Emissor: TRAVESSIA SECURITIZADORA S.A.
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 70
+  N° da série: 1
+  Qtd Emitida: 35000
+  Volume Emissão: 35000000.0
+  Remuneração: IPCA+11,00000%
+  Data de Emissão: 2025-10-24
+  Data de Vencimento: 27/10/2037
+  Data Final de Distribuição: 2026-05-30
+  ISIN: BRTSSACRI505
 
-  Código: 23I1210221
+1 row removed
+
+  Código: 23G1452140
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
   Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 116
-  N° da série: 1
-  Qtd Emitida: 37243
-  Volume Emissão: 37243000.0
-  Remuneração: IPCA+8,28000%
-  Data de Emissão: 2023-09-05
-  Data de Vencimento: 24/08/2027
-  Data Final de Distribuição: 2024-03-11
-  ISIN: BRIMWLCRIGF9
-
-  Código: 23I1211920
-  Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM
-  N° da Emissão: 116
+  N° da Emissão: 104
   N° da série: 2
-  Qtd Emitida: 32500
-  Volume Emissão: 32500000.0
-  Remuneração: IPCA+9,00000%
-  Data de Emissão: 2023-09-05
-  Data de Vencimento: 24/08/2027
-  Data Final de Distribuição: 2024-03-13
-  ISIN: BRIMWLCRIGG7
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
+  Remuneração: 100,00%  DI+5,75000%
+  Data de Emissão: 2023-07-13
+  Data de Vencimento: 20/07/2028
+  Data Final de Distribuição: 2024-01-23
+  ISIN: BRIMWLCRIFT2
