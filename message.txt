@@ -1,241 +1,87 @@
-26 rows changed, 5 rows added, 7 rows removed
+4 rows changed, 5 rows added
 
-26 rows changed
+4 rows changed
 
-  Código: 21E0823441
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
+  Código: 17K0150400
+    Remuneração: "IPCA+5,45300%" => ""
 
-  Código: 22A0896533
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
+  Código: 21I0682156
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    N° da Emissão: "4" => "43"
+    N° da série: "355" => "1"
+    ISIN: "BRIMWLCRI8R8" => "BRLSECCRI3Z4"
 
-  Código: 19H0167424
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
+  Código: 24K2329024
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+    N° da Emissão: "215" => "42"
+    ISIN: "BRIMWLCRIKQ8" => "BRLSECCRI409"
 
-  Código: 20L0592421
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 20L0592423
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0953752
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0953753
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0953756
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0953758
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0966693
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 21F0966694
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J0961350
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J0961353
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J0961355
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J0961358
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J0961359
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J7303245
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J7303246
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J7303247
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J7303248
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 24J7303249
-    Agente Fiduciário: "REAG DTVM S.A." => "QORE DISTRIBUIDORA DE TITULOS E VAL"
-
-  Código: 23K1511855
-    Data de Vencimento: "29/11/2028" => "30/12/2030"
-
-  Código: 16B0742430
-    Remuneração: "IGP-M+15,00000%" => ""
-
-  Código: 16B0742431
-    Remuneração: "IGP-M+9,50000%" => ""
-
-  Código: 17C0996899
-    Remuneração: "IGP-M+15,00000%" => ""
-
-  Código: 17G0885490
-    Remuneração: "IGP-M+11,50000%" => ""
+  Código: 22L1603918
+    Data de Vencimento: "15/12/2025" => "15/09/2026"
 
 5 rows added
 
-  Código: 24E5004418
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 99
-  N° da série: 3
-  Qtd Emitida: 12000
-  Volume Emissão: 12000000.0
-  Remuneração: IPCA+11,20000%
-  Data de Emissão: 2024-05-07
-  Data de Vencimento: 26/04/2028
-  Data Final de Distribuição: 2026-06-06
-  ISIN: BRCASCCRI752
-
-  Código: 25L0636680
-  Emissor: CANAL COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 152
+  Código: 25L2191977
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 107
   N° da série: 1
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
+  Qtd Emitida: 15000
+  Volume Emissão: 15000000.0
   Remuneração: IPCA+11,00000%
   Data de Emissão: 2025-12-05
-  Data de Vencimento: 24/05/2028
-  Data Final de Distribuição: 2026-06-03
-  ISIN: BRCASCCRI729
+  Data de Vencimento: 24/05/2029
+  Data Final de Distribuição: 2026-06-09
+  ISIN: BRHBSCCRIDK8
 
-  Código: 25L0402535
-  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 59
-  N° da série: 1
-  Qtd Emitida: 60000
-  Volume Emissão: 60000000.0
-  Remuneração: 100,00%  DI+4,00000%
-  Data de Emissão: 2025-12-02
-  Data de Vencimento: 25/11/2030
-  Data Final de Distribuição: 2026-06-07
-  ISIN: BRLSECCRI3T7
-
-  Código: 25K3782901
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 542
-  N° da série: 1
-  Qtd Emitida: 72000
-  Volume Emissão: 72000000.0
-  Remuneração: 100,00%  DI+2,15000%
-  Data de Emissão: 2025-11-24
-  Data de Vencimento: 26/11/2029
-  Data Final de Distribuição: 2026-06-07
-  ISIN: BRRBRACRIZW1
-
-  Código: 25K3782902
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
-  N° da Emissão: 542
+  Código: 26A0022601
+  Emissor: HABITASEC SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 107
   N° da série: 2
-  Qtd Emitida: 8000
-  Volume Emissão: 8000000.0
-  Remuneração: 100,00%  DI+3,15000%
-  Data de Emissão: 2025-11-24
-  Data de Vencimento: 26/11/2029
-  Data Final de Distribuição: 2026-06-07
-  ISIN: BRRBRACRIZY7
+  Qtd Emitida: 10000
+  Volume Emissão: 10000000.0
+  Remuneração: IPCA+10,95000%
+  Data de Emissão: 2026-01-05
+  Data de Vencimento: 24/05/2029
+  Data Final de Distribuição: 2026-06-09
+  ISIN: BRHBSCCRIDL6
 
-7 rows removed
+  Código: 25L2378911
+  Emissor: LEVERAGE COMPANHIA SECURITIZADORA
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 62
+  N° da série: 1
+  Qtd Emitida: 30000
+  Volume Emissão: 30000000.0
+  Remuneração: 100,00%  DI+3,60000%
+  Data de Emissão: 2025-12-04
+  Data de Vencimento: 22/12/2028
+  Data Final de Distribuição: 2026-06-09
+  ISIN: BRLSECCRI3V3
 
-  Código: 20D1003071
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 395
-  Qtd Emitida: 74690
-  Volume Emissão: 74690000.0
-  Remuneração: IPCA+7,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2020-10-29
-  ISIN: BRFSECCRIAE5
+  Código: 25L0013801
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: PENTAGONO S.A. DTVM
+  N° da Emissão: 540
+  N° da série: 1
+  Qtd Emitida: 100000
+  Volume Emissão: 100000000.0
+  Remuneração: 101,90% DI
+  Data de Emissão: 2025-12-10
+  Data de Vencimento: 17/12/2032
+  Data Final de Distribuição: 2026-06-08
+  ISIN: BRRBRACRIYR4
 
-  Código: 20D1003072
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 398
-  Qtd Emitida: 30310
-  Volume Emissão: 30310000.0
-  Remuneração: IPCA+7,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2021-04-30
-  ISIN: BRFSECCRIAH8
-
-  Código: 20D1003076
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 399
-  Qtd Emitida: 6495
-  Volume Emissão: 6495000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2021-04-29
-  ISIN: BRFSECCRIAI6
-
-  Código: 20D1003079
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 396
-  Qtd Emitida: 16005
-  Volume Emissão: 16005000.0
-  Remuneração: IPCA+10,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2020-10-29
-  ISIN: BRFSECCRIAF2
-
-  Código: 20D1003080
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 397
-  Qtd Emitida: 16005
-  Volume Emissão: 16005000.0
-  Remuneração: IPCA+14,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2020-10-29
-  ISIN: BRFSECCRIAG0
-
-  Código: 20D1003081
-  Emissor: FORTE SECURITIZADORA S.A.
-  Agente Fiduciário: PAVARINI DTVM LTDA
-  N° da Emissão: 1
-  N° da série: 400
-  Qtd Emitida: 6495
-  Volume Emissão: 6495000.0
-  Remuneração: IPCA+14,50000%
-  Data de Emissão: 2020-04-29
-  Data de Vencimento: 20/05/2030
-  Data Final de Distribuição: 2021-04-29
-  ISIN: BRFSECCRIAJ4
-
-  Código: 22B0309134
+  Código: 25B3837803
   Emissor: VIRGO COMPANHIA DE SECURITIZACAO
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 4
-  N° da série: 423
-  Qtd Emitida: 150000
-  Volume Emissão: 150000000.0
-  Remuneração: 100,00%  DI+3,15000%
-  Data de Emissão: 2022-02-21
-  Data de Vencimento: 24/02/2027
-  Data Final de Distribuição: 2022-07-20
-  ISIN: BRIMWLCRIAV9
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 241
+  N° da série: 2
+  Qtd Emitida: 7900
+  Volume Emissão: 7900000.0
+  Remuneração: 100,00%  DI+5,00000%
+  Data de Emissão: 2025-02-25
+  Data de Vencimento: 30/04/2029
+  Data Final de Distribuição: 2026-05-30
+  ISIN: BRIMWLCRIMA8
