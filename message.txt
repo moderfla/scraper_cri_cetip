@@ -1,34 +1,4 @@
-1 row changed, 2 rows removed
-
 1 row changed
 
-  Código: 25L3373552
-    Remuneração: "10,10000%" => "IPCA+10,10000%"
-
-2 rows removed
-
-  Código: 22L1215090
-  Emissor: HABITASEC SECURITIZADORA S/A
-  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
-  N° da Emissão: 20
-  N° da série: 1
-  Qtd Emitida: 6000
-  Volume Emissão: 6000000.0
-  Remuneração: 
-  Data de Emissão: 2022-12-14
-  Data de Vencimento: 29/12/2025
-  Data Final de Distribuição: 2023-06-14
-  ISIN: BRHBSCCRI9V9
-
-  Código: 23J2233201
-  Emissor: OPEA SECURITIZADORA S/A
-  Agente Fiduciário: VORTX DTVM S.A.
-  N° da Emissão: 220
-  N° da série: 1
-  Qtd Emitida: 31545
-  Volume Emissão: 31545000.0
-  Remuneração: 100,00%  DI+2,80000%
-  Data de Emissão: 2023-10-31
-  Data de Vencimento: 06/01/2026
-  Data Final de Distribuição: 2024-05-05
-  ISIN: BRRBRACRIK75
+  Código: 25L2393421
+    Agente Fiduciário: "" => "VORTX DISTRIBUIDORA DE TITULOS E VA"
