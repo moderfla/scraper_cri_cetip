@@ -1,4 +1,105 @@
-1 row changed
+2 rows changed, 2 rows added, 5 rows removed
 
-  Código: 25L2393421
-    Agente Fiduciário: "" => "VORTX DISTRIBUIDORA DE TITULOS E VA"
+2 rows changed
+
+  Código: 15L0676117
+    Remuneração: "IPCA+12,00000%" => ""
+
+  Código: 25A1801229
+    Qtd Emitida: "26000" => "45257"
+    Volume Emissão: "26000000.0" => "45257000.0"
+
+2 rows added
+
+  Código: 25I4731089
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: VORTX DTVM S.A.
+  N° da Emissão: 506
+  N° da série: 3
+  Qtd Emitida: 50000
+  Volume Emissão: 50000000.0
+  Remuneração: INCC-DI
+  Data de Emissão: 2025-09-30
+  Data de Vencimento: 16/09/2030
+  Data Final de Distribuição: 2026-01-06
+  ISIN: 
+
+  Código: 26A0073288
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM SA
+  N° da Emissão: 572
+  N° da série: 1
+  Qtd Emitida: 209004
+  Volume Emissão: 209004000.0
+  Remuneração: IPCA+9,16840%
+  Data de Emissão: 2026-01-02
+  Data de Vencimento: 02/08/2028
+  Data Final de Distribuição: 2026-07-14
+  ISIN: BRRBRACIR1H6
+
+5 rows removed
+
+  Código: 22I0822102
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 44
+  N° da série: 1
+  Qtd Emitida: 6000
+  Volume Emissão: 6000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2022-09-15
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2023-09-14
+  ISIN: BRAPCSCRIF72
+
+  Código: 22I0822128
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 44
+  N° da série: 3
+  Qtd Emitida: 3000
+  Volume Emissão: 3000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2022-09-15
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2024-09-14
+  ISIN: BRAPCSCRIF80
+
+  Código: 22I0822159
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 44
+  N° da série: 3
+  Qtd Emitida: 6000
+  Volume Emissão: 6000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2022-09-15
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2024-09-14
+  ISIN: BRAPCSCRIF98
+
+  Código: 22I0822490
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 44
+  N° da série: 4
+  Qtd Emitida: 6000
+  Volume Emissão: 6000000.0
+  Remuneração: IPCA+13,00000%
+  Data de Emissão: 2022-09-15
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2024-09-14
+  ISIN: BRAPCSCRIFA9
+
+  Código: 22I0822669
+  Emissor: OPEA SECURITIZADORA S/A
+  Agente Fiduciário: OLIVEIRA TRUST DTVM S/A
+  N° da Emissão: 44
+  N° da série: 9
+  Qtd Emitida: 32100
+  Volume Emissão: 32100000.0
+  Remuneração: IPCA+20,00000%
+  Data de Emissão: 2022-09-15
+  Data de Vencimento: 15/09/2032
+  Data Final de Distribuição: 2023-09-14
+  ISIN: BRAPCSCRIFF8
