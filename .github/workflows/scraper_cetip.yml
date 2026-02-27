@@ -23,7 +23,7 @@ jobs:
       - name: Instalar csv-diff
         run: pip install csv-diff
       - name: Diff Arquivos
-        run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key='Código' > message.txt
+        run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key=1 > message.txt
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
