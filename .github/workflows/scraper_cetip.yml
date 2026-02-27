@@ -25,7 +25,7 @@ jobs:
       - name: Verificar colunas disponíveis
         run: head -1 emissoes_cri.csv | tr ';' '\n'
       - name: Diff Arquivos
-        run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key='Código' > message.txt
+        run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key=Código > message.txt
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
