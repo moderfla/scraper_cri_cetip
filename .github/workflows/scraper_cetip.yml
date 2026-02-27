@@ -14,23 +14,13 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v4 # checkout the repository content to github runner
 
-      - name: setup python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.13.2' # install the python version needed
-          
-      - name: install python packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          
-      - name: copy files
+      - name: Copiar Arquivos
         run: cp emissoes_cri.csv emissoes_cri-old.csv 
-      - name: execute py script 
-        run: python scraper_cetip.py  
-      - name: csv-diff 
+      - name: Baixar dados CRI
+        run: bash scraper.sh
+      - name: Diff Arquivos
         run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key='Código' > message.txt
       - name: commit files
         run: |
