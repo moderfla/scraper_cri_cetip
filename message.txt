@@ -1,1 +1,1 @@
-CRI: +0, -0, ~4411 registros alterados
+CRI: +0, -0, ~0 registros alterados
