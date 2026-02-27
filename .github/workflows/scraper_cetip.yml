@@ -20,6 +20,8 @@ jobs:
         run: cp emissoes_cri.csv emissoes_cri-old.csv 
       - name: Baixar dados CRI
         run: bash scraper.sh
+      - name: Instalar csv-diff
+        run: pip install csv-diff
       - name: Diff Arquivos
         run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key='Código' > message.txt
       - name: commit files
