@@ -22,6 +22,14 @@ jobs:
         run: bash scraper.sh
       - name: Instalar csv-diff
         run: pip install csv-diff
+      - name: Remover BOM dos CSVs
+        run: |
+          for f in emissoes_cri-old.csv emissoes_cri.csv; do
+            if [ -f "$f" ]; then
+              # Remove BOM UTF-8 da primeira linha, se existir
+              sed -i $'1s/^\xEF\xBB\xBF//' "$f"
+            fi
+          done
       - name: Verificar colunas disponíveis
         run: head -1 emissoes_cri.csv | tr ',' '\n'
       - name: Diff Arquivos
