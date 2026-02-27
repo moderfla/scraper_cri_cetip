@@ -28,8 +28,6 @@ jobs:
       - name: Baixar dados CRI
         run: bash scraper.sh
 
-      # (não precisa mais de pip install csv-diff aqui)
-
       - name: Calcular diff de emissoes_cri.csv
         shell: python
         run: |
@@ -45,9 +43,10 @@ jobs:
 
             with p.open(encoding="utf-8", newline="") as f:
               reader = csv.DictReader(f)
-              for i, row in enumerate(reader, start=2):
+              for row in reader:
                 codigo = row.get("Código")
                 if not codigo:
+                  # ignora linhas quebradas ou sem chave
                   continue
                 rows[codigo] = row
             return rows
@@ -55,32 +54,85 @@ jobs:
           old = load_by_codigo("emissoes_cri-old.csv")
           new = load_by_codigo("emissoes_cri.csv")
 
-          added_keys = [k for k in new.keys() if k not in old]
-          removed_keys = [k for k in old.keys() if k not in new]
-          common_keys = [k for k in new.keys() if k in old]
+          old_keys = set(old.keys())
+          new_keys = set(new.keys())
+
+          added_keys = sorted(new_keys - old_keys)
+          removed_keys = sorted(old_keys - new_keys)
+          common_keys = sorted(old_keys & new_keys)
 
           changed = []
           for k in common_keys:
-            if new[k] != old[k]:
-              changed.append(k)
+            before = old[k]
+            after = new[k]
+            field_changes = {}
+            for col in after.keys():
+              b = before.get(col)
+              a = after.get(col)
+              if b != a:
+                field_changes[col] = {"before": b, "after": a}
+            if field_changes:
+              changed.append({
+                "Código": k,
+                "changes": field_changes,
+              })
 
-          summary = f"CRI: +{len(added_keys)}, -{len(removed_keys)}, ~{len(changed)} registros alterados"
+          summary = (
+            f"CRI: +{len(added_keys)} adicionados, "
+            f"-{len(removed_keys)} removidos, "
+            f"~{len(changed)} alterados"
+          )
 
           diff = {
             "summary": summary,
             "added": [new[k] for k in added_keys],
             "removed": [old[k] for k in removed_keys],
-            "changed": [
-              {"Código": k, "before": old[k], "after": new[k]} for k in changed
-            ],
+            "changed": changed,
           }
 
           print(summary)
+
+          # JSON completo para inspeção posterior
           with open("diff_emissoes_cri.json", "w", encoding="utf-8") as f:
             json.dump(diff, f, ensure_ascii=False, indent=2)
 
+          # Mensagem de commit legível
+          # (limita detalhes a, por ex., 100 códigos para não explodir o commit)
+          MAX_DETAILS = 100
+
+          lines = [summary, ""]
+
+          if added_keys:
+            lines.append("Linhas adicionadas (Código):")
+            for k in added_keys[:MAX_DETAILS]:
+              lines.append(f"  - {k}")
+            if len(added_keys) > MAX_DETAILS:
+              lines.append(f"  ... (+{len(added_keys) - MAX_DETAILS} adicionais)")
+            lines.append("")
+
+          if removed_keys:
+            lines.append("Linhas removidas (Código):")
+            for k in removed_keys[:MAX_DETAILS]:
+              lines.append(f"  - {k}")
+            if len(removed_keys) > MAX_DETAILS:
+              lines.append(f"  ... (+{len(removed_keys) - MAX_DETAILS} adicionais)")
+            lines.append("")
+
+          if changed:
+            lines.append("Linhas alteradas (campo a campo):")
+            for item in changed[:MAX_DETAILS]:
+              k = item["Código"]
+              lines.append(f"  Código: {k}")
+              for col, ch in item["changes"].items():
+                b = ch["before"]
+                a = ch["after"]
+                lines.append(f"    {col}: \"{b}\" => \"{a}\"")
+              lines.append("")
+            if len(changed) > MAX_DETAILS:
+              lines.append(f"  ... (+{len(changed) - MAX_DETAILS} códigos com alterações)")
+
           with open("message.txt", "w", encoding="utf-8") as f:
-            f.write(summary + "\n")
+            f.write("\n".join(lines) + "\n")
 
       - name: commit files
         run: |
