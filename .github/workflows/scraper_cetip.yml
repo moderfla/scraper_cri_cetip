@@ -3,42 +3,75 @@ name: Scraper
 on:
   push:
     paths:
-      - .github/workflows/scraper_cetip.yml # Only run a new workflow every time this file (flat.yaml) file changes
-  workflow_dispatch: # Required even though this is currently empty
+      - .github/workflows/scraper_cetip.yml
+  workflow_dispatch:
   schedule:
-    - cron: '5 8 * * *' # Run this workflow every 5 minutes
+    - cron: '5 8 * * *'   # roda todo dia às 08:05 UTC
 
 jobs:
   build:
     runs-on: ubuntu-slim
     steps:
-
       - name: checkout repo content
-        uses: actions/checkout@v4 # checkout the repository content to github runner
+        uses: actions/checkout@v4
 
-      - name: Copiar Arquivos
-        run: cp emissoes_cri.csv emissoes_cri-old.csv 
+      - name: Copiar arquivo anterior (se existir)
+        run: |
+          if [ -f emissoes_cri.csv ]; then
+            cp emissoes_cri.csv emissoes_cri-old.csv
+          else
+            # primeira execução: cria arquivo vazio antigo
+            touch emissoes_cri-old.csv
+          fi
+
       - name: Baixar dados CRI
         run: bash scraper.sh
+
       - name: Instalar csv-diff
         run: pip install csv-diff
-      - name: Remover BOM dos CSVs
+
+      - name: Normalizar CSVs para diff
         run: |
-          for f in emissoes_cri-old.csv emissoes_cri.csv; do
-            if [ -f "$f" ]; then
-              # Remove BOM UTF-8 da primeira linha, se existir
-              sed -i $'1s/^\xEF\xBB\xBF//' "$f"
+          normalize() {
+            in="$1"
+            out="$2"
+            if [ ! -f "$in" ]; then
+              return 0
             fi
-          done
-      - name: Verificar colunas disponíveis
-        run: head -1 emissoes_cri.csv | tr ',' '\n'
+            # Remove BOM, mantém 12 primeiras colunas e converte ; -> ,
+            sed $'1s/^\xEF\xBB\xBF//' "$in" \
+              | cut -d';' -f1-12 \
+              | tr ';' ',' > "$out"
+          }
+
+          normalize emissoes_cri-old.csv emissoes_cri-old.norm.csv
+          normalize emissoes_cri.csv emissoes_cri.norm.csv
+
+          echo "Header OLD normalizado:"
+          if [ -f emissoes_cri-old.norm.csv ]; then
+            head -1 emissoes_cri-old.norm.csv | tr ',' '\n' || true
+          else
+            echo "(sem arquivo anterior normalizado)"
+          fi
+
+          echo "Header NEW normalizado:"
+          head -1 emissoes_cri.norm.csv | tr ',' '\n'
+
       - name: Diff Arquivos
-        run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key='Código' > message.txt
+        run: |
+          if [ -f emissoes_cri-old.norm.csv ]; then
+            csv-diff emissoes_cri-old.norm.csv emissoes_cri.norm.csv \
+              --key "Código" \
+              > message.txt || true
+          else
+            echo "Arquivo inicial, sem diff anterior" > message.txt
+          fi
+          cat message.txt
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          timestamp=$(date -u)
           git commit -F message.txt || exit 0
           git push
