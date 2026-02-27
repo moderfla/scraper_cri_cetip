@@ -49,6 +49,6 @@ echo "Convertendo delimitador ; para TAB..."
 # Converter ISO-8859-1 -> UTF-8, remover coluna 13, e trocar ; por TAB
 iconv -f ISO-8859-1 -t UTF-8 "$TEMP_CSV" | \
     cut -d';' -f1-12 | \
-    sed 's/;/\t/g' > "$OUTPUT_FILE"
+    sed 's/;,/g' > "$OUTPUT_FILE"
 
-echo "OK: Arquivo '$OUTPUT_FILE' gerado com TAB como separador"
+echo "OK: Arquivo '$OUTPUT_FILE' gerado com sucesso"
