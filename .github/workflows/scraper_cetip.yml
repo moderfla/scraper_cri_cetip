@@ -12,61 +12,75 @@ jobs:
   build:
     runs-on: ubuntu-slim
     steps:
+
       - name: checkout repo content
         uses: actions/checkout@v4
 
-      - name: Copiar arquivo anterior (se existir)
+      - name: Copiar Arquivos
         run: |
           if [ -f emissoes_cri.csv ]; then
             cp emissoes_cri.csv emissoes_cri-old.csv
           else
-            # primeira execução: cria arquivo vazio antigo
+            # primeira execução: arquivo antigo vazio
             touch emissoes_cri-old.csv
           fi
 
       - name: Baixar dados CRI
         run: bash scraper.sh
 
-      - name: Instalar csv-diff
-        run: pip install csv-diff
+      # (não precisa mais de pip install csv-diff aqui)
 
-      - name: Normalizar CSVs para diff
+      - name: Calcular diff de emissoes_cri.csv
+        shell: python
         run: |
-          normalize() {
-            in="$1"
-            out="$2"
-            if [ ! -f "$in" ]; then
-              return 0
-            fi
-            # Remove BOM, mantém 12 primeiras colunas e converte ; -> ,
-            sed $'1s/^\xEF\xBB\xBF//' "$in" \
-              | cut -d';' -f1-12 \
-              | tr ';' ',' > "$out"
+          import csv
+          import json
+          import pathlib
+
+          def load_by_codigo(path: str):
+            p = pathlib.Path(path)
+            rows = {}
+            if not p.exists() or p.stat().st_size == 0:
+              return rows
+
+            with p.open(encoding="utf-8", newline="") as f:
+              reader = csv.DictReader(f)
+              for i, row in enumerate(reader, start=2):
+                codigo = row.get("Código")
+                if not codigo:
+                  continue
+                rows[codigo] = row
+            return rows
+
+          old = load_by_codigo("emissoes_cri-old.csv")
+          new = load_by_codigo("emissoes_cri.csv")
+
+          added_keys = [k for k in new.keys() if k not in old]
+          removed_keys = [k for k in old.keys() if k not in new]
+          common_keys = [k for k in new.keys() if k in old]
+
+          changed = []
+          for k in common_keys:
+            if new[k] != old[k]:
+              changed.append(k)
+
+          summary = f"CRI: +{len(added_keys)}, -{len(removed_keys)}, ~{len(changed)} registros alterados"
+
+          diff = {
+            "summary": summary,
+            "added": [new[k] for k in added_keys],
+            "removed": [old[k] for k in removed_keys],
+            "changed": [
+              {"Código": k, "before": old[k], "after": new[k]} for k in changed
+            ],
           }
 
-          normalize emissoes_cri-old.csv emissoes_cri-old.norm.csv
-          normalize emissoes_cri.csv emissoes_cri.norm.csv
+          print(summary)
+          with open("diff_emissoes_cri.json", "w", encoding="utf-8") as f:
+            json.dump(diff, f, ensure_ascii=False, indent=2)
 
-          echo "Header OLD normalizado:"
-          if [ -f emissoes_cri-old.norm.csv ]; then
-            head -1 emissoes_cri-old.norm.csv | tr ',' '\n' || true
-          else
-            echo "(sem arquivo anterior normalizado)"
-          fi
-
-          echo "Header NEW normalizado:"
-          head -1 emissoes_cri.norm.csv | tr ',' '\n'
-
-      - name: Diff Arquivos
-        run: |
-          if [ -f emissoes_cri-old.norm.csv ]; then
-            csv-diff emissoes_cri-old.norm.csv emissoes_cri.norm.csv \
-              --key "Código" \
-              > message.txt || true
-          else
-            echo "Arquivo inicial, sem diff anterior" > message.txt
-          fi
-          cat message.txt
+          with open("message.txt", "w", encoding="utf-8") as f:
+            f.write(summary + "\n")
 
       - name: commit files
         run: |
