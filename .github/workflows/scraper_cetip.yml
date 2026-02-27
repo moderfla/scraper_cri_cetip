@@ -22,6 +22,8 @@ jobs:
         run: bash scraper.sh
       - name: Instalar csv-diff
         run: pip install csv-diff
+      - name: Verificar colunas disponíveis
+        run: head -1 emissoes_cri.csv | tr ';' '\n'
       - name: Diff Arquivos
         run: csv-diff emissoes_cri-old.csv emissoes_cri.csv --key=1 > message.txt
       - name: commit files
