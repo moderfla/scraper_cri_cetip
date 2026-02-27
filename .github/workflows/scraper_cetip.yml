@@ -6,7 +6,7 @@ on:
       - .github/workflows/scraper_cetip.yml
   workflow_dispatch:
   schedule:
-    - cron: '5 8 * * *'   # roda todo dia às 08:05 UTC
+    - cron: '0 8 */2 * *'   # roda todo dia às 08:05 UTC
 
 jobs:
   build:
