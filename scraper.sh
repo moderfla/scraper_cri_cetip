@@ -11,7 +11,7 @@ trap "rm -f $TEMP_FILE" EXIT
 echo "Fazendo requisição para API da B3..."
 
 # Fazer download com verificação de erro HTTP
-HTTP_CODE=$(curl -sSL -w "%{http_code}" \
+HTTP_CODE=$(curl -sSL --compressed -w "%{http_code}" \
     -H "Accept: application/octet-stream" \
     -H "Content-Type: application/json" \
     -H "Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7" \
