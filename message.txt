@@ -1,2 +1,28 @@
-CRI: +0 adicionados, -0 removidos, ~0 alterados
+CRI: +2 adicionados, -10 removidos, ~3 alterados
+
+Linhas adicionadas (Código):
+  - 26B3803595
+  - 26B4696438
+
+Linhas removidas (Código):
+  - 21H0284007
+  - 21K0952737
+  - 22F1195714
+  - 22F1195716
+  - 22F1195721
+  - 22F1195735
+  - 22F1195743
+  - 22F1195760
+  - 23B0005202
+  - 24A2983450
+
+Linhas alteradas (campo a campo):
+  Código: 19L0928585
+    Data de Vencimento: "06000%" => "50000%"
+
+  Código: 23C0315384
+    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "OLIVEIRA TRUST DTVM SA"
+
+  Código: 23C0316012
+    Agente Fiduciário: "H. COMMCOR DTVM LTDA" => "OLIVEIRA TRUST DTVM SA"
 
