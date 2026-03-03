@@ -1,260 +1,80 @@
 {
-  "summary": "CRI: +2 adicionados, -10 removidos, ~3 alterados",
+  "summary": "CRI: +4 adicionados, -0 removidos, ~0 alterados",
   "added": [
     {
-      "Código": "26B3803595",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "581",
-      "N° da série": "1",
-      "Qtd Emitida": "25.000",
-      "Volume Emissão": "25.000.000",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
-      "Data Final de Distribuição": "35000%",
-      "ISIN": "19/02/2026",
-      "null": [
-        "17/02/2031",
-        "25/08/2026",
-        "BRRBRACIR226"
-      ]
-    },
-    {
-      "Código": "26B4696438",
-      "Emissor": "CANAL COMPANHIA DE SECURITIZACAO",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "184",
-      "N° da série": "1",
-      "Qtd Emitida": "12.500",
-      "Volume Emissão": "12.500.000",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+3",
-      "Data Final de Distribuição": "50000%",
-      "ISIN": "25/02/2026",
-      "null": [
-        "22/08/2030",
-        "26/08/2026",
-        "BRCASCCRI7M8"
-      ]
-    }
-  ],
-  "removed": [
-    {
-      "Código": "21H0284007",
+      "Código": "24H5402886",
       "Emissor": "OPEA SECURITIZADORA S/A",
       "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "4",
-      "N° da série": "183",
-      "Qtd Emitida": "4.500",
-      "Volume Emissão": "4.500.000",
-      "Remuneração": "00",
-      "Data de Emissão": "IPCA+8",
-      "Data de Vencimento": "75000%",
-      "Data Final de Distribuição": "05/08/2021",
-      "ISIN": "20/08/2031",
-      "null": [
-        "05/02/2022",
-        "BRGAIACRI5P5"
-      ]
-    },
-    {
-      "Código": "21K0952737",
-      "Emissor": "VERT COMPANHIA  SECURITIZADORA",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "62",
-      "N° da série": "5",
-      "Qtd Emitida": "5.900.000",
-      "Volume Emissão": "5.900.000",
-      "Remuneração": "00",
-      "Data de Emissão": "IPCA+6",
-      "Data de Vencimento": "60000%",
-      "Data Final de Distribuição": "25/11/2021",
-      "ISIN": "22/07/2027",
-      "null": [
-        "25/05/2022",
-        "BRVERTCRI321"
-      ]
-    },
-    {
-      "Código": "22F1195714",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
-      "N° da série": "1",
-      "Qtd Emitida": "125.000",
-      "Volume Emissão": "125.000.000",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
-      "Data Final de Distribuição": "92000%",
-      "ISIN": "24/06/2022",
-      "null": [
-        "27/10/2031",
-        "20/12/2022",
-        "BRRBRACRICR0"
-      ]
-    },
-    {
-      "Código": "22F1195716",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
-      "N° da série": "2",
-      "Qtd Emitida": "150.000",
-      "Volume Emissão": "150.000.000",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
-      "Data Final de Distribuição": "92000%",
-      "ISIN": "24/06/2022",
-      "null": [
-        "27/06/2034",
-        "20/12/2022",
-        "BRRBRACRICS8"
-      ]
-    },
-    {
-      "Código": "22F1195721",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
+      "N° da Emissão": "319",
       "N° da série": "3",
-      "Qtd Emitida": "100.000",
-      "Volume Emissão": "100.000.000",
+      "Qtd Emitida": "11.078",
+      "Volume Emissão": "11.078.000",
       "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+1",
-      "Data Final de Distribuição": "50000%",
-      "ISIN": "24/06/2022",
+      "Data de Emissão": "INCC-DI+0",
+      "Data de Vencimento": "00010%",
+      "Data Final de Distribuição": "21/08/2024",
+      "ISIN": "27/08/2029",
       "null": [
-        "27/09/2029",
-        "20/12/2022",
-        "BRRBRACRICT6"
+        "21/08/2024",
+        "BRRBRACIR1Y1"
       ]
     },
     {
-      "Código": "22F1195735",
+      "Código": "24H5402887",
       "Emissor": "OPEA SECURITIZADORA S/A",
       "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
+      "N° da Emissão": "319",
       "N° da série": "4",
-      "Qtd Emitida": "100.000",
-      "Volume Emissão": "100.000.000",
+      "Qtd Emitida": "11.078",
+      "Volume Emissão": "11.078.000",
       "Remuneração": "00",
-      "Data de Emissão": "IPCA+7",
-      "Data de Vencimento": "72000%",
-      "Data Final de Distribuição": "24/06/2022",
-      "ISIN": "27/10/2032",
+      "Data de Emissão": "INCC-DI+0",
+      "Data de Vencimento": "00010%",
+      "Data Final de Distribuição": "21/08/2024",
+      "ISIN": "28/08/2029",
       "null": [
-        "20/12/2022",
-        "BRRBRACRICU4"
+        "21/08/2024",
+        "BRRBRACIR1Z8"
       ]
     },
     {
-      "Código": "22F1195743",
+      "Código": "24H5402888",
       "Emissor": "OPEA SECURITIZADORA S/A",
       "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
+      "N° da Emissão": "319",
       "N° da série": "5",
-      "Qtd Emitida": "150.000",
-      "Volume Emissão": "150.000.000",
+      "Qtd Emitida": "11.077",
+      "Volume Emissão": "11.077.000",
       "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
-      "Data Final de Distribuição": "75000%",
-      "ISIN": "24/06/2022",
+      "Data de Emissão": "INCC-DI+0",
+      "Data de Vencimento": "00010%",
+      "Data Final de Distribuição": "21/08/2024",
+      "ISIN": "29/08/2029",
       "null": [
-        "27/06/2034",
-        "20/12/2022",
-        "BRRBRACRICV2"
+        "21/08/2024",
+        "BRRBRACIR200"
       ]
     },
     {
-      "Código": "22F1195760",
-      "Emissor": "OPEA SECURITIZADORA S/A",
+      "Código": "26B4183560",
+      "Emissor": "LEVERAGE COMPANHIA SECURITIZADORA",
       "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "33",
-      "N° da série": "6",
-      "Qtd Emitida": "132.000",
-      "Volume Emissão": "132.000.000",
-      "Remuneração": "00",
-      "Data de Emissão": "IPCA+7",
-      "Data de Vencimento": "07890%",
-      "Data Final de Distribuição": "24/06/2022",
-      "ISIN": "28/07/2031",
-      "null": [
-        "20/12/2022",
-        "BRRBRACRICW0"
-      ]
-    },
-    {
-      "Código": "23B0005202",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "128",
+      "N° da Emissão": "55",
       "N° da série": "1",
-      "Qtd Emitida": "60.000",
-      "Volume Emissão": "60.000.000",
+      "Qtd Emitida": "44.000",
+      "Volume Emissão": "44.000.000",
       "Remuneração": "00",
       "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
+      "Data de Vencimento": "00%  DI+5",
       "Data Final de Distribuição": "00000%",
-      "ISIN": "14/02/2023",
+      "ISIN": "12/02/2026",
       "null": [
-        "20/02/2026",
-        "15/09/2023",
-        "BRAPCSCRIGN0"
-      ]
-    },
-    {
-      "Código": "24A2983450",
-      "Emissor": "VERT COMPANHIA  SECURITIZADORA",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "126",
-      "N° da série": "1",
-      "Qtd Emitida": "135.000",
-      "Volume Emissão": "135.000.000",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+2",
-      "Data Final de Distribuição": "60000%",
-      "ISIN": "31/01/2024",
-      "null": [
-        "09/02/2029",
-        "19/02/2024",
-        "BRVERTCRI7W2"
+        "22/02/2030",
+        "26/08/2026",
+        "BRLSECCRI466"
       ]
     }
   ],
-  "changed": [
-    {
-      "Código": "19L0928585",
-      "changes": {
-        "Data de Vencimento": {
-          "before": "06000%",
-          "after": "50000%"
-        }
-      }
-    },
-    {
-      "Código": "23C0315384",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "H. COMMCOR DTVM LTDA",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "23C0316012",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "H. COMMCOR DTVM LTDA",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    }
-  ]
+  "removed": [],
+  "changed": []
 }
