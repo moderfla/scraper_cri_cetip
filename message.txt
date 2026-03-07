@@ -1,84 +1,24 @@
-CRI: +4 adicionados, -5 removidos, ~18 alterados
+CRI: +3 adicionados, -1 removidos, ~3 alterados
 
 Linhas adicionadas (Código):
-  - 25K2509302
-  - 26B0022013
-  - 26B0022014
-  - 26B0022015
+  - 26B5127587
+  - 26B5127592
+  - 26C0014206
 
 Linhas removidas (Código):
-  - 21C0731381
-  - 22G0080614
-  - 22G0081374
-  - 22G0081402
-  - 22G0081407
+  - 22G0081414
 
 Linhas alteradas (campo a campo):
-  Código: 21H0001405
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+  Código: 20F0165468
+    Data de Emissão: "100" => ""
+    Data de Vencimento: "00%  IPCA+12" => "04/06/2020"
+    Data Final de Distribuição: "00000%" => "05/03/2026"
+    ISIN: "04/06/2020" => "01/12/2020"
+    None: "['05/03/2026', '01/12/2020', 'BROSECCRI0M5']" => "['BROSECCRI0M5']"
 
-  Código: 21H0012919
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
+  Código: 24L2173172
+    None: "['05/05/2026', '17/06/2025', 'BRRBRACR00J0']" => "['10/07/2026', '17/06/2025', 'BRRBRACR00J0']"
 
-  Código: 22B0512752
-    None: "['05/03/2026', '24/02/2024', 'BRPVSCCRI1E8']" => "['07/07/2026', '24/02/2024', 'BRPVSCCRI1E8']"
-
-  Código: 22D1163306
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 22F0658610
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 22F0667465
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 22J0978863
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 23C1221667
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 24H1943872
-    Qtd Emitida: "44.311" => "11.078"
-    Volume Emissão: "44.311.000" => "11.078.000"
-
-  Código: 24H2231336
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 24H2231337
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 24H2231338
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM S/A" => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 24H5402886
-    Data de Emissão: "INCC-DI+0" => "INCC-DI"
-    Data de Vencimento: "00010%" => "21/08/2024"
-    Data Final de Distribuição: "21/08/2024" => "27/08/2029"
-    ISIN: "27/08/2029" => "21/08/2024"
-    None: "['21/08/2024', 'BRRBRACIR1Y1']" => "['BRRBRACIR1Y1']"
-
-  Código: 24H5402887
-    Data de Emissão: "INCC-DI+0" => "INCC-DI"
-    Data de Vencimento: "00010%" => "21/08/2024"
-    Data Final de Distribuição: "21/08/2024" => "28/08/2029"
-    ISIN: "28/08/2029" => "21/08/2024"
-    None: "['21/08/2024', 'BRRBRACIR1Z8']" => "['BRRBRACIR1Z8']"
-
-  Código: 24H5402888
-    Data de Emissão: "INCC-DI+0" => "INCC-DI"
-    Data de Vencimento: "00010%" => "21/08/2024"
-    Data Final de Distribuição: "21/08/2024" => "29/08/2029"
-    ISIN: "29/08/2029" => "21/08/2024"
-    None: "['21/08/2024', 'BRRBRACIR200']" => "['BRRBRACIR200']"
-
-  Código: 24K2690551
-    Agente Fiduciário: "VORTX DTVM S.A." => "OLIVEIRA TRUST DTVM SA"
-
-  Código: 25K3286379
-    None: "['24/11/2028', '26/05/2026', '']" => "['24/11/2028', '26/05/2026', 'BRRBRACRIZG4']"
-
-  Código: 26A4858304
-    Data de Emissão: "IPCA+8" => "IPCA+10"
-    Data de Vencimento: "75000%" => "27000%"
+  Código: 24L2173333
+    None: "['05/05/2026', '17/06/2025', 'BRRBRACR00L6']" => "['10/07/2026', '17/06/2025', 'BRRBRACR00L6']"
 

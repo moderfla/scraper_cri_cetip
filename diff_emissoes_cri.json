@@ -1,164 +1,72 @@
 {
-  "summary": "CRI: +4 adicionados, -5 removidos, ~18 alterados",
+  "summary": "CRI: +3 adicionados, -1 removidos, ~3 alterados",
   "added": [
     {
-      "Código": "25K2509302",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "VORTX DTVM S.A.",
-      "N° da Emissão": "541",
-      "N° da série": "2",
-      "Qtd Emitida": "4.000",
-      "Volume Emissão": "4.000.000",
+      "Código": "26B5127587",
+      "Emissor": "VERT COMPANHIA  SECURITIZADORA",
+      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
+      "N° da Emissão": "170",
+      "N° da série": "1",
+      "Qtd Emitida": "45.648",
+      "Volume Emissão": "45.648.000",
       "Remuneração": "00",
       "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+5",
-      "Data Final de Distribuição": "00500%",
-      "ISIN": "22/12/2025",
+      "Data de Vencimento": "00%  DI+1",
+      "Data Final de Distribuição": "60000%",
+      "ISIN": "19/02/2026",
       "null": [
-        "20/12/2028",
+        "24/02/2038",
         "30/08/2026",
-        "BRRBRACRIZD1"
+        "BRVERTCRIDT0"
       ]
     },
     {
-      "Código": "26B0022013",
-      "Emissor": "RIZA SECURITIZADORA S.A.",
+      "Código": "26B5127592",
+      "Emissor": "VERT COMPANHIA  SECURITIZADORA",
       "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "305",
-      "N° da série": "1",
-      "Qtd Emitida": "99.769",
-      "Volume Emissão": "99.769.000",
-      "Remuneração": "00",
-      "Data de Emissão": "96",
-      "Data de Vencimento": "20% DI",
-      "Data Final de Distribuição": "15/02/2026",
-      "ISIN": "15/02/2033",
-      "null": [
-        "30/08/2026",
-        ""
-      ]
-    },
-    {
-      "Código": "26B0022014",
-      "Emissor": "RIZA SECURITIZADORA S.A.",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "305",
+      "N° da Emissão": "170",
       "N° da série": "2",
-      "Qtd Emitida": "288.385",
-      "Volume Emissão": "288.385.000",
+      "Qtd Emitida": "45.648",
+      "Volume Emissão": "45.648.000",
       "Remuneração": "00",
-      "Data de Emissão": "12",
-      "Data de Vencimento": "12770%",
-      "Data Final de Distribuição": "15/02/2026",
-      "ISIN": "15/02/2033",
+      "Data de Emissão": "100",
+      "Data de Vencimento": "00%  DI+1",
+      "Data Final de Distribuição": "70000%",
+      "ISIN": "19/02/2026",
       "null": [
+        "25/08/2038",
         "30/08/2026",
-        "BRIMWLCRIP78"
+        "BRVERTCRIDU8"
       ]
     },
     {
-      "Código": "26B0022015",
-      "Emissor": "RIZA SECURITIZADORA S.A.",
+      "Código": "26C0014206",
+      "Emissor": "BARI SECURITIZADORA S.A.",
       "Agente Fiduciário": "OLIVEIRA TRUST DTVM SA",
-      "N° da Emissão": "305",
-      "N° da série": "3",
-      "Qtd Emitida": "49.346",
-      "Volume Emissão": "49.346.000",
+      "N° da Emissão": "79",
+      "N° da série": "1",
+      "Qtd Emitida": "257.000.000",
+      "Volume Emissão": "257.000.000",
       "Remuneração": "00",
-      "Data de Emissão": "IPCA+6",
-      "Data de Vencimento": "69860%",
-      "Data Final de Distribuição": "15/02/2026",
-      "ISIN": "15/02/2036",
+      "Data de Emissão": "IPCA+8",
+      "Data de Vencimento": "52280%",
+      "Data Final de Distribuição": "05/03/2026",
+      "ISIN": "23/02/2046",
       "null": [
-        "30/08/2026",
-        "BRIMWLCRIP86"
+        "31/08/2026",
+        "BRASTECRI4U7"
       ]
     }
   ],
   "removed": [
     {
-      "Código": "21C0731381",
-      "Emissor": "HABITASEC SECURITIZADORA S/A",
-      "Agente Fiduciário": "PENTAGONO SA DTVM",
-      "N° da Emissão": "1",
-      "N° da série": "240",
-      "Qtd Emitida": "29.411",
-      "Volume Emissão": "29.411.000",
-      "Remuneração": "00",
-      "Data de Emissão": "IPCA+11",
-      "Data de Vencimento": "52000%",
-      "Data Final de Distribuição": "12/03/2021",
-      "ISIN": "25/02/2026",
-      "null": [
-        "11/03/2022",
-        "BRHBSCCRI635"
-      ]
-    },
-    {
-      "Código": "22G0080614",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM S/A",
-      "N° da Emissão": "53",
-      "N° da série": "6",
-      "Qtd Emitida": "9.584.551",
-      "Volume Emissão": "9.584.551",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+4",
-      "Data Final de Distribuição": "00000%",
-      "ISIN": "01/07/2022",
-      "null": [
-        "28/12/2026",
-        "04/01/2023",
-        "BRAPCSCRIDI7"
-      ]
-    },
-    {
-      "Código": "22G0081374",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM S/A",
-      "N° da Emissão": "53",
-      "N° da série": "7",
-      "Qtd Emitida": "8.551.703",
-      "Volume Emissão": "8.551.703",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+4",
-      "Data Final de Distribuição": "00000%",
-      "ISIN": "01/07/2022",
-      "null": [
-        "28/12/2026",
-        "04/01/2024",
-        "BRAPCSCRIDJ5"
-      ]
-    },
-    {
-      "Código": "22G0081402",
-      "Emissor": "OPEA SECURITIZADORA S/A",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM S/A",
-      "N° da Emissão": "53",
-      "N° da série": "8",
-      "Qtd Emitida": "8.551.703",
-      "Volume Emissão": "8.551.703",
-      "Remuneração": "00",
-      "Data de Emissão": "100",
-      "Data de Vencimento": "00%  DI+4",
-      "Data Final de Distribuição": "00000%",
-      "ISIN": "01/07/2022",
-      "null": [
-        "28/12/2026",
-        "27/12/2026",
-        "BRAPCSCRIDK3"
-      ]
-    },
-    {
-      "Código": "22G0081407",
+      "Código": "22G0081414",
       "Emissor": "TRUE  SECURITIZADORA S/A",
-      "Agente Fiduciário": "OLIVEIRA TRUST DTVM",
+      "Agente Fiduciário": "OLIVEIRA TRUST DTVM S/A",
       "N° da Emissão": "53",
-      "N° da série": "9",
-      "Qtd Emitida": "8.551.703",
-      "Volume Emissão": "8.551.703",
+      "N° da série": "10",
+      "Qtd Emitida": "17.103.406",
+      "Volume Emissão": "17.103.406",
       "Remuneração": "00",
       "Data de Emissão": "100",
       "Data de Vencimento": "00%  DI+4",
@@ -167,257 +75,73 @@
       "null": [
         "28/12/2026",
         "27/12/2026",
-        "BRAPCSCRIDL1"
+        "BRAPCSCRIDM9"
       ]
     }
   ],
   "changed": [
     {
-      "Código": "21H0001405",
+      "Código": "20F0165468",
       "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "21H0012919",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "22B0512752",
-      "changes": {
+        "Data de Emissão": {
+          "before": "100",
+          "after": ""
+        },
+        "Data de Vencimento": {
+          "before": "00%  IPCA+12",
+          "after": "04/06/2020"
+        },
+        "Data Final de Distribuição": {
+          "before": "00000%",
+          "after": "05/03/2026"
+        },
+        "ISIN": {
+          "before": "04/06/2020",
+          "after": "01/12/2020"
+        },
         "null": {
           "before": [
             "05/03/2026",
-            "24/02/2024",
-            "BRPVSCCRI1E8"
+            "01/12/2020",
+            "BROSECCRI0M5"
           ],
           "after": [
-            "07/07/2026",
-            "24/02/2024",
-            "BRPVSCCRI1E8"
+            "BROSECCRI0M5"
           ]
         }
       }
     },
     {
-      "Código": "22D1163306",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "22F0658610",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "22F0667465",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "22J0978863",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "23C1221667",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "24H1943872",
-      "changes": {
-        "Qtd Emitida": {
-          "before": "44.311",
-          "after": "11.078"
-        },
-        "Volume Emissão": {
-          "before": "44.311.000",
-          "after": "11.078.000"
-        }
-      }
-    },
-    {
-      "Código": "24H2231336",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "24H2231337",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "24H2231338",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "OLIVEIRA TRUST DTVM S/A",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "24H5402886",
-      "changes": {
-        "Data de Emissão": {
-          "before": "INCC-DI+0",
-          "after": "INCC-DI"
-        },
-        "Data de Vencimento": {
-          "before": "00010%",
-          "after": "21/08/2024"
-        },
-        "Data Final de Distribuição": {
-          "before": "21/08/2024",
-          "after": "27/08/2029"
-        },
-        "ISIN": {
-          "before": "27/08/2029",
-          "after": "21/08/2024"
-        },
-        "null": {
-          "before": [
-            "21/08/2024",
-            "BRRBRACIR1Y1"
-          ],
-          "after": [
-            "BRRBRACIR1Y1"
-          ]
-        }
-      }
-    },
-    {
-      "Código": "24H5402887",
-      "changes": {
-        "Data de Emissão": {
-          "before": "INCC-DI+0",
-          "after": "INCC-DI"
-        },
-        "Data de Vencimento": {
-          "before": "00010%",
-          "after": "21/08/2024"
-        },
-        "Data Final de Distribuição": {
-          "before": "21/08/2024",
-          "after": "28/08/2029"
-        },
-        "ISIN": {
-          "before": "28/08/2029",
-          "after": "21/08/2024"
-        },
-        "null": {
-          "before": [
-            "21/08/2024",
-            "BRRBRACIR1Z8"
-          ],
-          "after": [
-            "BRRBRACIR1Z8"
-          ]
-        }
-      }
-    },
-    {
-      "Código": "24H5402888",
-      "changes": {
-        "Data de Emissão": {
-          "before": "INCC-DI+0",
-          "after": "INCC-DI"
-        },
-        "Data de Vencimento": {
-          "before": "00010%",
-          "after": "21/08/2024"
-        },
-        "Data Final de Distribuição": {
-          "before": "21/08/2024",
-          "after": "29/08/2029"
-        },
-        "ISIN": {
-          "before": "29/08/2029",
-          "after": "21/08/2024"
-        },
-        "null": {
-          "before": [
-            "21/08/2024",
-            "BRRBRACIR200"
-          ],
-          "after": [
-            "BRRBRACIR200"
-          ]
-        }
-      }
-    },
-    {
-      "Código": "24K2690551",
-      "changes": {
-        "Agente Fiduciário": {
-          "before": "VORTX DTVM S.A.",
-          "after": "OLIVEIRA TRUST DTVM SA"
-        }
-      }
-    },
-    {
-      "Código": "25K3286379",
+      "Código": "24L2173172",
       "changes": {
         "null": {
           "before": [
-            "24/11/2028",
-            "26/05/2026",
-            ""
+            "05/05/2026",
+            "17/06/2025",
+            "BRRBRACR00J0"
           ],
           "after": [
-            "24/11/2028",
-            "26/05/2026",
-            "BRRBRACRIZG4"
+            "10/07/2026",
+            "17/06/2025",
+            "BRRBRACR00J0"
           ]
         }
       }
     },
     {
-      "Código": "26A4858304",
+      "Código": "24L2173333",
       "changes": {
-        "Data de Emissão": {
-          "before": "IPCA+8",
-          "after": "IPCA+10"
-        },
-        "Data de Vencimento": {
-          "before": "75000%",
-          "after": "27000%"
+        "null": {
+          "before": [
+            "05/05/2026",
+            "17/06/2025",
+            "BRRBRACR00L6"
+          ],
+          "after": [
+            "10/07/2026",
+            "17/06/2025",
+            "BRRBRACR00L6"
+          ]
         }
       }
     }
