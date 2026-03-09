@@ -1,24 +1,2 @@
-CRI: +3 adicionados, -1 removidos, ~3 alterados
-
-Linhas adicionadas (Código):
-  - 26B5127587
-  - 26B5127592
-  - 26C0014206
-
-Linhas removidas (Código):
-  - 22G0081414
-
-Linhas alteradas (campo a campo):
-  Código: 20F0165468
-    Data de Emissão: "100" => ""
-    Data de Vencimento: "00%  IPCA+12" => "04/06/2020"
-    Data Final de Distribuição: "00000%" => "05/03/2026"
-    ISIN: "04/06/2020" => "01/12/2020"
-    None: "['05/03/2026', '01/12/2020', 'BROSECCRI0M5']" => "['BROSECCRI0M5']"
-
-  Código: 24L2173172
-    None: "['05/05/2026', '17/06/2025', 'BRRBRACR00J0']" => "['10/07/2026', '17/06/2025', 'BRRBRACR00J0']"
-
-  Código: 24L2173333
-    None: "['05/05/2026', '17/06/2025', 'BRRBRACR00L6']" => "['10/07/2026', '17/06/2025', 'BRRBRACR00L6']"
+CRI: +0 adicionados, -0 removidos, ~0 alterados
 
