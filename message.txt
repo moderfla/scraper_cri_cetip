@@ -1,2 +1,15 @@
-CRI: +0 adicionados, -0 removidos, ~0 alterados
+CRI: +0 adicionados, -4 removidos, ~2 alterados
+
+Linhas removidas (Código):
+  - 12B0038617
+  - 23I1740417
+  - 23L1606321
+  - 23L1606337
+
+Linhas alteradas (campo a campo):
+  Código: 22L1465644
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM SA"
+
+  Código: 22L1469805
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM SA"
 
