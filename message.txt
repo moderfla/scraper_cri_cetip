@@ -1,15 +1,102 @@
-CRI: +0 adicionados, -4 removidos, ~2 alterados
+CRI: +12 adicionados, -7 removidos, ~25 alterados
+
+Linhas adicionadas (Código):
+  - 19A0744851
+  - 25F6912330
+  - 25I2422550
+  - 25I4989191
+  - 25I4989195
+  - 25K4059148
+  - 26C0433584
+  - 26C0434162
+  - 26C0434290
+  - 26C0434465
+  - 26C2473563
+  - 26C2673646
 
 Linhas removidas (Código):
-  - 12B0038617
-  - 23I1740417
-  - 23L1606321
-  - 23L1606337
+  - 13L0012032
+  - 18J0811182
+  - 18J0811268
+  - 21E0608916
+  - 22C0911889
+  - 24F1533576
+  - 25G5635591
 
 Linhas alteradas (campo a campo):
-  Código: 22L1465644
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM SA"
+  Código: 08C0013391
+    Agente Fiduciário: "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA." => "VORTX DTVM"
 
-  Código: 22L1469805
-    Agente Fiduciário: "OLIVEIRA TRUST DTVM" => "OLIVEIRA TRUST DTVM SA"
+  Código: 08C0013392
+    Agente Fiduciário: "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA." => "VORTX DTVM"
+
+  Código: 21A0772615
+    Data de Emissão: "IGP-M+10" => "IGP-M+12"
+    Data de Vencimento: "00000%" => "70000%"
+
+  Código: 22B0338247
+    ISIN: "20/04/2026" => "20/10/2026"
+
+  Código: 25F2808184
+    ISIN: "20/04/2026" => "20/10/2026"
+
+  Código: 25J3017471
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25J3035137
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25J3035163
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K0012206
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K0012207
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K1934018
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K2543702
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K3397285
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K3397629
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25K3400557
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L0014618
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L0014619
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L0950633
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L2191972
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L2192004
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L2909516
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L3373552
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L3723350
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 25L3758199
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
+
+  Código: 26A0073288
+    Agente Fiduciário: "OLIVEIRA TRUST DTVM SA" => "OLIVEIRA TRUST DTVM S/A"
 
